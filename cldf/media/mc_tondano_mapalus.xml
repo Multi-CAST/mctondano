@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="2101">
     <corpus c_name="tondano">
         <text t_name="mapalus" annotators="Timothy Brickell " speaker="TN04">
-            <file f_name="mc_tondano_mapalus" audio="mc_tondano_mapalus.wav" updated="2019-05-07">
+            <file f_name="mc_tondano_mapalus" audio="mc_tondano_mapalus.wav" updated="2020-05-01">
                 <unit uid="0001" start_time="5360" end_time="7620">
                     <utterance_id>tondano_mapalus_0001</utterance_id>
                     <utterance>waktu kumasi kureraapè</utterance>
@@ -428,7 +428,7 @@
                         <segment>
                             <gword>=mèy</gword>
                             <gloss>=1PL.EX.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>tuama</gword>
@@ -1412,7 +1412,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1644,7 +1644,7 @@
                         <segment>
                             <gword>tapè</gword>
                             <gloss>1SG.GEN</gloss>
-                            <graid>pro.1:poss</graid>
+                            <graid>nc_pro.1</graid>
                         </segment>
                         <segment>
                             <gword>nona</gword>
@@ -2085,7 +2085,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>esa</gword>
@@ -2489,7 +2489,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -2558,7 +2558,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -4251,7 +4251,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -4394,7 +4394,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -4570,7 +4570,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="2101">
     <corpus c_name="tondano">
         <text t_name="kiniar02" annotators="Timothy Brickell" speaker="TN03">
-            <file f_name="mc_tondano_kiniar02" audio="mc_tondano_kiniar02.wav" updated="2019-05-07">
+            <file f_name="mc_tondano_kiniar02" audio="mc_tondano_kiniar02.wav" updated="2020-05-01">
                 <unit uid="0001" start_time="4430" end_time="6720">
                     <utterance_id>tondano_kiniar02_0001</utterance_id>
                     <utterance>tabèa patuari</utterance>
@@ -122,12 +122,12 @@
                         <segment>
                             <gword>patuari</gword>
                             <gloss>nuclear.family</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>=ta</gword>
                             <gloss>=1PL.IN.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
@@ -407,7 +407,7 @@
                         <segment>
                             <gword>=ta</gword>
                             <gloss>=1PL.IN.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>Tim</gword>
@@ -593,7 +593,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1526,7 +1526,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1597,7 +1597,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -7805,7 +7805,7 @@
                         <segment>
                             <gword>tow</gword>
                             <gloss>person</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>Minahasa</gword>
@@ -7916,7 +7916,7 @@
                         <segment>
                             <gword>=ta</gword>
                             <gloss>=1PL.IN.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>

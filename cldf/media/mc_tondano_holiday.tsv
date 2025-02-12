@@ -5,14 +5,14 @@ tondano	holiday	0001	puyun	grandchild	nc	nc
 tondano	holiday	0001	=ku	=1SG.GEN	nc	nc				
 tondano	holiday	0001	sè=	AN.PL=	=ln	=ln				
 tondano	holiday	0001	urang	child	np.h:dt_s	np	h	dt_s		
-tondano	holiday	0001	=ku	=1.SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0001	=ku	=1.SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	holiday	0001	sèa	3PL	pro.h:s	pro	h	s		
 tondano	holiday	0001	waki	PREP3	adp	adp				
 tondano	holiday	0001	Brisbane	PN	np:pred_l	np		pred_l		
 tondano	holiday	0002	#	#	##	##				
 tondano	holiday	0002	si=	AN.SG=	=ln	=ln				
 tondano	holiday	0002	puyun	child	np.h:dt_s	np	h	dt_s		
-tondano	holiday	0002	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0002	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	holiday	0002	esa	one	rn	rn				
 tondano	holiday	0002	si=	3SG.NOM=	=pro.h:s	=pro	h	s		
 tondano	holiday	0002	waki	PREP3	adp	adp				
@@ -33,7 +33,7 @@ tondano	holiday	0005	=la	=DIR.PROX	=rv	=rv
 tondano	holiday	0006	#	#	##	##				
 tondano	holiday	0006	N=	INAN=	=ln	=ln				
 tondano	holiday	0006	pa-ana'-an	DYN-stay-LV	np:s	np		s		
-tondano	holiday	0006	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	holiday	0006	=nèa	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
 tondano	holiday	0007	ee	HES	nc	nc				
 tondano	holiday	0007	N=	INAN=	=ln	=ln				
 tondano	holiday	0007	kampung	quarter	np:pred	np		pred		
@@ -146,7 +146,7 @@ tondano	holiday	0026	walè	house	np:l	np		l
 tondano	holiday	0027	#	#	##	##				
 tondano	holiday	0027	si=	AN.SG=	=ln	=ln				
 tondano	holiday	0027	urang	child	np.h:s	np	h	s		
-tondano	holiday	0027	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0027	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	holiday	0027	waki	PREP3	adp	adp				
 tondano	holiday	0027	Brisbane	PN	np:pred_l	np		pred_l		
 tondano	holiday	0028	#	#	##	##				
@@ -165,7 +165,7 @@ tondano	holiday	0030	kantor	office	np:l	np		l
 tondano	holiday	0030	#	#	##	##				
 tondano	holiday	0030	si=	AN.SG=	=ln	=ln				
 tondano	holiday	0030	urang	child	np.h:s	np	h	s		
-tondano	holiday	0030	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0030	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	holiday	0030	wewènè	woman	rn_np.h	rn_np	h			
 tondano	holiday	0031	ma-	AV.DYN	nc	nc				
 tondano	holiday	0032	therapy	HES	nc	nc				
@@ -209,7 +209,7 @@ tondano	holiday	0039	#	#	##	##
 tondano	holiday	0039	ya	AFF	nc	nc				
 tondano	holiday	0039	N=	INAN=	=ln	=ln				
 tondano	holiday	0039	waya	all	other	other				
-tondano	holiday	0039	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	holiday	0039	=nèa	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
 tondano	holiday	0039	sè=	3PL=	=pro.h:dt	=pro	h	dt		
 tondano	holiday	0039	wewèan	EXIST	other:predex	other		predex		
 tondano	holiday	0039	waya	all	rn	rn				
@@ -259,7 +259,7 @@ tondano	holiday	0047	#	#	##	##
 tondano	holiday	0047	mèmang	truly	other	other				
 tondano	holiday	0047	N=	INAN=	=ln	=ln				
 tondano	holiday	0047	paspor	passport	np:s	np		s		
-tondano	holiday	0047	=mèy	=1PL.EX.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0047	=mèy	=1PL.EX.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	holiday	0047	<im>èy	<AV.PST>come	v:pred	v		pred		
 tondano	holiday	0047	=itè	=LIM	=rv	=rv				
 tondano	holiday	0047	i-ka'ayo	CV-POT-arrive	adp	adp				
@@ -275,7 +275,7 @@ tondano	holiday	0049	=la	=DIR.PROX	=rv	=rv
 tondano	holiday	0049	ni	HES	nc	nc				
 tondano	holiday	0049	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	holiday	0049	apmit	spouse	np.h:a_u_ds	np	h	a_u_ds		
-tondano	holiday	0049	=na	=3SG.GEN	=pro.h:poss	=pro	h	poss		
+tondano	holiday	0049	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
 tondano	holiday	0049	#	#	#ds	#ds				
 tondano	holiday	0049	N=	INAN=	=other	=other				
 tondano	holiday	0049	rèy'	don't	neg	neg				
@@ -507,10 +507,10 @@ tondano	holiday	0078	satu	one	ln	ln
 tondano	holiday	0078	minggu	week	np:s	np		s		
 tondano	holiday	0079	#	#	#ac	#ac				
 tondano	holiday	0079	soal	issue	other	other				
-tondano	holiday	0079	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	holiday	0079	=nya	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	holiday	0080	si=	AN.SG=	=ln	=ln				
 tondano	holiday	0080	urang	child	np.h:s	np	h	s		
-tondano	holiday	0080	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0080	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	holiday	0080	waki	PREP3	adp	adp				
 tondano	holiday	0080	Brisbane	PN	np:pred_l	np		pred_l		
 tondano	holiday	0081	#	#	##	##				
@@ -576,7 +576,7 @@ tondano	holiday	0090	bulè	whitey	rn	rn
 tondano	holiday	0090	mana	there	other	other				
 tondano	holiday	0091	#	#	##	##				
 tondano	holiday	0091	pokok	primary	other	other				
-tondano	holiday	0091	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	holiday	0091	=nya	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	holiday	0091	ZERO	ZERO	0.h:a_a	0	h	a_a		
 tondano	holiday	0091	m<in>a	AV.DYN-PST	v:pred	v		pred		
 tondano	holiday	0092	rupa-rupa	RDP-type	rv	rv				
@@ -605,7 +605,7 @@ tondano	holiday	0094	i-lila'	CV-tongue	v:pred	v		pred
 tondano	holiday	0094	=la	=DIR.PROX	=rv	=rv				
 tondano	holiday	0094	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	holiday	0094	urang	child	np.h:a_u_ds	np	h	a_u_ds		
-tondano	holiday	0094	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0094	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	holiday	0094	#	#	#ds	#ds				
 tondano	holiday	0094	sa	if	other	other				
 tondano	holiday	0094	ko=	2SG.NOM=	=pro.2:s	=pro	2	s		

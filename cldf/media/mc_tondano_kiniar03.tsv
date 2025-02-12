@@ -8,8 +8,8 @@ tondano	kiniar03	0001	N=	INAN=	=ln	=ln
 tondano	kiniar03	0002	ee	HES	nc	nc				
 tondano	kiniar03	0002	r<in>ekam-en	<PST>record-PV	np:p_a	np		p_a		
 tondano	kiniar03	0002	ni=	AN.SG.GEN=	=rn	=rn				
-tondano	kiniar03	0002	patuari	nuclear.family	rn_np:poss	rn_np		poss		
-tondano	kiniar03	0002	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	kiniar03	0002	patuari	nuclear.family	rn_np.h:poss	rn_np	h	poss		
+tondano	kiniar03	0002	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	kiniar03	0002	Tim	PN	np.h:appos	np	h	appos		
 tondano	kiniar03	0003	waki	PREP3	adp	adp				
 tondano	kiniar03	0003	Lolah	PN	np:l	np		l		
@@ -41,7 +41,7 @@ tondano	kiniar03	0010	ZERO	ZERO	0.h:a_u	0	h	a_u
 tondano	kiniar03	0010	kangkasi	also	other	other				
 tondano	kiniar03	0010	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0010	pilapila	wing	np:p_u	np		p_u		
-tondano	kiniar03	0010	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	kiniar03	0010	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	kiniar03	0010	#	#	#nc	#nc				
 tondano	kiniar03	0010	ta'an	however	nc	nc				
 tondano	kiniar03	0010	musti	AUX.must	nc	nc				
@@ -201,7 +201,7 @@ tondano	kiniar03	0035	ma-ketot	EV.STAT-urine	v:pred	v		pred
 tondano	kiniar03	0035	mana	PREP2	adp	adp				
 tondano	kiniar03	0035	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0035	kokong	head	np:g	np		g		
-tondano	kiniar03	0035	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	kiniar03	0035	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	kiniar03	0035	#	#	##	##				
 tondano	kiniar03	0035	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0035	pa-ketot-an	DYN-urine-LV	v:pred	v		pred		
@@ -456,7 +456,7 @@ tondano	kiniar03	0077	wewèan	EXIST	other:predex	other		predex
 tondano	kiniar03	0077	santang	coconut.milk	np:s	np		s		
 tondano	kiniar03	0078	#	#	##	##				
 tondano	kiniar03	0078	kokong	head	np:p_u	np		p_u		
-tondano	kiniar03	0078	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	kiniar03	0078	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	kiniar03	0078	santang	coconut.milk	rn	rn				
 tondano	kiniar03	0078	mèmang	truly	other	other				
 tondano	kiniar03	0079	pa-tapis-en	DYN-filter-PV	v:pred	v		pred		

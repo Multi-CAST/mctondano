@@ -259,7 +259,7 @@ tondano	kiniar01	0037	ZERO	ZERO	0.1:a_u	0	1	a_u
 tondano	kiniar01	0037	=pè'	=INCMP	=rv	=rv				
 tondano	kiniar01	0037	N=	INAN=	=ln	=ln				
 tondano	kiniar01	0037	gio	face	np:p_u	np		p_u		
-tondano	kiniar01	0037	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	kiniar01	0037	=nèa	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
 tondano	kiniar01	0038	#	#	##	##				
 tondano	kiniar01	0038	pemitanta	NC	nc	nc				
 tondano	kiniar01	0038	pa-ketor-en	DYN-slice-PV	v:pred	v		pred		
@@ -382,7 +382,7 @@ tondano	kiniar01	0052	#	#	##	##
 tondano	kiniar01	0052	pa-Ce-lemè-an	DYN-IRR-tender-LV	v:pred	v		pred		
 tondano	kiniar01	0052	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar01	0052	daging	meat	np:p_u	np		p_u		
-tondano	kiniar01	0052	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	kiniar01	0052	=nèa	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
 tondano	kiniar01	0053	#	#	##	##				
 tondano	kiniar01	0053	e	HES	nc	nc				
 tondano	kiniar01	0053	si=	3SG.NOM=	=pro.h:a_a	=pro	h	a_a		
@@ -630,7 +630,7 @@ tondano	kiniar01	0094	itu	DEM2	pro:dt_s	pro		dt_s
 tondano	kiniar01	0094	lemè'	tender	other:pred	other		pred		
 tondano	kiniar01	0094	=mow	=CMP	=rv	=rv				
 tondano	kiniar01	0094	daging	meat	np:s	np		s		
-tondano	kiniar01	0094	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	kiniar01	0094	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	kiniar01	0095	#	#	##	##				
 tondano	kiniar01	0095	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar01	0095	<in>angkat-en	<PST>remove-PV	v:pred	v		pred		
@@ -665,7 +665,7 @@ tondano	kiniar01	0097	gorèng-en	fry-PV	v:pred	v		pred
 tondano	kiniar01	0097	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar01	0097	=mow	=CMP	=rv	=rv				
 tondano	kiniar01	0097	bumbu	spice	np:p_u	np		p_u		
-tondano	kiniar01	0097	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	kiniar01	0097	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	kiniar01	0098	#	#	##	##				
 tondano	kiniar01	0098	pa-wèè-an	DYN-give-LV	v:pred	v		pred		
 tondano	kiniar01	0098	ZERO	ZERO	0.h:a_u	0	h	a_u		
@@ -817,7 +817,7 @@ tondano	kiniar01	0123	=mow	=CMP	=rv	=rv
 tondano	kiniar01	0123	kapala	head	ln_np	ln_np				
 tondano	kiniar01	0123	santan	coconut.milk	ln_np	ln_np				
 tondano	kiniar01	0124	kokong	head	np:p_u	np		p_u		
-tondano	kiniar01	0124	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	kiniar01	0124	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	kiniar01	0124	santan	coconut.milk	rn_np:poss	rn_np		poss		
 tondano	kiniar01	0125	#	#	##	##				
 tondano	kiniar01	0125	o	PART	nc	nc				

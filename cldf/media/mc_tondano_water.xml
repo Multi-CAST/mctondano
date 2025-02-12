@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="2101">
     <corpus c_name="tondano">
         <text t_name="water" annotators="Timothy Brickell " speaker="TN05">
-            <file f_name="mc_tondano_water" audio="mc_tondano_water.wav" updated="2019-05-07">
+            <file f_name="mc_tondano_water" audio="mc_tondano_water.wav" updated="2020-05-01">
                 <unit uid="0001" start_time="8730" end_time="10030">
                     <utterance_id>tondano_water_0001</utterance_id>
                     <utterance>o, watè</utterance>
@@ -1033,7 +1033,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>tampa</gword>
@@ -1043,7 +1043,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1109,7 +1109,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1518,7 +1518,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1572,7 +1572,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
@@ -3327,7 +3327,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>=itè</gword>
@@ -3376,7 +3376,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>=itè</gword>
@@ -3666,7 +3666,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -3688,7 +3688,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -3710,7 +3710,7 @@
                         <segment>
                             <gword>=nya</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>sèa</gword>

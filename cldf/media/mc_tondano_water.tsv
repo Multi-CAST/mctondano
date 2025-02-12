@@ -153,9 +153,9 @@ tondano	water	0036	pa-siwo-en	DYN-do-PV	v:pred	v		pred
 tondano	water	0036	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	water	0036	itu	DEM2	pro:p_u	pro		p_u		
 tondano	water	0037	lobang	hole	np:dt_p_u	np		dt_p_u		
-tondano	water	0037	=nèa	=3PL.GEN	=pro:poss	=pro		poss		
+tondano	water	0037	=nèa	=3PL.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0037	tampa	place	np:dt_p_u	np		dt_p_u		
-tondano	water	0037	=nèa	=3PL.GEN	=pro:poss	=pro		poss		
+tondano	water	0037	=nèa	=3PL.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0038	aa	HES	nc	nc				
 tondano	water	0039	#	#	##	##				
 tondano	water	0039	pati'	axe	ln_np	ln_np				
@@ -164,7 +164,7 @@ tondano	water	0039	pepatil	machete	np:a_a	np		a_a
 tondano	water	0039	toro	AUX.can	aux	aux				
 tondano	water	0040	s<um>iwo	<AV>do	v:pred	v		pred		
 tondano	water	0040	lobang	hole	np:p_a	np		p_a		
-tondano	water	0040	=nèa	=3PL.GEN	=pro:poss	=pro		poss		
+tondano	water	0040	=nèa	=3PL.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0041	#	#	##	##				
 tondano	water	0041	aa	HES	nc	nc				
 tondano	water	0041	ZERO	ZERO	0:p_u	0		p_u		
@@ -229,7 +229,7 @@ tondano	water	0052	rèy'	not	neg	neg
 tondano	water	0052	wu'ul	rotten	other:pred	other		pred		
 tondano	water	0052	N=	INAN=	=ln	=ln				
 tondano	water	0052	akel	sugar.palm.tree	np:s	np		s		
-tondano	water	0052	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0052	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0053	#	#	##	##				
 tondano	water	0053	aa	HES	nc	nc				
 tondano	water	0053	tanu	like	other	other				
@@ -237,7 +237,7 @@ tondano	water	0053	N=	INAN=	=ln	=ln
 tondano	water	0053	ye'i	DEM1	pro:other	pro		other		
 tondano	water	0054	N=	INAN=	=ln	=ln				
 tondano	water	0054	akel	sugar.palm.tree	np:dt_s	np		dt_s		
-tondano	water	0054	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0054	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0054	N=	3SG.NOM=	=pro:s	=pro		s		
 tondano	water	0054	wu'ul	rotten	other:pred	other		pred		
 tondano	water	0054	#	#	#ac	#ac				
@@ -525,14 +525,14 @@ tondano	water	0099	#	#	##	##
 tondano	water	0099	ta'an	however	other	other				
 tondano	water	0099	ni'tu	DEM2	pro:s	pro		s		
 tondano	water	0099	Ce-pa'ayang-en	NR-work-PV	np:pred	np		pred		
-tondano	water	0099	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0099	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0099	=itè	=LIM	=rn	=rn				
 tondano	water	0100	#	#	##	##				
 tondano	water	0100	tanu	like	other	other				
 tondano	water	0100	mm	HES	nc	nc				
 tondano	water	0101	ZERO	ZERO	0:s	0		s		
 tondano	water	0101	Ce-pa'ayang-en	NR-work-PV	np:pred	np		pred		
-tondano	water	0101	=nèa	=3PL.GEN	=pro:poss	=pro		poss		
+tondano	water	0101	=nèa	=3PL.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0101	=itè	=LIM	=rn	=rn				
 tondano	water	0102	#	#	#nc	#nc				
 tondano	water	0102	aa	HES	nc	nc				
@@ -576,13 +576,13 @@ tondano	water	0111	#	#	##	##
 tondano	water	0111	wewèan	EXIST	other:predex	other		predex		
 tondano	water	0111	ee	HES	nc	nc				
 tondano	water	0111	sapa	what	ln_np	ln_np				
-tondano	water	0111	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0111	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0112	N=	INAN=	=ln	=ln				
 tondano	water	0112	sayap	wing	np:s	np		s		
-tondano	water	0112	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0112	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0113	#	#	#ac	#ac				
 tondano	water	0113	soal	issue	other	other				
-tondano	water	0113	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0113	=nya	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	water	0113	sèa	3SG.	pro:s	pro		s		
 tondano	water	0114	ma-tèwèl	AV.DYN-wing	v:pred	v		pred		
 tondano	water	0114	#	#	##	##				

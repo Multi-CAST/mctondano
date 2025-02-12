@@ -67,7 +67,7 @@ tondano	mapalus	0012	talun	forest	np:l	np		l
 tondano	mapalus	0012	waya	all	ln	ln				
 tondano	mapalus	0012	sè=	AN.PL=	=ln	=ln				
 tondano	mapalus	0012	ka'ampit	friend	np.h:dt_s	np	h	dt_s		
-tondano	mapalus	0012	=mèy	=1PL.EX.GEN	=pro.1:poss	=pro	1	poss		
+tondano	mapalus	0012	=mèy	=1PL.EX.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	mapalus	0012	tuama	man	rn_np.h	rn_np	h			
 tondano	mapalus	0013	#	#	##	##				
 tondano	mapalus	0013	ZERO	ZERO	0.h:s	0	h	s		
@@ -226,7 +226,7 @@ tondano	mapalus	0039	k<in>a-liur-an	STAT.PST-know-LV	v:pred	v		pred
 tondano	mapalus	0039	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
 tondano	mapalus	0039	=mow	=CMP	=rv	=rv				
 tondano	mapalus	0039	ngaran	name	np:p_u	np		p_u		
-tondano	mapalus	0039	=na	=3SG.GEN	=pro.h:poss	=pro	h	poss		
+tondano	mapalus	0039	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
 tondano	mapalus	0040	#	#	##	##				
 tondano	mapalus	0040	ZERO	ZERO	0.1:p_u	0	1	p_u		
 tondano	mapalus	0040	peN-ki'it-ki'it-en	DYN-RDP-follow-PV	v:pred	v		pred		
@@ -264,7 +264,7 @@ tondano	mapalus	0044	=la	=DIR.PROX	=rv	=rv
 tondano	mapalus	0045	#	#	##	##				
 tondano	mapalus	0045	ada	EXIST	other:predex	other		predex		
 tondano	mapalus	0045	situ	there	other	other				
-tondano	mapalus	0045	tapè	1SG.GEN	pro.1:poss	pro	1	poss		
+tondano	mapalus	0045	tapè	1SG.GEN	nc_pro.1	nc_pro	1			
 tondano	mapalus	0045	nona	young.woman	np.h:s	np	h	s		
 tondano	mapalus	0046	he he	he.he	nc	nc				
 tondano	mapalus	0047	#	#	##	##				
@@ -334,7 +334,7 @@ tondano	mapalus	0058	<um>èa	<AV>go	v:pred	v		pred
 tondano	mapalus	0058	waki	PREP3	adp	adp				
 tondano	mapalus	0058	sè=	AN.PL=	=ln	=ln				
 tondano	mapalus	0058	tanta	aunt	np.h:g	np	h	g		
-tondano	mapalus	0058	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	mapalus	0058	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	mapalus	0058	esa	one	rn	rn				
 tondano	mapalus	0059	#	#	##	##				
 tondano	mapalus	0059	ZERO	ZERO	0.1:s	0	1	s		
@@ -405,7 +405,7 @@ tondano	mapalus	0065	=ku	=1SG.GEN	=ln_pro.1:poss	=ln_pro	1	poss
 tondano	mapalus	0065	wo	and	ln	ln				
 tondano	mapalus	0065	si=	AN.SG=	=ln	=ln				
 tondano	mapalus	0065	papa	father	np.h:p_u	np	h	p_u		
-tondano	mapalus	0065	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	mapalus	0065	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	mapalus	0066	#	#	##	##				
 tondano	mapalus	0066	wisa	where	other:pred	other		pred		
 tondano	mapalus	0066	=kè	=EPIS	=other	=other				
@@ -416,7 +416,7 @@ tondano	mapalus	0067	ZERO	ZERO	0.h:p_u	0	h	p_u
 tondano	mapalus	0067	i-lila'	CV-tongue	v:pred	v		pred		
 tondano	mapalus	0067	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	mapalus	0067	papa	father	np.h:a_u_ds	np	h	a_u_ds		
-tondano	mapalus	0067	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	mapalus	0067	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	mapalus	0067	#	#	#ds	#ds				
 tondano	mapalus	0067	ZERO	ZERO	0.h:s	0	h	s		
 tondano	mapalus	0067	<im>èa	<AV.PST>go	v:pred	v		pred		
@@ -700,7 +700,7 @@ tondano	mapalus	0106	itu	DEM2	pro:s	pro		s
 tondano	mapalus	0106	rèkèn	count	ln	ln				
 tondano	mapalus	0106	N=	INAN=	=ln	=ln				
 tondano	mapalus	0106	pengalaman	experience	np:pred	np		pred		
-tondano	mapalus	0106	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	mapalus	0106	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	mapalus	0107	#	#	##	##				
 tondano	mapalus	0107	ZERO	ZERO	0.1:a_a	0	1	a_a		
 tondano	mapalus	0107	ma-tulung	AV.DYN-help	v:pred	v		pred		
@@ -723,7 +723,7 @@ tondano	mapalus	0109	jadi	thus	other	other
 tondano	mapalus	0110	itu	DEM2	pro:s	pro		s		
 tondano	mapalus	0110	mèmang	truly	other	other				
 tondano	mapalus	0110	pengalaman	experience	np:pred	np		pred		
-tondano	mapalus	0110	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	mapalus	0110	=nèa	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
 tondano	mapalus	0111	#	#	#ac	#ac				
 tondano	mapalus	0111	ya	AFF	nc	nc				
 tondano	mapalus	0111	kiok	PART	nc	nc				
@@ -754,7 +754,7 @@ tondano	mapalus	0113	=la	=DIR.PROX	=rv	=rv
 tondano	mapalus	0113	wo	with	ln	ln				
 tondano	mapalus	0113	N=	INAN=	=ln	=ln				
 tondano	mapalus	0113	gunteng	scissor	np:obl	np		obl		
-tondano	mapalus	0113	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	mapalus	0113	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	mapalus	0113	#	#	##	##				
 tondano	mapalus	0113	ZERO	ZERO	0.h:a_a	0	h	a_a		
 tondano	mapalus	0113	ma-wingkung	AV.DYN-hoe.the.ground	v:pred	v		pred		

@@ -236,7 +236,7 @@ tondano	gulamera	0040	=mow	=CMP	=rv	=rv
 tondano	gulamera	0040	N=	INAN=	=ln	=ln				
 tondano	gulamera	0040	waya	all	ln	ln				
 tondano	gulamera	0040	unjung	tip	np:p_u	np		p_u		
-tondano	gulamera	0040	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	gulamera	0040	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	gulamera	0040	#	#	#ac.neg	#ac.neg				
 tondano	gulamera	0040	ka'a	because	other	other				
 tondano	gulamera	0040	N=	HES	nc	nc				
@@ -271,7 +271,7 @@ tondano	gulamera	0045	=mow	=CMP	=rv	=rv
 tondano	gulamera	0045	=itè	=LIM	=rv	=rv				
 tondano	gulamera	0045	N=	INAN=	=ln	=ln				
 tondano	gulamera	0045	pepatil	machete	np:p_a	np		p_a		
-tondano	gulamera	0045	=na	=3SG.GEN	=pro.h:poss	=pro	h	poss		
+tondano	gulamera	0045	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
 tondano	gulamera	0045	#	#	##	##				
 tondano	gulamera	0045	ZERO	ZERO	0.h:a_a	0	h	a_a		
 tondano	gulamera	0045	ma-row'	DYN.AV-far	v:pred	v		pred		
@@ -280,7 +280,7 @@ tondano	gulamera	0045	N=	INAN=	=ln	=ln
 tondano	gulamera	0045	waya	all	ln	ln				
 tondano	gulamera	0045	N=	INAN=	=ln	=ln				
 tondano	gulamera	0045	ujung	tip	np:p_a	np		p_a		
-tondano	gulamera	0045	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	gulamera	0045	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	gulamera	0046	#	#	##	##				
 tondano	gulamera	0046	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0046	pa-Ce-wè'wèl-en	DYN-IRR-tap-PV	v:pred	v		pred		
@@ -340,7 +340,7 @@ tondano	gulamera	0052	ZERO	ZERO	0.h:a_u	0	h	a_u
 tondano	gulamera	0052	witu	PREP2	adp	adp				
 tondano	gulamera	0052	N=	INAN=	=ln	=ln				
 tondano	gulamera	0052	ujung	tip	np:l	np		l		
-tondano	gulamera	0052	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	gulamera	0052	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	gulamera	0052	N=	INAN=	=ln	=ln				
 tondano	gulamera	0052	rèy'	not	other	other				
 tondano	gulamera	0052	=mow	=CMP	=other	=other				

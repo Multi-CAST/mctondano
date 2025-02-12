@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="2101">
     <corpus c_name="tondano">
         <text t_name="watulaney" annotators="Timothy Brickell" speaker="TN06">
-            <file f_name="mc_tondano_watulaney" audio="mc_tondano_watulaney.wav" updated="2019-05-08">
+            <file f_name="mc_tondano_watulaney" audio="mc_tondano_watulaney.wav" updated="2020-05-01">
                 <unit uid="0001" start_time="5888" end_time="6613">
                     <utterance_id>tondano_watulaney_0001</utterance_id>
                     <utterance>ee</utterance>
@@ -226,7 +226,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>mulai</gword>
@@ -344,7 +344,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>Sefli</gword>
@@ -558,7 +558,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>ma-sekola</gword>
@@ -637,7 +637,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>ka-laker</gword>
@@ -686,7 +686,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -821,7 +821,7 @@
                         <segment>
                             <gword>=nya</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -858,7 +858,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -902,7 +902,7 @@
                         <segment>
                             <gword>=mèy</gword>
                             <gloss>=1PL.EX.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1327,7 +1327,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>cinkè</gword>
@@ -1620,7 +1620,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
@@ -1682,7 +1682,7 @@
                         <segment>
                             <gword>=mèy</gword>
                             <gloss>=1PL.EX.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1704,7 +1704,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1760,7 +1760,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>ni'tu</gword>
@@ -1812,7 +1812,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
@@ -2047,7 +2047,7 @@
                         <segment>
                             <gword>=mèy</gword>
                             <gloss>=1PL.EX.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>Watulanèy</gword>
@@ -2116,7 +2116,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -2436,7 +2436,7 @@
                         <segment>
                             <gword>=nya</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
@@ -2637,7 +2637,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>cinkè'</gword>
@@ -2832,7 +2832,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>&lt;im&gt; warèng</gword>
@@ -3092,7 +3092,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -3213,7 +3213,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -3349,7 +3349,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>Fèren</gword>
@@ -3497,7 +3497,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>Liani</gword>
@@ -3802,7 +3802,7 @@
                         <segment>
                             <gword>=nya</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -4014,7 +4014,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>ma-sekola</gword>
@@ -4730,7 +4730,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -4784,7 +4784,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>=la</gword>
@@ -4804,7 +4804,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -4850,7 +4850,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -4943,7 +4943,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -4975,7 +4975,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>=mowkan</gword>
@@ -5014,7 +5014,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>ma-ana'</gword>
@@ -5054,7 +5054,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5100,7 +5100,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
@@ -5115,7 +5115,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5494,7 +5494,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>kasi</gword>
@@ -5829,7 +5829,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5905,7 +5905,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -5957,7 +5957,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -6061,7 +6061,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -6142,7 +6142,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -6187,7 +6187,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>tuama</gword>
@@ -6263,7 +6263,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>sèa</gword>
@@ -6334,7 +6334,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
@@ -6383,7 +6383,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>Gèrungan</gword>
@@ -6452,7 +6452,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -6548,7 +6548,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
@@ -6575,7 +6575,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -6786,7 +6786,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>waki</gword>
@@ -7689,7 +7689,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>ni'tu</gword>
@@ -7975,7 +7975,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
@@ -8078,7 +8078,7 @@
                         <segment>
                             <gword>=nya</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
@@ -8292,7 +8292,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
@@ -8675,7 +8675,7 @@
                         <segment>
                             <gword>=nya</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
@@ -8923,7 +8923,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>Watulanèy</gword>
@@ -9069,7 +9069,7 @@
                         <segment>
                             <gword>=mèy</gword>
                             <gloss>=1PL.EX.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
@@ -9350,7 +9350,7 @@
                         <segment>
                             <gword>=mèy</gword>
                             <gloss>=1PL.EX.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -9370,7 +9370,7 @@
                         <segment>
                             <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>waki</gword>
@@ -9390,7 +9390,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -9489,7 +9489,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -9595,7 +9595,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>ka-wangun</gword>
@@ -9724,7 +9724,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -9788,7 +9788,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -9906,7 +9906,7 @@
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>=la</gword>

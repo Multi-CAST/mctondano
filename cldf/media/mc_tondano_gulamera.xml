@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="2101">
     <corpus c_name="tondano">
         <text t_name="gulamera" annotators="Timothy Brickell" speaker="TN01">
-            <file f_name="mc_tondano_gulamera" audio="mc_tondano_gulamera.wav" updated="2019-05-07">
+            <file f_name="mc_tondano_gulamera" audio="mc_tondano_gulamera.wav" updated="2020-05-01">
                 <unit uid="0001" start_time="5210" end_time="8140">
                     <utterance_id>tondano_gulamera_0001</utterance_id>
                     <utterance>ketarètarè simèdo tabelang</utterance>
@@ -1469,7 +1469,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -1679,7 +1679,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -1724,7 +1724,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -2073,7 +2073,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>

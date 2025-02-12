@@ -17,8 +17,8 @@ tondano	kiniar02	0003	walè	house	np:pred_l	np		pred_l
 tondano	kiniar02	0003	ni=	AN.SG.GEN=	=rn	=rn				
 tondano	kiniar02	0003	patuari	nuclear.family	nc	nc				
 tondano	kiniar02	0004	ee	HES	nc	nc				
-tondano	kiniar02	0004	patuari	nuclear.family	rn_np:poss	rn_np		poss		
-tondano	kiniar02	0004	=ta	=1PL.IN.GEN	=pro.1:poss	=pro	1	poss		
+tondano	kiniar02	0004	patuari	nuclear.family	rn_np.h:poss	rn_np	h	poss		
+tondano	kiniar02	0004	=ta	=1PL.IN.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	kiniar02	0004	si=	AN.SG=	=rn	=rn				
 tondano	kiniar02	0004	Dèki	PN	rn_np.h	rn_np	h			
 tondano	kiniar02	0004	Tangkuman	PN	rn_np.h	rn_np	h			
@@ -60,7 +60,7 @@ tondano	kiniar02	0014	N=	3SG.NOM=	=pro:p_u	=pro		p_u
 tondano	kiniar02	0014	pa-perlu-en	DYN-require-PV	v:pred	v		pred		
 tondano	kiniar02	0014	ni=	AN.SG.GEN=	=rn	=rn				
 tondano	kiniar02	0014	kalo	PN	np.h:a_u	np	h	a_u		
-tondano	kiniar02	0014	=ta	=1PL.IN.GEN	=pro.1:poss	=pro	1	poss		
+tondano	kiniar02	0014	=ta	=1PL.IN.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	kiniar02	0014	Tim	PN	rn_np.h	rn_np	h			
 tondano	kiniar02	0014	waki	PREP3	rn	rn				
 tondano	kiniar02	0014	Melbourne	PN	rn_np	rn_np				
@@ -93,7 +93,7 @@ tondano	kiniar02	0017	#	#	##	##
 tondano	kiniar02	0017	pa-laa-en	DYN-go-PV	v:pred	v		pred		
 tondano	kiniar02	0017	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar02	0017	tampa	place	np:p_u	np		p_u		
-tondano	kiniar02	0017	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	kiniar02	0017	=nèa	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
 tondano	kiniar02	0018	#	#	#ac	#ac				
 tondano	kiniar02	0018	ka'a	because	other	other				
 tondano	kiniar02	0018	N=	INAN=	=ln	=ln				
@@ -246,7 +246,7 @@ tondano	kiniar02	0040	pa-èdo-an	DYN-take-LV	np:g	np		g
 tondano	kiniar02	0040	timpa'	palm.sugar.sap	rn_np	rn_np				
 tondano	kiniar02	0041	waki	PREP3	adp	adp				
 tondano	kiniar02	0041	pusu'	heart	np:g	np		g		
-tondano	kiniar02	0041	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	kiniar02	0041	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	kiniar02	0042	#	#	##	##				
 tondano	kiniar02	0042	sè=	3PL.NOM=	=pro.h:s	=pro	h	s		
 tondano	kiniar02	0042	ma-kawok	AV.DYN-rat	v:pred	v		pred		
@@ -256,7 +256,7 @@ tondano	kiniar02	0043	i-ka-ayo'	CV-POT-arrive	other	other
 tondano	kiniar02	0043	=mèè	=DIR.MED	=other	=other				
 tondano	kiniar02	0043	waki	PREP3	adp	adp				
 tondano	kiniar02	0044	pusu'	heart	np:l	np		l		
-tondano	kiniar02	0044	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	kiniar02	0044	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
 tondano	kiniar02	0044	#	#	##	##				
 tondano	kiniar02	0044	sia	3SG	pro.h:a_a	pro	h	a_a		
 tondano	kiniar02	0045	<um>èdo	<AV>take	v:pred	v		pred		
@@ -1289,7 +1289,7 @@ tondano	kiniar02	0193	akel	sugar.palm.tree	np:s	np		s
 tondano	kiniar02	0193	iti'i	DEM2	rn	rn				
 tondano	kiniar02	0193	ka-berguna	very-useful	other:pred	other		pred		
 tondano	kiniar02	0193	nè=	AN.PL.GEN=	=rn	=rn				
-tondano	kiniar02	0193	tow	person	rn_np:poss	rn_np		poss		
+tondano	kiniar02	0193	tow	person	rn_np.h:poss	rn_np	h	poss		
 tondano	kiniar02	0193	Minahasa	PN	rn_np	rn_np				
 tondano	kiniar02	0194	Tondano	PN	rn_np	rn_np				
 tondano	kiniar02	0195	nèy	HES	nc	nc				
@@ -1307,7 +1307,7 @@ tondano	kiniar02	0196	nèy	CV.PST	lv	lv
 tondano	kiniar02	0196	pa-ali	DYN-take	v:pred	v		pred		
 tondano	kiniar02	0196	nè=	AN.PL.GEN=	=ln	=ln				
 tondano	kiniar02	0196	patuari	nuclear.family	np:a_u	np		a_u		
-tondano	kiniar02	0196	=ta	=1PL.IN.GEN	=pro.1:poss	=pro	1	poss		
+tondano	kiniar02	0196	=ta	=1PL.IN.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 tondano	kiniar02	0196	si=	AN.SG=	=ln	=ln				
 tondano	kiniar02	0196	Tim	PN	rn_np.h	rn_np	h			
 tondano	kiniar02	0196	waki	PREP1	adp	adp				

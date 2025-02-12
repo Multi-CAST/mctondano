@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="2101">
     <corpus c_name="tondano">
         <text t_name="kiniar03" annotators="Timothy Brickell " speaker="TN03">
-            <file f_name="mc_tondano_kiniar03" audio="mc_tondano_kiniar03.wav" updated="2019-05-07">
+            <file f_name="mc_tondano_kiniar03" audio="mc_tondano_kiniar03.wav" updated="2020-05-01">
                 <unit uid="0001" start_time="1580" end_time="4580">
                     <utterance_id>tondano_kiniar03_0001</utterance_id>
                     <utterance>patuari waya niaku mesesusuila en</utterance>
@@ -63,12 +63,12 @@
                         <segment>
                             <gword>patuari</gword>
                             <gloss>nuclear.family</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>=ku</gword>
                             <gloss>=1SG.GEN</gloss>
-                            <graid>=pro.1:poss</graid>
+                            <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
                             <gword>Tim</gword>
@@ -284,7 +284,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -1259,7 +1259,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -2835,7 +2835,7 @@
                         <segment>
                             <gword>=na</gword>
                             <gloss>=3SG.GEN</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>santang</gword>
