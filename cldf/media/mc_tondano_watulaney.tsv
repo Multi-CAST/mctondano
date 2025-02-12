@@ -1,0 +1,1584 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+tondano	watulaney	0001	ee	HES	nc	nc				
+tondano	watulaney	0002	##	##	##	##				
+tondano	watulaney	0002	niaku	1SG	pro.1:s	pro	1	s		
+tondano	watulaney	0002	t<im>ou	<AV.PST>person	v:pred	v		pred		
+tondano	watulaney	0002	waki	PREP3	adp	adp				
+tondano	watulaney	0003	wanua	village	np:l	np		l		
+tondano	watulaney	0003	Watulanèy	PN	rn	rn				
+tondano	watulaney	0004	waki	PREP3	adp	adp				
+tondano	watulaney	0004	keluarga	family	np:obl	np		obl		
+tondano	watulaney	0005	Tulangi	PN	rn_np	rn_np				
+tondano	watulaney	0005	Korèngkèng	PN	rn_np	rn_np				
+tondano	watulaney	0006	##	##	##	##				
+tondano	watulaney	0006	ee	HES	nc	nc				
+tondano	watulaney	0007	niaku	1SG	pro.1:dt	pro	1	dt		
+tondano	watulaney	0007	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0008	kaka	older.sibling	np.h:s	np	h	s		
+tondano	watulaney	0008	telu	three	rn	rn				
+tondano	watulaney	0009	##	##	##	##				
+tondano	watulaney	0009	niaku	1SG	pro.1:s	pro	1	s		
+tondano	watulaney	0009	oki'	small	other:pred	other		pred		
+tondano	watulaney	0009	ka-epat	ORD-four	rn	rn				
+tondano	watulaney	0010	##	##	##	##				
+tondano	watulaney	0010	kèy=	1.PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	watulaney	0010	matuari	sibling	ln_np.h	ln_np	h			
+tondano	watulaney	0010	wewènè	woman	np:pred	np		pred		
+tondano	watulaney	0010	waya	all	rn	rn				
+tondano	watulaney	0011	##	##	##	##				
+tondano	watulaney	0011	ee	HES	nc	nc				
+tondano	watulaney	0011	ngaran	name	np:s	np		s		
+tondano	watulaney	0011	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0011	mulai	begin	other	other				
+tondano	watulaney	0012	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0012	ee	HES	nc	nc				
+tondano	watulaney	0013	oki'	small	other:pred	other		pred		
+tondano	watulaney	0013	ka-tarè	very-new	rn	rn				
+tondano	watulaney	0014	##	##	##	##				
+tondano	watulaney	0014	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0014	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0014	nona	miss	ln_np.h	ln_np	h			
+tondano	watulaney	0014	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0014	kèkè	maiden	ln_np.h	ln_np	h			
+tondano	watulaney	0014	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0014	èla	PN	ln_np.h	ln_np	h			
+tondano	watulaney	0014	maan	with	ln	ln				
+tondano	watulaney	0014	niaku	1SG	pro.1:s	pro	1	s		
+tondano	watulaney	0015	##	##	##	##				
+tondano	watulaney	0015	ngaran	name	np:s	np		s		
+tondano	watulaney	0015	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0015	Sefli	PN	np.h:pred	np	h	pred		
+tondano	watulaney	0015	Tulangi	PN	rn_np	rn_np				
+tondano	watulaney	0016	##	##	##	##				
+tondano	watulaney	0016	niaku	1SG	pro.1:s	pro	1	s		
+tondano	watulaney	0016	e	HES	nc	nc				
+tondano	watulaney	0017	s<im>ekola	<AV.PST>school	v:pred	v		pred		
+tondano	watulaney	0017	TK	primary.school	ln_np	ln_np				
+tondano	watulaney	0017	SD	junior.high.school	ln_np	ln_np				
+tondano	watulaney	0017	SMA	high school	np:l	np		l		
+tondano	watulaney	0017	aa	HES	nc	nc				
+tondano	watulaney	0018	##	##	##	##				
+tondano	watulaney	0018	niaku	1SG	pro.1:s	pro	1	s		
+tondano	watulaney	0019	k<um>awèng	<AV>marry	v:pred	v		pred		
+tondano	watulaney	0019	maan	with	adp	adp				
+tondano	watulaney	0019	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0020	tuama	man	np.h:obl	np	h	obl		
+tondano	watulaney	0020	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	watulaney	0020	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0020	maka- ngaran	AV.POT-name	v:pred	v		pred		
+tondano	watulaney	0020	Dèine	PN	np.h:p_a	np	h	p_a		
+tondano	watulaney	0020	Gèrungan	PN	rn_np	rn_np				
+tondano	watulaney	0021	##	##	##	##				
+tondano	watulaney	0021	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	watulaney	0021	maka-oki'	AV.POT- small	v:pred	v		pred		
+tondano	watulaney	0021	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0021	putri	daughter	np.h:p_a	np	h	p_a		
+tondano	watulaney	0021	Gèrungan	PN	rn_np	rn_np				
+tondano	watulaney	0022	##	##	##	##				
+tondano	watulaney	0022	ee	HES	nc	nc				
+tondano	watulaney	0022	ye'i	now	other	other				
+tondano	watulaney	0022	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0022	oki'	small	np.h:s	np	h	s		
+tondano	watulaney	0022	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0022	ma-sekola	AV.DYN-school	v:pred	v		pred		
+tondano	watulaney	0022	waki	PREP3	adp	adp				
+tondano	watulaney	0022	SMA	high.school	np:l	np		l		
+tondano	watulaney	0022	satu	one	rn	rn				
+tondano	watulaney	0022	Tondano	PN	rn_np	rn_np				
+tondano	watulaney	0023	e	HES	nc	nc				
+tondano	watulaney	0023	kelas	class	np:other	np		other		
+tondano	watulaney	0023	telu	three	rn	rn				
+tondano	watulaney	0024	##	##	##	##				
+tondano	watulaney	0024	ee	HES	nc	nc				
+tondano	watulaney	0024	waki	PREP3	adp	adp				
+tondano	watulaney	0024	wanua	village	np:l	np		l		
+tondano	watulaney	0024	=ku	=1SG.GEN	=pro.1.poss	=pro	1.poss			
+tondano	watulaney	0024	ka-laker	very-many	other:pred	other		pred		
+tondano	watulaney	0024	pa-tuari	nuclear.family	np:s	np		s		
+tondano	watulaney	0025	e	HES	nc	nc				
+tondano	watulaney	0026	##	##	##	##				
+tondano	watulaney	0026	e	HES	nc	nc				
+tondano	watulaney	0026	Ce-pa'ayang-en	NR-work-PV	np:s	np		s		
+tondano	watulaney	0026	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0027	e	HES	nc	nc				
+tondano	watulaney	0028	ka-laker	very-many	other:pred	other		pred		
+tondano	watulaney	0029	##	##	##	##				
+tondano	watulaney	0029	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0029	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0029	petani	farmer	np.h:s	np	h	s		
+tondano	watulaney	0030	##	##	##	##				
+tondano	watulaney	0030	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0030	#rc:s	#rc:s	#rc:s	#rc		s		
+tondano	watulaney	0030	sè=	3PL.REL=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0030	ma-wangker	AV.DYN-sell	v:pred	v		pred		
+tondano	watulaney	0030	##	##	##	##				
+tondano	watulaney	0030	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0030	#rc:s	#rc:s	#rc:s	#rc		s		
+tondano	watulaney	0030	sè=	3PL.REL=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0030	ma-pa'ayang	AV.DYN - work	v:pred	v		pred		
+tondano	watulaney	0030	kantor	office	np:obl	np		obl		
+tondano	watulaney	0031	##	##	##	##				
+tondano	watulaney	0031	pokok	primary	other	other				
+tondano	watulaney	0031	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0032	e	HES	nc	nc				
+tondano	watulaney	0032	ka-laker	very-many	other:pred	other		pred		
+tondano	watulaney	0032	karengan	definitely	other	other				
+tondano	watulaney	0032	e	HES	nc	nc				
+tondano	watulaney	0032	Ce-pa'ayangan	NR-work-LV	np:s	np		s		
+tondano	watulaney	0032	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0032	#ac	#ac	#ac	#ac				
+tondano	watulaney	0032	walau	although	other	other				
+tondano	watulaney	0033	em	HES	nc	nc				
+tondano	watulaney	0034	waki	PREP3	adp	adp				
+tondano	watulaney	0034	wanua	village	np:l	np		l		
+tondano	watulaney	0034	=mèy	=1PL.EX.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0035	e	HES	nc	nc				
+tondano	watulaney	0036	laker	many	other:pred	other		pred		
+tondano	watulaney	0036	karengan	definitely	ln	ln				
+tondano	watulaney	0036	#rc:s	#rc:s	#rc:s	#rc		s		
+tondano	watulaney	0036	sè=	3PL.REL=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0036	e	HES	nc	nc				
+tondano	watulaney	0036	ma-pa'ayang	AV.DYN - work	v:pred	v		pred		
+tondano	watulaney	0036	uma	fields	np:p_a	np		p_a		
+tondano	watulaney	0037	e	HES	nc	nc				
+tondano	watulaney	0038	##	##	##	##				
+tondano	watulaney	0038	uma	field	np:l	np		l		
+tondano	watulaney	0038	ni'tu	DEM2	rn	rn				
+tondano	watulaney	0039	sèa	3PL	pro.h:dt_a_a	pro	h	dt_a_a		
+tondano	watulaney	0039	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0039	ma-	HES	nc	nc				
+tondano	watulaney	0039	ma-tanem	AV.DYN-cultivate	v:pred	v		pred		
+tondano	watulaney	0039	se'ut	banana	ln_np	ln_np				
+tondano	watulaney	0039	cinkè	clove	ln_np	ln_np				
+tondano	watulaney	0040	marisa	chilli	np:p_a	np		p_a		
+tondano	watulaney	0041	##	##	##	##				
+tondano	watulaney	0041	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0041	ma-	HES	nc	nc				
+tondano	watulaney	0042	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	watulaney	0042	waki	PREP3	adp	adp				
+tondano	watulaney	0042	uma	fields	np:l	np		l		
+tondano	watulaney	0042	ni'tu	DEM2	rn	rn				
+tondano	watulaney	0043	##	##	##	##				
+tondano	watulaney	0043	#ac	#ac	#ac	#ac				
+tondano	watulaney	0043	sa	if	other	other				
+tondano	watulaney	0043	sèa	3PL	pro.h:a_a	pro	h	a_a		
+tondano	watulaney	0043	ma-tanem	AV.DYN-cultivate	v:pred	v		pred		
+tondano	watulaney	0043	cinkè'	cloves	np:p_a	np		p_a		
+tondano	watulaney	0043	%	%	%	%				
+tondano	watulaney	0043	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0043	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	watulaney	0043	mèmang	truly	rv	rv				
+tondano	watulaney	0043	ulit	RDP	rv	rv				
+tondano	watulaney	0043	ulit	correct	rv	rv				
+tondano	watulaney	0043	e	HES	nc	nc				
+tondano	watulaney	0044	#ac	#ac	#ac	#ac				
+tondano	watulaney	0044	supaya	so.that	other	other				
+tondano	watulaney	0044	e	HES	nc	nc				
+tondano	watulaney	0045	cinkè'	clove	np:s	np		s		
+tondano	watulaney	0045	ni'tu	DEM2	rn	rn				
+tondano	watulaney	0045	musti	must	aux	aux				
+tondano	watulaney	0045	ma-	HES	nc	nc				
+tondano	watulaney	0046	ma-wu'a	EV.STAT-fruit	v:pred	v		pred		
+tondano	watulaney	0046	laker	many	rv	rv				
+tondano	watulaney	0047	##	##	##	##				
+tondano	watulaney	0047	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0047	me-	HES	nc	nc				
+tondano	watulaney	0048	ma-weresi	AV.DYN-clean	v:pred	v		pred		
+tondano	watulaney	0048	cinkè'	clove	np:p_a	np		p_a		
+tondano	watulaney	0048	##	##	##	##				
+tondano	watulaney	0048	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0048	ma-	HES	nc	nc				
+tondano	watulaney	0048	ma-row'	AV.DYN-far	v:pred	v		pred		
+tondano	watulaney	0048	witek	larvae	np:p_a	np		p_a		
+tondano	watulaney	0048	waki	PREP3	adp	adp				
+tondano	watulaney	0049	e	HES	nc	nc				
+tondano	watulaney	0049	apa	what	nc	nc				
+tondano	watulaney	0049	waki	PREP3	adp	adp				
+tondano	watulaney	0049	po'ong	tree	np:obl	np		obl		
+tondano	watulaney	0049	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0049	cinkè	clove	rn_np	rn_np				
+tondano	watulaney	0050	##	##	##	##				
+tondano	watulaney	0050	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0050	ma-pupuk	AV.DYN-fertilizer	v:pred	v		pred		
+tondano	watulaney	0050	ZERO	ZERO	0:p_a	0		p_a		
+tondano	watulaney	0051	##	##	##	##				
+tondano	watulaney	0051	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0051	ma-wingkung	AV.DYN-hoe.the.ground	v:pred	v		pred		
+tondano	watulaney	0051	##	##	##	##				
+tondano	watulaney	0051	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0051	ma-	HES	nc	nc				
+tondano	watulaney	0052	ma-weresi-weresi	AV.DYN - RDP-clean	v:pred	v		pred		
+tondano	watulaney	0052	waya	all	ln	ln				
+tondano	watulaney	0053	po'ong	tree	np:p_a	np		p_a		
+tondano	watulaney	0053	cinkè	clove	rn_np	rn_np				
+tondano	watulaney	0053	ni'tu	DEM2	rn	rn				
+tondano	watulaney	0053	#ac	#ac	#ac	#ac				
+tondano	watulaney	0053	supaya	HES	nc	nc				
+tondano	watulaney	0053	supaya	so.that	other	other				
+tondano	watulaney	0053	po'ong	tree	np:s	np		s		
+tondano	watulaney	0053	ni'tu	DEM2	rn	rn				
+tondano	watulaney	0053	ma-wu'a	EV.STAT- fruit	v:pred	v		pred		
+tondano	watulaney	0053	laker	many	rv	rv				
+tondano	watulaney	0053	karengan	definitely	rv	rv				
+tondano	watulaney	0054	e	HES	nc	nc				
+tondano	watulaney	0055	#ac	#ac	#ac	#ac				
+tondano	watulaney	0055	sa	if	other	other				
+tondano	watulaney	0055	sia	3SG	pro.h:s	pro	h	s		
+tondano	watulaney	0055	s<im>ela	<AV.PST>big	v:pred	v		pred		
+tondano	watulaney	0055	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0055	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0055	cinkè	clove	np:dt_s	np		dt_s		
+tondano	watulaney	0055	##	##	##	##				
+tondano	watulaney	0055	sè=	HES	nc	nc				
+tondano	watulaney	0056	sè=	3PL.NOM=	pro:p_u=	pro		p_u=		
+tondano	watulaney	0056	musti	AUX.must	aux	aux				
+tondano	watulaney	0056	pa-row'-an	DYN-far-LV	v:pred	v		pred		
+tondano	watulaney	0056	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0056	witek	larvae	np:dt_p_u	np		dt_p_u		
+tondano	watulaney	0056	#ac	#ac	#ac	#ac				
+tondano	watulaney	0056	supaya	so.that	other	other				
+tondano	watulaney	0057	si=	3SG.NOM=	pro:s=	pro		s=		
+tondano	watulaney	0057	s<um>ela	<AV>big	v:pred	v		pred		
+tondano	watulaney	0058	##	##	##	##				
+tondano	watulaney	0058	po'ong	tree	np:dt_s	np		dt_s		
+tondano	watulaney	0058	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0058	si=	3SG.NOM=	pro:s=	pro		s=		
+tondano	watulaney	0058	s<um>ela	<AV>big	v:pred	v		pred		
+tondano	watulaney	0058	##	##	##	##				
+tondano	watulaney	0058	wo	and	other	other				
+tondano	watulaney	0058	ZERO	ZERO	0:s	0		s		
+tondano	watulaney	0058	ma-wua'	EV.STAT-fruit	v:pred	v		pred		
+tondano	watulaney	0058	laker	many	rv	rv				
+tondano	watulaney	0059	##	##	##	##				
+tondano	watulaney	0059	waki	PREP3	adp	adp				
+tondano	watulaney	0059	wanua	village	np:l	np		l		
+tondano	watulaney	0059	=mèy	=1PL.EX.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0060	e	HES	nc	nc				
+tondano	watulaney	0060	ngaran	name	np:s	np		s		
+tondano	watulaney	0060	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0061	e	HES	nc	nc				
+tondano	watulaney	0061	Watulanèy	PN	np:pred	np		pred		
+tondano	watulaney	0062	eem	HES	nc	nc				
+tondano	watulaney	0062	apa	what	nc	nc				
+tondano	watulaney	0063	##	##	##	##				
+tondano	watulaney	0063	sejarah	history	np:pred	np		pred		
+tondano	watulaney	0063	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0063	ni'tu	DEM2	pro:s	pro		s		
+tondano	watulaney	0064	#ac	#ac	#ac	#ac				
+tondano	watulaney	0064	karena	because	other	other				
+tondano	watulaney	0064	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0064	waki	PREP3	adp	adp				
+tondano	watulaney	0064	wanua	village	np:l	np		l		
+tondano	watulaney	0064	e	HES	nc	nc				
+tondano	watulaney	0064	ngaran	name	np:s	np		s		
+tondano	watulaney	0064	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0064	e	HES	nc	nc				
+tondano	watulaney	0065	apa	what	nc	nc				
+tondano	watulaney	0066	rano	water	np:other	np		other		
+tondano	watulaney	0066	batu	rock	rn	rn				
+tondano	watulaney	0066	licin	slippery	rn	rn				
+tondano	watulaney	0067	##	##	##	##				
+tondano	watulaney	0067	e	HES	nc	nc				
+tondano	watulaney	0067	batu	rock	np:s	np		s		
+tondano	watulaney	0067	licin	slippery	rn_np	rn_np				
+tondano	watulaney	0067	ni'tu	DEM2	rn	rn				
+tondano	watulaney	0068	e	HES	nc	nc				
+tondano	watulaney	0069	sejarah	history	np:pred	np		pred		
+tondano	watulaney	0069	dari	PREP1	adp	adp				
+tondano	watulaney	0070	##	##	##	##				
+tondano	watulaney	0070	e	HES	nc	nc				
+tondano	watulaney	0070	wo	and	other	other				
+tondano	watulaney	0070	ZERO	ZERO	0:s	0		s		
+tondano	watulaney	0070	tow	like	other	other				
+tondano	watulaney	0070	=mow	=CMP	=other	=other				
+tondano	watulaney	0071	wanua	village	np:pred	np		pred		
+tondano	watulaney	0071	Watulanèy	PN	rn_np	rn_np				
+tondano	watulaney	0072	batu	rock	nc	nc				
+tondano	watulaney	0072	watu	rock	nc	nc				
+tondano	watulaney	0072	licin	slippery	nc	nc				
+tondano	watulaney	0072	lanèy,	slippery	nc	nc				
+tondano	watulaney	0072	##	##	##	##				
+tondano	watulaney	0072	jadi	thus	other	other				
+tondano	watulaney	0073	e	HES	nc	nc				
+tondano	watulaney	0073	ZERO	ZERO	0:s	0		s		
+tondano	watulaney	0073	ma-muali	STAT.EV-become	v:pred	v		pred		
+tondano	watulaney	0073	=la	=DIR.PROX	=rv	=rv				
+tondano	watulaney	0074	wanua	village	np.other	np	other			
+tondano	watulaney	0074	=mèy	=1PL.EX.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0074	Watulanèy	PN	rn_np	rn_np				
+tondano	watulaney	0075	#ac	#ac	#ac	#ac				
+tondano	watulaney	0075	aa	HES	nc	nc				
+tondano	watulaney	0075	ye'in	now	other	other				
+tondano	watulaney	0075	sè=	HES	nc	nc				
+tondano	watulaney	0076	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0076	tow	people	np.h:dt_a_a	np	h	dt_a_a		
+tondano	watulaney	0076	waki	PREP3	adp	adp				
+tondano	watulaney	0076	wanua	HES	nc	nc				
+tondano	watulaney	0076	wanua	village	np:l	np		l		
+tondano	watulaney	0076	=ku	=3SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0077	e	HES	nc	nc				
+tondano	watulaney	0078	sèa	HES	nc	nc				
+tondano	watulaney	0079	sa	if	other	other				
+tondano	watulaney	0079	 sèa	3PL	pro.h:a_a	pro	h	a_a		
+tondano	watulaney	0079	ma-panen	AV.DYN-cultivate	v:pred	v		pred		
+tondano	watulaney	0079	cinkè	clove	np:p_a	np		p_a		
+tondano	watulaney	0079	mao	HES	nc	nc				
+tondano	watulaney	0079	##	##	##	##				
+tondano	watulaney	0079	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0079	ma-panen	AV.DN-cultivate	v:pred	v		pred		
+tondano	watulaney	0079	cinkè	clove	np:p_a	np		p_a		
+tondano	watulaney	0080	##	##	##	##				
+tondano	watulaney	0080	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0081	ma-	HES	nc	nc				
+tondano	watulaney	0081	ma-sèro	AV.DYN-search	v:pred	v		pred		
+tondano	watulaney	0081	tow	person	np.h:p_a	np	h	p_a		
+tondano	watulaney	0081	waki	PREP3	adp	adp				
+tondano	watulaney	0082	luar	outside	ln	ln				
+tondano	watulaney	0082	luar	outside	ln	ln				
+tondano	watulaney	0082	wanua	village	np:l	np		l		
+tondano	watulaney	0082	##	##	##	##				
+tondano	watulaney	0082	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0082	<um> èy	<AV>come	lv	lv				
+tondano	watulaney	0082	ma-tipu'	AV.DYN-pick	v:pred	v		pred		
+tondano	watulaney	0082	cinkè'	cloves	np:p_a	np		p_a		
+tondano	watulaney	0082	ma-wali wali	EV.STAT-RDP-together	rv	rv				
+tondano	watulaney	0083	##	##	##	##				
+tondano	watulaney	0083	ZERO	ZERO	0.h:p_u	0	h	p_u		
+tondano	watulaney	0083	pa-sewa-en	DYN-hire-PV	v:pred	v		pred		
+tondano	watulaney	0083	nè=	AN.PL.GEN=	ln=	ln=				
+tondano	watulaney	0083	tow	person	np.h:a_u	np	h	a_u		
+tondano	watulaney	0083	##	##	##	##				
+tondano	watulaney	0083	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0083	ma-	HES	nc	nc				
+tondano	watulaney	0084	ma-tipu'	AV.DYN-pick	v:pred	v		pred		
+tondano	watulaney	0084	ZERO	ZERO	0:p_a	0		p_a		
+tondano	watulaney	0085	##	##	##	##				
+tondano	watulaney	0085	wo	and	other	other				
+tondano	watulaney	0086	pa-wèè-an	DYN-give-LV	v:pred	v		pred		
+tondano	watulaney	0086	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0086	k<um>aan	<AV>rice	np:p_u	np		p_u		
+tondano	watulaney	0086	sèa	3PL	pro.h:obl	pro	h	obl		
+tondano	watulaney	0086	##	##	##	##				
+tondano	watulaney	0086	pa-	HES	nc	nc				
+tondano	watulaney	0086	ZERO	ZERO	0.h:p_u	0	h	p_u		
+tondano	watulaney	0086	pa-wèar-en	DYN-pay-PV	v:pred	v		pred		
+tondano	watulaney	0086	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0086	##	##	##	##				
+tondano	watulaney	0086	pokok	primarily	other	other				
+tondano	watulaney	0086	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0086	sè=	HES	nc	nc				
+tondano	watulaney	0087	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0087	ma	HES	nc	nc				
+tondano	watulaney	0087	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	watulaney	0088	waki	PREP3	adp	adp				
+tondano	watulaney	0088	sèi	who	np.h:obl	np	h	obl		
+tondano	watulaney	0088	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	watulaney	0088	si=	3SG.REL=	pro.h:dt=	pro	h	dt=		
+tondano	watulaney	0088	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0089	po'ong	tree	np:s	np		s		
+tondano	watulaney	0089	cinkè'	clove	rn_np	rn_np				
+tondano	watulaney	0089	ni'tu	DEM2	rn	rn				
+tondano	watulaney	0090	##	##	##	##				
+tondano	watulaney	0090	susur	every	other	other				
+tondano	watulaney	0091	e	HES	nc	nc				
+tondano	watulaney	0091	rua	two	ln	ln				
+tondano	watulaney	0091	te'un	year	np:other	np		other		
+tondano	watulaney	0092	m-	HES	nc	nc				
+tondano	watulaney	0092	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0092	ma-tipu'	AV.DYN-pick	v:pred	v		pred		
+tondano	watulaney	0092	cinkè'	cloves	np:p_a	np		p_a		
+tondano	watulaney	0093	##	##	##	##				
+tondano	watulaney	0093	te'un	year	np:other	np		other		
+tondano	watulaney	0093	ye'i	DEM1	other	other				
+tondano	watulaney	0094	ka-maal	very-expensive	other:pred	other		pred		
+tondano	watulaney	0094	tarè	new	other	other				
+tondano	watulaney	0094	e	HES	nc	nc				
+tondano	watulaney	0094	harga	price	np:s	np		s		
+tondano	watulaney	0094	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0094	cinkè'	clove	rn_np:poss	rn_np		poss		
+tondano	watulaney	0094	##	##	##	##				
+tondano	watulaney	0094	ta'an	however	other	other				
+tondano	watulaney	0094	rèy'	HES	nc	nc				
+tondano	watulaney	0094	rèy'	don't	neg	neg				
+tondano	watulaney	0094	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0094	ma-tipu'	AV.DYN-pick	v:pred	v		pred		
+tondano	watulaney	0094	ZERO	ZERO	0:p_a	0		p_a		
+tondano	watulaney	0095	#ac	#ac	#ac	#ac				
+tondano	watulaney	0095	ee	HES	nc	nc				
+tondano	watulaney	0095	te'un,	HES	nc	nc				
+tondano	watulaney	0095	te'un,	year	np:other	np		other		
+tondano	watulaney	0095	N=	INAN=	ln=	ln=				
+tondano	watulaney	0095	esa	one	other	other				
+tondano	watulaney	0095	=mowkan	=definitely	=rn	=rn				
+tondano	watulaney	0095	wona	pehaps	other	other				
+tondano	watulaney	0096	sa	HES	nc	nc				
+tondano	watulaney	0097	sa	if	other	other				
+tondano	watulaney	0097	wèè-en	give-PV	v:pred	v		pred		
+tondano	watulaney	0097	=mi	=DIR.DIST	=rv	=rv				
+tondano	watulaney	0097	berkat	blessing	np:p_u	np		p_u		
+tondano	watulaney	0097	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	watulaney	0097	Opo	elder	np.d:a_u	np	d	a_u		
+tondano	watulaney	0097	Empung	ancestor	rn_np.d	rn_np	d			
+tondano	watulaney	0098	##	##	##	##				
+tondano	watulaney	0098	e	HES	nc	nc				
+tondano	watulaney	0098	ye'i	HES	nc	nc				
+tondano	watulaney	0099	ye'i	now	other	other				
+tondano	watulaney	0099	si=	HES	nc	nc				
+tondano	watulaney	0099	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0099	oki'	small	np.h:s	np	h	s		
+tondano	watulaney	0099	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0099	<im> warèng	<AV.PST>return.home	v:pred	v		pred		
+tondano	watulaney	0099	waki	PREP3	adp	adp				
+tondano	watulaney	0099	wanua	village	np:l	np		l		
+tondano	watulaney	0100	##	##	##	##				
+tondano	watulaney	0100	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0100	<um>èa	<AV>go	lv	lv				
+tondano	watulaney	0100	ma-Ce-ki'it	AV.DYN-IRR-follow	v:pred	v		pred		
+tondano	watulaney	0100	acara	ritual	nc	nc				
+tondano	watulaney	0101	e	HES	nc	nc				
+tondano	watulaney	0101	acara	ritual	np:p_a	np		p_a		
+tondano	watulaney	0101	gerèja	church	rn_np	rn_np				
+tondano	watulaney	0102	##	##	##	##				
+tondano	watulaney	0102	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0102	<um>warèng	<AV>return.home	v:pred	v		pred		
+tondano	watulaney	0102	=mowkan	=definitely	=rv	=rv				
+tondano	watulaney	0102	=mi	=DIR.DIST	=rv	=rv				
+tondano	watulaney	0102	wia	here	other	other				
+tondano	watulaney	0103	ee	HES	nc	nc				
+tondano	watulaney	0104	N=	INAN=	nc	nc				
+tondano	watulaney	0104	endo	day	nc	nc				
+tondano	watulaney	0105	N=	INAN=	ln=	ln=				
+tondano	watulaney	0105	endo	day	np:other	np		other		
+tondano	watulaney	0105	ye'i	DEM1	rn	rn				
+tondano	watulaney	0106	ka-apat	ORD-four	ln	ln				
+tondano	watulaney	0106	hari	day	np:other	np		other		
+tondano	watulaney	0106	berikut	follow	rn	rn				
+tondano	watulaney	0108	##	##	##	##				
+tondano	watulaney	0108	mm	HES	nc	nc				
+tondano	watulaney	0109	niaku	1SG	pro.1:s	pro	1	s		
+tondano	watulaney	0109	ma-ana'	AV.DYN-stay	v:pred	v		pred		
+tondano	watulaney	0109	wia	here	other	other				
+tondano	watulaney	0110	##	##	##	##				
+tondano	watulaney	0110	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	watulaney	0110	ma-	HES	nc	nc				
+tondano	watulaney	0110	ma-jaga	AV.DYN-watch.over	v:pred	v		pred		
+tondano	watulaney	0110	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0110	oki'	small	np.h:p_a	np	h	p_a		
+tondano	watulaney	0110	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0111	##	##	##	##				
+tondano	watulaney	0111	wo	and	other	other				
+tondano	watulaney	0111	ZERO	ZERO	0.1:s	0	1	s		
+tondano	watulaney	0111	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	watulaney	0111	waki	PREP3	adp	adp				
+tondano	watulaney	0111	walè	house	np:l	np		l		
+tondano	watulaney	0111	iti'i	DEM2	rn	rn				
+tondano	watulaney	0112	##	##	##	##				
+tondano	watulaney	0112	e	HES	nc	nc				
+tondano	watulaney	0112	wia	here	other	other				
+tondano	watulaney	0112	ka-laker	very-many	other:pred	other		pred		
+tondano	watulaney	0112	tow	person	np.h:s	np	h	s		
+tondano	watulaney	0112	##	##	##	##				
+tondano	watulaney	0112	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0112	si=	HES	nc	nc				
+tondano	watulaney	0113	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0113	guru	teacher	np.h:s	np	h	s		
+tondano	watulaney	0113	ni=	AN.SG.GEN=	rn=	rn=				
+tondano	watulaney	0113	oki'	small	rn_np.h:poss	rn_np	h	poss		
+tondano	watulaney	0113	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0113	##	##	##	##				
+tondano	watulaney	0113	ngaran	HES	nc	nc				
+tondano	watulaney	0113	=na	=3SG.GEN	nc	nc				
+tondano	watulaney	0113	e	HES	nc	nc				
+tondano	watulaney	0114	ngaran	HES	nc	nc				
+tondano	watulaney	0114	wa	HES	nc	nc				
+tondano	watulaney	0114	in	HES	nc	nc				
+tondano	watulaney	0114	ngaran	name	np:s	np		s		
+tondano	watulaney	0114	nè=	AN.PL.GEN=	rn=	rn=				
+tondano	watulaney	0114	keluarga	family	rn_np:poss	rn_np		poss		
+tondano	watulaney	0114	wia	here	other	other				
+tondano	watulaney	0114	Pungus - Moni	PN	np:pred	np		pred		
+tondano	watulaney	0115	##	##	##	##				
+tondano	watulaney	0115	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0115	keluarga	family	np:dt_a_a	np		dt_a_a		
+tondano	watulaney	0115	wia	PREP1	adp	adp				
+tondano	watulaney	0115	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0115	ma-	HES	nc	nc				
+tondano	watulaney	0115	maka-oki'	AV.POT-small	v:pred	v		pred		
+tondano	watulaney	0115	rua	two	pro.h:p_a	pro	h	p_a		
+tondano	watulaney	0116	##	##	##	##				
+tondano	watulaney	0116	ngaran	name	np:s	np		s		
+tondano	watulaney	0116	=na	=3SG.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0116	Fèren	PN	ln_np	ln_np				
+tondano	watulaney	0116	maan	with	ln	ln				
+tondano	watulaney	0116	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0116	Rèfen	PN	np.h:pred	np	h	pred		
+tondano	watulaney	0117	##	##	##	##				
+tondano	watulaney	0117	ee	HES	nc	nc				
+tondano	watulaney	0118	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0118	kasi	more	other	other				
+tondano	watulaney	0118	#rc:s	#rc:s	#rc:s	#rc		s		
+tondano	watulaney	0118	sè=	3PL.REL=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0118	ma-ana'	AV.DYN- stay	v:pred	v		pred		
+tondano	watulaney	0118	waki	PREP3	adp	adp				
+tondano	watulaney	0118	walè'	house	np:l	np		l		
+tondano	watulaney	0118	wia	here	other	other				
+tondano	watulaney	0119	##	##	##	##				
+tondano	watulaney	0119	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0119	rua	two	ln	ln				
+tondano	watulaney	0119	cèwè	girl	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0120	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0120	ma-	HES	nc	nc				
+tondano	watulaney	0120	ma-kulia	AV.DYN-university.lecture	v:pred	v		pred		
+tondano	watulaney	0120	##	##	##	##				
+tondano	watulaney	0120	ngaran	name	np:s	np		s		
+tondano	watulaney	0120	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0120	Liani	PN	ln_np	ln_np				
+tondano	watulaney	0120	maan	with	ln	ln				
+tondano	watulaney	0120	Andrianti	PN	np.h:pred	np	h	pred		
+tondano	watulaney	0121	##	##	##	##				
+tondano	watulaney	0121	hmm	HES	nc	nc				
+tondano	watulaney	0122	jadi	thus	other	other				
+tondano	watulaney	0122	kèy=	1.PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	watulaney	0122	ka-ramè	very-noisy	rv	rv				
+tondano	watulaney	0122	ma-ana'	AV.DYN-stay	v:pred	v		pred		
+tondano	watulaney	0122	waki	PREP3	adp	adp				
+tondano	watulaney	0122	walè	house	np:l	np		l		
+tondano	watulaney	0122	wia	now	other	other				
+tondano	watulaney	0122	#ac	#ac	#ac	#ac				
+tondano	watulaney	0122	ka'a	because	other	other				
+tondano	watulaney	0122	ka-laker	very-many	other:pred	other		pred		
+tondano	watulaney	0122	tow	people	np.h:s	np	h	s		
+tondano	watulaney	0123	##	##	##	##				
+tondano	watulaney	0123	susur	every	other	other				
+tondano	watulaney	0123	N=	INAN=	ln=	ln=				
+tondano	watulaney	0123	endo	day	np:other	np		other		
+tondano	watulaney	0124	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	watulaney	0124	musti	AUX.must	aux	aux				
+tondano	watulaney	0124	t<um>o'or	<AV>get.up	v:pred	v		pred		
+tondano	watulaney	0125	#ac	#ac	#ac	#ac				
+tondano	watulaney	0125	ee	HES	nc	nc				
+tondano	watulaney	0125	rior	so.that	other	other				
+tondano	watulaney	0126	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	watulaney	0126	ma-kemes	AV.DYN-wash	v:pred	v		pred		
+tondano	watulaney	0126	labung	clothes	np:p_a	np		p_a		
+tondano	watulaney	0126	##	##	##	##				
+tondano	watulaney	0126	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	watulaney	0126	ma-owas	AV.DYN-clean	v:pred	v		pred		
+tondano	watulaney	0126	piring	plate	np:p_a	np		p_a		
+tondano	watulaney	0126	ma-	HES	nc	nc				
+tondano	watulaney	0127	##	##	##	##				
+tondano	watulaney	0127	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	watulaney	0127	ma-owas	AV.DYN-wash	v:pred	v		pred		
+tondano	watulaney	0127	Ce-kaan-an	NR-eat-LV	np:p_a	np		p_a		
+tondano	watulaney	0127	##	##	##	##				
+tondano	watulaney	0127	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	watulaney	0127	ma-owas	AV.DYN - wash	v:pred	v		pred		
+tondano	watulaney	0128	ee	HES	nc	nc				
+tondano	watulaney	0128	Ce-koo'-an	NR-drink-LV	np:p_a	np		p_a		
+tondano	watulaney	0129	##	##	##	##				
+tondano	watulaney	0129	ma-	HES	nc	nc				
+tondano	watulaney	0130	pokok	primary	other	other				
+tondano	watulaney	0130	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0130	ZERO	ZERO	0.1:s	0	1	s		
+tondano	watulaney	0130	ma-	HES	nc	nc				
+tondano	watulaney	0130	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	watulaney	0130	waki	PREP3	adp	adp				
+tondano	watulaney	0130	walè	house	np:l	np		l		
+tondano	watulaney	0130	wia	here	other	other				
+tondano	watulaney	0131	ee	HES	nc	nc				
+tondano	watulaney	0132	ee	HES	nc	nc				
+tondano	watulaney	0133	##	##	##	##				
+tondano	watulaney	0133	pagi	morning	other	other				
+tondano	watulaney	0133	=pè'	=INCMP	=other	=other				
+tondano	watulaney	0133	sa	if	other	other				
+tondano	watulaney	0133	oras	moment	np:other	np		other		
+tondano	watulaney	0133	sekola	school	rn_np	rn_np				
+tondano	watulaney	0133	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0133	<um>èa	<AV>go	v:pred	v		pred		
+tondano	watulaney	0133	waki	PREP3	adp	adp				
+tondano	watulaney	0133	sekola	school	np:g	np		g		
+tondano	watulaney	0134	##	##	##	##				
+tondano	watulaney	0134	karèna	because	other	other				
+tondano	watulaney	0134	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0134	ibu	mother	np.h:s	np	h	s		
+tondano	watulaney	0134	wia	here	other	other				
+tondano	watulaney	0134	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	watulaney	0134	si=	3SG.REL=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0134	ma-	HES	nc	nc				
+tondano	watulaney	0135	ma-guru	AV.DYN-teacher	v:pred	v		pred		
+tondano	watulaney	0135	waki	PREP3	adp	adp				
+tondano	watulaney	0135	SMA	junior.high.school	np:l	np		l		
+tondano	watulaney	0136	%	%	%	%				
+tondano	watulaney	0136	maan	with	ln	ln				
+tondano	watulaney	0136	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0136	oki'	small	np.h:obl	np	h	obl		
+tondano	watulaney	0136	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0136	ma-sekola	AV.DYN-school	v:pred	v		pred		
+tondano	watulaney	0136	mana	there	other	other				
+tondano	watulaney	0136	##	##	##	##				
+tondano	watulaney	0136	jadi	thus	other	other				
+tondano	watulaney	0136	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0136	ma-wali	EV.STAT -together	lv	lv				
+tondano	watulaney	0136	meN-èa	AV.DYN - go	v:pred	v		pred		
+tondano	watulaney	0137	maan	with	ln	ln				
+tondano	watulaney	0137	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0137	oki'	small	np.h:obl	np	h	obl		
+tondano	watulaney	0137	rua	two	rn	rn				
+tondano	watulaney	0137	wia	here	other	other				
+tondano	watulaney	0137	##	##	##	##				
+tondano	watulaney	0137	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0137	ma-sekola	AV.DYN-school	v:pred	v		pred		
+tondano	watulaney	0137	waki	PREP3	adp	adp				
+tondano	watulaney	0137	SD	primary.school	ln_np	ln_np				
+tondano	watulaney	0137	maan	with	ln	ln				
+tondano	watulaney	0137	SMP	senior.high.school	np:l	np		l		
+tondano	watulaney	0139	##	##	##	##				
+tondano	watulaney	0139	ZERO	ZERO	0.h:s	0	h	s		
+tondano	watulaney	0139	meN-èa	AV.DYN-go	v:pred	v		pred		
+tondano	watulaney	0139	ma-wali wali	EV.STAT-RDP-together	rv	rv				
+tondano	watulaney	0140	##	##	##	##				
+tondano	watulaney	0140	#ac	#ac	#ac	#ac				
+tondano	watulaney	0140	wo	and	other	other				
+tondano	watulaney	0140	sa	if	other	other				
+tondano	watulaney	0140	sèa	3PL	pro.h:s	pro	h	s		
+tondano	watulaney	0140	mo-	HES	nc	nc				
+tondano	watulaney	0140	ma-warèng,	AV.DYN-return.home	v:pred	v		pred		
+tondano	watulaney	0140	=mi	=DIR.DIST	=rv	=rv				
+tondano	watulaney	0140	%	%	%	%				
+tondano	watulaney	0140	ZERO	ZERO	0.h:s	0	h	s		
+tondano	watulaney	0140	ma-warèng,	AV.DYN-return.home	v:pred	v		pred		
+tondano	watulaney	0140	meN-esa-esa	EV.STAT-RDP-one	rv	rv				
+tondano	watulaney	0141	##	##	##	##				
+tondano	watulaney	0141	#ac	#ac	#ac	#ac				
+tondano	watulaney	0141	sa	if	other	other				
+tondano	watulaney	0141	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0141	<im>èa	<AV.PST>go	v:pred	v		pred		
+tondano	watulaney	0141	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0141	waya	all	other	other				
+tondano	watulaney	0142	%	%	%	%				
+tondano	watulaney	0142	niaku	1SG	pro.1:s	pro	1	s		
+tondano	watulaney	0142	=mowkan	=definitely	=rn	=rn				
+tondano	watulaney	0142	ma-esa -esa	EV.STAT-RDP-one	v:pred	v		pred		
+tondano	watulaney	0142	waki	PREP3	adp	adp				
+tondano	watulaney	0142	walè	house	np:l	np		l		
+tondano	watulaney	0143	##	##	##	##				
+tondano	watulaney	0143	jadi	thus	other	other				
+tondano	watulaney	0143	ku=	HES	nc	nc				
+tondano	watulaney	0144	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	watulaney	0144	i-pa-Ce-pa'ayang	AV.DYN-IRR-work	v:pred	v		pred		
+tondano	watulaney	0144	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0144	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0144	##	##	##	##				
+tondano	watulaney	0144	sapa	what	nc	nc				
+tondano	watulaney	0144	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	watulaney	0144	pa'ayangen	work -PV	v:pred	v		pred		
+tondano	watulaney	0144	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+tondano	watulaney	0144	waki	PREP3	adp	adp				
+tondano	watulaney	0144	walè	house	np:l	np		l		
+tondano	watulaney	0145	##	##	##	##				
+tondano	watulaney	0145	ee	HES	nc	nc				
+tondano	watulaney	0145	abis	finish	other:pred	other		pred		
+tondano	watulaney	0145	=la	=DIR.PROX	=rv	=rv				
+tondano	watulaney	0145	ni'tu	DEM2	pro:s	pro		s		
+tondano	watulaney	0145	kasi	more	other	other				
+tondano	watulaney	0146	##	##	##	##				
+tondano	watulaney	0146	soro	HES	nc	nc				
+tondano	watulaney	0146	sorè	afternoon	ln_np	ln_np				
+tondano	watulaney	0146	=mow	=CMP	=rn	=rn				
+tondano	watulaney	0146	N=	INAN=	ln=	ln=				
+tondano	watulaney	0146	endo	day	np:other	np		other		
+tondano	watulaney	0147	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	watulaney	0147	musti	must.AUX	aux	aux				
+tondano	watulaney	0147	l<um>elè'	<AV>bathe	v:pred	v		pred		
+tondano	watulaney	0147	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0148	##	##	##	##				
+tondano	watulaney	0148	ee	HES	nc	nc				
+tondano	watulaney	0149	rèy'	not	neg	neg				
+tondano	watulaney	0149	urè	long	np:s	np		s		
+tondano	watulaney	0149	wengi	night	np:pred	np		pred		
+tondano	watulaney	0149	=mow	=CMP	=rn	=rn				
+tondano	watulaney	0150	##	##	##	##				
+tondano	watulaney	0150	sa	if	other	other				
+tondano	watulaney	0150	wengi	night	np:other	np		other		
+tondano	watulaney	0150	=mow	=CMP	=other	=other				
+tondano	watulaney	0151	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	watulaney	0151	n<um>onton	<AV>watch	v:pred	v		pred		
+tondano	watulaney	0151	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0151	televisi	television	np:p_a	np		p_a		
+tondano	watulaney	0152	i-ka'ayo	CV-POT-arrive	adp	adp				
+tondano	watulaney	0152	wengi	HES	nc	nc				
+tondano	watulaney	0152	wengi	night	np:other	np		other		
+tondano	watulaney	0152	repet	quick	rn	rn				
+tondano	watulaney	0153	##	##	##	##				
+tondano	watulaney	0153	abis	finish	other:pred	other		pred		
+tondano	watulaney	0153	=la	=DIR.PROX	=rv	=rv				
+tondano	watulaney	0153	ni'tu	DEM2	pro:s	pro		s		
+tondano	watulaney	0153	##	##	##	##				
+tondano	watulaney	0153	ZERO	ZERO	0.1:s	0	1	s		
+tondano	watulaney	0153	mereng	close.eyes	other:pred	other		pred		
+tondano	watulaney	0153	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0154	##	##	##	##				
+tondano	watulaney	0154	owat	daylight	np:other	np		other		
+tondano	watulaney	0154	=mow	=CMP	=rn	=rn				
+tondano	watulaney	0154	kasi	more	other	other				
+tondano	watulaney	0154	ZERO	ZERO	0.1:s	0	1	s		
+tondano	watulaney	0154	t<um>o'or	<AV>get.up	v:pred	v		pred		
+tondano	watulaney	0154	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0155	##	##	##	##				
+tondano	watulaney	0155	susur	every	other	other				
+tondano	watulaney	0155	N=	INAN=	ln=	ln=				
+tondano	watulaney	0155	endo	day	np:other	np		other		
+tondano	watulaney	0155	tuana	thus	pred: other	pred		 other		
+tondano	watulaney	0155	Ce-pa'ayang-en	NR-work-PV	np:s	np		s		
+tondano	watulaney	0155	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0156	##	##	##	##				
+tondano	watulaney	0156	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0156	e	HES	nc	nc				
+tondano	watulaney	0156	kasi	more	other	other				
+tondano	watulaney	0157	pe	HES	nc	nc				
+tondano	watulaney	0157	cece	HES	nc	nc				
+tondano	watulaney	0157	pa-Ce-susui-en	DYN-IRR-talk-PV	np:s	np		s		
+tondano	watulaney	0157	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0157	=la	=DIR.PROX	=rv	=rv				
+tondano	watulaney	0157	waki	PREP3	adp	adp				
+tondano	watulaney	0157	wanua	village	np:l	np		l		
+tondano	watulaney	0157	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0158	e	HES	nc	nc				
+tondano	watulaney	0159	##	##	##	##				
+tondano	watulaney	0159	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0160	papa	father	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0160	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0161	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0161	<im>patè	<AV.PST>break	v:pred	v		pred		
+tondano	watulaney	0161	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0162	e	HES	nc	nc				
+tondano	watulaney	0162	rua	two	ln	ln				
+tondano	watulaney	0162	te'un	year	np:other	np		other		
+tondano	watulaney	0162	l<im>angkoy	<AV.PST>pass	rn	rn				
+tondano	watulaney	0162	=la	=DIR.PROX	=other	=other				
+tondano	watulaney	0163	##	##	##	##				
+tondano	watulaney	0163	jadi	thus	other	other				
+tondano	watulaney	0164	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0164	tu'a	old	np.h:s	np	h	s		
+tondano	watulaney	0164	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0165	esa	one	ln	ln				
+tondano	watulaney	0165	=mowkan	=definitely	=rn	=rn				
+tondano	watulaney	0165	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0165	mama	mother	np.h:pred	np	h	pred		
+tondano	watulaney	0165	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0165	=mowkan	=definitely	=rn	=rn				
+tondano	watulaney	0166	##	##	##	##				
+tondano	watulaney	0166	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0167	mama	mother	np.h:s	np	h	s		
+tondano	watulaney	0167	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0167	ma-ana'	AV.DYN-stay	v:pred	v		pred		
+tondano	watulaney	0167	waki	PREP3	adp	adp				
+tondano	watulaney	0167	wanua	village	np:l	np		l		
+tondano	watulaney	0167	Watulanèy	PN	rn_np	rn_np				
+tondano	watulaney	0167	maan	with	ln	ln				
+tondano	watulaney	0167	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0167	kaka	older.sibling	np.h:obl	np	h	obl		
+tondano	watulaney	0167	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0168	##	##	##	##				
+tondano	watulaney	0168	e	HES	nc	nc				
+tondano	watulaney	0169	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0170	mama	mother	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0170	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0170	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0170	umur	age	other:pred	other		pred		
+tondano	watulaney	0170	=na	=3SG.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0171	mm	HES	nc	nc				
+tondano	watulaney	0171	tujuh	seven	ln	ln				
+tondano	watulaney	0171	puluh	ten	ln	ln				
+tondano	watulaney	0171	dua	two	ln	ln				
+tondano	watulaney	0171	=mow	=CMP	=ln	=ln				
+tondano	watulaney	0171	te'un	year	np:other	np		other		
+tondano	watulaney	0172	##	##	##	##				
+tondano	watulaney	0172	jadi	thus	other	other				
+tondano	watulaney	0172	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0172	tu'a	old	other:pred	other		pred		
+tondano	watulaney	0172	=mow	=CMP	=rn	=rn				
+tondano	watulaney	0173	## 	## 	## 	## 				
+tondano	watulaney	0173	tapi	HES	nc	nc				
+tondano	watulaney	0174	ta'an	however	other	other				
+tondano	watulaney	0174	si=	HES	nc	nc				
+tondano	watulaney	0175	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0175	keter-en	power-PV	other:pred	other		pred		
+tondano	watulaney	0175	=pè'	=INCMP	=rn	=rn				
+tondano	watulaney	0176	##	##	##	##				
+tondano	watulaney	0176	si=	3SG.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0176	ma-kemes	AV.DYN-wash	v:pred	v		pred		
+tondano	watulaney	0176	=pè'	=INCMP	=rv	=rv				
+tondano	watulaney	0176	sandiri	self	np.h:p_a	np	h	p_a		
+tondano	watulaney	0176	##	##	##	##				
+tondano	watulaney	0176	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0176	ma-lutu'	AV.DYN-cook	v:pred	v		pred		
+tondano	watulaney	0176	=pè'	=INCMP	=rv	=rv				
+tondano	watulaney	0176	sandiri	self	np.h:p_a	np	h	p_a		
+tondano	watulaney	0177	##	##	##	##				
+tondano	watulaney	0177	ZERO	ZERO	0.h:s	0	h	s		
+tondano	watulaney	0177	ma-	HES	nc	nc				
+tondano	watulaney	0177	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	watulaney	0177	=pè'	=INCMP	=rv	=rv				
+tondano	watulaney	0177	waki	PREP3	adp	adp				
+tondano	watulaney	0177	walè	house	np:l	np		l		
+tondano	watulaney	0177	e	eh	nc	nc				
+tondano	watulaney	0177	meN-esa	EV.STAT-one	rn	rn				
+tondano	watulaney	0178	#ac	#ac	#ac	#ac				
+tondano	watulaney	0178	ma'an	although	other	other				
+tondano	watulaney	0178	sia	3SG	pro.h:s	pro	h	s		
+tondano	watulaney	0179	ma-esa -esa	EV.STAT-RDP-one	v:pred	v		pred		
+tondano	watulaney	0179	=mowkan	=definitely	=rv	=rv				
+tondano	watulaney	0179	##	##	##	##				
+tondano	watulaney	0179	ta'an	however	other	other				
+tondano	watulaney	0180	si=	HES	nc	nc				
+tondano	watulaney	0180	ma-	HES	nc	nc				
+tondano	watulaney	0180	sia	3SG	pro.h:a_a	pro	h	a_a		
+tondano	watulaney	0180	=pè'	=INCMP	=rn	=rn				
+tondano	watulaney	0180	ma-siwo-siwo	AV.DYN-RDP-do	v:pred	v		pred		
+tondano	watulaney	0181	sapa	what	np:p_a	np		p_a		
+tondano	watulaney	0181	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	watulaney	0181	ZERO	ZERO	0:p_u	0		p_u		
+tondano	watulaney	0181	ka-pa'ar-an	STAT-like-LV	v:pred	v		pred		
+tondano	watulaney	0181	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	watulaney	0182	##	##	##	##				
+tondano	watulaney	0182	ee	HES	nc	nc				
+tondano	watulaney	0182	waki	PREP3	adp	adp				
+tondano	watulaney	0182	wanua	village	np:l	np		l		
+tondano	watulaney	0182	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0182	kasi	more	other	other				
+tondano	watulaney	0183	e	HES	nc	nc				
+tondano	watulaney	0184	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0184	#rc:s	#rc:s	#rc:s	#rc		s		
+tondano	watulaney	0184	sè=	3PL.REL=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0184	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	watulaney	0185	##	##	##	##				
+tondano	watulaney	0185	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0185	ma-siwo-siwo	AV.DYN-RDP-do	v:pred	v		pred		
+tondano	watulaney	0185	po'po'	coconut	np:p_a	np		p_a		
+tondano	watulaney	0186	##	##	##	##				
+tondano	watulaney	0186	sèa	HES	nc	nc				
+tondano	watulaney	0186	wa	HES	nc	nc				
+tondano	watulaney	0186	sèy	who	nc	nc				
+tondano	watulaney	0186	sèa	3PL	pro.h:a_a	pro	h	a_a		
+tondano	watulaney	0186	laker	many	rn	rn				
+tondano	watulaney	0187	t<im>anem	<AV.PST>cultivate	v:pred	v		pred		
+tondano	watulaney	0187	po'ong	tree	np:p_a	np		p_a		
+tondano	watulaney	0187	po'po'	coconut	rn_np	rn_np				
+tondano	watulaney	0187	##	##	##	##				
+tondano	watulaney	0187	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0187	ma-siwo	AV.DYN-do	v:pred	v		pred		
+tondano	watulaney	0187	po'po'	coconut	np:p_a	np		p_a		
+tondano	watulaney	0187	#ac	#ac	#ac	#ac				
+tondano	watulaney	0187	ka'a	because	other	other				
+tondano	watulaney	0188	e	HES	nc	nc				
+tondano	watulaney	0188	ka-ma'al	very - expensive	other:pred	other		pred		
+tondano	watulaney	0189	e	HES	nc	nc				
+tondano	watulaney	0189	po'opo'	coconut	np:s	np		s		
+tondano	watulaney	0189	to	PART	nc	nc				
+tondano	watulaney	0189	##	##	##	##				
+tondano	watulaney	0189	jadi	thus	other	other				
+tondano	watulaney	0189	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0189	ma-	HES	nc	nc				
+tondano	watulaney	0190	ma-siwo	AV.DYN-do	v:pred	v		pred		
+tondano	watulaney	0190	po'po'	coconut	np:p_a	np		p_a		
+tondano	watulaney	0191	##	##	##	##				
+tondano	watulaney	0191	pasiwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	watulaney	0191	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0191	kopra	copra.	np:p_u	np		p_u		
+tondano	watulaney	0191	##	##	##	##				
+tondano	watulaney	0191	wo	and	other	other				
+tondano	watulaney	0191	ZERO	ZERO	0:p_u	0		p_u		
+tondano	watulaney	0191	i-pa-wangkèr	CV.DYN-sell	v:pred	v		pred		
+tondano	watulaney	0191	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0191	waki	PREP3	adp	adp				
+tondano	watulaney	0191	Bitung	PN	np:l	np		l		
+tondano	watulaney	0192	##	##	##	##				
+tondano	watulaney	0192	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0192	kaka	older.sibling	np.h:dt_a_a	np	h	dt_a_a		
+tondano	watulaney	0192	ni=	AN.SG.GEN=	rn=	rn=				
+tondano	watulaney	0192	ampit	spouse	rn_np.h:poss	rn_np	h	poss		
+tondano	watulaney	0192	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0193	si=	3SG.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0193	ma-	HES	nc	nc				
+tondano	watulaney	0193	ma-teles	AV.DYN-buy	v:pred	v		pred		
+tondano	watulaney	0193	e	HES	nc	nc				
+tondano	watulaney	0193	kopra	copra	np:p_a	np		p_a		
+tondano	watulaney	0194	##	##	##	##				
+tondano	watulaney	0194	jadi	thus	other	other				
+tondano	watulaney	0194	si=	HES	nc	nc				
+tondano	watulaney	0195	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0195	ampit	spouse	np.h:a_a	np	h	a_a		
+tondano	watulaney	0195	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0195	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	watulaney	0195	si=	3SG.REL=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0195	ma-	HES	nc	nc				
+tondano	watulaney	0196	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	watulaney	0196	=la	=DIR.PROX	=rv	=rv				
+tondano	watulaney	0196	waki	PREP3	adp	adp				
+tondano	watulaney	0196	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0196	kaka	older.sibling	np.h:obl	np	h	obl		
+tondano	watulaney	0196	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0198	ma-	HES	nc	nc				
+tondano	watulaney	0199	%	%	%	%				
+tondano	watulaney	0199	ma-wangkèr,	AV.DYN-sell	v:pred	v		pred		
+tondano	watulaney	0199	ZERO	ZERO	0:p_a	0		p_a		
+tondano	watulaney	0199	##	##	##	##				
+tondano	watulaney	0199	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0199	ma-	HES	nc	nc				
+tondano	watulaney	0199	ma-teles	AV.DYN-buy	v:pred	v		pred		
+tondano	watulaney	0199	kopra	copra	np:p_a	np		p_a		
+tondano	watulaney	0199	## 	## 	## 	## 				
+tondano	watulaney	0199	ZERO	ZERO	0:p_u	0		p_u		
+tondano	watulaney	0199	pa-ali-en	DYN-bring-PV	v:pred	v		pred		
+tondano	watulaney	0199	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0199	waki	PREP3	adp	adp				
+tondano	watulaney	0199	Bitung	PN	np:l	np		l		
+tondano	watulaney	0199	maan	with	ln	ln				
+tondano	watulaney	0199	oto	car	np.obl	np	obl			
+tondano	watulaney	0199	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0200	##	##	##	##				
+tondano	watulaney	0200	mm	HES	nc	nc				
+tondano	watulaney	0201	e	HES	nc	nc				
+tondano	watulaney	0201	si=	HES	nc	nc				
+tondano	watulaney	0201	niaku	1SG	pro.h:dt_s	pro	h	dt_s		
+tondano	watulaney	0201	kasi	more	rn	rn				
+tondano	watulaney	0201	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0201	=pè'	=INCMP	=other	=other				
+tondano	watulaney	0202	manuang	in.law	np.h:s	np	h	s		
+tondano	watulaney	0202	##	##	##	##				
+tondano	watulaney	0202	manuang	in.law	np.h:s	np	h	s		
+tondano	watulaney	0202	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0202	me	HES	nc	nc				
+tondano	watulaney	0202	manuang	in-law	np.h:predex	np	h	predex		
+tondano	watulaney	0202	wewènè	woman	rn_np.h	rn_np	h			
+tondano	watulaney	0202	=mowkan	=definitely	=rn	=rn				
+tondano	watulaney	0202	#ac	#ac	#ac	#ac				
+tondano	watulaney	0202	ka'a	because	other	other				
+tondano	watulaney	0202	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0202	manuang	in.law	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0202	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0202	tuama	man	rn_np.h	rn_np	h			
+tondano	watulaney	0202	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0202	<im>patè	<AV.PST>break	v:pred	v		pred		
+tondano	watulaney	0202	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0203	e	HES	nc	nc				
+tondano	watulaney	0204	e	HES	nc	nc				
+tondano	watulaney	0205	##	##	##	##				
+tondano	watulaney	0205	si=	HES	nc	nc				
+tondano	watulaney	0205	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0205	ampit	spouse	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0205	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0205	sèa	3PL	pro.h:s	pro	h	s		
+tondano	watulaney	0205	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0206	enem	HES	nc	nc				
+tondano	watulaney	0206	enem	six	ln	ln				
+tondano	watulaney	0206	matuari	sibling	np.h:pred	np	h	pred		
+tondano	watulaney	0207	##	##	##	##				
+tondano	watulaney	0207	e	HES	nc	nc				
+tondano	watulaney	0208	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0208	ampit	spouse	np.h:s	np	h	s		
+tondano	watulaney	0208	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0208	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0208	oki'	small	other:pred	other		pred		
+tondano	watulaney	0208	ka-enem	ORD-six	rn	rn				
+tondano	watulaney	0209	##	##	##	##				
+tondano	watulaney	0209	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0210	keluarga	family	np:s	np		s		
+tondano	watulaney	0210	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0210	Gèrungan	PN	other:pred	other		pred		
+tondano	watulaney	0210	Tèndèan	PN	rn_np	rn_np				
+tondano	watulaney	0211	##	##	##	##				
+tondano	watulaney	0211	jadi	thus	other	other				
+tondano	watulaney	0212	k<um>awèng	<AV>marry	v:pred	v		pred		
+tondano	watulaney	0212	=la	=DIR.PROX	=rv	=rv				
+tondano	watulaney	0212	niaku	1SG	pro.1:s	pro	1	s		
+tondano	watulaney	0212	maan	with	ln	ln				
+tondano	watulaney	0212	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0212	ampit	spouse	np.h:obl	np	h	obl		
+tondano	watulaney	0212	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0213	##	##	##	##				
+tondano	watulaney	0213	m<in>a-muali	EV.STAT.PST-become	v:pred	v		pred		
+tondano	watulaney	0213	=la	=DIR.PROX	=rv	=rv				
+tondano	watulaney	0213	kèy=	1.PL.IN.NOM=	pro.1:s	pro	1	s		
+tondano	watulaney	0213	keluarga	family	np:other	np		other		
+tondano	watulaney	0214	Gèrungan	PN	nc	nc				
+tondano	watulaney	0214	tèn	HES	nc	nc				
+tondano	watulaney	0214	Gèrungan	PN	rn_np	rn_np				
+tondano	watulaney	0214	Tulangi	PN	rn_np	rn_np				
+tondano	watulaney	0215	##	##	##	##				
+tondano	watulaney	0215	a	HES	nc	nc				
+tondano	watulaney	0215	ye'i	now	other	other				
+tondano	watulaney	0215	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0215	oki'	small	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0215	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0215	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0216	e	HES	nc	nc				
+tondano	watulaney	0216	umur	age	other:pred	other		pred		
+tondano	watulaney	0216	=na	=3SG.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0217	tujuh	seven	ln	ln				
+tondano	watulaney	0217	belas	tens	ln	ln				
+tondano	watulaney	0217	=mow	=CMP	=rn	=rn				
+tondano	watulaney	0217	te'un	year	rn_np	rn_np				
+tondano	watulaney	0218	e	HES	nc	nc				
+tondano	watulaney	0219	##	##	##	##				
+tondano	watulaney	0219	te'un	year	np:other	np		other		
+tondano	watulaney	0219	esa	esa	rn	rn				
+tondano	watulaney	0219	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0219	s<um>ekola	<AV>school	v:pred	v		pred		
+tondano	watulaney	0219	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0219	tingkat	level	np.obl	np	obl			
+tondano	watulaney	0219	e	eh	nc	nc				
+tondano	watulaney	0220	##	##	##	##				
+tondano	watulaney	0220	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0220	s<um>ekola	<AV>school	v:pred	v		pred		
+tondano	watulaney	0220	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0221	##	##	##	##				
+tondano	watulaney	0221	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0221	k<um>uliah	<AV>attend.university lecture	v:pred	v		pred		
+tondano	watulaney	0221	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0221	waki	PREP3	adp	adp				
+tondano	watulaney	0221	UNIMA	PN	np:l	np		l		
+tondano	watulaney	0222	e	HES	nc	nc				
+tondano	watulaney	0223	##	##	##	##				
+tondano	watulaney	0223	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0223	kasi	more	other	other				
+tondano	watulaney	0223	sè=	HES	nc	nc				
+tondano	watulaney	0224	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0224	patuari	nuclear.family	np:s	np		s		
+tondano	watulaney	0224	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0224	waki	PREP3	adp	adp				
+tondano	watulaney	0224	wanua	village	np:l	np		l		
+tondano	watulaney	0224	##	##	##	##				
+tondano	watulaney	0224	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0224	ka-laker	very-many	other:pred	other		pred		
+tondano	watulaney	0224	karengan	definitely	other	other				
+tondano	watulaney	0224	#rc	#rc	#rc	#rc				
+tondano	watulaney	0224	sè=	3PL.REL=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0224	ma-	HES	nc	nc				
+tondano	watulaney	0225	ma-kulia	AV.DYN-university.lecture	v:pred	v		pred		
+tondano	watulaney	0225	waki	PREP3	adp	adp				
+tondano	watulaney	0225	UNIMA	PN	np:l	np		l		
+tondano	watulaney	0226	##	##	##	##				
+tondano	watulaney	0226	e	HES	nc	nc				
+tondano	watulaney	0226	waki	PREP3	nc	nc				
+tondano	watulaney	0226	wanua	village	nc	nc				
+tondano	watulaney	0226	=ku	=1SG.GEN	nc	nc				
+tondano	watulaney	0226	ma'an	HES	nc	nc				
+tondano	watulaney	0226	ma'an	although	other	other				
+tondano	watulaney	0226	wanua	village	np:s	np		s		
+tondano	watulaney	0227	row'	far	other:pred	other		pred		
+tondano	watulaney	0227	waki	PREP3	adp	adp				
+tondano	watulaney	0228	ka-ramè-an	NR-noisy-NR	np.obl	np	obl			
+tondano	watulaney	0228	##	##	##	##				
+tondano	watulaney	0228	ta'an	however	other	other				
+tondano	watulaney	0229	sè=	HES	nc	nc				
+tondano	watulaney	0230	sè=	3PL.NOM=	pro.h:p_u=	pro	h	p_u=		
+tondano	watulaney	0230	dèy'	not	nc	nc				
+tondano	watulaney	0230	=mow	=CMP	nc	nc				
+tondano	watulaney	0231	dèy'	not	neg	neg				
+tondano	watulaney	0231	=mow	=CMP	=other	=other				
+tondano	watulaney	0231	pa-lila'-an	DYN-tongue-LV	v:pred	v		pred		
+tondano	watulaney	0231	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0231	e	HES	nc	nc				
+tondano	watulaney	0232	udik	backward	np:obl	np		obl		
+tondano	watulaney	0232	#ac	#ac	#ac	#ac				
+tondano	watulaney	0232	karena	because	other	other				
+tondano	watulaney	0233	sèa	3PL	pro.h:dt_p_u	pro	h	dt_p_u		
+tondano	watulaney	0234	sè=	3PL.NOM=	pro.h:p_u=	pro	h	p_u=		
+tondano	watulaney	0234	waya	RDP	other	other				
+tondano	watulaney	0234	waya	all	rn	rn				
+tondano	watulaney	0234	pe	HES	nc	nc				
+tondano	watulaney	0235	pa-Ce-siwo-en	DYN-IRR-do-PV	v:pred	v		pred		
+tondano	watulaney	0235	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0235	=pè'	=INCMP	=rv	=rv				
+tondano	watulaney	0235	waki	PREP3	adp	adp				
+tondano	watulaney	0236	e	HES	nc	nc				
+tondano	watulaney	0237	tow	person	np.h:obl	np	h	obl		
+tondano	watulaney	0237	kota	city	rn_np	rn_np				
+tondano	watulaney	0237	##	##	##	##				
+tondano	watulaney	0237	sèa	HES	nc	nc				
+tondano	watulaney	0237	sèa	HES	nc	nc				
+tondano	watulaney	0237	kasi	more	other	other				
+tondano	watulaney	0237	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0237	ma-	HES	nc	nc				
+tondano	watulaney	0237	ma-siwo	AV.DYN-do	v:pred	v		pred		
+tondano	watulaney	0237	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0237	ZERO	ZERO	0:p_a	0		p_a		
+tondano	watulaney	0237	tuana	thus	rv	rv				
+tondano	watulaney	0238	##	##	##	##				
+tondano	watulaney	0238	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0238	ma-siwo	AV.DYN-do	v:pred	v		pred		
+tondano	watulaney	0238	walè	house	np:p_a	np		p_a		
+tondano	watulaney	0238	##	##	##	##				
+tondano	watulaney	0238	ma-siwo	HES	nc	nc				
+tondano	watulaney	0238	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0238	ma-teles	AV.DYN-buy	v:pred	v		pred		
+tondano	watulaney	0238	oto	car	np:p_a	np		p_a		
+tondano	watulaney	0238	##	##	##	##				
+tondano	watulaney	0238	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0238	ma-teles	AV.DYN-buy	v:pred	v		pred		
+tondano	watulaney	0239	ZERO	ZERO	0:p_a	0		p_a		
+tondano	watulaney	0239	waya	RDP	rn	rn				
+tondano	watulaney	0239	waya	all	rn	rn				
+tondano	watulaney	0239	##	##	##	##				
+tondano	watulaney	0239	sè=	HES	nc	nc				
+tondano	watulaney	0240	sè=	3PL=	pro.h:dt=	pro	h	dt=		
+tondano	watulaney	0240	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0240	loit	money	np:s	np		s		
+tondano	watulaney	0240	##	##	##	##				
+tondano	watulaney	0240	sè=	HES	nc	nc				
+tondano	watulaney	0241	e	HES	nc	nc				
+tondano	watulaney	0241	laker	many	ln	ln				
+tondano	watulaney	0241	dang	PART	nc	nc				
+tondano	watulaney	0241	ZERO	ZERO	0:p_u	0		p_u		
+tondano	watulaney	0241	pa-teles-en	DYN-buy-PV	v:pred	v		pred		
+tondano	watulaney	0241	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	watulaney	0242	##	##	##	##				
+tondano	watulaney	0242	jadi	thus	other	other				
+tondano	watulaney	0243	waki	PREP3	adp	adp				
+tondano	watulaney	0243	wanua	vilage	np:l	np		l		
+tondano	watulaney	0244	ee	HES	nc	nc				
+tondano	watulaney	0245	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0245	tow	RDP	ln_np	ln_np				
+tondano	watulaney	0245	tow	person	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0245	mana	there	other	other				
+tondano	watulaney	0245	dang	PART	nc	nc				
+tondano	watulaney	0246	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0246	ma-	HES	nc	nc				
+tondano	watulaney	0246	ma-suat	STAT.EV-same	v:pred	v		pred		
+tondano	watulaney	0246	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0246	waki	HES	adp	adp				
+tondano	watulaney	0247	waki	PREP3	adp	adp				
+tondano	watulaney	0247	kota	city	np:l	np		l		
+tondano	watulaney	0247	#nc	#nc	#nc	#nc				
+tondano	watulaney	0247	rèy'	not	nc	nc				
+tondano	watulaney	0247	=mow	=CMP	nc	nc				
+tondano	watulaney	0247	rèy'	NEG	nc	nc				
+tondano	watulaney	0247	=mow	=CMP	nc	nc				
+tondano	watulaney	0247	kasa	very	nc	nc				
+tondano	watulaney	0248	e	HES	nc	nc				
+tondano	watulaney	0248	wanua	RDP	nc	nc				
+tondano	watulaney	0248	wanua	village	nc	nc				
+tondano	watulaney	0249	e	HES	nc	nc				
+tondano	watulaney	0250	wanua	village	nc	nc				
+tondano	watulaney	0250	yang	REL	nc	nc				
+tondano	watulaney	0250	rèy'	not	nc	nc				
+tondano	watulaney	0250	=pè'	=INCMP	nc	nc				
+tondano	watulaney	0251	berkambang	developed	nc	nc				
+tondano	watulaney	0251	##	##	##	##				
+tondano	watulaney	0251	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	watulaney	0251	rèy'	not	neg	neg				
+tondano	watulaney	0251	=pè'	=INCMP	=other	=other				
+tondano	watulaney	0251	mina	HES	nc	nc				
+tondano	watulaney	0251	m<in>a-loo-'loo'	AV.PST.DYN-RDP-see	v:pred	v		pred		
+tondano	watulaney	0251	#cc:p_a	#cc:p_a	#cc:p_a	#cc		p_a		
+tondano	watulaney	0251	sè=	HES	nc	nc				
+tondano	watulaney	0252	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0252	tow	RDP	ln_np	ln_np				
+tondano	watulaney	0252	tow	person	np.h:a_a	np	h	a_a		
+tondano	watulaney	0252	ma-	HES	nc	nc				
+tondano	watulaney	0252	ma-teles	AV.DYN-buy	v:pred	v		pred		
+tondano	watulaney	0252	laker	RDP	ln	ln				
+tondano	watulaney	0252	laker	many	ln	ln				
+tondano	watulaney	0252	barang	goods	np:p_a	np		p_a		
+tondano	watulaney	0253	##	##	##	##				
+tondano	watulaney	0253	ta'an	however	other	other				
+tondano	watulaney	0253	waki	PREP3	adp	adp				
+tondano	watulaney	0253	wanua	village	np:l	np		l		
+tondano	watulaney	0253	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0253	ni'tu	DEM2	rn	rn				
+tondano	watulaney	0255	sè=	HES	nc	nc				
+tondano	watulaney	0256	sè=	HES	nc	nc				
+tondano	watulaney	0256	laker	all	nc	nc				
+tondano	watulaney	0256	=mow	HES	nc	nc				
+tondano	watulaney	0256	sè=	HES	nc	nc				
+tondano	watulaney	0256	sè=	HES	nc	nc				
+tondano	watulaney	0256	lak	HES	nc	nc				
+tondano	watulaney	0256	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0256	laker	many	rn	rn				
+tondano	watulaney	0256	=mow	=CMP	=other	=other				
+tondano	watulaney	0256	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	watulaney	0256	sè=	3PL.REL=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0256	ma-	HES	nc	nc				
+tondano	watulaney	0257	ma-teles	AV.DYN-buy	v:pred	v		pred		
+tondano	watulaney	0257	=itè	=LIM	=rv	=rv				
+tondano	watulaney	0257	rupa	RDP	ln_np	ln_np				
+tondano	watulaney	0257	rupa	type	np:p_a	np		p_a		
+tondano	watulaney	0258	#ac	#ac	#ac	#ac				
+tondano	watulaney	0258	ma'an	although	other	other				
+tondano	watulaney	0258	mana	there	other	other				
+tondano	watulaney	0258	kasi	more	other	other				
+tondano	watulaney	0258	e	HES	nc	nc				
+tondano	watulaney	0259	tampa	place	ln_np	ln_np				
+tondano	watulaney	0259	pa-ibadah-an	DYN-pray-LV	np:s	np		s		
+tondano	watulaney	0259	mana	there	other	other				
+tondano	watulaney	0259	enem	six	np:pred	np		pred		
+tondano	watulaney	0259	=mow	=CMP	=rn	=rn				
+tondano	watulaney	0260	##	##	##	##				
+tondano	watulaney	0260	jadi	thus	other	other				
+tondano	watulaney	0260	enem	six	np:pred	np		pred		
+tondano	watulaney	0260	=mow	=CMP	=rn	=rn				
+tondano	watulaney	0260	tampa	place	ln_np	ln_np				
+tondano	watulaney	0260	pa-ibadah-an	DYN-pray-LV	np:s	np		s		
+tondano	watulaney	0261	#ac	#ac	#ac	#ac				
+tondano	watulaney	0261	karèna	because	other	other				
+tondano	watulaney	0261	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0261	tow	person	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0261	mana	there	other	other				
+tondano	watulaney	0261	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0261	laker	all	other:pred	other		pred		
+tondano	watulaney	0261	=mow	=CMP	=other	=other				
+tondano	watulaney	0262	##	##	##	##				
+tondano	watulaney	0262	waki	PREP3	adp	adp				
+tondano	watulaney	0262	wanua	village	np:l	np		l		
+tondano	watulaney	0262	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0262	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0262	tow	person	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0262	mana	there	other	other				
+tondano	watulaney	0262	sè=	HES	nc	nc				
+tondano	watulaney	0263	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0264	e	HES	nc	nc				
+tondano	watulaney	0265	laker	many	other:pred	other		pred		
+tondano	watulaney	0265	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0265	karengan	definitely	other	other				
+tondano	watulaney	0265	##	##	##	##				
+tondano	watulaney	0265	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0266	laker	many	other:pred	other		pred		
+tondano	watulaney	0266	#ac	#ac	#ac	#ac				
+tondano	watulaney	0266	soal	issue	other	other				
+tondano	watulaney	0266	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0266	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0266	laker	many	ln	ln				
+tondano	watulaney	0266	oki'	small	np.h:s	np	h	s		
+tondano	watulaney	0266	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0266	laeng	other	other:pred	other		pred		
+tondano	watulaney	0266	##	##	##	##				
+tondano	watulaney	0266	jadi	thus	other	other				
+tondano	watulaney	0266	sè=	HES	nc	nc				
+tondano	watulaney	0267	wanua	village	np:s	np		s		
+tondano	watulaney	0267	e	HES	nc	nc				
+tondano	watulaney	0267	masalah	problem	other:pred	other		pred		
+tondano	watulaney	0267	=mow	=CMP	=rn	=rn				
+tondano	watulaney	0267	##	##	##	##				
+tondano	watulaney	0267	masalah	problem	np:s	np		s		
+tondano	watulaney	0267	=mow	=CMP	=rn	=rn				
+tondano	watulaney	0267	karengan	definitely	other	other				
+tondano	watulaney	0267	wanua	village	np:pred	np		pred		
+tondano	watulaney	0267	waki	PREP3	adp	adp				
+tondano	watulaney	0267	Watulanèy	PN	np:l	np		l		
+tondano	watulaney	0268	ee	HES	nc	nc				
+tondano	watulaney	0269	sè=	HES	nc	nc				
+tondano	watulaney	0270	##	##	##	##				
+tondano	watulaney	0270	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0270	ma-ki'it-ki'it	AV.DYN-RDP-follow	v:pred	v		pred		
+tondano	watulaney	0270	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0271	eem	HES	nc	nc				
+tondano	watulaney	0272	perkembangan	NR-flower-LV	np:p_a	np		p_a		
+tondano	watulaney	0272	waki	PREP3	adp	adp				
+tondano	watulaney	0272	kota	city	np:l	np		l		
+tondano	watulaney	0273	##	##	##	##				
+tondano	watulaney	0273	waki	PREP3	adp	adp				
+tondano	watulaney	0273	wanua	village	np:l	np		l		
+tondano	watulaney	0273	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0273	sè=	HES	nc	nc				
+tondano	watulaney	0273	laker	many	nc	nc				
+tondano	watulaney	0273	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0273	laker	many	other:pred	other		pred		
+tondano	watulaney	0273	karèngan	definitely	other	other				
+tondano	watulaney	0273	kasi	more	other	other				
+tondano	watulaney	0273	#rc	#rc	#rc	#rc				
+tondano	watulaney	0273	sè=	3PL.REL=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0273	ma-sekola	HES	nc	nc				
+tondano	watulaney	0273	ma-sekola	AV.DYN -school	v:pred	v		pred		
+tondano	watulaney	0273	pendèta	priest	rv	rv				
+tondano	watulaney	0274	##	##	##	##				
+tondano	watulaney	0274	jadi	so	other	other				
+tondano	watulaney	0274	sè=	HES	nc	nc				
+tondano	watulaney	0275	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0275	e	HES	nc	nc				
+tondano	watulaney	0276	tow	RDP	ln_np	ln_np				
+tondano	watulaney	0276	tow	person	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0276	lèwo'	bad	rn	rn				
+tondano	watulaney	0276	tèmpo	time	rn_np	rn_np				
+tondano	watulaney	0276	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0276	ma-kurang-kurang	EV.STAT-RDP-less	v:pred	v		pred		
+tondano	watulaney	0276	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0276	=la	=DIR.PROX	=rv	=rv				
+tondano	watulaney	0277	##	##	##	##				
+tondano	watulaney	0277	e	HES	nc	nc				
+tondano	watulaney	0277	waktu	time	other	other				
+tondano	watulaney	0277	te'un	RDP	ln_np	ln_np				
+tondano	watulaney	0277	te'un	year	np:other	np		other		
+tondano	watulaney	0277	l<im>angkoy	<AV.PST>pass	rn	rn				
+tondano	watulaney	0277	=la	=DIR.PROX	=other	=other				
+tondano	watulaney	0277	laker	many	other	other				
+tondano	watulaney	0278	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0278	ka-laker	very-many	other:pred	other		pred		
+tondano	watulaney	0278	karèngan	definitely	other	other				
+tondano	watulaney	0278	##	##	##	##				
+tondano	watulaney	0278	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0278	tow	RDP	ln_np	ln_np				
+tondano	watulaney	0278	tow	person	np.h:a_a	np	h	a_a		
+tondano	watulaney	0278	ma	HES	nc	nc				
+tondano	watulaney	0278	ma-wunu'	AV.DYN-kill	v:pred	v		pred		
+tondano	watulaney	0278	tow	person	np.h:p_a	np	h	p_a		
+tondano	watulaney	0278	##	##	##	##				
+tondano	watulaney	0278	wewèan	EXIST	other:predex	other		predex		
+tondano	watulaney	0278	#rc:s	#rc: s	#rc:s	#rc		s		
+tondano	watulaney	0278	sè=	3PL.REL=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0278	ma-	HES	nc	nc				
+tondano	watulaney	0279	ma-	HES	nc	nc				
+tondano	watulaney	0279	apa	what	nc	nc				
+tondano	watulaney	0280	ma-	HES	nc	nc				
+tondano	watulaney	0281	ma-tokol	AV.DYN-fight	v:pred	v		pred		
+tondano	watulaney	0281	ma- 	HES	nc	nc				
+tondano	watulaney	0281	ma-	HES	nc	nc				
+tondano	watulaney	0281	##	##	##	##				
+tondano	watulaney	0281	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	watulaney	0281	ma-tiboy	AV.DYN-grasp	v:pred	v		pred		
+tondano	watulaney	0281	e	HES	nc	nc				
+tondano	watulaney	0281	pepatil	machete	np:p_a	np		p_a		
+tondano	watulaney	0283	##	##	##	##				
+tondano	watulaney	0283	ma-	HES	nc	nc				
+tondano	watulaney	0283	sè=	HES	nc	nc				
+tondano	watulaney	0283	ma-	HES	nc	nc				
+tondano	watulaney	0283	pokok	primary	other	other				
+tondano	watulaney	0283	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0283	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0283	ma-ketor	AV.DYN-slice	v:pred	v		pred		
+tondano	watulaney	0283	tow	person	np.h:p_a	np	h	p_a		
+tondano	watulaney	0283	##	##	##	##				
+tondano	watulaney	0283	ta'an	however	other	other				
+tondano	watulaney	0283	ye'i	now	other	other				
+tondano	watulaney	0284	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0284	ma-kurang	EV.STAT-less	v:pred	v		pred		
+tondano	watulaney	0284	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0284	=la	=DIR.PROX	=rv	=rv				
+tondano	watulaney	0284	#ac	#ac	#ac	#ac				
+tondano	watulaney	0284	ka'a	because	other	other				
+tondano	watulaney	0284	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0284	ma-te'u	HES	nc	nc				
+tondano	watulaney	0284	=mow	=CMP	nc	nc				
+tondano	watulaney	0284	ma-te'u	EV.STAT-know	v:pred	v		pred		
+tondano	watulaney	0284	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0284	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0284	Opo	elder	ln_np.h	ln_np	h			
+tondano	watulaney	0284	Empung	ancestor	np.h:p_a	np	h	p_a		
+tondano	watulaney	0285	e	HES	nc	nc				
+tondano	watulaney	0286	##	##	##	##				
+tondano	watulaney	0286	mudah-mudah-an	RDP-easy	other	other				
+tondano	watulaney	0286	beri	HES	nc	nc				
+tondano	watulaney	0286	me	HES	nc	nc				
+tondano	watulaney	0286	te'un	RDP	ln_np	ln_np				
+tondano	watulaney	0286	te'un 	year	np:other	np		other		
+tondano	watulaney	0286	berikut	following	other	other				
+tondano	watulaney	0286	sè=	HES	nc	nc				
+tondano	watulaney	0286	sè=	3PL=	pro.h:dt_s=	pro	h	dt_s=		
+tondano	watulaney	0286	rèy'	not	neg	neg				
+tondano	watulaney	0286	=mow	=CMP	=other	=other				
+tondano	watulaney	0286	=la	=DIR.PROX	=rn	=rn				
+tondano	watulaney	0286	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0286	tow	person	np.h:s	np	h	s		
+tondano	watulaney	0286	tanu	like	other:pred	other		pred		
+tondano	watulaney	0286	ni'tu	DEM2	other	other				
+tondano	watulaney	0287	#ac	#ac	#ac	#ac				
+tondano	watulaney	0287	supaya	so.that	other	other				
+tondano	watulaney	0287	sè=	3PL=	pro.h:dt_p_u=	pro	h	dt_p_u=		
+tondano	watulaney	0287	waki	PREP3	adp	adp				
+tondano	watulaney	0287	wanua	HES	nc	nc				
+tondano	watulaney	0287	wanua	village	np:l	np		l		
+tondano	watulaney	0287	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0287	Watulanèy	PN	rn_np	rn_np				
+tondano	watulaney	0287	sè=	3PL.NOM=	pro.h:p_u=	pro	h	p_u=		
+tondano	watulaney	0287	musti	AUX.must	aux	aux				
+tondano	watulaney	0287	pa-Ce-siwo-en	DYN-IRR-do-PV	v:pred	v		pred		
+tondano	watulaney	0287	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0287	#ac	#ac	#ac	#ac				
+tondano	watulaney	0287	supaya	so.that	other	other				
+tondano	watulaney	0287	e	HES	nc	nc				
+tondano	watulaney	0288	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0288	ma-te'u	EV.STAT-know	v:pred	v		pred		
+tondano	watulaney	0288	waya	all	rn	rn				
+tondano	watulaney	0288	si=	HES	nc	nc				
+tondano	watulaney	0288	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0288	Opo	HES	nc	nc				
+tondano	watulaney	0288	Opo	elder	np.h:p_a	np	h	p_a		
+tondano	watulaney	0288	mana	PREP2	adp	adp				
+tondano	watulaney	0288	N=	INAN=	ln=	ln=				
+tondano	watulaney	0288	atas	above	np:l	np		l		
+tondano	watulaney	0289	#ac	#ac	#ac	#ac				
+tondano	watulaney	0289	ye'i	now	other	other				
+tondano	watulaney	0289	kasi	more	other	other				
+tondano	watulaney	0290	karena	because	other	other				
+tondano	watulaney	0290	si=	AN.SG=	ln=	ln=				
+tondano	watulaney	0290	kepala	head	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0290	=mèy	=1PL.EX.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0290	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0290	ka-wangun	very-good	other:pred	other		pred		
+tondano	watulaney	0292	e	HES	nc	nc				
+tondano	watulaney	0293	##	##	##	##				
+tondano	watulaney	0293	ka-laker	very-many	ln	ln				
+tondano	watulaney	0293	pere	HES	nc	nc				
+tondano	watulaney	0293	ZERO	ZERO	0:p_u	0		p_u		
+tondano	watulaney	0293	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	watulaney	0293	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0293	waki	PREP3	adp	adp				
+tondano	watulaney	0293	wanua	village	np:l	np		l		
+tondano	watulaney	0294	##	##	##	##				
+tondano	watulaney	0294	e	HES	nc	nc				
+tondano	watulaney	0294	ZERO	ZERO	0:p_u	0		p_u		
+tondano	watulaney	0294	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	watulaney	0294	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0294	##	##	##	##				
+tondano	watulaney	0294	i-pa-Ce-wangun-en	CV-DYN-IRR-good	v:pred	v		pred		
+tondano	watulaney	0294	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0294	wanua	village	np:p_u	np		p_u		
+tondano	watulaney	0295	##	##	##	##				
+tondano	watulaney	0295	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	watulaney	0295	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0295	lalan	road	np:p_u	np		p_u		
+tondano	watulaney	0295	##	##	##	##				
+tondano	watulaney	0295	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	watulaney	0295	ma-siwo	AV.DYN-do	v:pred	v		pred		
+tondano	watulaney	0296	ee	HES	nc	nc				
+tondano	watulaney	0297	ee	HES	nc	nc				
+tondano	watulaney	0298	got	RDP	ln_np	ln_np				
+tondano	watulaney	0298	got	drain	np:p_a	np		p_a		
+tondano	watulaney	0298	waki	PREP3	adp	adp				
+tondano	watulaney	0298	lalan	road	np:l	np		l		
+tondano	watulaney	0298	#ac	#ac	#ac	#ac				
+tondano	watulaney	0298	jadi	thus	other	other				
+tondano	watulaney	0299	sa	if	other	other				
+tondano	watulaney	0299	sèa	3PL	pro.h:s	pro	h	s		
+tondano	watulaney	0299	rèy'	not	neg	neg				
+tondano	watulaney	0299	=pè'	=INCMP	=other	=other				
+tondano	watulaney	0299	pernah	ever	other	other				
+tondano	watulaney	0299	wak	HES	nc	nc				
+tondano	watulaney	0299	<um>èa	<AV>go	v:pred	v		pred		
+tondano	watulaney	0299	waki	PREP3	adp	adp				
+tondano	watulaney	0299	wanua	village	np:l	np		l		
+tondano	watulaney	0299	=mèy	=1PL.EX.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0299	##	##	##	##				
+tondano	watulaney	0299	ZERO	ZERO	0:s	0		s		
+tondano	watulaney	0299	ghènang	thought	np:pred	np		pred		
+tondano	watulaney	0299	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	watulaney	0299	waki	PREP3	adp	adp				
+tondano	watulaney	0299	wanua	HES	nc	nc				
+tondano	watulaney	0299	wanua	village	np:l	np		l		
+tondano	watulaney	0299	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0300	#ac	#ac	#ac	#ac				
+tondano	watulaney	0300	e	HES	nc	nc				
+tondano	watulaney	0300	ka'a	because	other	other				
+tondano	watulaney	0300	ZERO	ZERO	0:s	0		s		
+tondano	watulaney	0300	rèy'	not	neg	neg				
+tondano	watulaney	0300	wangun	good	other:pred	other		pred		
+tondano	watulaney	0300	karangan	definitely	rn	rn				
+tondano	watulaney	0300	#ac	#ac	#ac	#ac				
+tondano	watulaney	0300	padahal	actually	other	other				
+tondano	watulaney	0300	sa	if	other	other				
+tondano	watulaney	0300	sèa	3PL	pro.h:s	pro	h	s		
+tondano	watulaney	0300	pernah	ever	other	other				
+tondano	watulaney	0300	=mow	=CMP	=other	=other				
+tondano	watulaney	0300	<um>èa	<AV>go	v:pred	v		pred		
+tondano	watulaney	0301	waki	PREP3	adp	adp				
+tondano	watulaney	0301	wanua	village	np:l	np		l		
+tondano	watulaney	0301	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0302	##	##	##	##				
+tondano	watulaney	0302	ZERO	ZERO	0:s	0		s		
+tondano	watulaney	0302	ka-wangun	very-good	other:pred	other		pred		
+tondano	watulaney	0302	sebenar	actually	other	other				
+tondano	watulaney	0302	##	##	##	##				
+tondano	watulaney	0302	ZERO	ZERO	0:s	0		s		
+tondano	watulaney	0302	ka-wangun	very-good	other:pred	other		pred		
+tondano	watulaney	0302	karengan	definitely	other	other				
+tondano	watulaney	0302	#ac	#ac	#ac	#ac				
+tondano	watulaney	0302	sa	if	other	other				
+tondano	watulaney	0302	ZERO	ZERO	0:p_u	0		p_u		
+tondano	watulaney	0302	pa-Ce-loo'-en	DYN-IRR-see-PV	v:pred	v		pred		
+tondano	watulaney	0302	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	watulaney	0303	em	HES	nc	nc				
+tondano	watulaney	0304	##	##	##	##				
+tondano	watulaney	0304	pemandangan	scenery	np:s	np		s		
+tondano	watulaney	0304	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	watulaney	0304	ka-wangun	very-good	other:pred	other		pred		
+tondano	watulaney	0304	##	##	##	##				
+tondano	watulaney	0304	pokok	primary	other	other				
+tondano	watulaney	0304	=nya	=3SG.GEN	=other	=other				
+tondano	watulaney	0304	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0304	tow	RDP	ln_np	ln_np				
+tondano	watulaney	0304	tow	person	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0304	kasi	more	other	other				
+tondano	watulaney	0304	sè=	HES	nc	nc				
+tondano	watulaney	0304	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0304	ka-wangun	very-good	other:pred	other		pred		
+tondano	watulaney	0304	waya	all	other	other				
+tondano	watulaney	0305	##	##	##	##				
+tondano	watulaney	0305	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0305	ma-lè'os-lè'os-an	AV.DYN-RDP-good-MUT	v:pred	v		pred		
+tondano	watulaney	0305	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0305	sè=	HES	nc	nc				
+tondano	watulaney	0305	wa	HES	nc	nc				
+tondano	watulaney	0305	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0305	tow	person	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0305	waki	PREP3	ln	ln				
+tondano	watulaney	0306	wanua	village	np:l	np		l		
+tondano	watulaney	0306	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0307	e	HES	nc	nc				
+tondano	watulaney	0308	##	##	##	##				
+tondano	watulaney	0308	i-ka-ayo'	CV-arrive	other	other				
+tondano	watulaney	0308	ye'i	now	other	other				
+tondano	watulaney	0308	sè=	AN.PL=	ln=	ln=				
+tondano	watulaney	0308	tow	person	np.h:dt_s	np	h	dt_s		
+tondano	watulaney	0308	waki	HES	nc	nc				
+tondano	watulaney	0308	waki	PREP3	adp	adp				
+tondano	watulaney	0308	wanua	village	np:l	np		l		
+tondano	watulaney	0308	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0309	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	watulaney	0310	ma-lè'os-lè'os-an	AV.DYN-RDP-good-MUT	v:pred	v		pred		
+tondano	watulaney	0310	=mow	=CMP	=rv	=rv				
+tondano	watulaney	0311	##	##	##	##				
+tondano	watulaney	0311	ZERO	ZERO	0.h:s	0	h	s		
+tondano	watulaney	0311	rèy'	not	neg	neg				
+tondano	watulaney	0311	=mow	=CMP	=other	=other				
+tondano	watulaney	0311	tanu	like	other:pred	other		pred		
+tondano	watulaney	0311	N=	INAN=	other=	other=				
+tondano	watulaney	0311	dulu	early	other	other				
+tondano	watulaney	0311	dulu	early	other	other				
+tondano	watulaney	0312	##	##	##	##				
+tondano	watulaney	0312	e	HES	nc	nc				
+tondano	watulaney	0312	i-ka-ayo'	CV-arrive	other	other				
+tondano	watulaney	0312	=pè'	=INCMP	=rv	=rv				
+tondano	watulaney	0312	wia	here	other	other				
+tondano	watulaney	0312	Ce-susui-en	NR-talk-PV	np:p_u	np		p_u		
+tondano	watulaney	0312	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	watulaney	0312	=la	=DIR.PROX	=rn	=rn				
+tondano	watulaney	0313	e	HES	nc	nc				
+tondano	watulaney	0314	sambung-en	continue-PV	v:pred	v		pred		
+tondano	watulaney	0314	ZERO	ZERO	0.1:a_u	0	1	a_u		
+tondano	watulaney	0314	=mowkan	=definitely	=rv	=rv				
+tondano	watulaney	0314	e	HES	nc	nc				
+tondano	watulaney	0314	kasi	more	rv	rv				
+tondano	watulaney	0315	eem	HES	nc	nc				
+tondano	watulaney	0316	berikut	following	other	other				
+tondano	watulaney	0317	##	##	##	##				
+tondano	watulaney	0317	ZERO	ZERO	0:s	0		s		
+tondano	watulaney	0317	abis	finished	other:pred	other		pred		
+tondano	watulaney	0317	=la	=DIR.PROX	=other	=other				
+tondano	watulaney	0317	ye'i	now	other	other				
+tondano	watulaney	0317	##	##	##	##				
+tondano	watulaney	0317	mungkin	maybe	other	other				
+tondano	watulaney	0317	ZERO	ZERO	0:s	0		s		
+tondano	watulaney	0317	abis	finished	other:pred	other		pred		
+tondano	watulaney	0317	=la	=DIR.PROX	=other	=other				
+tondano	watulaney	0317	ye'i	now	other	other				
+tondano	watulaney	0317	##	##	##	##				
+tondano	watulaney	0317	ZERO	ZERO	0.1:s	0	1	s		
+tondano	watulaney	0317	ma-Ce-susui	AV.DYN-IRR-talk	v:pred	v		pred		
+tondano	watulaney	0317	lèy	more	other	other				
+tondano	watulaney	0318	##	##	##	##				
+tondano	watulaney	0318	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	watulaney	0318	ma-Ce-susui	AV.DYN-IRR-talk	v:pred	v		pred		
+tondano	watulaney	0318	e	HES	nc	nc				
+tondano	watulaney	0318	cerita	story	np:p_a	np		p_a		
+tondano	watulaney	0318	laèng	other	rn	rn				

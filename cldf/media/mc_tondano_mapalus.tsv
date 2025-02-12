@@ -1,0 +1,947 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+tondano	mapalus	0001	##	##	##	##				
+tondano	mapalus	0001	waktu	time	np:other	np		other		
+tondano	mapalus	0001	ku=	HES	nc	nc				
+tondano	mapalus	0001	masi	HES	nc	nc				
+tondano	mapalus	0001	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0001	reraa	girl	np.h:pred	np	h	pred		
+tondano	mapalus	0001	=pè'	=INCMP	=other	=other				
+tondano	mapalus	0002	##	##	##	##				
+tondano	mapalus	0002	ku=	1SG.NOM=	pro.1:a_a=	pro	1	a_a=		
+tondano	mapalus	0002	ma-ki'it	AV.DYN-follow	v:pred	v		pred		
+tondano	mapalus	0002	ma-Ce-palus	AV.DYN-IRR-work.together	np:p_a	np		p_a		
+tondano	mapalus	0003	##	##	##	##				
+tondano	mapalus	0003	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0003	<um>èa	<AV>go	lv	lv				
+tondano	mapalus	0003	ma-tanem	AV.DYN-cultivate	v:pred	v		pred		
+tondano	mapalus	0004	wo	and	nc	nc				
+tondano	mapalus	0004	sapa	what	nc	nc				
+tondano	mapalus	0005	#ac	#ac	#ac	#ac				
+tondano	mapalus	0005	ta'an	however	other	other				
+tondano	mapalus	0005	sa	if	other	other				
+tondano	mapalus	0005	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0005	<um>warèng	<AV>return.home	v:pred	v		pred		
+tondano	mapalus	0005	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0005	=mi	=DIR.DIST	=rv	=rv				
+tondano	mapalus	0005	sa	if	nc	nc				
+tondano	mapalus	0005	hari	day	np:other	np		other		
+tondano	mapalus	0005	sabtu	saturday	rn_np	rn_np				
+tondano	mapalus	0006	##	##	##	##				
+tondano	mapalus	0006	ee	HES	nc	nc				
+tondano	mapalus	0006	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0006	<um>èa	<AV>go	v:pred	v		pred		
+tondano	mapalus	0006	wia	PREP1	adp	adp				
+tondano	mapalus	0006	N=	INAN=	ln=	ln=				
+tondano	mapalus	0006	pesta	party	np:g	np		g		
+tondano	mapalus	0006	##	##	##	##				
+tondano	mapalus	0006	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0006	<um>èa	<AV>go	lv	lv				
+tondano	mapalus	0006	l<um>ansa	<AV>dance	v:pred	v		pred		
+tondano	mapalus	0006	waki	PREP3	adp	adp				
+tondano	mapalus	0006	Kolèt	PN	np:l	np		l		
+tondano	mapalus	0007	serta	after	nc	nc				
+tondano	mapalus	0007	itu	DEM2	nc	nc				
+tondano	mapalus	0007	èy	PART	nc	nc				
+tondano	mapalus	0007	kasihan	PART	nc	nc				
+tondano	mapalus	0007	##	##	##	##				
+tondano	mapalus	0007	wo	and	other	other				
+tondano	mapalus	0007	sèa	3PL	pro.h:s	pro	h	s		
+tondano	mapalus	0007	<um>èy	<AV>come	v:pred	v		pred		
+tondano	mapalus	0007	sè=	HES	nc	nc				
+tondano	mapalus	0008	apa	what	nc	nc				
+tondano	mapalus	0009	sè=	AN.PL=	ln=	ln=				
+tondano	mapalus	0009	brawijaya	PN	np:dt_s	np		dt_s		
+tondano	mapalus	0010	##	##	##	##				
+tondano	mapalus	0010	perangou 	war	ln	ln				
+tondano	mapalus	0010	=mow	=CMP	=ln	=ln				
+tondano	mapalus	0010	Permèsta	PN	np:pred	np		pred		
+tondano	mapalus	0010	itu	DEM2	pro:s	pro		s		
+tondano	mapalus	0011	ya	AFF	nc	nc				
+tondano	mapalus	0012	##	##	##	##				
+tondano	mapalus	0012	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	mapalus	0012	<im>èa	<AV.PST>go	v:pred	v		pred		
+tondano	mapalus	0012	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0012	wia	PREP1	adp	adp				
+tondano	mapalus	0012	N=	INAN=	ln=	ln=				
+tondano	mapalus	0012	talun	forest	np:l	np		l		
+tondano	mapalus	0012	waya	all	ln	ln				
+tondano	mapalus	0012	sè=	AN.PL=	ln=	ln=				
+tondano	mapalus	0012	ka'ampit	friend	np.h:dt_s	np	h	dt_s		
+tondano	mapalus	0012	=mèy	=1PL.EX.GEN	=pro.1:poss	=pro	1	poss		
+tondano	mapalus	0012	tuama	man	rn_np.h	rn_np	h			
+tondano	mapalus	0013	##	##	##	##				
+tondano	mapalus	0013	ZERO	ZERO	0.h:s	0	h	s		
+tondano	mapalus	0013	t<im>ingkas	<AV.PST>run	v:pred	v		pred		
+tondano	mapalus	0013	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0013	wia	PREP1	adp	adp				
+tondano	mapalus	0013	N=	INAN=	ln=	ln=				
+tondano	mapalus	0013	talun	forest	np:l	np		l		
+tondano	mapalus	0014	##	##	##	##				
+tondano	mapalus	0014	jadi	thus	other	other				
+tondano	mapalus	0014	kèy=	1PL.EX.NOM=	pro.1:a_a=	pro	1	a_a=		
+tondano	mapalus	0014	rèy'	don't	neg	neg				
+tondano	mapalus	0014	=mow	=CMP	=other	=other				
+tondano	mapalus	0014	ma-te'u	EV.STAT-know	v:pred	v		pred		
+tondano	mapalus	0014	#cc:p_a	#cc:p_a	#cc:p_a	#cc		p_a		
+tondano	mapalus	0014	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	mapalus	0014	s<um>iwo	<AV>do	v:pred	v		pred		
+tondano	mapalus	0014	sapa	what	np:p_a	np		p_a		
+tondano	mapalus	0015	##	##	##	##				
+tondano	mapalus	0015	w<in>èè-an	<PST>give-LV	v:pred	v		pred		
+tondano	mapalus	0015	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0015	jam	hour	np:p_u	np		p_u		
+tondano	mapalus	0015	malam	night	rn_np	rn_np				
+tondano	mapalus	0016	##	##	##	##				
+tondano	mapalus	0016	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0016	rèy'	not	neg	neg				
+tondano	mapalus	0016	toro	AUX.can	aux	aux				
+tondano	mapalus	0016	maka-esa	AV.POT-one	v:pred	v		pred		
+tondano	mapalus	0016	##	##	##	##				
+tondano	mapalus	0016	jam	hour	np:other	np		other		
+tondano	mapalus	0016	=mow	=CMP	=other	=other				
+tondano	mapalus	0016	enem	six	rn	rn				
+tondano	mapalus	0016	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0016	rèy'	not	neg	neg				
+tondano	mapalus	0016	=mow	=CMP	=other	=other				
+tondano	mapalus	0016	toro	AUX.can	aux	aux				
+tondano	mapalus	0016	maka-kaluar	AV.POT-go.out	v:pred	v		pred		
+tondano	mapalus	0016	N=	INAN=	ln=	ln=				
+tondano	mapalus	0016	walè	house	np:l	np		l		
+tondano	mapalus	0017	##	##	##	##				
+tondano	mapalus	0017	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0017	<um>èa 	<AV>go	v:pred	v		pred		
+tondano	mapalus	0017	waki	PREP3	adp	adp				
+tondano	mapalus	0017	uma	field	np:l	np		l		
+tondano	mapalus	0018	##	##	##	##				
+tondano	mapalus	0018	ko=	2SG=	pro.2.dt=	pro	2.dt=			
+tondano	mapalus	0018	musti	AUX.must	aux	aux				
+tondano	mapalus	0018	wewèan	EXIST	other:predex	other		predex		
+tondano	mapalus	0018	kartu	card	np:s	np		s		
+tondano	mapalus	0018	penduduk	inhabitant	rn_np.h	rn_np	h			
+tondano	mapalus	0018	#ac	#ac	#ac	#ac				
+tondano	mapalus	0018	sa 	if	other	other				
+tondano	mapalus	0018	rèy'	EXIST.NEG	other:predex	other		predex		
+tondano	mapalus	0018	=la	=DIR.PROX	=other	=other				
+tondano	mapalus	0018	ZERO	ZERO	0:s	0		s		
+tondano	mapalus	0018	##	##	##	##				
+tondano	mapalus	0018	ko=	HES	nc	nc				
+tondano	mapalus	0018	rèy'	HES	nc	nc				
+tondano	mapalus	0019	ko=	2SG.NOM=	pro.2:p_u=	pro	2	p_u=		
+tondano	mapalus	0019	taang-an	intercept-LV	v:pred	v		pred		
+tondano	mapalus	0019	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0019	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0019	##	##	##	##				
+tondano	mapalus	0019	ZERO	ZERO	0.2:p_u	0	2	p_u		
+tondano	mapalus	0019	taang-an	intercept-LV	v:pred	v		pred		
+tondano	mapalus	0019	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0020	##	##	##	##				
+tondano	mapalus	0020	waya	all	ln	ln				
+tondano	mapalus	0020	N=	INAN=	ln=	ln=				
+tondano	mapalus	0020	perempatan	quarter	np:dt	np		dt		
+tondano	mapalus	0020	wewèan	EXIST	other:predex	other		predex		
+tondano	mapalus	0020	pos	post	np:s	np		s		
+tondano	mapalus	0020	nè=	AN.PL.GEN=	rn=	rn=				
+tondano	mapalus	0020	Brawijaya	PN	rn_np:poss	rn_np		poss		
+tondano	mapalus	0021	##	##	##	##				
+tondano	mapalus	0021	ya	AFF	nc	nc				
+tondano	mapalus	0021	pengalaman	experience	np:pred	np		pred		
+tondano	mapalus	0021	ni'tu	DEM2	pro:s	pro		s		
+tondano	mapalus	0021	ya	AFF	nc	nc				
+tondano	mapalus	0022	##	##	##	##				
+tondano	mapalus	0022	ZERO	ZERO	0.1:p_u	0	1	p_u		
+tondano	mapalus	0022	peN-ki'it-en	DYN-follow-PV	v:pred	v		pred		
+tondano	mapalus	0022	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	mapalus	0022	Brawijaya	PN	np:a_u	np		a_u		
+tondano	mapalus	0023	##	##	##	##				
+tondano	mapalus	0023	lutnan	lieutenant	np.h:other	np	h	other		
+tondano	mapalus	0023	tarè	new	rn	rn				
+tondano	mapalus	0023	ta'an	however	other	other				
+tondano	mapalus	0023	si=	3SG=	pro.h:dt=	pro	h	dt=		
+tondano	mapalus	0023	wewèan 	EXIST	other:predex	other		predex		
+tondano	mapalus	0023	ampit	spouse	np.h:s	np	h	s		
+tondano	mapalus	0024	he he	he he	nc	nc				
+tondano	mapalus	0025	#nc	#nc	#nc	#nc				
+tondano	mapalus	0025	adu	PART	nc	nc				
+tondano	mapalus	0025	=la	=DIR.PROX	nc	nc				
+tondano	mapalus	0025	ku=	1SG.	nc	nc				
+tondano	mapalus	0025	so'o	AUX.don't.want	nc	nc				
+tondano	mapalus	0026	#ac	#ac	#ac	#ac				
+tondano	mapalus	0026	ma'an	although	other	other				
+tondano	mapalus	0026	ku=	1SG.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0026	èdo-en	take-PV	v:pred	v		pred		
+tondano	mapalus	0026	kadang	sometimes	rv	rv				
+tondano	mapalus	0026	meN-opas	AV.DYN-fish	np.h:a_u	np	h	a_u		
+tondano	mapalus	0026	##	##	##	##				
+tondano	mapalus	0026	ku=	1SG.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0026	so'o	AUX.don't.want	aux	aux				
+tondano	mapalus	0026	èdo-en	take-PV	v:pred	v		pred		
+tondano	mapalus	0026	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0026	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0027	##	##	##	##				
+tondano	mapalus	0027	ya	AFF	nc	nc				
+tondano	mapalus	0027	ka-ada-an	NR-EXIST-NR	np:p_a	np		p_a		
+tondano	mapalus	0027	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	mapalus	0027	ma-maksa	AV.DYN-coerce	v:pred	v		pred		
+tondano	mapalus	0028	##	##	##	##				
+tondano	mapalus	0028	daripada	than	other	other				
+tondano	mapalus	0028	ku=	1SG.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0028	s<in>usui-an	<PST>speak-LV	v:pred	v		pred		
+tondano	mapalus	0028	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0028	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0029	##	##	##	##				
+tondano	mapalus	0029	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	mapalus	0029	<um>èa	<AV>go	lv	lv				
+tondano	mapalus	0029	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0029	meN-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	mapalus	0029	ku'a	PART	other	other				
+tondano	mapalus	0029	bridge	bridge	np:p_a	np		p_a		
+tondano	mapalus	0029	wo	with	ln	ln				
+tondano	mapalus	0029	sè=	AN.PL=	ln=	ln=				
+tondano	mapalus	0029	anu	NON.SPEC	np.h:obl	np	h	obl		
+tondano	mapalus	0030	##	##	##	##				
+tondano	mapalus	0030	ee	HES	nc	nc				
+tondano	mapalus	0030	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	mapalus	0030	sapa	what	other:pred	other		pred		
+tondano	mapalus	0031	#nc	#nc	#nc	#nc				
+tondano	mapalus	0031	sè=	AN.PL=	nc	nc				
+tondano	mapalus	0031	loi	?	nc	nc				
+tondano	mapalus	0031	mana	HES	nc	nc				
+tondano	mapalus	0032	waki	PREP3	nc	nc				
+tondano	mapalus	0032	Katinggolan	PN	nc	nc				
+tondano	mapalus	0032	iti'i	DEM2	nc	nc				
+tondano	mapalus	0034	rèy'	not	nc	nc				
+tondano	mapalus	0034	ya	AFF	nc	nc				
+tondano	mapalus	0035	##	##	##	##				
+tondano	mapalus	0035	sia	3SG	pro.h:s	pro	h	s		
+tondano	mapalus	0036	rèy'	not	neg	neg				
+tondano	mapalus	0037	keruk	?	ln	ln				
+tondano	mapalus	0037	mayor	major	np.h:pred	np	h	pred		
+tondano	mapalus	0037	iti'i	DEM2	rn	rn				
+tondano	mapalus	0039	##	##	##	##				
+tondano	mapalus	0039	dan	and	other	other				
+tondano	mapalus	0039	niaku	1PL.EX	pro.1:dt_a_u	pro	1	dt_a_u		
+tondano	mapalus	0039	k<in>a-liur-an	STAT.PST-know-LV	v:pred	v		pred		
+tondano	mapalus	0039	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+tondano	mapalus	0039	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0039	ngaran	name	np:p_u	np		p_u		
+tondano	mapalus	0039	=na	=3SG.GEN	=pro.h:poss	=pro	h	poss		
+tondano	mapalus	0040	##	##	##	##				
+tondano	mapalus	0040	ZERO	ZERO	0.1:p_u	0	1	p_u		
+tondano	mapalus	0040	peN-ki'it-ki'it-en	DYN-RDP-follow-PV	v:pred	v		pred		
+tondano	mapalus	0040	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	mapalus	0040	Brawijaya	PN	np:a_u	np		a_u		
+tondano	mapalus	0041	##	##	##	##				
+tondano	mapalus	0041	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	mapalus	0041	<um>èa	<AV>go	lv	lv				
+tondano	mapalus	0041	<um>pa'ayang	<AV>work	v:pred	v		pred		
+tondano	mapalus	0041	badminton	badminton	np:p_a	np		p_a		
+tondano	mapalus	0041	#ac	#ac	#ac	#ac				
+tondano	mapalus	0041	sa	if	other	other				
+tondano	mapalus	0041	ku=	1SG.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0041	anu	NON.SPEC	nc	nc				
+tondano	mapalus	0041	siwo-en	do-PV	v:pred	v		pred		
+tondano	mapalus	0041	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0042	##	##	##	##				
+tondano	mapalus	0042	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	mapalus	0042	<um>èa	<AV>go	v:pred	v		pred		
+tondano	mapalus	0042	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0043	sè=	HES	nc	nc				
+tondano	mapalus	0043	pè	HES	nc	nc				
+tondano	mapalus	0044	##	##	##	##				
+tondano	mapalus	0044	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	mapalus	0044	tèa	new	lv	lv				
+tondano	mapalus	0044	ma-ghorèm	AV.DYN-enter	v:pred	v		pred		
+tondano	mapalus	0044	=mèè	=DIR.MED	=rv	=rv				
+tondano	mapalus	0044	##	##	##	##				
+tondano	mapalus	0044	N=	INAN=	other=	other=				
+tondano	mapalus	0044	waya	all	other	other				
+tondano	mapalus	0044	sè=	3PL.NOM=	pro.h:p_u=	pro	h	p_u=		
+tondano	mapalus	0044	loo'-en	see-PV	v:pred	v		pred		
+tondano	mapalus	0044	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0044	=la	=DIR.PROX	=rv	=rv				
+tondano	mapalus	0045	##	##	##	##				
+tondano	mapalus	0045	ada	EXIST	other:predex	other		predex		
+tondano	mapalus	0045	situ	there	other	other				
+tondano	mapalus	0045	tapè	1SG.GEN	pro.1:poss	pro	1	poss		
+tondano	mapalus	0045	nona	young.woman	np.h:s	np	h	s		
+tondano	mapalus	0046	he he	he he	nc	nc				
+tondano	mapalus	0047	##	##	##	##				
+tondano	mapalus	0047	kakuruala	sometimes	other	other				
+tondano	mapalus	0047	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0047	ma-Ce-kirong	AV.DYN-IRR-conceal	v:pred	v		pred		
+tondano	mapalus	0048	##	##	##	##				
+tondano	mapalus	0048	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0048	ma-Ce-kirong	AV.DYN-conceal	v:pred	v		pred		
+tondano	mapalus	0049	so'o	AUX.don't.want	nc	nc				
+tondano	mapalus	0049	#ac	#ac	#ac	#ac				
+tondano	mapalus	0049	ka'a	because	other	other				
+tondano	mapalus	0049	si=	HES	nc	nc				
+tondano	mapalus	0050	si=	1SG=	pro.h:dt=	pro	h	dt=		
+tondano	mapalus	0050	wewèan	EXIST	other:predex	other		predex		
+tondano	mapalus	0050	ampit	spouse	np.h:s	np	h	s		
+tondano	mapalus	0051	##	##	##	##				
+tondano	mapalus	0051	kura	how	other:pred	other		pred		
+tondano	mapalus	0051	=mow	=CMP	=other	=other				
+tondano	mapalus	0051	sia	3SG	pro.h:s	pro	h	s		
+tondano	mapalus	0052	##	##	##	##				
+tondano	mapalus	0052	jadi	thus	other	other				
+tondano	mapalus	0052	kasihan	PART	nc	nc				
+tondano	mapalus	0052	keadaan	NR-EXIST-NR	np:p_a	np		p_a		
+tondano	mapalus	0052	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	mapalus	0052	ma-maksa	AV.DYN-coerce	v:pred	v		pred		
+tondano	mapalus	0052	waktu	time	np:other	np		other		
+tondano	mapalus	0052	ni'tu	DEM2	rn	rn				
+tondano	mapalus	0053	ya	AFF	nc	nc				
+tondano	mapalus	0054	##	##	##	##				
+tondano	mapalus	0054	sama	same	other	other				
+tondano	mapalus	0054	sekali	very	other	other				
+tondano	mapalus	0054	ku=	1SG.NOM=	pro.1:a_a=	pro	1	a_a=		
+tondano	mapalus	0054	so'o	don't.want	v:other	v		other		
+tondano	mapalus	0054	nisa	3SG	pro.h:p_a	pro	h	p_a		
+tondano	mapalus	0054	##	##	##	##				
+tondano	mapalus	0054	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0054	ma-kirong	AV.DYN-conceal	v:pred	v		pred		
+tondano	mapalus	0055	##	##	##	##				
+tondano	mapalus	0055	m<in>a-wo'opira	EV.STAT.PST - several	other	other				
+tondano	mapalus	0055	minggu	week	np:other	np		other		
+tondano	mapalus	0055	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0055	<im>èa 	<AV.PST>go	v:pred	v		pred		
+tondano	mapalus	0055	maan	with	ln	ln				
+tondano	mapalus	0055	 kèkè	maiden	np.h:obl	np	h	obl		
+tondano	mapalus	0055	tow	person	rn	rn				
+tondano	mapalus	0055	N=	INAN=	ln=	ln=				
+tondano	mapalus	0055	Taler	PN	np:l	np		l		
+tondano	mapalus	0056	##	##	##	##				
+tondano	mapalus	0056	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0056	<im>èa 	<AV.PST>go	lv	lv				
+tondano	mapalus	0056	ma-kirong	AV.DYN-conceal	v:pred	v		pred		
+tondano	mapalus	0056	waki	PREP3	adp	adp				
+tondano	mapalus	0056	Kendis	PN	np:l	np		l		
+tondano	mapalus	0057	#ac	#ac	#ac	#ac				
+tondano	mapalus	0057	sa	if	other	other				
+tondano	mapalus	0057	jam	hour	np:other	np		other		
+tondano	mapalus	0057	=mow	=CMP	=rn	=rn				
+tondano	mapalus	0057	lima	five	rn	rn				
+tondano	mapalus	0057	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0057	<um>èa	<AV>go	v:pred	v		pred		
+tondano	mapalus	0057	waki	PREP3	adp	adp				
+tondano	mapalus	0057	Kendis	PN	np:l	np		l		
+tondano	mapalus	0058	##	##	##	##				
+tondano	mapalus	0058	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0058	<um>èa	<AV>go	v:pred	v		pred		
+tondano	mapalus	0058	waki	PREP3	adp	adp				
+tondano	mapalus	0058	sè=	AN.PL=	ln=	ln=				
+tondano	mapalus	0058	tanta	aunt	np.h:g	np	h	g		
+tondano	mapalus	0058	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	mapalus	0058	esa	one	rn	rn				
+tondano	mapalus	0059	##	##	##	##				
+tondano	mapalus	0059	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0059	<um>èa	<AV>go	lv	lv				
+tondano	mapalus	0059	matekel	AV.DYN-sleep	v:pred	v		pred		
+tondano	mapalus	0059	witu	there	other	other				
+tondano	mapalus	0059	=la	=DIR.PROX	=other	=other				
+tondano	mapalus	0059	##	##	##	##				
+tondano	mapalus	0059	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0059	so'o	AUX.don't.want	aux	aux				
+tondano	mapalus	0059	<um>ato-an	<AV>look-MUT	v:pred	v		pred		
+tondano	mapalus	0059	si=	AN.SG=	ln=	ln=				
+tondano	mapalus	0059	Brawijaya	PN	np:s	np		s		
+tondano	mapalus	0060	##	##	##	##				
+tondano	mapalus	0060	ka'a	because	other	other				
+tondano	mapalus	0060	k<in>a-linga-an	STAT.PST-listen-LV	v:pred	v		pred		
+tondano	mapalus	0060	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+tondano	mapalus	0060	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0060	#cc:p_u	#cc:p_u	#cc:p_u	#cc		p_u		
+tondano	mapalus	0060	wewèan	EXIST	other:predex	other		predex		
+tondano	mapalus	0060	=mow	=CMP	=other	=other				
+tondano	mapalus	0060	#rc:s	#rc:s	#rc:s	#rc		s		
+tondano	mapalus	0060	si=	3SG.REL=	pro.h:s=	pro	h	s=		
+tondano	mapalus	0060	s<im>usui	<AV.PST>speak	v:pred	v		pred		
+tondano	mapalus	0060	wia	PREP1	adp	adp				
+tondano	mapalus	0060	niaku	1SG	pro.1:g	pro	1	g		
+tondano	mapalus	0061	#ac	#ac	#ac	#ac				
+tondano	mapalus	0061	sa	if	other	other				
+tondano	mapalus	0061	ku=	HES	nc	nc				
+tondano	mapalus	0061	kèy=	1PL.EX.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0061	loo'-en	see-PV	v:pred	v		pred		
+tondano	mapalus	0061	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0061	wia	PREP3	adp	adp				
+tondano	mapalus	0061	N=	INAN=	ln=	ln=				
+tondano	mapalus	0061	lalan	road	np:l	np		l		
+tondano	mapalus	0062	##	##	##	##				
+tondano	mapalus	0062	ku=	1SG.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0062	ali-en	bring-PV	v:pred	v		pred		
+tondano	mapalus	0062	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0062	wo	with	ln	ln				
+tondano	mapalus	0062	N=	INAN=	ln=	ln=				
+tondano	mapalus	0062	oto	car	np:obl	np		obl		
+tondano	mapalus	0062	##	##	##	##				
+tondano	mapalus	0062	ZERO	ZERO	0.h:p_u	0	h	p_u		
+tondano	mapalus	0062	ali-en	bring-PV	v:pred	v		pred		
+tondano	mapalus	0062	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0062	waki	PREP3	adp	adp				
+tondano	mapalus	0062	Bitung	PN	np:l	np		l		
+tondano	mapalus	0063	##	##	##	##				
+tondano	mapalus	0063	wo	and	other	other				
+tondano	mapalus	0063	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0063	makirong	AV.DYN-conceal	v:pred	v		pred		
+tondano	mapalus	0064	##	##	##	##				
+tondano	mapalus	0064	susur	every	other	other				
+tondano	mapalus	0064	kasihan	PART	nc	nc				
+tondano	mapalus	0064	sorè	afternoon	np:other	np		other		
+tondano	mapalus	0064	=mow	=CMP	=rn	=rn				
+tondano	mapalus	0064	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0064	<um>èa	<AV>go	lv	lv				
+tondano	mapalus	0064	=mow	=CMP	=lv	=lv				
+tondano	mapalus	0064	k<um>irong	<AV>conceal	v:pred	v		pred		
+tondano	mapalus	0065	##	##	##	##				
+tondano	mapalus	0065	èna	HES	nc	nc				
+tondano	mapalus	0065	peN-ancam-ancam-en	DYN-RDP-threaten-PV	v:pred	v		pred		
+tondano	mapalus	0065	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0065	mama	mother	ln_np.h	ln_np	h			
+tondano	mapalus	0065	=ku	=1SG.GEN	=ln_pro.1:poss	=ln_pro	1	poss		
+tondano	mapalus	0065	wo	and	ln	ln				
+tondano	mapalus	0065	si=	AN.SG=	ln=	ln=				
+tondano	mapalus	0065	papa	father	np.h:p_u	np	h	p_u		
+tondano	mapalus	0065	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	mapalus	0066	##	##	##	##				
+tondano	mapalus	0066	wisa	where	other:pred	other		pred		
+tondano	mapalus	0066	=kè 	EPIS	other	other				
+tondano	mapalus	0066	aku	1SG	pro.1:s	pro	1	s		
+tondano	mapalus	0067	##	##	##	##				
+tondano	mapalus	0067	lainkali	sometimes	other	other				
+tondano	mapalus	0067	ZERO	ZERO	0.h:p_u	0	h	p_u		
+tondano	mapalus	0067	i-lila'	CV-tongue	v:pred	v		pred		
+tondano	mapalus	0067	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	mapalus	0067	papa	father	np.h:a_u_ds	np	h	a_u_ds		
+tondano	mapalus	0067	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	mapalus	0067	# ds	# ds	#ds	#ds				
+tondano	mapalus	0067	ZERO	ZERO	0.h:s	0	h	s		
+tondano	mapalus	0067	<im>èa 	<AV.PST>go	v:pred	v		pred		
+tondano	mapalus	0067	waki	PREP3	adp	adp				
+tondano	mapalus	0067	Wènang	PN	np:l	np		l		
+tondano	mapalus	0068	##	##	##	##				
+tondano	mapalus	0068	lainkali	sometimes	other	other				
+tondano	mapalus	0068	ZERO	ZERO	0.h:p_u	0	h	p_u		
+tondano	mapalus	0068	i-lila'	CV-tongue	v:pred	v		pred		
+tondano	mapalus	0068	=na	=3SG.GEN	=pro.h:a_u_ds	=pro	h	a_u_ds		
+tondano	mapalus	0068	=la	=DIR.PROX	=rv	=rv				
+tondano	mapalus	0068	# ds	# ds	#ds	#ds				
+tondano	mapalus	0068	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	mapalus	0068	k<im>aluar	<AV.PST>go.out	v:pred	v		pred		
+tondano	mapalus	0068	## 	## 	## 	## 				
+tondano	mapalus	0068	ZERO	ZERO	0.h:p_u	0	h	p_u		
+tondano	mapalus	0068	 rèy'	don't	neg	neg				
+tondano	mapalus	0068	ka-te'u-an	STAT-know-LV	v:pred	v		pred		
+tondano	mapalus	0068	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0068	wisa	where	other	other				
+tondano	mapalus	0068	nya	PART	nc	nc				
+tondano	mapalus	0069	##	##	##	##				
+tondano	mapalus	0069	padahal	although	other	other				
+tondano	mapalus	0069	ka-te'u-an	STAT-know-LV	v:pred	v		pred		
+tondano	mapalus	0069	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0069	#cc:p_u	#cc:p_u	#cc:p_u	#cc		p_u		
+tondano	mapalus	0069	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0069	waki	PREP3	adp	adp				
+tondano	mapalus	0069	Kendis	PN	np:pred_l	np		pred_l		
+tondano	mapalus	0070	##	##	##	##				
+tondano	mapalus	0070	jadi	thus	other	other				
+tondano	mapalus	0071	pengalaman	experience	np:other	np		other		
+tondano	mapalus	0071	 kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0071	ma-Ce-palus	AV.DYN-IRR-work.together	v:pred	v		pred		
+tondano	mapalus	0072	ya	AFF	nc	nc				
+tondano	mapalus	0073	##	##	##	##				
+tondano	mapalus	0073	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0073	ma-suweng	AV.DYN-community.work	v:pred	v		pred		
+tondano	mapalus	0073	##	##	##	##				
+tondano	mapalus	0073	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0073	ma-Ce-palus	AV.DYN-IRR-work.together	v:pred	v		pred		
+tondano	mapalus	0073	##	##	##	##				
+tondano	mapalus	0073	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0073	tiga	three	ln	ln				
+tondano	mapalus	0073	puluh	ten	other:pred	other		pred		
+tondano	mapalus	0073	tujuh	seven	rn	rn				
+tondano	mapalus	0073	##	##	##	##				
+tondano	mapalus	0073	niaku	1PL.EX	pro.1:dt_s	pro	1	dt_s		
+tondano	mapalus	0073	ku=	1SG.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0073	ma-suweng	AV.DYN-community.work	v:pred	v		pred		
+tondano	mapalus	0074	##	##	##	##				
+tondano	mapalus	0074	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	mapalus	0074	rèy'	not	neg	neg				
+tondano	mapalus	0074	ma-liur	EV.STAT-forget	v:pred	v		pred		
+tondano	mapalus	0074	#cc:p_a	#cc:p_a	#cc:p_a	#cc		p_a		
+tondano	mapalus	0074	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0074	waki	PREP3	adp	adp				
+tondano	mapalus	0075	karokoaan	PN	np:pred_l	np		pred_l		
+tondano	mapalus	0075	##	##	##	##				
+tondano	mapalus	0075	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0075	waki	PREP3	adp	adp				
+tondano	mapalus	0076	tow	person	np.h:pred_l	np	h	pred_l		
+tondano	mapalus	0076	Règèsan	PN	rn_np	rn_np				
+tondano	mapalus	0077	##	##	##	##				
+tondano	mapalus	0077	kèy=	1PL.EX.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0077	èdo-an	take-LV	v:pred	v		pred		
+tondano	mapalus	0077	foto	photo	np:obl	np		obl		
+tondano	mapalus	0077	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	mapalus	0077	sapa	who	pro.h:a_u	pro	h	a_u		
+tondano	mapalus	0078	##	##	##	##				
+tondano	mapalus	0078	mèmang	truly	other	other				
+tondano	mapalus	0078	wewèan 	EXIST	other:predex	other		predex		
+tondano	mapalus	0078	#rc:s	#rc:s	#rc:s	#rc		s		
+tondano	mapalus	0078	ZERO	ZERO	0.h:s	0	h	s		
+tondano	mapalus	0078	meN-wia-wia	EV.STAT-here	v:pred	v		pred		
+tondano	mapalus	0078	Petersong	PN	np:l	np		l		
+tondano	mapalus	0079	##	##	##	##				
+tondano	mapalus	0079	ya	AFF	nc	nc				
+tondano	mapalus	0079	 kèy=	1PL.EX.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0079	<in>ali-an	<PST>bring-LV	v:pred	v		pred		
+tondano	mapalus	0079	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0079	##	##	##	##				
+tondano	mapalus	0079	pernah	once	other	other				
+tondano	mapalus	0079	<in>ali-an	<PST>bring-LV	v:pred	v		pred		
+tondano	mapalus	0079	=mi	=DIR.DIST	=rv	=rv				
+tondano	mapalus	0079	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0079	foto	photo	np:p_u	np		p_u		
+tondano	mapalus	0079	##	##	##	##				
+tondano	mapalus	0079	ta'an	however	other	other				
+tondano	mapalus	0079	ZERO	ZERO	0:s	0		s		
+tondano	mapalus	0079	rèy'	not	neg	neg				
+tondano	mapalus	0079	=mow	=CMP	=other	=other				
+tondano	mapalus	0079	kaliong	lost	other:pred	other		pred		
+tondano	mapalus	0080	##	##	##	##				
+tondano	mapalus	0080	ZERO	ZERO	0:s	0		s		
+tondano	mapalus	0080	pengalaman	experience	np:pred	np		pred		
+tondano	mapalus	0080	dulu	before	rn	rn				
+tondano	mapalus	0081	##	##	##	##				
+tondano	mapalus	0081	ta'an	however	other	other				
+tondano	mapalus	0081	pertama	first	other	other				
+tondano	mapalus	0081	kali	time	np:other	np		other		
+tondano	mapalus	0081	ku'a	PART	nc	nc				
+tondano	mapalus	0081	sebelum	before	other	other				
+tondano	mapalus	0081	Permèsta	PN	np:other	np		other		
+tondano	mapalus	0081	 kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0081	mèmang	truly	lv	lv				
+tondano	mapalus	0081	<im>èa	<AV.PST>go	lv	lv				
+tondano	mapalus	0081	=mow	=CMP	=lv	=lv				
+tondano	mapalus	0081	ma-tanding	AV.DYN-compete	v:pred	v		pred		
+tondano	mapalus	0081	##	##	##	##				
+tondano	mapalus	0081	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0081	ma-	HES	nc	nc				
+tondano	mapalus	0081	ma-lansa	AV.DYN-dance	v:pred	v		pred		
+tondano	mapalus	0081	wia	PREP1	adp	adp				
+tondano	mapalus	0081	N=	INAN=	ln=	ln=				
+tondano	mapalus	0081	kolèt	PN	np:l	np		l		
+tondano	mapalus	0082	##	##	##	##				
+tondano	mapalus	0082	jadi	thus	other	other				
+tondano	mapalus	0082	ya	AFF	nc	nc				
+tondano	mapalus	0083	i-wèè	CV-give	v:pred	v		pred		
+tondano	mapalus	0083	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0083	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0083	=la	=DIR.PROX	=rv	=rv				
+tondano	mapalus	0083	N=	INAN=	ln=	ln=				
+tondano	mapalus	0083	pergaulan	association	np:p_u	np		p_u		
+tondano	mapalus	0083	luas	broad	rn	rn				
+tondano	mapalus	0083	sadiki	small	other	other				
+tondano	mapalus	0083	##	##	##	##				
+tondano	mapalus	0083	jadi	thus	other	other				
+tondano	mapalus	0084	ta'an	however	other	other				
+tondano	mapalus	0084	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0084	maka-idè'	AV.POT-afraid	v:pred	v		pred		
+tondano	mapalus	0084	#ac	#ac	#ac	#ac				
+tondano	mapalus	0084	N=	INAN=	other=	other=				
+tondano	mapalus	0084	ka'a	beause	other	other				
+tondano	mapalus	0084	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0084	m<in>a-muali	EV.STAT.PST-become	v:pred	v		pred		
+tondano	mapalus	0085	##	##	##	##				
+tondano	mapalus	0085	ya	AFF	nc	nc				
+tondano	mapalus	0085	ya	AFF	nc	nc				
+tondano	mapalus	0085	ko=	2SG.NOM=	pro.2:s=	pro	2	s=		
+tondano	mapalus	0085	ma-tingkas-tingkas	AV.DYN-RDP-run	v:pred	v		pred		
+tondano	mapalus	0085	=mowkan	=definitely	=rv	=rv				
+tondano	mapalus	0085	ya	AFF	nc	nc				
+tondano	mapalus	0086	##	##	##	##				
+tondano	mapalus	0086	ta'an	however	other	other				
+tondano	mapalus	0086	ya	AFF	nc	nc				
+tondano	mapalus	0086	ZERO	ZERO	0:s	0		s		
+tondano	mapalus	0086	so	already	other	other				
+tondano	mapalus	0086	bagitu	thus	other	other				
+tondano	mapalus	0087	ka-ada-an	NR-EXIST-NR	other:pred	other		pred		
+tondano	mapalus	0087	perang	war	rn_np	rn_np				
+tondano	mapalus	0088	##	##	##	##				
+tondano	mapalus	0088	pengalaman	experience	np:s	np		s		
+tondano	mapalus	0088	waktu	when	np:other	np		other		
+tondano	mapalus	0089	sè=	AN.PL=	ln=	ln=				
+tondano	mapalus	0089	Brawijaya 	PN	np:pred	np		pred		
+tondano	mapalus	0089	wia	here	other	other				
+tondano	mapalus	0090	##	##	##	##				
+tondano	mapalus	0090	jadi	thus	other	other				
+tondano	mapalus	0091	pernah	ever	other	other				
+tondano	mapalus	0091	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0091	<im>èa	<AV.PST>go	v:pred	v		pred		
+tondano	mapalus	0091	waki	PREP3	adp	adp				
+tondano	mapalus	0091	uma	field	np:l	np		l		
+tondano	mapalus	0091	##	##	##	##				
+tondano	mapalus	0091	nèy	CV.PST	lv	lv				
+tondano	mapalus	0091	tele'u	remain	v:pred	v		pred		
+tondano	mapalus	0091	ZERO	ZERO	0.1:a_u	0	1	a_u		
+tondano	mapalus	0091	N=	INAN=	ln=	ln=				
+tondano	mapalus	0091	kartu	card	np:p_u	np		p_u		
+tondano	mapalus	0091	penduduk	inhabitant	rn_np.h	rn_np	h			
+tondano	mapalus	0092	##	##	##	##				
+tondano	mapalus	0092	peN-sèro-en	DYN-search-PV	v:pred	v		pred		
+tondano	mapalus	0092	ZERO	ZERO	0.1:a_u	0	1	a_u		
+tondano	mapalus	0092	kartu	card	np:p_u	np		p_u		
+tondano	mapalus	0092	penduduk	inhabitant	rn_np.h	rn_np	h			
+tondano	mapalus	0092	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+tondano	mapalus	0092	##	##	##neg	##neg				
+tondano	mapalus	0092	ZERO	ZERO	0:s	0		s		
+tondano	mapalus	0092	N=	INAN=	other=	other=				
+tondano	mapalus	0092	rèy'	not	lv	lv				
+tondano	mapalus	0092	=mow	=CMP	=lv	=lv				
+tondano	mapalus	0092	wia	here	other:pred	other		pred		
+tondano	mapalus	0093	##	##	##	##				
+tondano	mapalus	0093	ZERO	ZERO	0.1:p_u	0	1	p_u		
+tondano	mapalus	0093	nèy	CV.PST	lv	lv				
+tondano	mapalus	0093	=mow	=CMP	=other	=other				
+tondano	mapalus	0093	isi	fill	v:pred	v		pred		
+tondano	mapalus	0093	ni=	HES	nc	nc				
+tondano	mapalus	0093	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	mapalus	0093	tentara	army	np.h:a_u	np	h	a_u		
+tondano	mapalus	0093	witu	PREP2	adp	adp				
+tondano	mapalus	0093	Sakenarè	PN	np:l	np		l		
+tondano	mapalus	0094	##	##	##	##				
+tondano	mapalus	0094	ta'an	however	other	other				
+tondano	mapalus	0094	kakuruala	sometimes	other	other				
+tondano	mapalus	0094	o	PART	nc	nc				
+tondano	mapalus	0094	wèlow	PART	nc	nc				
+tondano	mapalus	0094	sa	if	other	other				
+tondano	mapalus	0094	ku=	1SG.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0094	pontar-en	hold.up-PV	v:pred	v		pred		
+tondano	mapalus	0094	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0094	waki	PREP3	adp	adp				
+tondano	mapalus	0094	ro'ong	rural.area	np:l	np		l		
+tondano	mapalus	0095	##	##	##	##				
+tondano	mapalus	0095	ku=	HES	nc	nc				
+tondano	mapalus	0095	rèy'	not	nc	nc				
+tondano	mapalus	0095	=mow	=CMP	nc	nc				
+tondano	mapalus	0095	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0095	meN-umur	EV.STAT-age	v:pred	v		pred		
+tondano	mapalus	0095	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0095	N=	INAN=	ln=	ln=				
+tondano	mapalus	0095	penjara	jail	np:l	np		l		
+tondano	mapalus	0095	rè'èn	PART	nc	nc				
+tondano	mapalus	0096	#nc	#nc	#nc	#nc				
+tondano	mapalus	0096	ya	AFF	nc	nc				
+tondano	mapalus	0096	ku=	HES	nc	nc				
+tondano	mapalus	0097	##	##	##	##				
+tondano	mapalus	0097	ku=	1SG.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0097	wèè-en	give-PV	v:pred	v		pred		
+tondano	mapalus	0097	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	mapalus	0097	o	PART	nc	nc				
+tondano	mapalus	0097	kela	PART	nc	nc				
+tondano	mapalus	0097	N=	INAN=	ln=	ln=				
+tondano	mapalus	0097	kartu	card	np:obl	np		obl		
+tondano	mapalus	0097	penduduk	inhabitant	rn_np.h	rn_np	h			
+tondano	mapalus	0098	##	##	##	##				
+tondano	mapalus	0098	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0098	<um>warèng	<AV>return.home	v:pred	v		pred		
+tondano	mapalus	0098	=mi	=DIR.DIST	=rv	=rv				
+tondano	mapalus	0098	o	PART	nc	nc				
+tondano	mapalus	0098	kala	PART	nc	nc				
+tondano	mapalus	0099	##	##	##	##				
+tondano	mapalus	0099	mulai	begin	other	other				
+tondano	mapalus	0099	=mèè 	=DIR.MED	=other	=other				
+tondano	mapalus	0099	ni'tu	DEM2	other	other				
+tondano	mapalus	0099	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0099	so'o	AUX.don't.want	aux	aux				
+tondano	mapalus	0099	=mow	=CMP	=lv	=lv				
+tondano	mapalus	0099	<um>èy	<AV>come	v:pred	v		pred		
+tondano	mapalus	0099	waki	PREP3	adp	adp				
+tondano	mapalus	0099	uma	field	np:l	np		l		
+tondano	mapalus	0100	##	##	##	##				
+tondano	mapalus	0100	ta'an	however	other	other				
+tondano	mapalus	0100	pengalaman	experience	np:s	np		s		
+tondano	mapalus	0100	tèmpo 	time	rn_np	rn_np				
+tondano	mapalus	0100	anu	NON.SPEC	nc	nc				
+tondano	mapalus	0101	ma-Ce-palus	AV.DYN-IRR-work.together	np:pred	np		pred		
+tondano	mapalus	0102	##	##	##	##				
+tondano	mapalus	0102	èy	PART	nc	nc				
+tondano	mapalus	0102	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0102	tiga	three	ln	ln				
+tondano	mapalus	0102	puluh	ten	other:pred	other		pred		
+tondano	mapalus	0102	tujuh	seven	rn	rn				
+tondano	mapalus	0103	##	##	##	##				
+tondano	mapalus	0103	niaku	1SG	pro.1:dt_s	pro	1	dt_s		
+tondano	mapalus	0103	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0103	ma-suweng	AV.DYN-community.work	v:pred	v		pred		
+tondano	mapalus	0103	wia	PREP1	adp	adp				
+tondano	mapalus	0103	 nisèa	3PL	pro.h:obl	pro	h	obl		
+tondano	mapalus	0104	##	##	##	##				
+tondano	mapalus	0104	ta'an	however	other	other				
+tondano	mapalus	0104	wèta	PART	nc	nc				
+tondano	mapalus	0104	ku=	1SG.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0104	l<in>èbè-an	<PST>more-LV	v:pred	v		pred		
+tondano	mapalus	0104	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0104	jam	hour	np:other	np		other		
+tondano	mapalus	0105	##	##	##	##				
+tondano	mapalus	0105	ta'an	however	other	other				
+tondano	mapalus	0105	ku=	1SG.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	mapalus	0105	l<in>èbè-an	<PST>more-LV	v:pred	v		pred		
+tondano	mapalus	0105	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0105	jam	hour	np:other	np		other		
+tondano	mapalus	0105	#ac	#ac	#ac	#ac				
+tondano	mapalus	0105	ka'a	because	other	other				
+tondano	mapalus	0105	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0105	ma-suweng	AV.DYN-community.work	v:pred	v		pred		
+tondano	mapalus	0106	##	##	##	##				
+tondano	mapalus	0106	itu	DEM2	pro:s	pro		s		
+tondano	mapalus	0106	rèkèn	count	ln	ln				
+tondano	mapalus	0106	N=	INAN=	ln=	ln=				
+tondano	mapalus	0106	pengalaman	experience	np:pred	np		pred		
+tondano	mapalus	0106	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	mapalus	0107	##	##	##	##				
+tondano	mapalus	0107	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	mapalus	0107	ma-tulung	AV.DYN-help	v:pred	v		pred		
+tondano	mapalus	0107	sè=	AN.PL=	ln=	ln=				
+tondano	mapalus	0107	tu'a	old	np.h:p_a	np	h	p_a		
+tondano	mapalus	0108	##	##	##	##				
+tondano	mapalus	0108	tu	then	other	other				
+tondano	mapalus	0108	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0108	ma-palus 	AV.DYN-work.together	v:pred	v		pred		
+tondano	mapalus	0108	waya	all	rn	rn				
+tondano	mapalus	0108	ma-	HES	nc	nc				
+tondano	mapalus	0109	##	##	##	##				
+tondano	mapalus	0109	ZERO	ZERO	0.1:s	0	1	s		
+tondano	mapalus	0109	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	mapalus	0109	wia	PREP1	adp	adp				
+tondano	mapalus	0109	N=	INAN=	ln=	ln=				
+tondano	mapalus	0109	uma	field	np:l	np		l		
+tondano	mapalus	0109	##	##	##	##				
+tondano	mapalus	0109	jadi	thus	other	other				
+tondano	mapalus	0110	itu	DEM2	pro:s	pro		s		
+tondano	mapalus	0110	mèmang	truly	other	other				
+tondano	mapalus	0110	pengalaman	experience	np:pred	np		pred		
+tondano	mapalus	0110	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	mapalus	0111	#ac	#ac	#ac	#ac				
+tondano	mapalus	0111	ya	AFF	nc	nc				
+tondano	mapalus	0111	kiok	PART	nc	nc				
+tondano	mapalus	0111	idè	?	nc	nc				
+tondano	mapalus	0111	sa	if	other	other				
+tondano	mapalus	0111	ko=	2SG.NOM=	pro.2:s=	pro	2	s=		
+tondano	mapalus	0111	ma-wingkung	AV.DYN-hoe.the.ground	v:pred	v		pred		
+tondano	mapalus	0112	##	##	##	##				
+tondano	mapalus	0112	ko=	2SG.NOM=	pro.2:a_a=	pro	2	a_a=		
+tondano	mapalus	0112	l<um>oo'	<AV>see	v:pred	v		pred		
+tondano	mapalus	0112	=la	=DIR.PROX	=rv	=rv				
+tondano	mapalus	0112	N=	INAN=	ln=	ln=				
+tondano	mapalus	0112	wusa	pineapple	np:p_a	np		p_a		
+tondano	mapalus	0112	wowos	ripe	rn	rn				
+tondano	mapalus	0112	=mow	=CMP	=other	=other				
+tondano	mapalus	0113	lutu'	ripe	rn	rn				
+tondano	mapalus	0113	##	##	##	##				
+tondano	mapalus	0113	ta=	1PL.IN.NOM=	pro.1:a_a=	pro	1	a_a=		
+tondano	mapalus	0113	tarè	recently	lv	lv				
+tondano	mapalus	0113	ba-tumbang	AV.DYN-fall.down	v:pred	v		pred		
+tondano	mapalus	0113	ZERO	ZERO	0:p_a	0		p_a		
+tondano	mapalus	0113	##	##	##	##				
+tondano	mapalus	0113	ZERO	ZERO	0:p_u	0		p_u		
+tondano	mapalus	0113	wangkèng-en	crush-PV	v:pred	v		pred		
+tondano	mapalus	0113	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	mapalus	0113	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0113	=la	=DIR.PROX	=rv	=rv				
+tondano	mapalus	0113	wo	with	ln	ln				
+tondano	mapalus	0113	N=	INAN=	ln=	ln=				
+tondano	mapalus	0113	gunteng	scissor	np:obl	np		obl		
+tondano	mapalus	0113	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	mapalus	0113	##	##	##	##				
+tondano	mapalus	0113	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	mapalus	0113	ma-wingkung	AV.DYN-hoe.the.ground	v:pred	v		pred		
+tondano	mapalus	0113	ZERO	ZERO	0:p_a	0		p_a		
+tondano	mapalus	0113	##	##	##	##				
+tondano	mapalus	0113	ZERO	ZERO	0:p_u	0		p_u		
+tondano	mapalus	0113	kaan-en	rice-PV	v:pred	v		pred		
+tondano	mapalus	0113	ZERO	ZERO	0.1:a_u	0	1	a_u		
+tondano	mapalus	0113	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0113	ku'a	PART	nc	nc				
+tondano	mapalus	0113	ha ha	ha ha	nc	nc				
+tondano	mapalus	0114	e	e	nc	nc				
+tondano	mapalus	0114	he	he	nc	nc				
+tondano	mapalus	0115	##	##	##	##				
+tondano	mapalus	0115	ya	AFF	nc	nc				
+tondano	mapalus	0115	ko=	2SG.NOM=	pro.2:s=	pro	2	s=		
+tondano	mapalus	0115	ma-rèo	EV.STAT-thirsty	v:pred	v		pred		
+tondano	mapalus	0115	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0115	ya	AFF	nc	nc				
+tondano	mapalus	0116	##	##	##	##				
+tondano	mapalus	0116	èy	PART	nc	nc				
+tondano	mapalus	0116	kakuruala	sometimes	other	other				
+tondano	mapalus	0116	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	mapalus	0116	meN-wingkung-wingkung	AV.DYN-RDP-hoe.the.ground	v:pred	v		pred		
+tondano	mapalus	0116	##	##	##	##				
+tondano	mapalus	0116	ko=	2SG.NOM=	pro.2:a_a=	pro	2	a_a=		
+tondano	mapalus	0116	l<um>oo'	<AV>see	v:pred	v		pred		
+tondano	mapalus	0116	=la	=DIR.PROX	=rv	=rv				
+tondano	mapalus	0116	N=	INAN=	ln=	ln=				
+tondano	mapalus	0116	wusa	pineapple	np:p_a	np		p_a		
+tondano	mapalus	0117	##	##	##	##				
+tondano	mapalus	0117	itu	DEM2	pro:s	pro		s		
+tondano	mapalus	0117	kunir	yellow	other:pred	other		pred		
+tondano	mapalus	0117	=mowkan	=definitely	=other	=other				
+tondano	mapalus	0117	##	##	##	##				
+tondano	mapalus	0117	ZERO	ZERO	0:p_u	0		p_u		
+tondano	mapalus	0117	pa-upu-en	DYN-pick-PV	v:pred	v		pred		
+tondano	mapalus	0117	ZERO	ZERO	0.2:a_u	0	2	a_u		
+tondano	mapalus	0117	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0117	=mi	=DIR.DIST	=rv	=rv				
+tondano	mapalus	0117	##	##	##	##				
+tondano	mapalus	0117	ZERO	ZERO	0:p_u	0		p_u		
+tondano	mapalus	0117	i-wèè	CV-give	v:pred	v		pred		
+tondano	mapalus	0117	ZERO	ZERO	0.2:a_u	0	2	a_u		
+tondano	mapalus	0117	=la	=DIR.PROX	=rv	=rv				
+tondano	mapalus	0117	witu	PREP2	adp	adp				
+tondano	mapalus	0117	N=	INAN=	ln=	ln=				
+tondano	mapalus	0117	batu	rock	np:g	np		g		
+tondano	mapalus	0117	##	##	##	##				
+tondano	mapalus	0117	ZERO	ZERO	0:p_u	0		p_u		
+tondano	mapalus	0117	wangkèng-en	crush-PV	v:pred	v		pred		
+tondano	mapalus	0117	ZERO	ZERO	0.2:a_u	0	2	a_u		
+tondano	mapalus	0117	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0117	waya	all	rv	rv				
+tondano	mapalus	0118	##	##	##	##				
+tondano	mapalus	0118	itu	DEM2	pro:s	pro		s		
+tondano	mapalus	0118	m<in>a-parua	EV.STAT.PST-share	v:pred	v		pred		
+tondano	mapalus	0118	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0118	##	##	##	##				
+tondano	mapalus	0118	N=	3SG.NOM=	pro:s=	pro		s=		
+tondano	mapalus	0118	kosong	zero	v:pred	v		pred		
+tondano	mapalus	0118	=mow	=CMP	=other	=other				
+tondano	mapalus	0119	##	##	##	##				
+tondano	mapalus	0119	ya	AFF	nc	nc				
+tondano	mapalus	0119	N=	INAN=	ln=	ln=				
+tondano	mapalus	0119	pengalaman	experience	np:pred	np		pred		
+tondano	mapalus	0119	ini	DEM1	pro:s	pro		s		
+tondano	mapalus	0119	#ac	#ac	#ac	#ac				
+tondano	mapalus	0119	sa 	if	other	other				
+tondano	mapalus	0119	ZERO	ZERO	0.2:s	0	2	s		
+tondano	mapalus	0119	wia	PREP1	adp	adp				
+tondano	mapalus	0119	N=	INAN=	ln=	ln=				
+tondano	mapalus	0119	uma	field	np:pred_l	np		pred_l		
+tondano	mapalus	0119	ya	AFF	nc	nc				
+tondano	mapalus	0120	##	##	##	##				
+tondano	mapalus	0120	ko=	2SG.NOM=	pro.2:a_a=	pro	2	a_a=		
+tondano	mapalus	0120	ma-ana'	AV.DYN-stay	lv	lv				
+tondano	mapalus	0120	ma-èdo 	AV.DYN-take	v:pred	v		pred		
+tondano	mapalus	0120	paai'	knife	np:p_a	np		p_a		
+tondano	mapalus	0121	##	##	##	##				
+tondano	mapalus	0121	wo	and	other	other				
+tondano	mapalus	0121	ZERO	ZERO	0.2:a_a	0	2	a_a		
+tondano	mapalus	0121	ma-ana'	AV.DYN-stay	v:pred	v		pred		
+tondano	mapalus	0121	=mèè	=DIR.MED	=rv	=rv				
+tondano	mapalus	0121	waki	PREP3	adp	adp				
+tondano	mapalus	0121	salu	ditch	np:l	np		l		
+tondano	mapalus	0121	##	##	##	##				
+tondano	mapalus	0121	ZERO	ZERO	0.2:a_a	0	2	a_a		
+tondano	mapalus	0121	ma-owas	AV.DYN-wash	v:pred	v		pred		
+tondano	mapalus	0121	ni'tu	DEM2	pro:p_a	pro		p_a		
+tondano	mapalus	0122	##	##	##neg	##neg				
+tondano	mapalus	0122	rèy'	not	other	other				
+tondano	mapalus	0122	=mow	=CMP	=other	=other				
+tondano	mapalus	0122	itu	DEM2	pro:p_u	pro		p_u		
+tondano	mapalus	0122	wangkèng-en	crush-PV	v:pred	v		pred		
+tondano	mapalus	0122	ZERO	ZERO	0.2:a_u	0	2	a_u		
+tondano	mapalus	0122	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0122	=la	=DIR.PROX	=rv	=rv				
+tondano	mapalus	0123	##	##	##	##				
+tondano	mapalus	0123	tu	then	other	other				
+tondano	mapalus	0123	ZERO	ZERO	0:p_u	0		p_u		
+tondano	mapalus	0123	kaan-en	rice-PV	v:pred	v		pred		
+tondano	mapalus	0123	ZERO	ZERO	0.2:a_u	0	2	a_u		
+tondano	mapalus	0123	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0124	##	##	##	##				
+tondano	mapalus	0124	daripada	than	other	other				
+tondano	mapalus	0124	ko=	2SG.NOM=	pro.2:s=	pro	2	s=		
+tondano	mapalus	0124	ma-rèo'	EV.STAT-thirsty	v:pred	v		pred		
+tondano	mapalus	0124	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0125	##	##	##	##				
+tondano	mapalus	0125	jadi	thus	other	other				
+tondano	mapalus	0125	ya	AFF	nc	nc				
+tondano	mapalus	0126	##	##	##	##				
+tondano	mapalus	0126	itu	DEM2	pro.h:s	pro	h	s		
+tondano	mapalus	0126	kowman	meanwhile	other	other				
+tondano	mapalus	0126	pengalaman	experience	np:pred	np		pred		
+tondano	mapalus	0126	##	##	##	##				
+tondano	mapalus	0126	ta'an	however	other	other				
+tondano	mapalus	0126	ya	AFF	nc	nc				
+tondano	mapalus	0127	kèy=	1PL.EX.NOM=	pro.1:a_a=	pro	1	a_a=		
+tondano	mapalus	0127	m<in>a-pa'ayang	AV.DYN.PST-work	v:pred	v		pred		
+tondano	mapalus	0127	N=	INAN=	ln=	ln=				
+tondano	mapalus	0127	uma	field	np:p_a	np		p_a		
+tondano	mapalus	0127	ku'a	PART	nc	nc				
+tondano	mapalus	0127	 tola-an	?	nc	nc				
+tondano	mapalus	0127	ni=	HES	nc	nc				
+tondano	mapalus	0127	anu	NON.SPEC	nc	nc				
+tondano	mapalus	0128	N=	INAN=	ln=	ln=				
+tondano	mapalus	0128	uma	field	np:l	np		l		
+tondano	mapalus	0129	##	##	##	##				
+tondano	mapalus	0129	ZERO	ZERO	0.2:s	0	2	s		
+tondano	mapalus	0129	<um>èa	<AV>go	lv	lv				
+tondano	mapalus	0129	ma-wingkung	AV.DYN-hoe.the.ground	v:pred	v		pred		
+tondano	mapalus	0129	wia	PREP1	adp	adp				
+tondano	mapalus	0129	N=	INAN=	ln=	ln=				
+tondano	mapalus	0129	uma	field	np:l	np		l		
+tondano	mapalus	0129	##	##	##	##				
+tondano	mapalus	0129	wo	and	other	other				
+tondano	mapalus	0129	ZERO	ZERO	0.2:a_a	0	2	a_a		
+tondano	mapalus	0129	ma-tanem	AV.DYN-cultivate	v:pred	v		pred		
+tondano	mapalus	0129	ZERO	ZERO	0:p_a	0		p_a		
+tondano	mapalus	0130	##	##	##	##				
+tondano	mapalus	0130	tanu	like	other	other				
+tondano	mapalus	0130	wia	PREP1	adp	adp				
+tondano	mapalus	0130	lepo'	wet.rice.field	np:l	np		l		
+tondano	mapalus	0130	niaku	1SG	pro.1:s	pro	1	s		
+tondano	mapalus	0130	s<um>uweng	<AV>community.work	v:pred	v		pred		
+tondano	mapalus	0131	##	##	##	##				
+tondano	mapalus	0131	jadi	thus	other	other				
+tondano	mapalus	0131	ya	AFF	nc	nc				
+tondano	mapalus	0132	laker	many	ln	ln				
+tondano	mapalus	0132	N=	INAN=	ln=	ln=				
+tondano	mapalus	0132	pengalaman	experience	np:s	np		s		
+tondano	mapalus	0132	wia	PREP1	adp	adp				
+tondano	mapalus	0132	N=	INAN=	ln=	ln=				
+tondano	mapalus	0132	uma	field	np:pred_l	np		pred_l		
+tondano	mapalus	0133	#ac	#ac	#ac	#ac				
+tondano	mapalus	0133	sa	if	other	other				
+tondano	mapalus	0133	ZERO	ZERO	0.2:s	0	2	s		
+tondano	mapalus	0133	<um>warèng	<AV>return.home	v:pred	v		pred		
+tondano	mapalus	0133	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0133	=mi	=DIR.DIST	=rv	=rv				
+tondano	mapalus	0133	N=	INAN=	other=	other=				
+tondano	mapalus	0133	rèy'	not	neg	neg				
+tondano	mapalus	0133	=mow	=CMP	=other	=other				
+tondano	mapalus	0134	##	##	##	##				
+tondano	mapalus	0134	ZERO	ZERO	0.2:a_a	0	2	a_a		
+tondano	mapalus	0134	k<um>aan	<AV>rice	v:pred	v		pred		
+tondano	mapalus	0134	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0134	=la	=DIR.PROX	=rv	=rv				
+tondano	mapalus	0134	ZERO	ZERO	0:p_a	0		p_a		
+tondano	mapalus	0134	##	##	##	##				
+tondano	mapalus	0134	ZERO	ZERO	0.2:s	0	2	s		
+tondano	mapalus	0134	k<um>irong	<AV>conceal	v:pred	v		pred		
+tondano	mapalus	0134	=mow	=CMP	=rv	=rv				
+tondano	mapalus	0135	#ac	#ac	#ac.neg	#ac.neg				
+tondano	mapalus	0135	sa	if	other	other				
+tondano	mapalus	0135	ko=	2SG.NOM=	pro.2:s=	pro	2	s=		
+tondano	mapalus	0135	rèy'	not	lv	lv				
+tondano	mapalus	0135	k<um>irong	<AV>conceal	v:pred	v		pred		
+tondano	mapalus	0135	##	##	##	##				
+tondano	mapalus	0135	èy	PART	nc	nc				
+tondano	mapalus	0135	<um>èy	<AV>come	v:pred	v		pred		
+tondano	mapalus	0135	sè=	AN.SG=	ln=	ln=				
+tondano	mapalus	0135	Brawijaya	PN	np:s	np		s		
+tondano	mapalus	0136	##	##	##	##				
+tondano	mapalus	0136	pengalaman	experience	np:s	np		s		
+tondano	mapalus	0136	 tèmpo	time	np:pred	np		pred		
+tondano	mapalus	0137	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	mapalus	0137	Brawijaya	PN	np:dt_s	np		dt_s		
+tondano	mapalus	0137	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	mapalus	0137	<im>ana'	<AV.PST>stay	v:pred	v		pred		

@@ -1,0 +1,589 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+tondano	water	0001	o	PART	nc	nc				
+tondano	water	0001	watè	sago.grub	nc	nc				
+tondano	water	0002	watè	sago.grub	nc	nc				
+tondano	water	0003	#ac	#ac	#ac	#ac				
+tondano	water	0003	sa	if	other	other				
+tondano	water	0003	itu	DEM2	pro:s	pro		s		
+tondano	water	0003	Toudano	PN	np:pred	np		pred		
+tondano	water	0004	##	##	##	##				
+tondano	water	0004	iti'i	DEM2	pro:p_u	pro		p_u		
+tondano	water	0005	l<in>ila'-en	<PST>tongue-PV	v:pred	v		pred		
+tondano	water	0005	=nèa 	=3PL.GEN	=pro.h:a_u_ds	=pro	h	a_u_ds		
+tondano	water	0005	watè	sago.grub	np:other	np		other		
+tondano	water	0006	##	##	##	##				
+tondano	water	0006	watè	sago grub	np:p_u	np		p_u		
+tondano	water	0006	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	water	0006	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0006	witu	PREP2	adp	adp				
+tondano	water	0007	N=	INAN=	nc	nc				
+tondano	water	0007	akel	sugar.palm.tree	nc	nc				
+tondano	water	0008	pohon	tree	ln_np	ln_np				
+tondano	water	0008	N=	INAN=	ln=	ln=				
+tondano	water	0008	akel	sugar.palm.tree	np:l	np		l		
+tondano	water	0009	#nc	NC	#nc	#nc				
+tondano	water	0009	sa	if	nc	nc				
+tondano	water	0009	N=	INAN=	nc	nc				
+tondano	water	0009	akel	sugar.palm.tree	nc	nc				
+tondano	water	0010	##	##	##	##				
+tondano	water	0010	ya	AFF	nc	nc				
+tondano	water	0010	sè=	3PL.NOM=	pro:s=	pro		s=		
+tondano	water	0010	ma-kaluar	AV.DYN-go.out	v:pred	v		pred		
+tondano	water	0010	witu	PREP2	adp	adp				
+tondano	water	0010	N=	INAN=	ln=	ln=				
+tondano	water	0010	akel	sugar.palm.tree	np:l	np		l		
+tondano	water	0010	##	##	##	##				
+tondano	water	0010	ta'an	however	other	other				
+tondano	water	0010	sè=	3PL.NOM=	pro:s=	pro		s=		
+tondano	water	0010	ma-kaluar	AV.DYN-go.out	v:pred	v		pred		
+tondano	water	0010	witu	PREP2	adp	adp				
+tondano	water	0010	N=	INAN=	ln=	ln=				
+tondano	water	0010	akel	sugar.palm.tree	np:l	np		l		
+tondano	water	0011	##	##	##	##				
+tondano	water	0011	aa	HES	nc	nc				
+tondano	water	0012	musti	AUX.must	nc	nc				
+tondano	water	0013	ee	HES	nc	nc				
+tondano	water	0013	ZERO	ZERO	0:s	0		s		
+tondano	water	0013	sapa	what	other:pred	other		pred		
+tondano	water	0014	##	##	##	##				
+tondano	water	0014	ee	HES	nc	nc				
+tondano	water	0014	i-siwo	CV-do	v:pred	v		pred		
+tondano	water	0014	=la	=DIR.PROX	=rv	=rv				
+tondano	water	0014	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0014	lobang	hole	np:p_u	np		p_u		
+tondano	water	0015	##	##	##	##				
+tondano	water	0015	i-siwo	CV-do	v:pred	v		pred		
+tondano	water	0015	=la	=DIR.PROX	=rv	=rv				
+tondano	water	0015	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0015	lobang	hole	np:p_u	np		p_u		
+tondano	water	0016	##	##	##	##				
+tondano	water	0016	lobang	hole	np:p_u	np		p_u		
+tondano	water	0016	siwo-en	do-PV	v:pred	v		pred		
+tondano	water	0016	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0016	wo	with	adp	adp				
+tondano	water	0017	N=	INAN=	ln=	ln=				
+tondano	water	0017	pati'	axe	np:obl	np		obl		
+tondano	water	0018	##	##	##	##				
+tondano	water	0018	i-siwo	CV-do	v:pred	v		pred		
+tondano	water	0018	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0018	N=	INAN=	ln=	ln=				
+tondano	water	0018	pati'	axe	np:p_u	np		p_u		
+tondano	water	0019	#ac	#ac	#ac	#ac				
+tondano	water	0019	sa	if	other	other				
+tondano	water	0020	pira	how.many	pro:p_u	pro		p_u		
+tondano	water	0020	=mow	=CMP	=other	=other				
+tondano	water	0020	i-èdo	CV-take	v:pred	v		pred		
+tondano	water	0020	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0021	##	##	##	##				
+tondano	water	0021	tanu	like	other	other				
+tondano	water	0021	rua	two	pro:p_a	pro		p_a		
+tondano	water	0021	=mow	=CMP	=rn	=rn				
+tondano	water	0021	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	water	0021	meN-èdo	AV.DYN-take	v:pred	v		pred		
+tondano	water	0022	##	##	##	##				
+tondano	water	0022	toro	AUX.can	aux	aux				
+tondano	water	0022	=mow	=CMP	=rv	=rv				
+tondano	water	0023	pa-sera'-an	DYN-meat-LV	v:pred	v		pred		
+tondano	water	0023	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0023	sè=	AN.PL=	ln=	ln=				
+tondano	water	0023	watè	sago grub	np:p_u	np		p_u		
+tondano	water	0024	##	##	##	##				
+tondano	water	0024	watè	sago.grub	np:dt_s	np		dt_s		
+tondano	water	0024	sè=	3PL.NOM=	pro:s=	pro		s=		
+tondano	water	0024	godè-godè	RDP-fat	other:pred	other		pred		
+tondano	water	0024	kasa	very	other	other				
+tondano	water	0025	##	##	##	##				
+tondano	water	0025	rua	two	pro:p_u	pro		p_u		
+tondano	water	0025	nèy	CV.PST	lv	lv				
+tondano	water	0025	èdo	take	v:pred	v		pred		
+tondano	water	0025	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0026	##	##	##	##				
+tondano	water	0026	aa	HES	nc	nc				
+tondano	water	0026	toro	AUX.can	aux	aux				
+tondano	water	0026	i-pa-kaan	CV-DYN-rice	v:pred	v		pred		
+tondano	water	0026	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0026	langsung	direct	rv	rv				
+tondano	water	0026	watè	sago.grub	np:p_u	np		p_u		
+tondano	water	0026	##	##	##	##				
+tondano	water	0026	toro	AUX.can	aux	aux				
+tondano	water	0026	i-pa-kaan	CV-DYN-rice	v:pred	v		pred		
+tondano	water	0026	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0026	langsung	direct	rv	rv				
+tondano	water	0026	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0027	##	##	##	##				
+tondano	water	0027	toro	HES	nc	nc				
+tondano	water	0027	ka	HES	nc	nc				
+tondano	water	0027	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0027	toro	AUX.can	aux	aux				
+tondano	water	0027	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	water	0027	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0027	ya	AFF	nc	nc				
+tondano	water	0028	ngaa	HES	nc	nc				
+tondano	water	0029	##	##	##	##				
+tondano	water	0029	tanu	HES	other	other				
+tondano	water	0029	tanu	like	other	other				
+tondano	water	0029	ye'i	now	other	other				
+tondano	water	0030	watè	sago.grub	np:s	np		s		
+tondano	water	0030	rèy'	not	neg	neg				
+tondano	water	0030	=pè'	=INCMP	=other	=other				
+tondano	water	0031	k<im>aluar	<AV.PST>go.out	v:pred	v		pred		
+tondano	water	0031	witu	PREP2	adp	adp				
+tondano	water	0032	ee	HES	nc	nc				
+tondano	water	0032	N=	INAN=	ln=	ln=				
+tondano	water	0032	akel	sugar.palm.tree	np:l	np		l		
+tondano	water	0033	##	##	##	##				
+tondano	water	0033	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0033	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	water	0033	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	water	0033	=la	=DIR.PROX	=rv	=rv				
+tondano	water	0033	aa	HES	nc	nc				
+tondano	water	0034	##	##	##	##				
+tondano	water	0034	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0034	pa-lubang-en	DYN-hole-PV	v:pred	v		pred		
+tondano	water	0034	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0034	wo	with	adp	adp				
+tondano	water	0034	N=	INAN=	ln=	ln=				
+tondano	water	0034	pati'	axe	ln_np	ln_np				
+tondano	water	0035	ee	HES	nc	nc				
+tondano	water	0035	ka'apa	or	ln	ln				
+tondano	water	0035	tamako	tomohawk	np:obl	np		obl		
+tondano	water	0036	##	##	##	##				
+tondano	water	0036	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	water	0036	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0036	itu	DEM2	pro:p_u	pro		p_u		
+tondano	water	0037	lobang	hole	np:dt_p_u	np		dt_p_u		
+tondano	water	0037	=nèa	=3PL.GEN	=pro:poss	=pro		poss		
+tondano	water	0037	tampa	place	np:dt_p_u	np		dt_p_u		
+tondano	water	0037	=nèa	=3PL.GEN	=pro:poss	=pro		poss		
+tondano	water	0038	aa	HES	nc	nc				
+tondano	water	0039	##	##	##	##				
+tondano	water	0039	pati'	axe	ln_np	ln_np				
+tondano	water	0039	ka'apa	or	ln	ln				
+tondano	water	0039	pepatil	machete	np:a_a	np		a_a		
+tondano	water	0039	toro	AUX.can	aux	aux				
+tondano	water	0040	s<um>iwo	<AV>do	v:pred	v		pred		
+tondano	water	0040	lobang	hole	np:p_a	np		p_a		
+tondano	water	0040	=nèa	=3PL.GEN	=pro:poss	=pro		poss		
+tondano	water	0041	##	##	##	##				
+tondano	water	0041	aa	HES	nc	nc				
+tondano	water	0041	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0041	pa-karut-en	DYN-gather-PV	v:pred	v		pred		
+tondano	water	0041	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0041	tanu	like	other	other				
+tondano	water	0041	ni'tu	DEM2	pro:other	pro		other		
+tondano	water	0042	##	##	##	##				
+tondano	water	0042	watè	sago grubs	np:s	np		s		
+tondano	water	0043	witu	PREP2	adp	adp				
+tondano	water	0043	rano	water	np:pred_l	np		pred_l		
+tondano	water	0044	##	##	##	##				
+tondano	water	0044	kasa	very	other	other				
+tondano	water	0044	juga	also	other	other				
+tondano	water	0044	witu	PREP2	adp	adp				
+tondano	water	0044	rano	water	np:pred_l	np		pred_l		
+tondano	water	0044	sèa	3PL	pro:s	pro		s		
+tondano	water	0045	#ac	#ac	#ac	#ac				
+tondano	water	0045	ta'an	however	other	other				
+tondano	water	0045	N=	INAN=	nc	nc				
+tondano	water	0045	akel	sugar.palm.tree	nc	nc				
+tondano	water	0045	=nèa	=3PL.GEN	nc	nc				
+tondano	water	0045	N=	INAN=	ln=	ln=				
+tondano	water	0045	akel	sugar.palm.tree	np:s	np		s		
+tondano	water	0045	sa	if	other	other				
+tondano	water	0046	m<in>a-wu'ul	EV.STAT.PST-rotten	v:pred	v		pred		
+tondano	water	0046	=mow	=CMP	=rv	=rv				
+tondano	water	0047	##	##	##	##				
+tondano	water	0047	wo	and	other	other				
+tondano	water	0047	 sèa	3PL	pro:a_a	pro		a_a		
+tondano	water	0047	l<um>aker	<AV>many	v:pred	v		pred		
+tondano	water	0047	kasa	very	other	other				
+tondano	water	0047	N=	INAN=	ln=	ln=				
+tondano	water	0047	atè	heart	np:p_a	np		p_a		
+tondano	water	0047	#ac	#ac	#ac	#ac				
+tondano	water	0047	sa	if	other	other				
+tondano	water	0047	N=	INAN=	ln=	ln=				
+tondano	water	0047	akel	sugar.palm.tree	np:s	np		s		
+tondano	water	0047	wu'ul	rotten	other:pred	other		pred		
+tondano	water	0047	=mow	=CMP	=rv	=rv				
+tondano	water	0048	##	##	##	##				
+tondano	water	0048	ta'an	however	other	other				
+tondano	water	0048	sa	if	other	other				
+tondano	water	0048	ZERO	ZERO	0:s	0		s		
+tondano	water	0048	rèy'	not	neg	neg				
+tondano	water	0048	wu'ul	rotten	other:pred	other		pred		
+tondano	water	0049	##	##	##	##				
+tondano	water	0049	ZERO	ZERO	0:s	0		s		
+tondano	water	0049	rèy'	not	neg	neg				
+tondano	water	0049	laker	many	other:pred	other		pred		
+tondano	water	0050	##	##	##	##				
+tondano	water	0050	wo	and	other	other				
+tondano	water	0050	N=	INAN=	ln=	ln=				
+tondano	water	0050	esa	one	ln	ln				
+tondano	water	0050	N=	INAN=	ln=	ln=				
+tondano	water	0050	oki'	small	other:pred	other		pred		
+tondano	water	0051	ee	HES	nc	nc				
+tondano	water	0051	watè	sago.grub	np:s	np		s		
+tondano	water	0052	#ac	#ac	#ac	#ac				
+tondano	water	0052	sa	if	other	other				
+tondano	water	0052	rèy'	not	neg	neg				
+tondano	water	0052	wu'ul	rotten	other:pred	other		pred		
+tondano	water	0052	N=	INAN=	ln=	ln=				
+tondano	water	0052	akel	sugar.palm.tree	np:s	np		s		
+tondano	water	0052	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0053	##	##	##	##				
+tondano	water	0053	aa	HES	nc	nc				
+tondano	water	0053	tanu	like	other	other				
+tondano	water	0053	N=	INAN=	ln=	ln=				
+tondano	water	0053	ye'i	DEM1	pro:other	pro		other		
+tondano	water	0054	N=	INAN=	ln=	ln=				
+tondano	water	0054	akel	sugar.palm.tree	np:dt_s	np		dt_s		
+tondano	water	0054	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0054	N=	3SG.NOM=	pro:s=	pro		s=		
+tondano	water	0054	wu'ul	rotten	other:pred	other		pred		
+tondano	water	0054	#ac	#ac	#ac	#ac				
+tondano	water	0054	ka'a	because	other	other				
+tondano	water	0055	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0055	nèy	CV.PST	lv	lv				
+tondano	water	0055	kakolo	 fall	v:pred	v		pred		
+tondano	water	0055	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0055	witu	PREP2	adp	adp				
+tondano	water	0055	N=	INAN=	ln=	ln=				
+tondano	water	0055	rano	water	np:l	np		l		
+tondano	water	0055	##	##	##	##				
+tondano	water	0055	nèy	CV.PST	rv	rv				
+tondano	water	0055	kakolo	 fall	v:pred	v		pred		
+tondano	water	0055	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0055	witu	PREP2	adp	adp				
+tondano	water	0055	N=	INAN=	ln=	ln=				
+tondano	water	0055	rano	water	np:l	np		l		
+tondano	water	0055	N=	INAN=	ln=	ln=				
+tondano	water	0055	akel	sugar.palm.tree	np:p_u	np		p_u		
+tondano	water	0056	##	##	##	##				
+tondano	water	0056	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	water	0056	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	water	0056	=mow	=CMP	=rv	=rv				
+tondano	water	0056	sarang	nest	np:p_u	np		p_u		
+tondano	water	0056	nè=	AN.PL.GEN=	rn=	rn=				
+tondano	water	0056	watè	sago.grub	rn_np:poss	rn_np		poss		
+tondano	water	0057	##	##	##	##				
+tondano	water	0057	naa	HES	nc	nc				
+tondano	water	0057	mèmang	truly	other	other				
+tondano	water	0057	kasa	very	lv	lv				
+tondano	water	0058	susa	difficult	lv	lv				
+tondano	water	0058	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	water	0058	makèwè'	AV.DYN-halve	v:pred	v		pred		
+tondano	water	0058	N=	INAN=	ln=	ln=				
+tondano	water	0058	akel	sugar.palm.tree	np:p_a	np		p_a		
+tondano	water	0058	#ac	#ac	#ac	#ac				
+tondano	water	0058	sa	if	other	other				
+tondano	water	0058	ZERO	ZERO	0:s	0		s		
+tondano	water	0058	witu	PREP2	other:pred	other		pred		
+tondano	water	0058	=mow	=CMP	=other	=other				
+tondano	water	0058	N=	INAN=	ln=	ln=				
+tondano	water	0058	rano	water	np:l	np		l		
+tondano	water	0059	naa	HES	nc	nc				
+tondano	water	0060	##	##	##	##				
+tondano	water	0060	iti'i	DEM2	pro.h:a_a	pro	h	a_a		
+tondano	water	0061	s<im>iwo	<AV>do	v:pred	v		pred		
+tondano	water	0061	=mow	=CMP	=rv	=rv				
+tondano	water	0061	lubang	hole	np:p_a	np		p_a		
+tondano	water	0062	pa-tampa-an	DYN-place-LV	np:dt_p_a	np		dt_p_a		
+tondano	water	0062	nè=	AN.PL.GEN=	rn=	rn=				
+tondano	water	0062	watè 	sago.grub	rn_np:poss	rn_np		poss		
+tondano	water	0063	##	##	##	##				
+tondano	water	0063	aa	HES	nc	nc				
+tondano	water	0064	mèmang	truly	other	other				
+tondano	water	0064	pedis	difficult	lv	lv				
+tondano	water	0064	kasa	very	lv	lv				
+tondano	water	0064	ZERO	ZERO	0:s	0		s		
+tondano	water	0064	ma-Ce-kaluar	AV.DYN-IRR-go.out	v:pred	v		pred		
+tondano	water	0064	aa	HES	nc	nc				
+tondano	water	0064	sapa	what	nc	nc				
+tondano	water	0064	N=	INAN=	ln=	ln=				
+tondano	water	0064	akel	sugar.palm.tree	np:l	np		l		
+tondano	water	0065	#ac	#ac	#ac	#ac				
+tondano	water	0065	sa	if	other	other				
+tondano	water	0066	ZERO	ZERO	0:s	0		s		
+tondano	water	0066	m<in>a-kakolo	EV.STAT.PST- fall	v:pred	v		pred		
+tondano	water	0066	=mow	=CMP	=rv	=rv				
+tondano	water	0066	waki	PREP3	adp	adp				
+tondano	water	0066	rano	water	np:g	np		g		
+tondano	water	0066	##	##	##	##				
+tondano	water	0066	naa	HES	nc	nc				
+tondano	water	0066	iti'i	DEM2	ln	ln				
+tondano	water	0066	watè	sago.grub	np:s	np		s		
+tondano	water	0067	o	PART	nc	nc				
+tondano	water	0067	tuang	PART	nc	nc				
+tondano	water	0067	ka-sela	very-big	other:pred	other		pred		
+tondano	water	0067	kasa	very	other	other				
+tondano	water	0068	nn	HES	nc	nc				
+tondano	water	0068	na	HES	nc	nc				
+tondano	water	0068	nèy	HES	nc	nc				
+tondano	water	0069	##	##	##	##				
+tondano	water	0069	pa-èdo-en	DYN-take-PV	v:pred	v		pred		
+tondano	water	0069	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	water	0069	=mow	=CMP	=rv	=rv				
+tondano	water	0069	na	HES	nc	nc				
+tondano	water	0069	ee	HES	nc	nc				
+tondano	water	0069	watè	sago.grub	np:p_u	np		p_u		
+tondano	water	0070	##	##	##	##				
+tondano	water	0070	aa	PART	nc	nc				
+tondano	water	0070	iti'i	DEM2	ln	ln				
+tondano	water	0070	o	PART	nc	nc				
+tondano	water	0070	watè	sago.grub	np:s	np		s		
+tondano	water	0070	ka-sela	very-big	other:pred	other		pred		
+tondano	water	0070	kasa	very	other	other				
+tondano	water	0070	watè	sago.grub	np:dt_s	np		dt_s		
+tondano	water	0071	wewèan	EXIST	nc	nc				
+tondano	water	0072	##	##	##	##				
+tondano	water	0072	na	HES	nc	nc				
+tondano	water	0072	toro	AUX.can	aux	aux				
+tondano	water	0072	watè	sago.grub	np:p_u	np		p_u		
+tondano	water	0072	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	water	0072	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0072	satè	satay	np:other	np		other		
+tondano	water	0073	##	##	##	##				
+tondano	water	0073	watè	sago.grub	np:dt_p_u	np		dt_p_u		
+tondano	water	0073	toro	AUX.can	aux	aux				
+tondano	water	0073	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	water	0073	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
+tondano	water	0073	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0073	satè	satay	np:other	np		other		
+tondano	water	0074	##	##	##	##				
+tondano	water	0074	ta'an	however	other	other				
+tondano	water	0074	 lèbè	more	other	other				
+tondano	water	0074	sedap	tasty	other:pred	other		pred		
+tondano	water	0074	 satè	satay	np:s	np		s		
+tondano	water	0074	##	##	##	##				
+tondano	water	0074	N=	INAN=	ln=	ln=				
+tondano	water	0074	kokong	head	np:p_u	np		p_u		
+tondano	water	0074	nè=	AN.PL.GEN=	rn=	rn=				
+tondano	water	0074	watè	sago.grub	rn_np:poss	rn_np		poss		
+tondano	water	0074	i-kaluar	CV-go.out	v:pred	v		pred		
+tondano	water	0074	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0074	=la	=DIR.PROX	=rv	=rv				
+tondano	water	0075	##	##	##	##				
+tondano	water	0075	o	PART	nc	nc				
+tondano	water	0075	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0075	i-bumbu	CV-spice	v:pred	v		pred		
+tondano	water	0075	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0075	=la	=DIR.PROX	=rv	=rv				
+tondano	water	0075	##	##	##	##				
+tondano	water	0075	bumbu	spice	ln_np	ln_np				
+tondano	water	0075	satè	satay	np:dt_s	np		dt_s		
+tondano	water	0075	wewèan	EXIST	other:predex	other		predex		
+tondano	water	0075	marisa	chilli	np:s	np		s		
+tondano	water	0076	##	##	##	##				
+tondano	water	0076	aa	HES	nc	nc				
+tondano	water	0076	wo	and	other	other				
+tondano	water	0076	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0076	i-tunun	CV-grill	v:pred	v		pred		
+tondano	water	0076	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0076	##	##	##	##				
+tondano	water	0076	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0076	i-tunun	CV-grill	v:pred	v		pred		
+tondano	water	0076	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0076	witu	PREP2	adp	adp				
+tondano	water	0076	N=	INAN=	nc	nc				
+tondano	water	0076	waa'	ember	nc	nc				
+tondano	water	0077	N=	INAN=	nc	nc				
+tondano	water	0077	waa'	ember	nc	nc				
+tondano	water	0077	tampurung	coconut.shell	nc	nc				
+tondano	water	0078	N=	INAN=	ln=	ln=				
+tondano	water	0078	waa'	ember	np:l	np		l		
+tondano	water	0078	tampurung	coconut.shell	rn_np	rn_np				
+tondano	water	0079	N=	INAN=	nc	nc				
+tondano	water	0079	uka	coconut.shell	nc	nc				
+tondano	water	0079	N=	INAN=	nc	nc				
+tondano	water	0079	uka	coconut.shell	nc	nc				
+tondano	water	0079	iyon	AFF	nc	nc				
+tondano	water	0080	#ac	#ac	#ac	#ac				
+tondano	water	0080	sa	if	other	other				
+tondano	water	0080	tampurung	coconut.shell	ln_np	ln_np				
+tondano	water	0080	ka'apa	or	ln	ln				
+tondano	water	0080	N=	INAN=	ln=	ln=				
+tondano	water	0080	uka	coconut.shell	np:s	np		s		
+tondano	water	0080	aa	HES	nc	nc				
+tondano	water	0081	ma-suat	EV.STAT-same	v:pred	v		pred		
+tondano	water	0081	=mow	=CMP	=rv	=rv				
+tondano	water	0081	N=	INAN=	ln=	ln=				
+tondano	water	0081	uka	coconut.shell	np:dt_s	np		dt_s		
+tondano	water	0082	##	##	##	##				
+tondano	water	0082	ee	HES	nc	nc				
+tondano	water	0082	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0082	i-tunun	CV-grill	v:pred	v		pred		
+tondano	water	0082	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0082	witu	PREP2	adp	adp				
+tondano	water	0082	N=	INAN=	ln=	ln=				
+tondano	water	0082	waa'	ember	np:l	np		l		
+tondano	water	0082	kasa	very	rn	rn				
+tondano	water	0083	#ac	#ac	#ac	#ac				
+tondano	water	0083	sa	if	other	other				
+tondano	water	0084	i-pa-loo'	CV.DYN-see	v:pred	v		pred		
+tondano	water	0084	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0084	=la	=DIR.PROX	=rv	=rv				
+tondano	water	0085	#cc:p_u	#cc:p_u	#cc:p_u	#cc		p_u		
+tondano	water	0085	kimerèa	HES	nc	nc				
+tondano	water	0085	ZERO	ZERO	0:s	0		s		
+tondano	water	0085	k<im>erèmèa	<AV.PST> redden	v:pred	v		pred		
+tondano	water	0085	=mow	=CMP	=rv	=rv				
+tondano	water	0085	##	##	##	##				
+tondano	water	0085	toro	AUX.can	aux	aux				
+tondano	water	0085	N=	3SG.NOM=	pro.p_u=	pro	p_u=			
+tondano	water	0085	kaan-en	rice-PV	v:pred	v		pred		
+tondano	water	0085	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0086	##	##	##	##				
+tondano	water	0086	lutu'	ripe	other:pred	other		pred		
+tondano	water	0086	=mow	=CMP	=rv	=rv				
+tondano	water	0086	ni'tu	DEM2	pro:s	pro		s		
+tondano	water	0087	##	##	##	##				
+tondano	water	0087	mm	HES	nc	nc				
+tondano	water	0087	ZERO	ZERO	0:s	0		s		
+tondano	water	0087	sedap	tasty	other:pred	other		pred		
+tondano	water	0087	kasa	very	other	other				
+tondano	water	0087	wèlow	PART	nc	nc				
+tondano	water	0088	oo	HES	nc	nc				
+tondano	water	0088	tuang	PART	nc	nc				
+tondano	water	0089	#ac	#ac	#ac	#ac				
+tondano	water	0089	ta'an	however	other	other				
+tondano	water	0089	sa	if	other	other				
+tondano	water	0089	ZERO	ZERO	0:p_u	0		p_u		
+tondano	water	0089	i-pa-loo'	CV-DYN-see	v:pred	v		pred		
+tondano	water	0089	ZERO 	ZERO 	0.h:a_u	0	h	a_u		
+tondano	water	0089	=la	=DIR.PROX	=rv	=rv				
+tondano	water	0089	tanu	like	other	other				
+tondano	water	0089	iti'i	DEM2	other	other				
+tondano	water	0089	o	PART	nc	nc				
+tondano	water	0089	tuang	PART	nc	nc				
+tondano	water	0089	si=	AN.SG=	ln	ln				
+tondano	water	0089	watè	sago.grub	np:dt_p_u	np		dt_p_u		
+tondano	water	0090	o	PART	nc	nc				
+tondano	water	0090	wèlow	PART	nc	nc				
+tondano	water	0090	o	PART	nc	nc				
+tondano	water	0090	tuang	PART	nc	nc				
+tondano	water	0091	##	##	##	##				
+tondano	water	0091	tanu	 like	other	other				
+tondano	water	0091	=mowkan	=definitely	=other	=other				
+tondano	water	0091	tanu	like	other	other				
+tondano	water	0091	=mowkan	=definitely	=other	=other				
+tondano	water	0091	leloi'	snake	np:s	np		s		
+tondano	water	0091	ma-	HES	nc	nc				
+tondano	water	0091	meN-kèlang-kèlang	AV.DYN-RDP-walk	v:pred	v		pred		
+tondano	water	0091	o	PART	nc	nc				
+tondano	water	0091	tuang	PART	nc	nc				
+tondano	water	0092	#ac	#ac	#ac	#ac				
+tondano	water	0092	ta'an	however	other	other				
+tondano	water	0092	sa	if	other	other				
+tondano	water	0092	sia	3SG	np:s	np		s		
+tondano	water	0093	ee	HES	nc	nc				
+tondano	water	0093	suma	HES	nc	nc				
+tondano	water	0093	sela	big	other:pred	other		pred		
+tondano	water	0093	=mow	=CMP	=rv	=rv				
+tondano	water	0093	=mi	=DIR.DIST	=rv	=rv				
+tondano	water	0094	##	##	##	##				
+tondano	water	0094	ZERO	ZERO	0:s	0		s		
+tondano	water	0094	ma-muali	EV.STAT-become	v:pred	v		pred		
+tondano	water	0094	kopo' kopo'	buttterfly	np:other	np		other		
+tondano	water	0094	##	##	##	##				
+tondano	water	0094	ee	HES	nc	nc				
+tondano	water	0094	sapa	what	other:pred	other		pred		
+tondano	water	0094	rè'èn	PART	nc	nc				
+tondano	water	0094	sia	3SG	pro:s	pro		s		
+tondano	water	0095	##	##	##	##				
+tondano	water	0095	ZERO	ZERO	0:s	0		s		
+tondano	water	0095	ee	HES	nc	nc				
+tondano	water	0095	tantamengkan	flying.beetle	np:pred	np		pred		
+tondano	water	0095	na	HES	nc	nc				
+tondano	water	0096	##	##	##	##				
+tondano	water	0096	tu	then	other	other				
+tondano	water	0096	ZERO	ZERO	0:s	0		s		
+tondano	water	0096	ma-sopit	AV.DYN-sting	v:pred	v		pred		
+tondano	water	0096	##	##	##	##				
+tondano	water	0096	ZERO	ZERO	0:s	0		s		
+tondano	water	0096	ma-sopit-sopit	AV.DYN-RDP-sting	v:pred	v		pred		
+tondano	water	0096	mm	HES	nc	nc				
+tondano	water	0097	##	##	##	##				
+tondano	water	0097	o	PART	nc	nc				
+tondano	water	0097	watè 	sago.grub	np:p_u	np		p_u		
+tondano	water	0097	toro	AUX.can	aux	aux				
+tondano	water	0097	kangkèi	also	other	other				
+tondano	water	0097	siwo-en	do-PV	v:pred	v		pred		
+tondano	water	0097	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	water	0097	N=	INAN=	ln=	ln=				
+tondano	water	0097	sapa	what	nc	nc				
+tondano	water	0097	N=	INAN=	ln=	ln=				
+tondano	water	0097	balap	race	np:obl	np		obl		
+tondano	water	0098	##	##	##	##				
+tondano	water	0098	ma-	HES	nc	nc				
+tondano	water	0098	sè=	3PL.NOM=	pro:a_a=	pro		a_a=		
+tondano	water	0098	ma-siwo	AV.DYN-do	v:pred	v		pred		
+tondano	water	0098	N=	INAN=	ln=	ln=				
+tondano	water	0098	balap	race	np:p_a	np		p_a		
+tondano	water	0098	sè=	AN.PL=	ln=	ln=				
+tondano	water	0098	watè	sago.grub	np:dt_a_a	np		dt_a_a		
+tondano	water	0099	##	##	##	##				
+tondano	water	0099	ta'an	however	other	other				
+tondano	water	0099	ni'tu	DEM2	pro:s	pro		s		
+tondano	water	0099	Ce-pa'ayang-en	NR-work-PV	np:pred	np		pred		
+tondano	water	0099	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0099	=itè	=LIM	=rn	=rn				
+tondano	water	0100	##	##	##	##				
+tondano	water	0100	tanu	like	other	other				
+tondano	water	0100	mm	HES	nc	nc				
+tondano	water	0101	ZERO	ZERO	0:s	0		s		
+tondano	water	0101	Ce-pa'ayang-en	NR-work-PV	np:pred	np		pred		
+tondano	water	0101	=nèa	=3PL.GEN	=pro:poss	=pro		poss		
+tondano	water	0101	=itè	=LIM	=rn	=rn				
+tondano	water	0102	#nc	#nc	#nc	#nc				
+tondano	water	0102	aa	HES	nc	nc				
+tondano	water	0102	iti'i	DEM2	nc	nc				
+tondano	water	0102	o	PART	nc	nc				
+tondano	water	0102	tuang	PART	nc	nc				
+tondano	water	0102	èy	PART	nc	nc				
+tondano	water	0103	##	##	##	##				
+tondano	water	0103	watè	sago.grub	np:dt_s	np		dt_s		
+tondano	water	0103	sè=	3PL.NOM=	pro:s=	pro		s=		
+tondano	water	0103	ma-Ce-loo'-an	AV.DYN-IRR-see-MUT	v:pred	v		pred		
+tondano	water	0104	##	##	##	##				
+tondano	water	0104	sè=	3SG.NOM=	pro:s=	pro		s=		
+tondano	water	0104	rior	fast	other:pred	other		pred		
+tondano	water	0105	i-ka-ayo	CV-POT-arrive	adp	adp				
+tondano	water	0105	finis	finish	np:g	np		g		
+tondano	water	0106	##	##	##	##				
+tondano	water	0106	nge	PART	nc	nc				
+tondano	water	0106	o	PART	nc	nc				
+tondano	water	0106	tuang	PART	nc	nc				
+tondano	water	0106	r<im>araagha'	<AV.PST>fall.down	v:pred	v		pred		
+tondano	water	0106	iti'i	DEM2	pro:s	pro		s		
+tondano	water	0107	#ac	#ac	#ac	#ac				
+tondano	water	0107	sa 	if	other	other				
+tondano	water	0107	si=	3SG.NOM=	pro:s=	pro		s=		
+tondano	water	0107	ma-sela	EV.STAT-big	v:pred	v		pred		
+tondano	water	0107	=mow	=CMP	=rv	=rv				
+tondano	water	0107	=mi	=DIR.DIST	=rv	=rv				
+tondano	water	0107	watè	sago.grub.	np:dt_s	np		dt_s		
+tondano	water	0108	##	##	##	##				
+tondano	water	0108	wo'o	maybe	other	other				
+tondano	water	0108	pira	how.many	other	other				
+tondano	water	0108	minggu	week	np:other	np		other		
+tondano	water	0109	ZERO	ZERO	0:s	0		s		
+tondano	water	0109	ma-muali	EV.STAT-become	v:pred	v		pred		
+tondano	water	0109	=mow	=CMP	=rv	=rv				
+tondano	water	0109	sapa	what	nc	nc				
+tondano	water	0110	ee	PART	nc	nc				
+tondano	water	0110	tantamengkan	flying.horned.beetle	np:other	np		other		
+tondano	water	0111	##	##	##	##				
+tondano	water	0111	wewèan	EXIST	other:predex	other		predex		
+tondano	water	0111	ee	HES	nc	nc				
+tondano	water	0111	sapa	what	ln_np	ln_np				
+tondano	water	0111	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0112	N=	INAN=	ln=	ln=				
+tondano	water	0112	sayap	wing	np:s	np		s		
+tondano	water	0112	=na	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0113	#ac	#ac	#ac	#ac				
+tondano	water	0113	soal	issue	other	other				
+tondano	water	0113	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	water	0113	sèa	3SG.	pro:s	pro		s		
+tondano	water	0114	ma-tèwèl	AV.DYN-wing	v:pred	v		pred		
+tondano	water	0114	##	##	##	##				
+tondano	water	0114	sèa	3SG	pro:s	pro		s		
+tondano	water	0114	ma-tèwèl	AV.DYN-wing	v:pred	v		pred		

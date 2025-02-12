@@ -1,0 +1,696 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+tondano	holiday	0001	##	##	##	##				
+tondano	holiday	0001	si=	AN.PL=	nc	nc				
+tondano	holiday	0001	puyun	grandchild	nc	nc				
+tondano	holiday	0001	=ku	=1SG.GEN	nc	nc				
+tondano	holiday	0001	sè=	AN.PL=	ln=	ln=				
+tondano	holiday	0001	urang	child	np.h:dt_s	np	h	dt_s		
+tondano	holiday	0001	=ku	=1.SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0001	sèa	3PL	pro.h:s	pro	h	s		
+tondano	holiday	0001	waki	PREP3	adp	adp				
+tondano	holiday	0001	Brisbane	PN	np:pred_l	np		pred_l		
+tondano	holiday	0002	##	##	##	##				
+tondano	holiday	0002	si=	AN.SG=	ln=	ln=				
+tondano	holiday	0002	puyun	child	np.h:dt_s	np	h	dt_s		
+tondano	holiday	0002	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0002	esa	one	rn	rn				
+tondano	holiday	0002	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	holiday	0002	waki	PREP3	adp	adp				
+tondano	holiday	0002	Sydney	PN	np:pred_l	np		pred_l		
+tondano	holiday	0003	##	##	##	##				
+tondano	holiday	0003	jadi	thus	other	other				
+tondano	holiday	0004	torang	1PL	pro.1:s	pro	1	s		
+tondano	holiday	0004	itu	DEM2	rn	rn				
+tondano	holiday	0004	ma-tèku	AV.DYN-stay	v:pred	v		pred		
+tondano	holiday	0004	tiga	three	ln	ln				
+tondano	holiday	0004	bulan	month	np:other	np		other		
+tondano	holiday	0004	mana	there	other	other				
+tondano	holiday	0004	=mèè	=DIR.MED	=other	=other				
+tondano	holiday	0005	##	##	##	##				
+tondano	holiday	0005	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0005	m<in>a-masiar-masiar	AV.DYN-PST-RDP-travel	v:pred	v		pred		
+tondano	holiday	0005	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0006	##	##	##	##				
+tondano	holiday	0006	N=	INAN=	ln=	ln=				
+tondano	holiday	0006	pa-ana'-an	DYN-stay-LV	np:s	np		s		
+tondano	holiday	0006	=nèa	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	holiday	0007	ee	HES	nc	nc				
+tondano	holiday	0007	N=	INAN=	ln=	ln=				
+tondano	holiday	0007	kampung	quarter	np:pred	np		pred		
+tondano	holiday	0008	Daisy	PN	rn_np	rn_np				
+tondano	holiday	0008	Hill	PN	rn_np	rn_np				
+tondano	holiday	0009	##	##	##	##				
+tondano	holiday	0009	ZERO	ZERO	0:s	0		s		
+tondano	holiday	0009	mèmang	truly	other	other				
+tondano	holiday	0009	waki	PREP3	other:pred	other		pred		
+tondano	holiday	0009	kota	city	np:l	np		l		
+tondano	holiday	0010	Brisbane	PN	rn_np	rn_np				
+tondano	holiday	0011	##	##	##	##				
+tondano	holiday	0011	wo	and	other	other				
+tondano	holiday	0011	kèy=	HES	nc	nc				
+tondano	holiday	0011	sa	if	other	other				
+tondano	holiday	0011	hari	day	np:other	np		other		
+tondano	holiday	0011	duminggu	Sunday	rn_np	rn_np				
+tondano	holiday	0011	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0011	waya	all	rn	rn				
+tondano	holiday	0011	si	HES	nc	nc				
+tondano	holiday	0011	<um>untep	<AV>enter.church	v:pred	v		pred		
+tondano	holiday	0012	waki	PREP3	adp	adp				
+tondano	holiday	0012	Tamborine	PN	np:l	np		l		
+tondano	holiday	0012	adu	PART	nc	nc				
+tondano	holiday	0012	<um> patè	PART	nc	nc				
+tondano	holiday	0012	N=	INAN=	other=	other=				
+tondano	holiday	0012	row'	far	other	other				
+tondano	holiday	0012	=mèè	=DIR.MED	=other	=other				
+tondano	holiday	0013	t<um>awii	<AV>close	other	other				
+tondano	holiday	0013	=mow	=CMP	=other	=other				
+tondano	holiday	0013	=mèè	=DIR.DIST	other	other				
+tondano	holiday	0013	laut	sea	np:l	np		l		
+tondano	holiday	0013	sabla	next.to	rn	rn				
+tondano	holiday	0014	##	##	##	##				
+tondano	holiday	0014	salah	RDP	ln_np	ln_np				
+tondano	holiday	0014	salah	mistake	np:other	np		other		
+tondano	holiday	0014	mèmang	truly	other	other				
+tondano	holiday	0014	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0014	musti	AUX.must	aux	aux				
+tondano	holiday	0014	<um>èa	<AV>go	lv	lv				
+tondano	holiday	0014	<um>untep	<AV>enter.church	v:pred	v		pred		
+tondano	holiday	0015	##	##	##	##				
+tondano	holiday	0015	jam	hour	np:other	np		other		
+tondano	holiday	0015	sebelas	eleven	rn	rn				
+tondano	holiday	0015	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0015	<um>warèng	<AV>return.home	v:pred	v		pred		
+tondano	holiday	0015	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0016	##	##	##	##				
+tondano	holiday	0016	wo	and	other	other				
+tondano	holiday	0016	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0016	<um>èa 	<AV>go	v:pred	v		pred		
+tondano	holiday	0016	kasi	more	rv	rv				
+tondano	holiday	0016	waki	PREP3	adp	adp				
+tondano	holiday	0017	e	HES	nc	nc				
+tondano	holiday	0017	double	Double	np:l	np		l		
+tondano	holiday	0017	yu	U	rn	rn				
+tondano	holiday	0018	##	##	##	##				
+tondano	holiday	0018	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0018	<um>èa	<AV>go	v:pred	v		pred		
+tondano	holiday	0018	waki	PREP3	adp	adp				
+tondano	holiday	0018	double	Double	np:l	np		l		
+tondano	holiday	0018	yu	U	rn	rn				
+tondano	holiday	0018	##	##	##	##				
+tondano	holiday	0018	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0018	<um>èa	<AV>go	lv	lv				
+tondano	holiday	0018	t<um>eles	<AV>buy	v:pred	v		pred		
+tondano	holiday	0018	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0018	labung	clothes	ln_np	ln_np				
+tondano	holiday	0019	pa'ayang-en	work-PV	np:p_a	np		p_a		
+tondano	holiday	0019	nè=	AN.PL.GEN=	rn=	rn=				
+tondano	holiday	0019	oki'	small	rn_np.h:poss	rn_np	h	poss		
+tondano	holiday	0020	##	##	##	##				
+tondano	holiday	0020	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0020	<um>èa	<AV>go	v:pred	v		pred		
+tondano	holiday	0020	waki	PREP3	adp	adp				
+tondano	holiday	0021	Hyperdome	Hyperdome	np:l	np		l		
+tondano	holiday	0022	##	##	##	##				
+tondano	holiday	0022	Hyperdome	Hyperdome	np:s	np		s		
+tondano	holiday	0022	itu	DEM2	rn	rn				
+tondano	holiday	0022	waya	all	other	other				
+tondano	holiday	0022	N=	INAN=	nc	nc				
+tondano	holiday	0022	anu	NON.SPEC	nc	nc				
+tondano	holiday	0022	ya	AFF	nc	nc				
+tondano	holiday	0023	spesial	special	ln	ln				
+tondano	holiday	0023	pa-wangkèr-an	DYN-sell-LV	np:pred	np		pred		
+tondano	holiday	0023	rupa	RDP	rn	rn				
+tondano	holiday	0023	rupa	type	rn	rn				
+tondano	holiday	0024	##	##	##	##				
+tondano	holiday	0024	ta'an	however	other	other				
+tondano	holiday	0024	tow	like	other	other				
+tondano	holiday	0024	mol	mall	np:pred	np		pred		
+tondano	holiday	0024	ku'a	PART	nc	nc				
+tondano	holiday	0024	ni'tu	DEM2	pro:s	pro		s		
+tondano	holiday	0025	##	##	##	##				
+tondano	holiday	0025	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0025	maka-teles	AV.COMP-buy	v:pred	v		pred		
+tondano	holiday	0025	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0025	ZERO	ZERO	0:p_a	0		p_a		
+tondano	holiday	0025	N=	INAN=	ln=	ln=				
+tondano	holiday	0025	bengi	night	np:other	np		other		
+tondano	holiday	0025	=mow	=CMP	=other	=other				
+tondano	holiday	0026	##	##	##	##				
+tondano	holiday	0026	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0026	<um>warèng	<AV>return.home	v:pred	v		pred		
+tondano	holiday	0026	=mow	=CMP	=rv	=rv				
+tondano	holiday	0026	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0026	kasi	more	rv	rv				
+tondano	holiday	0026	waki	PREP3	adp	adp				
+tondano	holiday	0026	walè	house	np:l	np		l		
+tondano	holiday	0027	##	##	##	##				
+tondano	holiday	0027	si=	AN.SG=	ln=	ln=				
+tondano	holiday	0027	urang	child	np.h:s	np	h	s		
+tondano	holiday	0027	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0027	waki	PREP3	adp	adp				
+tondano	holiday	0027	Brisbane	PN	np:pred_l	np		pred_l		
+tondano	holiday	0028	##	##	##	##				
+tondano	holiday	0028	si=	1SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	holiday	0028	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	holiday	0028	mana	there	other	other				
+tondano	holiday	0029	##	##	##	##				
+tondano	holiday	0029	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	holiday	0029	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	holiday	0029	waya	all	other	other				
+tondano	holiday	0030	##	##	##	##				
+tondano	holiday	0030	si=	AN.SG=	ln=	ln=				
+tondano	holiday	0030	tuama	man	np.h:s	np	h	s		
+tondano	holiday	0030	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	holiday	0030	kantor	office	np:l	np		l		
+tondano	holiday	0030	##	##	##	##				
+tondano	holiday	0030	si=	AN.SG=	ln=	ln=				
+tondano	holiday	0030	urang	child	np.h:s	np	h	s		
+tondano	holiday	0030	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0030	wewènè	woman	rn_np.h	rn_np	h			
+tondano	holiday	0031	ma-	AV.DYN	nc	nc				
+tondano	holiday	0032	therapy	HES	nc	nc				
+tondano	holiday	0032	therapy	therapy	v:pred	v		pred		
+tondano	holiday	0032	sport	sport	rv_np	rv_np				
+tondano	holiday	0032	dèngan	with	adp	adp				
+tondano	holiday	0032	acupuncture	acupuncture	np:obl	np		obl		
+tondano	holiday	0033	##	##	##	##				
+tondano	holiday	0033	sia	3SG	pro.h:dt_s	pro	h	dt_s		
+tondano	holiday	0033	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	holiday	0033	waki	PREP3	adp	adp				
+tondano	holiday	0034	ee	HES	nc	nc				
+tondano	holiday	0034	Brisbane	PN	np:pred_l	np		pred_l		
+tondano	holiday	0035	##	##	##	##				
+tondano	holiday	0035	N=	INAN=	ln=	ln=				
+tondano	holiday	0035	row'	far	other	other				
+tondano	holiday	0035	=mèè 	=DIR.MED	=other	=other				
+tondano	holiday	0035	N=	INAN=	ln=	ln=				
+tondano	holiday	0035	walè	house	np:p_u	np		p_u		
+tondano	holiday	0035	N=	INAN=	nc	nc				
+tondano	holiday	0035	pa	HES	nc	nc				
+tondano	holiday	0036	pa-ana'-ana'-an	DYN-RDP-stay-LV	v:pred	v		pred		
+tondano	holiday	0036	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	holiday	0036	<um> patè 	PART	nc	nc				
+tondano	holiday	0037	#nc	#nc	#nc	#nc				
+tondano	holiday	0037	tow	like	nc	nc				
+tondano	holiday	0037	wia	PREP1	nc	nc				
+tondano	holiday	0037	N=	INAN=	nc	nc				
+tondano	holiday	0037	tondano	PN	nc	nc				
+tondano	holiday	0037	ka-ayo	until	nc	nc				
+tondano	holiday	0037	=mèè	=DIR.MED	nc	nc				
+tondano	holiday	0037	N=	INAN=	nc	nc				
+tondano	holiday	0037	pinèlèng	PN	nc	nc				
+tondano	holiday	0038	##	##	##	##				
+tondano	holiday	0038	hari	RDP	ln_np	ln_np				
+tondano	holiday	0038	hari	day	np:other	np		other		
+tondano	holiday	0038	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	holiday	0038	s<um>èrèt	<AV>ride	v:pred	v		pred		
+tondano	holiday	0038	oto	car	np:p_a	np		p_a		
+tondano	holiday	0039	##	##	##	##				
+tondano	holiday	0039	ya	AFF	nc	nc				
+tondano	holiday	0039	N=	INAN=	ln=	ln=				
+tondano	holiday	0039	waya	all	other	other				
+tondano	holiday	0039	=nèa 	=3PL.GEN	=pro.h:poss	=pro	h	poss		
+tondano	holiday	0039	sè=	3PL=	pro.h:dt=	pro	h	dt=		
+tondano	holiday	0039	wewèan 	EXIST	other:predex	other		predex		
+tondano	holiday	0039	waya	all	rn	rn				
+tondano	holiday	0039	oto	car	np:s	np		s		
+tondano	holiday	0040	##	##	##	##				
+tondano	holiday	0040	ZERO	ZERO	0.h:p_u	0	h	p_u		
+tondano	holiday	0040	pa-pakè-en	DYN-use-PV	v:pred	v		pred		
+tondano	holiday	0040	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	holiday	0040	#ac	#ac	#ac	#ac				
+tondano	holiday	0040	ka'a	because	other	other				
+tondano	holiday	0040	tu	then	other	other				
+tondano	holiday	0041	ZERO	ZERO	0.h:s	0	h	s		
+tondano	holiday	0041	pigi	go	lv	lv				
+tondano	holiday	0041	datang	come	v:pred	v		pred		
+tondano	holiday	0041	##	##	##	##				
+tondano	holiday	0041	ZERO	ZERO	0.h:s	0	h	s		
+tondano	holiday	0041	pigi	go	lv	lv				
+tondano	holiday	0041	datang	come	v:pred	v		pred		
+tondano	holiday	0042	i-ka-ayo	CV-POT-arrive	other	other				
+tondano	holiday	0042	=mèè	=DIR.MED	=other	=other				
+tondano	holiday	0042	witu	PREP2	other	other				
+tondano	holiday	0043	##	##	##	##				
+tondano	holiday	0043	okèy	PART	nc	nc				
+tondano	holiday	0043	i-lila'	CV-tongue	v:pred	v		pred		
+tondano	holiday	0043	=mu	=2SG.GEN	=pro.2:a_u_ds	=pro	2	a_u_ds		
+tondano	holiday	0043	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0043	sèa	3PL	pro.h:p_u	pro	h	p_u		
+tondano	holiday	0043	# ds	# ds	#ds	#ds				
+tondano	holiday	0043	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0044	ma-laa	AV.DYN-go	v:pred	v		pred		
+tondano	holiday	0044	=mow	=CMP	=rv	=rv				
+tondano	holiday	0045	lima	five	ln	ln				
+tondano	holiday	0045	bulan	month	np:other	np		other		
+tondano	holiday	0045	wia	here	other	other				
+tondano	holiday	0045	##	##	##	##				
+tondano	holiday	0046	kèy=	1PL.EX.NOM=	pro.1:p_u=	pro	1	p_u=		
+tondano	holiday	0046	taang-en	intercept-PV	v:pred	v		pred		
+tondano	holiday	0046	=miu	=2PL.GEN	=pro.1:a_u	=pro	1	a_u		
+tondano	holiday	0046	=mow	=CMP	=rv	=rv				
+tondano	holiday	0046	wia	here	other	other				
+tondano	holiday	0046	sudah	already	other	other				
+tondano	holiday	0046	##	##	##	##				
+tondano	holiday	0046	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0046	<um>warèng	<AV>return.home	v:pred	v		pred		
+tondano	holiday	0046	=mow	=CMP	=rv	=rv				
+tondano	holiday	0047	##	##	##	##				
+tondano	holiday	0047	mèmang	truly	other	other				
+tondano	holiday	0047	N=	INAN=	ln=	ln=				
+tondano	holiday	0047	paspor	passport	np:s	np		s		
+tondano	holiday	0047	=mèy	=1PL.EX.GEN	=pro.h.1:poss	=pro	h.1	poss		
+tondano	holiday	0047	<im>èy	<AV.PST>come	v:pred	v		pred		
+tondano	holiday	0047	=itè	=LIM	=rv	=rv				
+tondano	holiday	0047	i-ka'ayo	CV-POT-arrive	adp	adp				
+tondano	holiday	0047	itu	DEM2	ln	ln				
+tondano	holiday	0047	N=	INAN=	ln=	ln=				
+tondano	holiday	0047	bulan	month	np:obl	np		obl		
+tondano	holiday	0048	ee	HES	nc	nc				
+tondano	holiday	0048	Juni	PN	rn_np	rn_np				
+tondano	holiday	0049	##	##	##	##				
+tondano	holiday	0049	ZERO	ZERO	0.h:p_u	0	h	p_u		
+tondano	holiday	0049	i-lila'	CV-tongue	v:pred	v		pred		
+tondano	holiday	0049	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0049	ni	HES	nc	nc				
+tondano	holiday	0049	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	holiday	0049	apmit	spouse	np.h:a_u_ds	np	h	a_u_ds		
+tondano	holiday	0049	=na	=3SG.GEN	=pro.h:poss	=pro	h	poss		
+tondano	holiday	0049	# ds	# ds	#ds	#ds				
+tondano	holiday	0049	N=	INAN=	other=	other=				
+tondano	holiday	0049	rèy'	don't	neg	neg				
+tondano	holiday	0049	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	holiday	0049	awes-en	add-PV	v:pred	v		pred		
+tondano	holiday	0049	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	holiday	0049	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0050	##	##	##	##				
+tondano	holiday	0050	konèng	directly	other	other				
+tondano	holiday	0050	ku=	1SG.NOM=	pro.1:a_a=	pro	1	a_a=		
+tondano	holiday	0050	m<in>aka- awes	AV.COMP.PST - add	v:pred	v		pred		
+tondano	holiday	0050	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0050	ZERO	ZERO	0:p_a	0		p_a		
+tondano	holiday	0050	waki	PREP3	adp	adp				
+tondano	holiday	0050	kantor	office	np:l	np		l		
+tondano	holiday	0050	##	##	##	##				
+tondano	holiday	0050	jadi	thus	other	other				
+tondano	holiday	0050	<in>awes-en	<PST>add-PV	v:pred	v		pred		
+tondano	holiday	0050	ZERO	ZERO	0.1:a_u	0	1	a_u		
+tondano	holiday	0050	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0050	dua	two	ln	ln				
+tondano	holiday	0050	bulan	month	np:p_u	np		p_u		
+tondano	holiday	0050	##	##	##	##				
+tondano	holiday	0050	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0050	<im>warèng	<AV.PST>return.home	v:pred	v		pred		
+tondano	holiday	0050	=mow	=CMP	=rv	=rv				
+tondano	holiday	0050	=keni	PART	=rv	=rv				
+tondano	holiday	0050	bulan	month	np:other	np		other		
+tondano	holiday	0050	Juni	PN	rn_np	rn_np				
+tondano	holiday	0051	abis	finsh	other	other				
+tondano	holiday	0051	bulan	month	np:other	np		other		
+tondano	holiday	0052	sampai	until	nc	nc				
+tondano	holiday	0052	di	of	nc	nc				
+tondano	holiday	0052	rèy'	not	nc	nc				
+tondano	holiday	0053	##	##	##	##				
+tondano	holiday	0053	ZERO	ZERO	0.1:p_u	0	1	p_u		
+tondano	holiday	0053	nèy	CV.PST	lv	lv				
+tondano	holiday	0053	=mow	=CMP	=lv	=lv				
+tondano	holiday	0053	i-ka-'ayo	CV-POT-arrive	v:pred	v		pred		
+tondano	holiday	0053	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	holiday	0053	wia	PREP1	adp	adp				
+tondano	holiday	0053	N=	INAN=	ln=	ln=				
+tondano	holiday	0053	Tondano	PN	np:l	np		l		
+tondano	holiday	0054	ya	AFF	nc	nc				
+tondano	holiday	0054	tuang	PART	nc	nc				
+tondano	holiday	0055	##	##	##	##				
+tondano	holiday	0055	ZERO	ZERO	0:s	0		s		
+tondano	holiday	0055	mèmang	truly	other	other				
+tondano	holiday	0055	mana	there	other	other				
+tondano	holiday	0055	=mèè	=DIR.MED	=other	=other				
+tondano	holiday	0055	sedap	tasty	other:pred	other		pred		
+tondano	holiday	0056	##	##	##	##				
+tondano	holiday	0056	ta'an	however	other	other				
+tondano	holiday	0057	wèlow	PART	nc	nc				
+tondano	holiday	0058	ZERO	ZERO	0.h:p_u	0	h	p_u		
+tondano	holiday	0058	pa-lila'-an	DYN-tongue-LV	v:pred	v		pred		
+tondano	holiday	0058	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	holiday	0058	# ds	# ds	#ds	#ds				
+tondano	holiday	0058	rèy'	not	neg	neg				
+tondano	holiday	0058	=mow	=CMP	=other	=other				
+tondano	holiday	0058	i-pakè	CV-use	v:pred	v		pred		
+tondano	holiday	0058	ZERO	ZERO	0.h:a_u	0	h	a_u		
+tondano	holiday	0058	dollar	dollar	np:p_u	np		p_u		
+tondano	holiday	0058	#nc	#nc	#nc	#nc				
+tondano	holiday	0058	N=	INAN=	nc	nc				
+tondano	holiday	0058	rèy'	not	nc	nc				
+tondano	holiday	0058	=kan	=also	nc	nc				
+tondano	holiday	0058	tow	like	nc	nc				
+tondano	holiday	0058	wia	PREP1	nc	nc				
+tondano	holiday	0058	N=	INAN=	nc	nc				
+tondano	holiday	0058	Tondano	PN	nc	nc				
+tondano	holiday	0059	##	##	##	##				
+tondano	holiday	0059	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	holiday	0059	meN-ghenang-ghenang	EV.STAT-RDP-think	v:pred	v		pred		
+tondano	holiday	0059	=itè	=LIM	=rv	=rv				
+tondano	holiday	0059	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0059	k<in>a-tow-an	STAT.PST-person-LV	np:p_a	np		p_a		
+tondano	holiday	0059	ha ha ha	ha ha ha	nc	nc				
+tondano	holiday	0060	waki	PREP3	adp	adp				
+tondano	holiday	0060	tana'	land	np:l	np		l		
+tondano	holiday	0060	nè=	AN.PL.GEN=	rn=	rn=				
+tondano	holiday	0060	tow	person	rn_np.h:poss	rn_np	h	poss		
+tondano	holiday	0060	mèmang	truly	other	other				
+tondano	holiday	0060	sènang	happy	other	other				
+tondano	holiday	0060	##	##	##	##				
+tondano	holiday	0060	ta'an	however	other	other				
+tondano	holiday	0060	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	holiday	0060	ma-ghenang	EV.STAT-think	v:pred	v		pred		
+tondano	holiday	0060	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0060	ZERO	ZERO	0:p_a	0		p_a		
+tondano	holiday	0060	wia	PREP1	adp	adp				
+tondano	holiday	0060	Tondano	PN	np:l	np		l		
+tondano	holiday	0060	o	PART	nc	nc				
+tondano	holiday	0060	kela	PART	nc	nc				
+tondano	holiday	0061	##	##	##	##				
+tondano	holiday	0061	ZERO	ZERO	0.h:s	0	h	s		
+tondano	holiday	0061	<um>warèng	<AV>return.home	v:pred	v		pred		
+tondano	holiday	0061	=mow	=CMP	=rv	=rv				
+tondano	holiday	0062	##	##	##	##				
+tondano	holiday	0062	sa	if	other	other				
+tondano	holiday	0062	ZERO	ZERO	0.h:s	0	h	s		
+tondano	holiday	0062	urè-urè 	RDP-long	other:pred	other		pred		
+tondano	holiday	0062	wia	here	other	other				
+tondano	holiday	0063	##	##	##	##				
+tondano	holiday	0063	ZERO	ZERO	0.h:s	0	h	s		
+tondano	holiday	0063	payah	tired	other:pred	other		pred		
+tondano	holiday	0063	ku'a	PART	nc	nc				
+tondano	holiday	0064	##	##	##	##				
+tondano	holiday	0064	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	holiday	0064	ma-ghenang-ghenang	EV.STAT-RDP-think	v:pred	v		pred		
+tondano	holiday	0064	=itè	=LIM	=rv	=rv				
+tondano	holiday	0064	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0064	N=	INAN=	ln=	ln=				
+tondano	holiday	0064	walè	house	np:p_a	np		p_a		
+tondano	holiday	0064	waki	PREP3	adp	adp				
+tondano	holiday	0064	Tondano	PN	np:l	np		l		
+tondano	holiday	0064	##	##	##	##				
+tondano	holiday	0064	jadi	thus	other	other				
+tondano	holiday	0065	pas	exactly	other	other				
+tondano	holiday	0065	nèy	CV.PST	lv	lv				
+tondano	holiday	0065	awes	add	v:pred	v		pred		
+tondano	holiday	0065	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	holiday	0065	Ginè	?	np:a_u	np		a_u		
+tondano	holiday	0065	dua 	two	ln	ln				
+tondano	holiday	0065	bulan	month	np:p_u	np		p_u		
+tondano	holiday	0066	##	##	##	##				
+tondano	holiday	0066	ku=	1SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	holiday	0066	nèy	CV.PST	lv	lv				
+tondano	holiday	0066	ka-ayo	POT-arrive	v:pred	v		pred		
+tondano	holiday	0066	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0066	enem	six	ln	ln				
+tondano	holiday	0066	bulan	month	np:other	np		other		
+tondano	holiday	0066	waki	PREP3	adp	adp				
+tondano	holiday	0066	Australia	PN	np:l	np		l		
+tondano	holiday	0067	o	PART	nc	nc				
+tondano	holiday	0067	<um> patè	PART	nc	nc				
+tondano	holiday	0068	##	##	##	##				
+tondano	holiday	0068	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0068	ma-masiar-masiar	AV.DYN-RDP- travel	v:pred	v		pred		
+tondano	holiday	0068	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0068	N=	INAN=	ln=	ln=				
+tondano	holiday	0068	oto	car	np:obl	np		obl		
+tondano	holiday	0069	##	##	##	##				
+tondano	holiday	0069	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0069	pigi	go	lv	lv				
+tondano	holiday	0069	datang	come	v:pred	v		pred		
+tondano	holiday	0069	wo	and	ln	ln				
+tondano	holiday	0069	N=	INAN=	ln=	ln=				
+tondano	holiday	0069	waya	all	ln	ln				
+tondano	holiday	0069	N=	INAN=	ln=	ln=				
+tondano	holiday	0069	toko	RDP	ln_np	ln_np				
+tondano	holiday	0069	toko	shop	np:obl	np		obl		
+tondano	holiday	0069	##	##	##	##				
+tondano	holiday	0069	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0069	<um>èa	<AV>go	v:pred	v		pred		
+tondano	holiday	0069	waki	PREP3	adp	adp				
+tondano	holiday	0069	Gold 	PN	ln_np	ln_np				
+tondano	holiday	0069	Coast	PN	np:l	np		l		
+tondano	holiday	0070	i-ka-ayo	CV.POT-arrive	other	other				
+tondano	holiday	0070	waki	PREP3	adp	adp				
+tondano	holiday	0070	Gold	PN	ln	ln				
+tondano	holiday	0070	Coast	PN	np:l	np		l		
+tondano	holiday	0070	ya	AFF	nc	nc				
+tondano	holiday	0071	##	##	##	##				
+tondano	holiday	0071	ZERO	ZERO	0.1:p_u	0	1	p_u		
+tondano	holiday	0071	pa-maksa-maksa-an	DYN-RDP-coerce	v:pred	v		pred		
+tondano	holiday	0071	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	holiday	0071	##	##	##	##				
+tondano	holiday	0071	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0071	<um>pa'ayang	<AV>work	v:pred	v		pred		
+tondano	holiday	0071	=mow	=CMP	=rv	=rv				
+tondano	holiday	0071	=kè	=EPIS	=rv	=rv				
+tondano	holiday	0072	N=	INAN=	ln=	ln=				
+tondano	holiday	0072	jackpot	jackpot	np:p_a	np		p_a		
+tondano	holiday	0072	odo	PART	nc	nc				
+tondano	holiday	0072	o	PART	nc	nc				
+tondano	holiday	0072	<um> patè	PART	nc	nc				
+tondano	holiday	0073	##	##	##	##				
+tondano	holiday	0073	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0073	mèmang	truly	other	other				
+tondano	holiday	0073	ma-abis	AV.DYN-finish	v:pred	v		pred		
+tondano	holiday	0073	N=	INAN=	ln=	ln=				
+tondano	holiday	0073	loit	money	np:p_a	np		p_a		
+tondano	holiday	0073	#ac	#ac	#ac	#ac				
+tondano	holiday	0073	sa	if	other	other				
+tondano	holiday	0073	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0073	<um>èa	<AV>go	v:pred	v		pred		
+tondano	holiday	0073	waki	PREP3	adp	adp				
+tondano	holiday	0073	jackpot	jackpot	np:l	np		l		
+tondano	holiday	0073	he he	he he	nc	nc				
+tondano	holiday	0074	##	##	##	##				
+tondano	holiday	0074	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0074	<um>èa	<AV>go	v:pred	v		pred		
+tondano	holiday	0074	##	##	##	##				
+tondano	holiday	0074	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	holiday	0074	pa-lila'-an	DYN-tongue-LV	v:pred	v		pred		
+tondano	holiday	0074	=nèa	=3PL.GEN	=pro.h:a_u_ds	=pro	h	a_u_ds		
+tondano	holiday	0074	=itè	=LIM	=rv	=rv				
+tondano	holiday	0074	ku'a	PART	nc	nc				
+tondano	holiday	0074	# ds	# ds	#ds	#ds				
+tondano	holiday	0074	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0074	<um>èa	<AV>go	lv	lv				
+tondano	holiday	0074	ma-pa'ayang	AV.DYN-work	v:pred	v		pred		
+tondano	holiday	0074	piano	piano	np:p_a	np		p_a		
+tondano	holiday	0074	ha ha	ha ha	nc	nc				
+tondano	holiday	0075	o	PART	nc	nc				
+tondano	holiday	0075	<um> patè	PART	nc	nc				
+tondano	holiday	0076	##	##	##	##				
+tondano	holiday	0076	waki	PREP3	adp	adp				
+tondano	holiday	0076	Gold	PN	ln	ln				
+tondano	holiday	0076	Coast	PN	np:l	np		l		
+tondano	holiday	0076	iti'i	DEM2	rn	rn				
+tondano	holiday	0076	ZERO	ZERO	0:s	0		s		
+tondano	holiday	0076	mèmang	truly	other	other				
+tondano	holiday	0076	luar	outside	ln	ln				
+tondano	holiday	0076	biasa	normal	other:pred	other		pred		
+tondano	holiday	0077	##	##	##	##				
+tondano	holiday	0077	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0077	ki	HES	nc	nc				
+tondano	holiday	0077	m<in>a-tekel	AV.DYN.PST-sleep	v:pred	v		pred		
+tondano	holiday	0077	waki	PREP3	adp	adp				
+tondano	holiday	0077	walè	house	np:l	np		l		
+tondano	holiday	0077	##	##	##	##				
+tondano	holiday	0077	wo	and	other	other				
+tondano	holiday	0077	rèy'	HES	nc	nc				
+tondano	holiday	0078	rèy'	not	neg	neg				
+tondano	holiday	0078	awes	add	other:pred	other		pred		
+tondano	holiday	0078	satu	one	ln	ln				
+tondano	holiday	0078	minggu	week	np:s	np		s		
+tondano	holiday	0079	#ac	#ac	#ac	#ac				
+tondano	holiday	0079	soal	issue	other	other				
+tondano	holiday	0079	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	holiday	0080	si=	AN.SG=	ln=	ln=				
+tondano	holiday	0080	urang	child	np.h:s	np	h	s		
+tondano	holiday	0080	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0080	waki	PREP3	adp	adp				
+tondano	holiday	0080	Brisbane	PN	np:pred_l	np		pred_l		
+tondano	holiday	0081	##	##	##	##				
+tondano	holiday	0081	sè=	3PL=	pro.h:dt=	pro	h	dt=		
+tondano	holiday	0081	wewèan	EXIST	other:predex	other		predex		
+tondano	holiday	0081	anu	NON.SPEC	np:s	np		s		
+tondano	holiday	0081	mana	PREP2	adp	adp				
+tondano	holiday	0081	Gold	PN	ln_np	ln_np				
+tondano	holiday	0081	Coast	PN	np:l	np		l		
+tondano	holiday	0082	##	##	##	##				
+tondano	holiday	0082	wewèan	EXIST	other:predex	other		predex		
+tondano	holiday	0083	saham	stock	np:s	np		s		
+tondano	holiday	0084	##	##	##	##				
+tondano	holiday	0084	jadi	thus	other	other				
+tondano	holiday	0084	ma-oki'oki'	EV.STAT-RDP-small	lv	lv				
+tondano	holiday	0084	=la	=DIR.PROX	=other	=other				
+tondano	holiday	0084	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0084	<um>èa	<AV>go	lv	lv				
+tondano	holiday	0084	t<um>ekel	<AV>sleep	v:pred	v		pred		
+tondano	holiday	0084	waki	PREP3	adp	adp				
+tondano	holiday	0085	Gold	PN	ln	ln				
+tondano	holiday	0085	Coast	PN	np:l	np		l		
+tondano	holiday	0086	##	##	##	##				
+tondano	holiday	0086	ZERO	ZERO	0.1:s	0	1	s		
+tondano	holiday	0086	<um>èa 	<AV>go	lv	lv				
+tondano	holiday	0086	t<um>ekel	<AV>sleep	v:pred	v		pred		
+tondano	holiday	0086	mana	there	other	other				
+tondano	holiday	0086	=mèè	=DIR.DIST	=other	=other				
+tondano	holiday	0086	ya	AFF	nc	nc				
+tondano	holiday	0086	##	##	##	##				
+tondano	holiday	0086	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0086	ma-te'u	EV.STAT-know	v:pred	v		pred		
+tondano	holiday	0086	=mowkan	=definitely	=rv	=rv				
+tondano	holiday	0086	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0086	#cc:p_a	#cc:p_a	#cc:p_a	#cc		p_a		
+tondano	holiday	0086	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0086	k<um>aan	<AV>eat	v:pred	v		pred		
+tondano	holiday	0086	=mow	=CMP	=rv	=rv				
+tondano	holiday	0086	ZERO	ZERO	0:p_a	0		p_a		
+tondano	holiday	0087	##	##	##	##				
+tondano	holiday	0087	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0087	ma-Ce-kaan	AV.DYN-IRR-rice	v:pred	v		pred		
+tondano	holiday	0087	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0088	waya	all	ln	ln				
+tondano	holiday	0088	ano	NON.SPEC	np:p_a	np		p_a		
+tondano	holiday	0088	ee	HES	nc	nc				
+tondano	holiday	0089	##	##	##	##				
+tondano	holiday	0089	ZERO	ZERO	0:p_u	0		p_u		
+tondano	holiday	0089	peN-pa'ayang-pa'ayang-en	DYN-RDP-work-PV	v:pred	v		pred		
+tondano	holiday	0089	ZERO	ZERO	0.1:a_u	0	1	a_u		
+tondano	holiday	0089	mana	there	other	other				
+tondano	holiday	0089	=mèè	=DIR.MED	=other	=other				
+tondano	holiday	0089	##	##	##	##				
+tondano	holiday	0089	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0089	meN-pa'ayang-pa'ayang	AV.DYN-RDP-work	v:pred	v		pred		
+tondano	holiday	0089	ZERO	ZERO	0:p_a	0		p_a		
+tondano	holiday	0089	wo	with	ln	ln				
+tondano	holiday	0089	sè=	HES	nc	nc				
+tondano	holiday	0090	sè=	AN.PL=	ln=	ln=				
+tondano	holiday	0090	tow	person	np.h:obl	np	h	obl		
+tondano	holiday	0090	bulè 	RDP	rn_np	rn_np				
+tondano	holiday	0090	bulè 	whitey	rn	rn				
+tondano	holiday	0090	mana	there	other	other				
+tondano	holiday	0091	##	##	##	##				
+tondano	holiday	0091	pokok	primary	other	other				
+tondano	holiday	0091	=nya	=3SG.GEN	=pro:poss	=pro		poss		
+tondano	holiday	0091	ZERO	ZERO	0.h:a_a	0	h	a_a		
+tondano	holiday	0091	m<in>a-	AV.DYN-PST	v:pred	v		pred		
+tondano	holiday	0092	rupa-rupa	RDP-type	rv	rv				
+tondano	holiday	0092	pa'ayang-en	work-PV	np:p_a	np		p_a		
+tondano	holiday	0092	##	##	##	##				
+tondano	holiday	0092	ZERO	ZERO	0:p_u	0		p_u		
+tondano	holiday	0092	peN-pa'ayang-pa'ayang-en	DYN-RDP-work-PV	v:pred	v		pred		
+tondano	holiday	0092	ZERO	ZERO	0.1:a_u	0	1	a_u		
+tondano	holiday	0092	=mow	=CMP	=rv	=rv				
+tondano	holiday	0092	##	##	##	##				
+tondano	holiday	0092	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0092	<um>èa 	<AV>go	lv	lv				
+tondano	holiday	0092	meN-ato-ato	AV.DYN-look	v:pred	v		pred		
+tondano	holiday	0092	#cc:p_a	#cc:p_a	#cc:p_a	#cc		p_a		
+tondano	holiday	0092	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	holiday	0092	meN-sèrèt-sèrèt	AV.DYN-RDP-ride	v:pred	v		pred		
+tondano	holiday	0092	ZERO	ZERO	0:p_a	0		p_a		
+tondano	holiday	0093	ee	HES	nc	nc				
+tondano	holiday	0093	Dreamland	PN	np:l	np		l		
+tondano	holiday	0094	##	##	##	##				
+tondano	holiday	0094	mulè	begin	other	other				
+tondano	holiday	0094	=mèè	=DIR.MED	=other	=other				
+tondano	holiday	0094	ni'tu	DEM2	other	other				
+tondano	holiday	0094	ZERO	ZERO	0.1:p_u	0	1	p_u		
+tondano	holiday	0094	i-lila'	CV-tongue	v:pred	v		pred		
+tondano	holiday	0094	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0094	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	holiday	0094	urang	child	np.h:a_u_ds	np	h	a_u_ds		
+tondano	holiday	0094	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
+tondano	holiday	0094	# ds	# ds	#ds	#ds				
+tondano	holiday	0094	sa	if	other	other				
+tondano	holiday	0094	ko=	2SG.NOM=	pro.2:s=	pro	2	s=		
+tondano	holiday	0094	so'o	don't.want	aux	aux				
+tondano	holiday	0094	=mow	=CMP	=rv	=rv				
+tondano	holiday	0094	meN-wia-wia	EV.STAT-RDP-here	v:pred	v		pred		
+tondano	holiday	0095	##	##	##	##				
+tondano	holiday	0095	ee	HES	nc	nc				
+tondano	holiday	0095	tangal	day	np:other	np		other		
+tondano	holiday	0095	tiga	three	rn	rn				
+tondano	holiday	0095	puluh	ten	rn	rn				
+tondano	holiday	0095	Juni	June	rn_np	rn_np				
+tondano	holiday	0095	ko=	HES	nc	nc				
+tondano	holiday	0095	ko=	2SG.NOM=	pro.2:a_a=	pro	2	a_a=		
+tondano	holiday	0095	toro	AUX.can	aux	aux				
+tondano	holiday	0095	=mow	=CMP	=rv	=rv				
+tondano	holiday	0095	<um>èdo	<AV>take	v:pred	v		pred		
+tondano	holiday	0095	=la	=DIR.PROX	=rv	=rv				
+tondano	holiday	0095	ticket	ticket	np:p_a	np		p_a		
+tondano	holiday	0096	##	##	##	##				
+tondano	holiday	0096	ya	AFF	nc	nc				
+tondano	holiday	0096	sudah	already	other	other				
+tondano	holiday	0096	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0096	<um>èdo	<AV>take	v:pred	v		pred		
+tondano	holiday	0096	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0096	ticket	ticket	np:p_a	np		p_a		
+tondano	holiday	0096	##	##	##	##				
+tondano	holiday	0096	kèy=	HES	nc	nc				
+tondano	holiday	0096	wo	and	nc	nc				
+tondano	holiday	0096	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0097	<um>warèng	<AV>return.home	v:pred	v		pred		
+tondano	holiday	0097	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0097	##	##	##	##				
+tondano	holiday	0097	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0098	<im>èy	<AV.PST>come	v:pred	v		pred		
+tondano	holiday	0098	ka-tarè	very-new	rv	rv				
+tondano	holiday	0098	##	##	##	##				
+tondano	holiday	0098	ZERO	ZERO	0.1:a_a	0	1	a_a		
+tondano	holiday	0098	s<um>èrèt	<AV>ride	v:pred	v		pred		
+tondano	holiday	0098	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0098	kapal	boat	np:p_a	np		p_a		
+tondano	holiday	0098	##	##	##	##				
+tondano	holiday	0098	kèy=	1PL.EX.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0098	<im>èy	<AV.PST>come	v:pred	v		pred		
+tondano	holiday	0098	i-ka'ayo	CV-POT-arrive	adp	adp				
+tondano	holiday	0098	=mi	=DIR.DIST	other	other				
+tondano	holiday	0098	N=	INAN=	ln=	ln=				
+tondano	holiday	0098	Kuala	PN	ln_np	ln_np				
+tondano	holiday	0098	Lumpur	PN	ln_np	ln_np				
+tondano	holiday	0098	Malaysia	PN	np:l	np		l		
+tondano	holiday	0099	##	##	##	##				
+tondano	holiday	0099	mana	there	other	other				
+tondano	holiday	0099	=mowkan	=definitely	=other	=other				
+tondano	holiday	0099	kasi	again	other	other				
+tondano	holiday	0099	wo	and	other	other				
+tondano	holiday	0099	kèy=	1PL.EX.NOM=	pro.1:a_a=	pro	1	a_a=		
+tondano	holiday	0099	s<um>èrèt	<AV>ride	v:pred	v		pred		
+tondano	holiday	0099	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0099	kasi	more	rv	rv				
+tondano	holiday	0099	kapal	boat	np:p_a	np		p_a		
+tondano	holiday	0099	i-ka-ayo	CV-POT-arrive	adp	adp				
+tondano	holiday	0099	=mi	=DIR.DIST	=other	=other				
+tondano	holiday	0099	Jakarta	PN	np:l	np		l		
+tondano	holiday	0100	##	##	##	##				
+tondano	holiday	0100	mana	there	other	other				
+tondano	holiday	0100	=mowkan	=definitely	=other	=other				
+tondano	holiday	0100	Jakarata	PN	np:l	np		l		
+tondano	holiday	0100	ku=	1SG.NOM=	pro.1:a_a=	pro	1	a_a=		
+tondano	holiday	0100	s<um>èrèt	<AV>ride	v:pred	v		pred		
+tondano	holiday	0100	=mi	=DIR.DIST	=rv	=rv				
+tondano	holiday	0100	kasi	more	rv	rv				
+tondano	holiday	0101	kapal	boat	np:p_a	np		p_a		
+tondano	holiday	0101	##	##	##	##				
+tondano	holiday	0101	ku=	1SG.NOM=	pro.1:s=	pro	1	s=		
+tondano	holiday	0101	<um>èy	<AV>come	v:pred	v		pred		
+tondano	holiday	0101	wia	PREP1	adp	adp				
+tondano	holiday	0101	N=	INAN=	ln=	ln=				
+tondano	holiday	0101	Wènang	PN	np:l	np		l		
+tondano	holiday	0101	i-ka-ayo	CV-POT-arrive	adp	adp				
+tondano	holiday	0101	=mi	=DIR.DIST	=other	=other				
+tondano	holiday	0101	N=	INAN=	ln=	ln=				
+tondano	holiday	0101	Tondano	PN	np:l	np		l		
+tondano	holiday	0102	ya	AFF	nc	nc				
+tondano	holiday	0102	sudah	already	other	other				
+tondano	holiday	0103	he he he he	he he he he	nc	nc				
+tondano	holiday	0104	ehe he he	ehe he he	nc	nc				
+tondano	holiday	0105	ter he he	ter he he	nc	nc				
+tondano	holiday	0106	malam	night	nc	nc				
