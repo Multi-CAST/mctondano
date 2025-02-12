@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Brickell, Timothy. 2021. Multi-CAST Tondano. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tondano) (date accessed)
+  > Brickell, Timothy. 2023. Multi-CAST Tondano. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2311. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tondano) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -126,8 +126,8 @@ information on all annotated categories, including those not listed here.
 | **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨other⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 109 | 0 | 0 | 109 |
-| | 449 | 627 | 0 | 606 | 36 | 55 | 130 | 184 | 141 | 73 | 2301 |
+| **⟨other⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 110 | 0 | 0 | 110 |
+| | 449 | 627 | 0 | 606 | 36 | 55 | 130 | 185 | 141 | 73 | 2302 |
 
 
 **Clause boundaries**
