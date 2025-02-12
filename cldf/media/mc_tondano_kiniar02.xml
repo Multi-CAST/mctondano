@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1606">
+<multicast version="1905">
     <corpus c_name="tondano">
-        <text t_name="kiniar02" annotators="Tim Brickell" speaker="TN03">
-            <file f_name="mc_tondano_kiniar02" audio="mc_tondano_kiniar02.wav" updated="2016-06-21">
+        <text t_name="kiniar02" annotators="Timothy Brickell" speaker="TN03">
+            <file f_name="mc_tondano_kiniar02" audio="mc_tondano_kiniar02.wav" updated="2019-05-07">
                 <unit uid="0001" start_time="4430" end_time="6720">
                     <utterance_id>tondano_kiniar02_0001</utterance_id>
                     <utterance>tabèa patuari</utterance>
                     <utterance_translation>Good morning everyone.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>tabèa </gword>
+                            <gword>tabèa</gword>
                             <gloss>Good.morning</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -64,12 +64,12 @@
                 </unit>
                 <unit uid="0003" start_time="10452" end_time="14210">
                     <utterance_id>tondano_kiniar02_0003</utterance_id>
-                    <utterance> wi, tawia embalè nipatuari</utterance>
+                    <utterance>wi, tawia embalè nipatuari</utterance>
                     <utterance_translation>We are in the house of the family,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -80,7 +80,7 @@
                         <segment>
                             <gword>ta=</gword>
                             <gloss>1PL.IN.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>wia</gword>
@@ -90,7 +90,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>walè</gword>
@@ -100,7 +100,7 @@
                         <segment>
                             <gword>ni=</gword>
                             <gloss>AN.SG.GEN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>patuari</gword>
@@ -132,10 +132,10 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
-                            <gword>Dèki </gword>
+                            <gword>Dèki</gword>
                             <gloss>PN</gloss>
                             <graid>rn_np.h</graid>
                         </segment>
@@ -164,8 +164,8 @@
                     <utterance_translation>(We) are in Kiniar,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -181,7 +181,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Kiniar</gword>
@@ -259,8 +259,8 @@
                     <utterance_translation>Erh, everybody, erh,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -288,7 +288,7 @@
                 <unit uid="0012" start_time="34240" end_time="38271">
                     <utterance_id>tondano_kiniar02_0012</utterance_id>
                     <utterance>wo niaku mese, me, me, mesesusuila</utterance>
-                    <utterance_translation>and I will now talk </utterance_translation>
+                    <utterance_translation>and I will now talk</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>wo</gword>
@@ -333,8 +333,8 @@
                     <utterance_translation>about how they extract that palm sugar sap.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#cc:p_a</gword>
-                            <gloss>#cc:p_a</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc:p_a</graid>
                         </segment>
                         <segment>
@@ -345,10 +345,10 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:a_a=</graid>
+                            <graid>=pro.h:a_a</graid>
                         </segment>
                         <segment>
-                            <gword>ma-kèèt </gword>
+                            <gword>ma-kèèt</gword>
                             <gloss>AV.DYN-extract.sap</gloss>
                             <graid>v:pred</graid>
                         </segment>
@@ -360,7 +360,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -375,8 +375,8 @@
                     <utterance_translation>Because our friend Tim from Melbourne needs it. He is, he is in Kiniar.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -387,7 +387,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>pa-perlu-en</gword>
@@ -397,7 +397,7 @@
                         <segment>
                             <gword>ni=</gword>
                             <gloss>AN.SG.GEN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>kalo</gword>
@@ -425,8 +425,8 @@
                             <graid>rn_np</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -442,7 +442,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>wia</gword>
@@ -452,7 +452,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Kiniar</gword>
@@ -467,8 +467,8 @@
                     <utterance_translation>We, can see them, them now (on the video), they,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -479,7 +479,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:p_u=</graid>
+                            <graid>=pro.h:p_u</graid>
                         </segment>
                         <segment>
                             <gword>pa-ato-en</gword>
@@ -497,8 +497,8 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -546,14 +546,14 @@
                     <utterance_translation>They have provided the palm sugar sap. They have moved their (palm sugar collection) place.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:a_a=</graid>
+                            <graid>=pro.h:a_a</graid>
                         </segment>
                         <segment>
                             <gword>m&lt;in&gt;a-wèè-an</gword>
@@ -563,7 +563,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -571,8 +571,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -603,8 +603,8 @@
                     <utterance_translation>Because this palm sugar sap, they will make (hard) palm sugar,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -615,7 +615,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -657,7 +657,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>emis</gword>
@@ -672,8 +672,8 @@
                     <utterance_translation>If that (sap) is sour, they make palm sugar brandy.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -692,8 +692,8 @@
                             <graid>other:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -719,8 +719,8 @@
                     <utterance_translation>Erh several bamboo tubes are</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -736,7 +736,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>potung</gword>
@@ -778,7 +778,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>anu</gword>
@@ -798,14 +798,14 @@
                     <utterance_translation>They will go to extract (sap) from the sugar palm tree.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:a_a=</graid>
+                            <graid>=pro.h:a_a</graid>
                         </segment>
                         <segment>
                             <gword>ma-Ce-laa</gword>
@@ -845,8 +845,8 @@
                     <utterance_translation>Ah, he has already extracted that (sap),</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -877,7 +877,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>ye'i</gword>
@@ -911,7 +911,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>potung</gword>
@@ -926,8 +926,8 @@
                     <utterance_translation>(They) are bringing along some bamboo tubes.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -963,8 +963,8 @@
                     <utterance_translation>(They) will go to extract (sap).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -995,8 +995,8 @@
                     <utterance_translation>(They) extract (sap) from the palm sugar tree.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1032,8 +1032,8 @@
                     <utterance_translation>On the palm sugar tree they have leaned the whats'it,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1084,8 +1084,8 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>#rc_rn</gword>
-                            <gloss>#rc_rn</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#rc_rn</graid>
                         </segment>
                         <segment>
@@ -1111,7 +1111,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tabelang</gword>
@@ -1126,14 +1126,14 @@
                     <utterance_translation>(They) have leaned the hard bamboo ladder on the sugar palm tree because (they) will extract it (the sap).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>aran</gword>
@@ -1171,8 +1171,8 @@
                             <graid>np:g</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1183,7 +1183,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>pa-Ce-kèèt-an</gword>
@@ -1203,14 +1203,14 @@
                     <utterance_translation>They go to the what's it, to the sugar palm tree.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-laa</gword>
@@ -1250,8 +1250,8 @@
                     <utterance_translation>(They) are bringing along bamboo tubes erh. (They) haven't yet provided the palm sugar sap.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1267,7 +1267,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>potung</gword>
@@ -1280,8 +1280,8 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
@@ -1307,7 +1307,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -1322,8 +1322,8 @@
                     <utterance_translation>Ah he will climb up (the tree).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1334,7 +1334,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>l&lt;um&gt;ongkot</gword>
@@ -1354,8 +1354,8 @@
                     <utterance_translation>He has brought along,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1383,7 +1383,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>potung</gword>
@@ -1391,8 +1391,8 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
@@ -1408,7 +1408,7 @@
                         <segment>
                             <gword>=pè'</gword>
                             <gloss>=INCMP</gloss>
-                            <graid>other</graid>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
                             <gword>w&lt;in&gt;èè-en</gword>
@@ -1423,7 +1423,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -1435,11 +1435,11 @@
                 <unit uid="0038" start_time="136025" end_time="137604">
                     <utterance_id>tondano_kiniar02_0038</utterance_id>
                     <utterance>longkotenamou aki</utterance>
-                    <utterance_translation>He will climb up on it (the bamboo tube) to </utterance_translation>
+                    <utterance_translation>He will climb up on it (the bamboo tube) to</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1511,7 +1511,7 @@
                 <unit uid="0041" start_time="142605" end_time="143578">
                     <utterance_id>tondano_kiniar02_0041</utterance_id>
                     <utterance>waki pusuna</utterance>
-                    <utterance_translation>to its 'heart' (i.e. the centre of the tree's foliage). </utterance_translation>
+                    <utterance_translation>to its 'heart' (i.e. the centre of the tree's foliage).</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>waki</gword>
@@ -1536,14 +1536,14 @@
                     <utterance_translation>They climb (up the tree) like rats,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-kawok</gword>
@@ -1600,8 +1600,8 @@
                             <graid>=pro:poss</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1613,7 +1613,7 @@
                 </unit>
                 <unit uid="0045" start_time="155936" end_time="158495">
                     <utterance_id>tondano_kiniar02_0045</utterance_id>
-                    <utterance>mèdomou enano, mèdomou </utterance>
+                    <utterance>mèdomou enano, mèdomou</utterance>
                     <utterance_translation>will take a whats'it, (he) will take (it).</utterance_translation>
                     <annotations>
                         <segment>
@@ -1624,7 +1624,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>ano</gword>
@@ -1632,8 +1632,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1659,8 +1659,8 @@
                     <utterance_translation>(He) will take the hard bamboo. (He) has provided (it).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1676,7 +1676,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>potung</gword>
@@ -1684,8 +1684,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1716,8 +1716,8 @@
                     <utterance_translation>(They) have filled up the palm sugar sap (into small bamboo tubes). Because,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1743,7 +1743,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -1751,8 +1751,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1765,7 +1765,7 @@
                 <unit uid="0048" start_time="167336" end_time="169347">
                     <utterance_id>tondano_kiniar02_0048</utterance_id>
                     <utterance>nèi, nèialungsanga wengi</utterance>
-                    <utterance_translation>(they) have put (the palm sugar sap) in a receptacle (for) the evening. </utterance_translation>
+                    <utterance_translation>(they) have put (the palm sugar sap) in a receptacle (for) the evening.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ZERO</gword>
@@ -1810,8 +1810,8 @@
                     <utterance_translation>(They) have filled up the palm sugar sap there.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1827,7 +1827,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -1864,14 +1864,14 @@
                     <utterance_translation>They will make it, hard palm sugar.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>pa-Ce-siwo-en</gword>
@@ -1901,8 +1901,8 @@
                     <utterance_translation>Now (they) will make palm sugar, the palm sugar sap must be sweet.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1931,8 +1931,8 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1948,7 +1948,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -1963,8 +1963,8 @@
                     <utterance_translation>(They) will make sweet palm sugar sap.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1985,7 +1985,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -2000,8 +2000,8 @@
                     <utterance_translation>He must fragment (by slicing) the clean (palm sugar).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2042,8 +2042,8 @@
                     <utterance_translation>If that (palm sugar) is dirty,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2096,8 +2096,8 @@
                     <utterance_translation>Because there's dirt the palm sugar sap sours, they will make palm sugar brandy (instead of palm sugar wine).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2121,8 +2121,8 @@
                             <graid>np:s</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2138,7 +2138,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -2146,8 +2146,8 @@
                             <graid>np:s</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2185,8 +2185,8 @@
                     <utterance_translation>They bring down the what's it.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2212,7 +2212,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>ano</gword>
@@ -2227,8 +2227,8 @@
                     <utterance_translation>They will prepare the bamboo tube.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2254,8 +2254,8 @@
                     <utterance_translation>The bamboo tube has palm sugar wine (in it).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2281,8 +2281,8 @@
                     <utterance_translation>The centre erh, they have made the palm sugar sap come out (start flowing).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2306,14 +2306,14 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>=nèa </gword>
+                            <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
                             <graid>=pro.h:a_u</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -2340,8 +2340,8 @@
                     <utterance_translation>He will fragment it (the centre of the foliage).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2377,8 +2377,8 @@
                     <utterance_translation>He will fragment (it).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2409,8 +2409,8 @@
                     <utterance_translation>Erh because (they) put the bamboo tube, not yet,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2503,8 +2503,8 @@
                     <utterance_translation>He brings along the thingumy,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2525,7 +2525,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>ano</gword>
@@ -2557,7 +2557,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>potung</gword>
@@ -2568,12 +2568,12 @@
                 </unit>
                 <unit uid="0070" start_time="240070" end_time="245920">
                     <utterance_id>tondano_kiniar02_0070</utterance_id>
-                    <utterance>wè'wèlanamoukè  ano kaa empe, pa, pasupanamou enano, pusu</utterance>
+                    <utterance>wè'wèlanamoukèano kaa empe, pa, pasupanamou enano, pusu</utterance>
                     <utterance_translation>It's said he will hit the what's it (the branch) because he fragments the what's it, the centre (of the foliage).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2602,8 +2602,8 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2659,8 +2659,8 @@
                     <utterance_translation>Then he will hit (the palm sugar tree branch).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2687,12 +2687,12 @@
                 </unit>
                 <unit uid="0072" start_time="248557" end_time="250546">
                     <utterance_id>tondano_kiniar02_0072</utterance_id>
-                    <utterance>wina'akesanamoukèla itu </utterance>
+                    <utterance>wina'akesanamoukèla itu</utterance>
                     <utterance_translation>Supposedly he has tied that (bamboo tube) with string.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2733,8 +2733,8 @@
                     <utterance_translation>Because then (he) doesn't, doesn't know (what to do), because there is water.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac.neg</graid>
                         </segment>
                         <segment>
@@ -2753,7 +2753,7 @@
                             <graid>0.h:a_a</graid>
                         </segment>
                         <segment>
-                            <gword> rèy'</gword>
+                            <gword>rèy'</gword>
                             <gloss>not</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -2763,7 +2763,7 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword> rèy'</gword>
+                            <gword>rèy'</gword>
                             <gloss>not</gloss>
                             <graid>other</graid>
                         </segment>
@@ -2778,8 +2778,8 @@
                             <graid>0:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2802,11 +2802,11 @@
                 <unit uid="0074" start_time="256320" end_time="261050">
                     <utterance_id>tondano_kiniar02_0074</utterance_id>
                     <utterance>rèi' tu karou'an kaa ni'itumou, itu pa, pawèèanèa pa, paterung</utterance>
-                    <utterance_translation>Then (he) cannot remove (it -  the bamboo tube) because, so that they can provide that, they make it a shelter.</utterance_translation>
+                    <utterance_translation>Then (he) cannot remove (it -the bamboo tube) because, so that they can provide that, they make it a shelter.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
@@ -2835,8 +2835,8 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2875,8 +2875,8 @@
                             <graid>=pro.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2907,8 +2907,8 @@
                     <utterance_translation>(They) provide a shelter,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2930,7 +2930,7 @@
                 </unit>
                 <unit uid="0076" start_time="264000" end_time="265440">
                     <utterance_id>tondano_kiniar02_0076</utterance_id>
-                    <utterance>kawangunen </utterance>
+                    <utterance>kawangunen</utterance>
                     <utterance_translation>lovely (a beautiful shelter).</utterance_translation>
                     <annotations>
                         <segment>
@@ -2946,14 +2946,14 @@
                     <utterance_translation>This palm sugar sap, they will make (hard) palm sugar.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -2993,14 +2993,14 @@
                     <utterance_translation>They hit strike it (the branch in the centre).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>pa-ta'atak-en</gword>
@@ -3016,16 +3016,16 @@
                 </unit>
                 <unit uid="0079" start_time="273633" end_time="275952">
                     <utterance_id>tondano_kiniar02_0079</utterance_id>
-                    <utterance> èi pa enano empusu</utterance>
+                    <utterance>èi pa enano empusu</utterance>
                     <utterance_translation>Hey the whats'it, the centre,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
-                            <gword> èy</gword>
+                            <gword>èy</gword>
                             <gloss>PART</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -3047,7 +3047,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pusu'</gword>
@@ -3075,12 +3075,12 @@
                 </unit>
                 <unit uid="0081" start_time="278257" end_time="285262">
                     <utterance_id>tondano_kiniar02_0081</utterance_id>
-                    <utterance>pusu ee, pusu wèanou ano wewèanou kotor, parou'n paberesi rior tu </utterance>
+                    <utterance>pusu ee, pusu wèanou ano wewèanou kotor, parou'n paberesi rior tu</utterance>
                     <utterance_translation>The centre, erh, the centre has what's it, there's dirt. (They) remove (it), (they) clean (it) so that then,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3114,8 +3114,8 @@
                             <graid>np:s</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3134,8 +3134,8 @@
                             <graid>np:s</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3154,8 +3154,8 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3174,8 +3174,8 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -3192,7 +3192,7 @@
                 </unit>
                 <unit uid="0082" start_time="285771" end_time="291701">
                     <utterance_id>tondano_kiniar02_0082</utterance_id>
-                    <utterance>kumaluar  timpa' aa, timpa' aa emis, timpa' weru nemis</utterance>
+                    <utterance>kumaluartimpa' aa, timpa' aa emis, timpa' weru nemis</utterance>
                     <utterance_translation>the palm sugar sap, ahh the sweet palm sugar sap will come out. Fresh palm sugar sap is sweet.</utterance_translation>
                     <annotations>
                         <segment>
@@ -3226,8 +3226,8 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3243,7 +3243,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>other=</graid>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
                             <gword>emis</gword>
@@ -3258,8 +3258,8 @@
                     <utterance_translation>(They) add (it), (they) add, erh,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3278,8 +3278,8 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3315,8 +3315,8 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -3345,8 +3345,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3389,8 +3389,8 @@
                     <utterance_translation>Erh this palm sugar sap is truly,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3401,7 +3401,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -3453,8 +3453,8 @@
                     <utterance_translation>(They) can drink (the palm sugar sap) erh, (they) drink (it), erh.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3483,8 +3483,8 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3515,8 +3515,8 @@
                     <utterance_translation>(They) quench their thirst with (it).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3538,12 +3538,12 @@
                 </unit>
                 <unit uid="0090" start_time="319780" end_time="324770">
                     <utterance_id>tondano_kiniar02_0090</utterance_id>
-                    <utterance> wo toro pasiwon gula mèa' , toro pasiwon sopi</utterance>
+                    <utterance>wo toro pasiwon gula mèa' , toro pasiwon sopi</utterance>
                     <utterance_translation>and (they) can make (hard) palm sugar and (they) can make palm sugar brandy.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3558,7 +3558,7 @@
                         </segment>
                         <segment>
                             <gword>pa-siwo-en</gword>
-                            <gloss>DYN-make do-PV</gloss>
+                            <gloss>DYN-make.do-PV</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -3577,8 +3577,8 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3609,8 +3609,8 @@
                     <utterance_translation>Ah, now he arranges a what's it, a new bamboo tube.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3641,7 +3641,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>ano</gword>
@@ -3666,8 +3666,8 @@
                     <utterance_translation>He will put (the hard bamboo) at the centre (of the foliage).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3698,7 +3698,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pusu'</gword>
@@ -3709,12 +3709,12 @@
                 </unit>
                 <unit uid="0093" start_time="335549" end_time="337532">
                     <utterance_id>tondano_kiniar02_0093</utterance_id>
-                    <utterance>nitu empengidopan tantu' nè </utterance>
-                    <utterance_translation>That is definitely the sustenance of, </utterance_translation>
+                    <utterance>nitu empengidopan tantu' nè</utterance>
+                    <utterance_translation>That is definitely the sustenance of,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3725,7 +3725,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>peN-hidop-an</gword>
@@ -3740,7 +3740,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -3777,8 +3777,8 @@
                     <utterance_translation>I will tell the story of it.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3794,7 +3794,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>i-pa-Ce-serita</gword>
@@ -3816,11 +3816,11 @@
                 <unit uid="0096" start_time="350307" end_time="352973">
                     <utterance_id>tondano_kiniar02_0096</utterance_id>
                     <utterance>kina'atoan nètu'a rior entimpa' ye'i</utterance>
-                    <utterance_translation>The elders from before obtained this palm sugar sap. </utterance_translation>
+                    <utterance_translation>The elders from before obtained this palm sugar sap.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3831,7 +3831,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tu'a</gword>
@@ -3846,7 +3846,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -3866,8 +3866,8 @@
                     <utterance_translation>Because they,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -3878,7 +3878,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -3895,7 +3895,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>talun</gword>
@@ -3905,7 +3905,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tu'a</gword>
@@ -3925,8 +3925,8 @@
                     <utterance_translation>(He) sees the what's it. Ah this is the what's it,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3950,8 +3950,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3996,11 +3996,11 @@
                 <unit uid="0101" start_time="363472" end_time="368143">
                     <utterance_id>tondano_kiniar02_0101</utterance_id>
                     <utterance>ee kaa pakewèènèa panunèa, pe, pe, pesiwonèa ano</utterance>
-                    <utterance_translation>Erh because after they add it.  They do what's it, they make the thingumy.</utterance_translation>
+                    <utterance_translation>Erh because after they add it.They do what's it, they make the thingumy.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -4029,8 +4029,8 @@
                             <graid>=pro.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4049,8 +4049,8 @@
                             <graid>=pro.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4086,8 +4086,8 @@
                     <utterance_translation>They make the drying racks.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4118,8 +4118,8 @@
                     <utterance_translation>(They) put the hard palm sugar (there).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4150,14 +4150,14 @@
                     <utterance_translation>The others</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>walina</gword>
@@ -4194,8 +4194,8 @@
                     <utterance_translation>Ah (they) put (it) in the what's it, the wok</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4210,7 +4210,7 @@
                         </segment>
                         <segment>
                             <gword>i-pa-wèè</gword>
-                            <gloss>CV-DYN-give offer</gloss>
+                            <gloss>CV-DYN-give.offer</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -4246,8 +4246,8 @@
                     <utterance_translation>They boil that also</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4283,8 +4283,8 @@
                     <utterance_translation>He will put that palm sugar sap in the wok.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4330,8 +4330,8 @@
                     <utterance_translation>They will put (it) there.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4362,8 +4362,8 @@
                     <utterance_translation>The fire is underneath</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4379,7 +4379,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>wawa'</gword>
@@ -4394,8 +4394,8 @@
                     <utterance_translation>Because so that then</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -4436,8 +4436,8 @@
                             <graid>0:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4463,8 +4463,8 @@
                     <utterance_translation>(It's) boiled, it boils, (they) make hard palm sugar,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4483,8 +4483,8 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4503,8 +4503,8 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4557,8 +4557,8 @@
                     <utterance_translation>(It's) definitely boiled.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4584,8 +4584,8 @@
                     <utterance_translation>(They'll) put (it) in a wok.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4594,7 +4594,7 @@
                             <graid>0:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>i-wèè </gword>
+                            <gword>i-wèè</gword>
                             <gloss>CV-give</gloss>
                             <graid>v:pred</graid>
                         </segment>
@@ -4621,8 +4621,8 @@
                     <utterance_translation>The also, erh, there is, erh</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4665,7 +4665,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>atas</gword>
@@ -4696,12 +4696,12 @@
                 </unit>
                 <unit uid="0119" start_time="427235" end_time="429839">
                     <utterance_id>tondano_kiniar02_0119</utterance_id>
-                    <utterance> tou mpatotoranèa panci</utterance>
+                    <utterance>tou mpatotoranèa panci</utterance>
                     <utterance_translation>Like (what) they call it, the pan.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4712,7 +4712,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>pa-totor-an</gword>
@@ -4720,7 +4720,7 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>=nèa </gword>
+                            <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
                             <graid>=pro.h:a_u</graid>
                         </segment>
@@ -4737,8 +4737,8 @@
                     <utterance_translation>this pan so that then, not, not, not, the what's it, not</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac.neg</graid>
                         </segment>
                         <segment>
@@ -4828,7 +4828,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>gula</gword>
@@ -4848,8 +4848,8 @@
                     <utterance_translation>That is thick,. (It's) become palm sugar.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4868,8 +4868,8 @@
                             <graid>=other</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4900,8 +4900,8 @@
                     <utterance_translation>(It's) already thickened, they will remove that pan.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4920,8 +4920,8 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4937,7 +4937,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>panci</gword>
@@ -4962,8 +4962,8 @@
                     <utterance_translation>(It's) become palm sugar, hey (it's) really boiling.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4987,12 +4987,12 @@
                             <graid>np:other</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
-                            <gword> èy</gword>
+                            <gword>èy</gword>
                             <gloss>PART</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -5019,8 +5019,8 @@
                     <utterance_translation>(They) just block the pan so that then (the palm sugar) doesn't spill out.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5054,8 +5054,8 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac.neg</graid>
                         </segment>
                         <segment>
@@ -5096,8 +5096,8 @@
                     <utterance_translation>If (it's) fibrous (then), (the palm sugar sap) won't come out</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -5116,8 +5116,8 @@
                             <graid>other:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
@@ -5148,8 +5148,8 @@
                     <utterance_translation>Ahh, now (he) eats (from) the half coconut shell.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5175,7 +5175,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
@@ -5186,18 +5186,18 @@
                 </unit>
                 <unit uid="0129" start_time="467471" end_time="469049">
                     <utterance_id>tondano_kiniar02_0129</utterance_id>
-                    <utterance>nuka pewewèènèa </utterance>
+                    <utterance>nuka pewewèènèa</utterance>
                     <utterance_translation>They will add the (half) coconut shell.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
@@ -5210,7 +5210,7 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>=nèa </gword>
+                            <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
                             <graid>=pro.h:a_u</graid>
                         </segment>
@@ -5239,8 +5239,8 @@
                     <utterance_translation>(They) add the half coconut shell.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5256,7 +5256,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
@@ -5271,8 +5271,8 @@
                     <utterance_translation>So that the palm sugar is clean.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -5293,7 +5293,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>gula</gword>
@@ -5310,11 +5310,11 @@
                 <unit uid="0133" start_time="476911" end_time="478587">
                     <utterance_id>tondano_kiniar02_0133</utterance_id>
                     <utterance>ee pengidopan tantu nè</utterance>
-                    <utterance_translation>(It's) the sustenance of </utterance_translation>
+                    <utterance_translation>(It's) the sustenance of</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5352,7 +5352,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>tow</gword>
@@ -5365,14 +5365,14 @@
                             <graid>rn_np</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:a_a=</graid>
+                            <graid>=pro.h:a_a</graid>
                         </segment>
                         <segment>
                             <gword>meN-kèèt</gword>
@@ -5392,8 +5392,8 @@
                     <utterance_translation>(They) make (hard) palm sugar, if that palm sugar sap is sweet.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5412,8 +5412,8 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -5444,8 +5444,8 @@
                     <utterance_translation>If that is sour palm sugar sap, they make palm sugar brandy.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -5469,8 +5469,8 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5479,7 +5479,7 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>=nèa </gword>
+                            <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
                             <graid>=pro.h:a_u</graid>
                         </segment>
@@ -5492,12 +5492,12 @@
                 </unit>
                 <unit uid="0137" start_time="487902" end_time="493810">
                     <utterance_id>tondano_kiniar02_0137</utterance_id>
-                    <utterance>ta'an sè itu mèmang pekekoo' entè parèorèo' ndèi' siwonèa gula ndèi' siwonèa sopi </utterance>
+                    <utterance>ta'an sè itu mèmang pekekoo' entè parèorèo' ndèi' siwonèa gula ndèi' siwonèa sopi</utterance>
                     <utterance_translation>But if that's a really strong drink, (they) will obtain (it), they won't make (hard) palm sugar and they won't make palm sugar brandy.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -5531,8 +5531,8 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5551,17 +5551,17 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>other=</graid>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
-                            <gword>rèy' </gword>
+                            <gword>rèy'</gword>
                             <gloss>don't</gloss>
                             <graid>other</graid>
                         </segment>
@@ -5581,17 +5581,17 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>other=</graid>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
-                            <gword>rèy' </gword>
+                            <gword>rèy'</gword>
                             <gloss>don't</gloss>
                             <graid>other</graid>
                         </segment>
@@ -5618,8 +5618,8 @@
                     <utterance_translation>(They) would obtain the strong drink.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5628,7 +5628,7 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>entè' </gword>
+                            <gword>entè'</gword>
                             <gloss>strong</gloss>
                             <graid>rn</graid>
                         </segment>
@@ -5650,8 +5650,8 @@
                     <utterance_translation>Erh the</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -5694,8 +5694,8 @@
                     <utterance_translation>When you what's it, get drunk.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -5706,7 +5706,7 @@
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:s=</graid>
+                            <graid>=pro.2:s</graid>
                         </segment>
                         <segment>
                             <gword>ano</gword>
@@ -5726,8 +5726,8 @@
                     <utterance_translation>The people get drunk.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5744,12 +5744,12 @@
                 </unit>
                 <unit uid="0143" start_time="510420" end_time="513360">
                     <utterance_id>tondano_kiniar02_0143</utterance_id>
-                    <utterance> ya siwio siniato nètu'a rior</utterance>
+                    <utterance>ya siwio siniato nètu'a rior</utterance>
                     <utterance_translation>The wild boar, the elders from before saw it.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5760,7 +5760,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>wio</gword>
@@ -5770,7 +5770,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>&lt;in&gt;ato-en</gword>
@@ -5780,7 +5780,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tu'a</gword>
@@ -5796,18 +5796,18 @@
                 </unit>
                 <unit uid="0144" start_time="513522" end_time="515061">
                     <utterance_id>tondano_kiniar02_0144</utterance_id>
-                    <utterance>ikimaan pulenka' </utterance>
+                    <utterance>ikimaan pulenka'</utterance>
                     <utterance_translation>It (the wild pig) ate the sugar palm tree fruit,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:a_a=</graid>
+                            <graid>=pro:a_a</graid>
                         </segment>
                         <segment>
                             <gword>k&lt;im&gt;aan</gword>
@@ -5824,17 +5824,17 @@
                 <unit uid="0145" start_time="515063" end_time="518573">
                     <utterance_id>tondano_kiniar02_0145</utterance_id>
                     <utterance>sitinewel kinawèèan tekel tu nakel embawa nakel</utterance>
-                    <utterance_translation>(The sugar palm tree fruit) makes him (the wild pig) drunk, it brings him sleep by the sugar palm tree, under the palm sugar tree. </utterance_translation>
+                    <utterance_translation>(The sugar palm tree fruit) makes him (the wild pig) drunk, it brings him sleep by the sugar palm tree, under the palm sugar tree.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.h:p_u=</graid>
+                            <graid>=pro.h:p_u</graid>
                         </segment>
                         <segment>
                             <gword>t&lt;in&gt;ewel-en</gword>
@@ -5847,13 +5847,13 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>k&lt;in&gt;a-wèè-an</gword>
-                            <gloss>PST-POT-give offer-LV</gloss>
+                            <gloss>PST-POT-give.offer-LV</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -5894,7 +5894,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -5909,8 +5909,8 @@
                     <utterance_translation>So that the early elders could discover first (the palm sugar sap), (they) had obtained the palm sugar sap.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -5936,7 +5936,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tu'a</gword>
@@ -5949,8 +5949,8 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5966,7 +5966,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>timpa'</gword>
@@ -6010,11 +6010,11 @@
                 <unit uid="0148" start_time="530430" end_time="532810">
                     <utterance_id>tondano_kiniar02_0148</utterance_id>
                     <utterance>pawèèanamou itu nuka enano</utterance>
-                    <utterance_translation>He puts the what's it in the half coconut shell, </utterance_translation>
+                    <utterance_translation>He puts the what's it in the half coconut shell,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6040,11 +6040,11 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>np:g</graid>
                         </segment>
                         <segment>
@@ -6070,8 +6070,8 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6102,11 +6102,11 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>np:g</graid>
                         </segment>
                     </annotations>
@@ -6117,8 +6117,8 @@
                     <utterance_translation>(They) cool (it) down when it's already hardened.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6137,8 +6137,8 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -6169,8 +6169,8 @@
                     <utterance_translation>(They) have removed (it) from the half coconut shell, the palm sugar.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6206,11 +6206,11 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>np:l</graid>
                         </segment>
                         <segment>
@@ -6231,8 +6231,8 @@
                     <utterance_translation>(They) clean the erh, wok.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6263,8 +6263,8 @@
                     <utterance_translation>Because (they) make (it) erh.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -6300,8 +6300,8 @@
                     <utterance_translation>If again that's a what's it, supposedly they would now make a new (batch).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -6325,8 +6325,8 @@
                             <graid>other:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6367,8 +6367,8 @@
                     <utterance_translation>But (they) had to clean (it) because</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6402,8 +6402,8 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -6441,8 +6441,8 @@
                     <utterance_translation>Erh, this sugar also</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6458,7 +6458,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>gula</gword>
@@ -6505,7 +6505,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tow</gword>
@@ -6525,8 +6525,8 @@
                     <utterance_translation>If that is not clean, then the people don't want to buy it.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
@@ -6540,7 +6540,7 @@
                             <graid>pro:s</graid>
                         </segment>
                         <segment>
-                            <gword> rèy'</gword>
+                            <gword>rèy'</gword>
                             <gloss>not</gloss>
                             <graid>other</graid>
                         </segment>
@@ -6550,14 +6550,14 @@
                             <graid>other:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>other=</graid>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
                             <gword>ka'a</gword>
@@ -6572,7 +6572,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tow</gword>
@@ -6597,8 +6597,8 @@
                     <utterance_translation>Hey they put (the hardened palm sugar sap) in a half coconut shell.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6634,11 +6634,11 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>np:g</graid>
                         </segment>
                     </annotations>
@@ -6649,8 +6649,8 @@
                     <utterance_translation>(They) cool (it) down.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6676,8 +6676,8 @@
                     <utterance_translation>(They) cool (it) down.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6703,8 +6703,8 @@
                     <utterance_translation>That half coconut shell is truly,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -6714,7 +6714,7 @@
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -6747,8 +6747,8 @@
                     <utterance_translation>(They) have added many half coconut shells.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6759,15 +6759,15 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword> nèi </gword>
+                            <gword>nèi</gword>
                             <gloss>CV.PST</gloss>
                             <graid>lv</graid>
                         </segment>
@@ -6789,8 +6789,8 @@
                     <utterance_translation>(They) put (it) in the what's it,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6804,7 +6804,7 @@
                             <graid>lv</graid>
                         </segment>
                         <segment>
-                            <gword>wèè </gword>
+                            <gword>wèè</gword>
                             <gloss>give</gloss>
                             <graid>v:pred</graid>
                         </segment>
@@ -6860,8 +6860,8 @@
                     <utterance_translation>They've chopped up (the smaller hard bamboo tube).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6887,8 +6887,8 @@
                     <utterance_translation>They would make that, erh.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6919,8 +6919,8 @@
                     <utterance_translation>He adds some half coconut shells.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6936,11 +6936,11 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>np:p_u</graid>
                         </segment>
                     </annotations>
@@ -6951,8 +6951,8 @@
                     <utterance_translation>(They) cool the (hot palm sugar) down.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6978,8 +6978,8 @@
                     <utterance_translation>Erh the</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -6990,7 +6990,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>HES</gloss>
-                            <graid>lnnc</graid>
+                            <graid>nc</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -7002,7 +7002,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>telu</gword>
@@ -7017,7 +7017,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:a_a=</graid>
+                            <graid>=pro.h:a_a</graid>
                         </segment>
                         <segment>
                             <gword>meN-pè'an</gword>
@@ -7037,8 +7037,8 @@
                     <utterance_translation>Yes, they</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -7055,7 +7055,7 @@
                 </unit>
                 <unit uid="0176" start_time="621954" end_time="623810">
                     <utterance_id>tondano_kiniar02_0176</utterance_id>
-                    <utterance>laker gula mèa' </utterance>
+                    <utterance>laker gula mèa'</utterance>
                     <utterance_translation>a lot of palm sugar</utterance_translation>
                     <annotations>
                         <segment>
@@ -7069,7 +7069,7 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>mèa' </gword>
+                            <gword>mèa'</gword>
                             <gloss>red</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -7081,12 +7081,12 @@
                     <utterance_translation>Hey, they get a lot of money (from the palm sugar).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
-                            <gword> èy</gword>
+                            <gword>èy</gword>
                             <gloss>AFF</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -7123,8 +7123,8 @@
                     <utterance_translation>Erh, they'll divide into three (the money).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7155,8 +7155,8 @@
                     <utterance_translation>Still a lot (of palm sugar) still in the wok.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7209,8 +7209,8 @@
                     <utterance_translation>(He) still puts (palm sugar) into a half coconut shell.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7241,11 +7241,11 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>np:g</graid>
                         </segment>
                     </annotations>
@@ -7256,8 +7256,8 @@
                     <utterance_translation>Ah, (they) put (it) in a half coconut shell then, (they) cool (it) down.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7268,7 +7268,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>i-pa-wèè</gword>
@@ -7288,11 +7288,11 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>np:g</graid>
                         </segment>
                         <segment>
@@ -7301,14 +7301,14 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>pa-pa-ghegher-an</gword>
@@ -7328,8 +7328,8 @@
                     <utterance_translation>That's not,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -7355,8 +7355,8 @@
                     <utterance_translation>Erh (they) will put that palm sugar in the half coconut shell. (It) becomes a sphere.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7367,7 +7367,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>gula</gword>
@@ -7402,16 +7402,16 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
-                            <gloss>(half) coconut.shell</gloss>
+                            <gloss>(half)coconut.shell</gloss>
                             <graid>np:g</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7425,7 +7425,7 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword> tabulèlèng</gword>
+                            <gword>tabulèlèng</gword>
                             <gloss>sphere</gloss>
                             <graid>np:other</graid>
                         </segment>
@@ -7434,11 +7434,11 @@
                 <unit uid="0185" start_time="666521" end_time="669384">
                     <utterance_id>tondano_kiniar02_0185</utterance_id>
                     <utterance>ta'an tabulèlèng senga parua</utterance>
-                    <utterance_translation>But they divide the one sphere into two  (i.e. it is halved as it is put in a half coconut shell).</utterance_translation>
+                    <utterance_translation>But they divide the one sphere into two(i.e. it is halved as it is put in a half coconut shell).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7503,8 +7503,8 @@
                     <utterance_translation>The sustenance of the Minahasan people is in, is in Tondano.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7520,7 +7520,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>tow</gword>
@@ -7545,7 +7545,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Tondano</gword>
@@ -7560,8 +7560,8 @@
                     <utterance_translation>They, they extract (the sugar palm sap).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7572,7 +7572,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:a_a=</graid>
+                            <graid>=pro.h:a_a</graid>
                         </segment>
                         <segment>
                             <gword>meN-kèèt</gword>
@@ -7592,8 +7592,8 @@
                     <utterance_translation>They say "(they) extract (the palm sugar sap)" yes.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7607,8 +7607,8 @@
                             <graid>=pro.h:a_u_ds</graid>
                         </segment>
                         <segment>
-                            <gword># ds</gword>
-                            <gloss># ds</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ds</graid>
                         </segment>
                         <segment>
@@ -7635,18 +7635,18 @@
                 </unit>
                 <unit uid="0191" start_time="692830" end_time="698522">
                     <utterance_id>tondano_kiniar02_0191</utterance_id>
-                    <utterance>èsimandaritè tu empengidopan tu masiwo gula, masiwo sopi, wo </utterance>
+                    <utterance>èsimandaritè tu empengidopan tu masiwo gula, masiwo sopi, wo</utterance>
                     <utterance_translation>The just relied on that sustenance. Then (they) make palm sugar, (they) make palm sugar brandy and</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:a_a=</graid>
+                            <graid>=pro.h:a_a</graid>
                         </segment>
                         <segment>
                             <gword>s&lt;im&gt;andar</gword>
@@ -7666,7 +7666,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pengidopan</gword>
@@ -7674,8 +7674,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7699,8 +7699,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7719,8 +7719,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7746,8 +7746,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#rc:p_a</gword>
-                            <gloss>#rc:p_a</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#rc:p_a</graid>
                         </segment>
                         <segment>
@@ -7773,14 +7773,14 @@
                     <utterance_translation>That sugar palm tree is very useful for the Minahasa people.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -7798,9 +7798,9 @@
                             <graid>other:pred</graid>
                         </segment>
                         <segment>
-                            <gword> nè=</gword>
+                            <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>tow</gword>
@@ -7844,8 +7844,8 @@
                     <utterance_translation>I will talk (about this) to you because our family member Tim has taken (it) to Melbourne.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -7879,8 +7879,8 @@
                             <graid>pro:g</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -7906,7 +7906,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>patuari</gword>
@@ -7921,7 +7921,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Tim</gword>
@@ -7942,18 +7942,18 @@
                 </unit>
                 <unit uid="0197" start_time="723710" end_time="733203">
                     <utterance_id>tondano_kiniar02_0197</utterance_id>
-                    <utterance>itim sitou australita sikasa paar metete'ula embahasa toudano sapaitè toro pesesiwonta </utterance>
-                    <utterance_translation>Tim the Australian, he really wants to learn the Tondano language. Just what we intend to do, </utterance_translation>
+                    <utterance>itim sitou australita sikasa paar metete'ula embahasa toudano sapaitè toro pesesiwonta</utterance>
+                    <utterance_translation>Tim the Australian, he really wants to learn the Tondano language. Just what we intend to do,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Tim</gword>
@@ -7963,7 +7963,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tow</gword>
@@ -7978,7 +7978,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.h:a_a=</graid>
+                            <graid>=pro.h:a_a</graid>
                         </segment>
                         <segment>
                             <gword>kasa</gword>
@@ -8003,7 +8003,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>bahasa</gword>
@@ -8016,8 +8016,8 @@
                             <graid>rn_np</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -8060,7 +8060,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pa-tow-tow-an</gword>
@@ -8075,7 +8075,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>ka-oat-an</gword>
@@ -8105,8 +8105,8 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -8152,8 +8152,8 @@
                     <utterance_translation>Up next, erh</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -8181,7 +8181,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tu'a</gword>
@@ -8201,7 +8201,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.h:a_a=</graid>
+                            <graid>=pro.h:a_a</graid>
                         </segment>
                         <segment>
                             <gword>s&lt;um&gt;usui</gword>

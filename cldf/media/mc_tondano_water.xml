@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1606">
+<multicast version="1905">
     <corpus c_name="tondano">
-        <text t_name="water" annotators="Tim Brickell " speaker="TN05">
-            <file f_name="mc_tondano_water" audio="mc_tondano_water.wav" updated="2016-06-21">
+        <text t_name="water" annotators="Timothy Brickell " speaker="TN05">
+            <file f_name="mc_tondano_water" audio="mc_tondano_water.wav" updated="2019-05-07">
                 <unit uid="0001" start_time="8730" end_time="10030">
                     <utterance_id>tondano_water_0001</utterance_id>
                     <utterance>o, watè</utterance>
-                    <utterance_translation>Oh sago grubs,</utterance_translation>
+                    <utterance_translation>Oh, sago grubs,</utterance_translation>
                     <annotations>
+                        <segment>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
+                        </segment>
                         <segment>
                             <gword>o</gword>
                             <gloss>PART</gloss>
@@ -35,11 +40,11 @@
                 <unit uid="0003" start_time="11080" end_time="13220">
                     <utterance_id>tondano_water_0003</utterance_id>
                     <utterance>sè itu toudano</utterance>
-                    <utterance_translation>If that is (in) Tondano language</utterance_translation>
+                    <utterance_translation>if that is (in) the Tondano language,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -65,8 +70,8 @@
                     <utterance_translation>that,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -78,7 +83,7 @@
                 </unit>
                 <unit uid="0005" start_time="14420" end_time="16080">
                     <utterance_id>tondano_water_0005</utterance_id>
-                    <utterance>linina'lèa  watè</utterance>
+                    <utterance>linina'lèa watè</utterance>
                     <utterance_translation>they call "sago grubs".</utterance_translation>
                     <annotations>
                         <segment>
@@ -87,7 +92,7 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>=nèa </gword>
+                            <gword>=nèa</gword>
                             <gloss>=3PL.GEN</gloss>
                             <graid>=pro.h:a_u_ds</graid>
                         </segment>
@@ -100,17 +105,17 @@
                 </unit>
                 <unit uid="0006" start_time="17140" end_time="19550">
                     <utterance_id>tondano_water_0006</utterance_id>
-                    <utterance>watè pasiwon witu   </utterance>
-                    <utterance_translation>(They) make (collect) the sago grubs from,</utterance_translation>
+                    <utterance>watè pasiwon witu</utterance>
+                    <utterance_translation>(They) make [collect] the sago grubs from,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>watè</gword>
-                            <gloss>sago grub</gloss>
+                            <gloss>sago.grub</gloss>
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
@@ -160,7 +165,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -175,7 +180,7 @@
                     <utterance_translation>If the sugar palm tree.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
+                            <gword>#</gword>
                             <gloss>NC</gloss>
                             <graid>#nc</graid>
                         </segment>
@@ -202,8 +207,8 @@
                     <utterance_translation>Yes, they come out of the sugar palm tree. But, they come out of the sugar palm tree.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -214,7 +219,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro:s=</graid>
+                            <graid>=pro:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-kaluar</gword>
@@ -229,7 +234,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -237,8 +242,8 @@
                             <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -249,7 +254,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro:s=</graid>
+                            <graid>=pro:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-kaluar</gword>
@@ -264,7 +269,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -279,8 +284,8 @@
                     <utterance_translation>Ah,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -304,8 +309,8 @@
                 </unit>
                 <unit uid="0013" start_time="32530" end_time="34250">
                     <utterance_id>tondano_water_0013</utterance_id>
-                    <utterance>ee, sapa </utterance>
-                    <utterance_translation>eh, what is(it).</utterance_translation>
+                    <utterance>ee, sapa</utterance>
+                    <utterance_translation>eh, what is (it).</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ee</gword>
@@ -327,11 +332,11 @@
                 <unit uid="0014" start_time="34588" end_time="37178">
                     <utterance_id>tondano_water_0014</utterance_id>
                     <utterance>ee siwola lobang</utterance>
-                    <utterance_translation>Erh, (he) makes a hole (in the tree - to remove the sago grubs).</utterance_translation>
+                    <utterance_translation>Erh, (he) makes a hole [in the tree, to remove the sago grubs].</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -363,12 +368,12 @@
                 </unit>
                 <unit uid="0015" start_time="37190" end_time="39270">
                     <utterance_id>tondano_water_0015</utterance_id>
-                    <utterance>aa,  siwola lobang </utterance>
+                    <utterance>aa, siwola lobang</utterance>
                     <utterance_translation>Aah, (he) makes a hole.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -399,8 +404,8 @@
                     <utterance_translation>(He) will make holes with,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -428,12 +433,12 @@
                 <unit uid="0017" start_time="42530" end_time="44040">
                     <utterance_id>tondano_water_0017</utterance_id>
                     <utterance>empati'</utterance>
-                    <utterance_translation> an axe.</utterance_translation>
+                    <utterance_translation>an axe.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pati'</gword>
@@ -448,8 +453,8 @@
                     <utterance_translation>(He) would make an axe.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -465,7 +470,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pati'</gword>
@@ -477,11 +482,11 @@
                 <unit uid="0019" start_time="46250" end_time="47730">
                     <utterance_id>tondano_water_0019</utterance_id>
                     <utterance>sa</utterance>
-                    <utterance_translation>if</utterance_translation>
+                    <utterance_translation>If</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -524,8 +529,8 @@
                     <utterance_translation>So like this (he) takes two (sago grubs).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -561,8 +566,8 @@
                     <utterance_translation>(He) can</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -580,7 +585,7 @@
                 <unit uid="0023" start_time="52560" end_time="54240">
                     <utterance_id>tondano_water_0023</utterance_id>
                     <utterance>pasera'an sèwatè</utterance>
-                    <utterance_translation>prepare (lit. 'meat' - 'make meat of' ) the sago grubs.</utterance_translation>
+                    <utterance_translation>prepare [lit. 'meat', i.e. 'make meat out of'] the sago grubs.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>pa-sera'-an</gword>
@@ -595,11 +600,11 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>watè</gword>
-                            <gloss>sago grub</gloss>
+                            <gloss>sago.grub</gloss>
                             <graid>np:p_u</graid>
                         </segment>
                     </annotations>
@@ -607,11 +612,11 @@
                 <unit uid="0024" start_time="54680" end_time="56600">
                     <utterance_id>tondano_water_0024</utterance_id>
                     <utterance>watè sèodègodè kasa</utterance>
-                    <utterance_translation>Sago grubs they are very fat.</utterance_translation>
+                    <utterance_translation>Sago grubs, they are very fat.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -622,7 +627,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro:s=</graid>
+                            <graid>=pro:s</graid>
                         </segment>
                         <segment>
                             <gword>godè-godè</gword>
@@ -642,8 +647,8 @@
                     <utterance_translation>(He) has taken two (of them).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -670,12 +675,12 @@
                 </unit>
                 <unit uid="0026" start_time="58820" end_time="62540">
                     <utterance_id>tondano_water_0026</utterance_id>
-                    <utterance>aa, toro pekaan langsung watè, toro pekaan langsung </utterance>
-                    <utterance_translation>Aah, (he) can eat sago grubs directly (i.e. raw). (He) can eat (them) raw.</utterance_translation>
+                    <utterance>aa, toro pekaan langsung watè, toro pekaan langsung</utterance>
+                    <utterance_translation>Aah, (he) can eat sago grubs directly [i.e. raw]. (He) can eat (them) raw.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -709,8 +714,8 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -742,12 +747,12 @@
                 </unit>
                 <unit uid="0027" start_time="63210" end_time="65770">
                     <utterance_id>tondano_water_0027</utterance_id>
-                    <utterance>toro,  ka, toro pasiwon ya</utterance>
-                    <utterance_translation>(He) can, because (he) can make (it) yes.</utterance_translation>
+                    <utterance>toro, ka, toro pasiwon ya</utterance>
+                    <utterance_translation>(He) can, because (he) can make (it), yes.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -790,7 +795,7 @@
                 <unit uid="0028" start_time="66120" end_time="66850">
                     <utterance_id>tondano_water_0028</utterance_id>
                     <utterance>ngaa</utterance>
-                    <utterance_translation>ah</utterance_translation>
+                    <utterance_translation>Ah.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ngaa</gword>
@@ -801,12 +806,12 @@
                 </unit>
                 <unit uid="0029" start_time="66920" end_time="69100">
                     <utterance_id>tondano_water_0029</utterance_id>
-                    <utterance>tano,  tano yei'i</utterance>
-                    <utterance_translation>Like, like this now</utterance_translation>
+                    <utterance>tano, tano yei'i</utterance>
+                    <utterance_translation>Like, like this now,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -829,7 +834,7 @@
                 <unit uid="0030" start_time="69100" end_time="70870">
                     <utterance_id>tondano_water_0030</utterance_id>
                     <utterance>natè rèi'pè</utterance>
-                    <utterance_translation>the sago grubs have not yet (should be watè' not 'natè').</utterance_translation>
+                    <utterance_translation>the sago grubs have not yet [TB: should be watè' not 'natè']</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>watè</gword>
@@ -851,7 +856,7 @@
                 <unit uid="0031" start_time="70870" end_time="73290">
                     <utterance_id>tondano_water_0031</utterance_id>
                     <utterance>kimaluar itu</utterance>
-                    <utterance_translation>come out of</utterance_translation>
+                    <utterance_translation>come out of,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>k&lt;im&gt;aluar</gword>
@@ -878,7 +883,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -890,11 +895,11 @@
                 <unit uid="0033" start_time="75300" end_time="77130">
                     <utterance_id>tondano_water_0033</utterance_id>
                     <utterance>pasiwonèala, aa</utterance>
-                    <utterance_translation>They make (it-the hole in the side of the tree). </utterance_translation>
+                    <utterance_translation>They make (it, the hole in the side of the tree).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -930,8 +935,8 @@
                     <utterance_translation>(They) make (a hole) with an axe,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -957,7 +962,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pati'</gword>
@@ -969,7 +974,7 @@
                 <unit uid="0035" start_time="81020" end_time="82890">
                     <utterance_id>tondano_water_0035</utterance_id>
                     <utterance>ee, ka'apa tamako</utterance>
-                    <utterance_translation>erh or a tomahawk.</utterance_translation>
+                    <utterance_translation>erh, or a tomahawk.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ee</gword>
@@ -994,8 +999,8 @@
                     <utterance_translation>(He) makes that,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1045,7 +1050,7 @@
                 <unit uid="0038" start_time="87390" end_time="88380">
                     <utterance_id>tondano_water_0038</utterance_id>
                     <utterance>aa</utterance>
-                    <utterance_translation>ah</utterance_translation>
+                    <utterance_translation>Ah.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>aa</gword>
@@ -1056,12 +1061,12 @@
                 </unit>
                 <unit uid="0039" start_time="89340" end_time="92480">
                     <utterance_id>tondano_water_0039</utterance_id>
-                    <utterance>pati ka'apa pepatil toro  </utterance>
+                    <utterance>pati ka'apa pepatil toro</utterance>
                     <utterance_translation>An axe or a machete can</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1089,7 +1094,7 @@
                 <unit uid="0040" start_time="92530" end_time="94620">
                     <utterance_id>tondano_water_0040</utterance_id>
                     <utterance>sumiwo lobang, aanèa</utterance>
-                    <utterance_translation>make their hole (in the tree).</utterance_translation>
+                    <utterance_translation>make their hole [in the tree].</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>s&lt;um&gt;iwo</gword>
@@ -1114,8 +1119,8 @@
                     <utterance_translation>Ah, (he) gathers (them) up like that.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1156,13 +1161,13 @@
                     <utterance_translation>The sago grubs</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>watè</gword>
-                            <gloss>sago grubs</gloss>
+                            <gloss>sago.grubs</gloss>
                             <graid>np:s</graid>
                         </segment>
                     </annotations>
@@ -1190,8 +1195,8 @@
                     <utterance_translation>They are also in the water.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1227,8 +1232,8 @@
                     <utterance_translation>But their sugar palm tree, if the sugar palm tree</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1254,7 +1259,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -1288,11 +1293,11 @@
                 <unit uid="0047" start_time="111120" end_time="115050">
                     <utterance_id>tondano_water_0047</utterance_id>
                     <utterance>wo sèa lumaker kasa natè sa nakel wu'uluo</utterance>
-                    <utterance_translation>And they grow big hearts (i.e. are very big and juicy) if the sugar palm tree is already rotten.</utterance_translation>
+                    <utterance_translation>And they grow big hearts [i.e. are very big and juicy] if the sugar palm tree is already rotten.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1301,7 +1306,7 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword> sèa</gword>
+                            <gword>sèa</gword>
                             <gloss>3PL</gloss>
                             <graid>pro:a_a</graid>
                         </segment>
@@ -1318,7 +1323,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>atè</gword>
@@ -1326,8 +1331,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1338,7 +1343,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -1363,8 +1368,8 @@
                     <utterance_translation>But if (the tree) is not rotten.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1397,11 +1402,11 @@
                 <unit uid="0049" start_time="116670" end_time="117620">
                     <utterance_id>tondano_water_0049</utterance_id>
                     <utterance>rèi laker</utterance>
-                    <utterance_translation>(The sago grubs) are not many. </utterance_translation>
+                    <utterance_translation>(The sago grubs) are not many.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1423,12 +1428,12 @@
                 </unit>
                 <unit uid="0050" start_time="117620" end_time="119470">
                     <utterance_id>tondano_water_0050</utterance_id>
-                    <utterance>o, nesa  noki'</utterance>
+                    <utterance>o, nesa noki'</utterance>
                     <utterance_translation>And a one small one,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1439,7 +1444,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>esa</gword>
@@ -1449,7 +1454,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>oki'</gword>
@@ -1481,8 +1486,8 @@
                     <utterance_translation>If it's sugar palm tree is not rotten.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1503,7 +1508,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -1523,8 +1528,8 @@
                     <utterance_translation>Ah, just like this</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1540,7 +1545,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>ye'i</gword>
@@ -1552,12 +1557,12 @@
                 <unit uid="0054" start_time="124930" end_time="128240">
                     <utterance_id>tondano_water_0054</utterance_id>
                     <utterance>nakelna emwu'ul ka'a</utterance>
-                    <utterance_translation>the sugar palm tree, it is rotten because.</utterance_translation>
+                    <utterance_translation>the sugar palm tree, it is rotten, because</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -1572,7 +1577,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:s=</graid>
+                            <graid>=pro:s</graid>
                         </segment>
                         <segment>
                             <gword>wu'ul</gword>
@@ -1580,8 +1585,8 @@
                             <graid>other:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1594,7 +1599,7 @@
                 <unit uid="0055" start_time="128240" end_time="132110">
                     <utterance_id>tondano_water_0055</utterance_id>
                     <utterance>nèi kakolo itu ndano nèi kakolo itu ndano, nakel</utterance>
-                    <utterance_translation>(They) felled it in the water. (They) felled the sugar palm tree in the water.</utterance_translation>
+                    <utterance_translation>(they) felled it in the water. (They) felled the sugar palm tree in the water.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ZERO</gword>
@@ -1608,7 +1613,7 @@
                         </segment>
                         <segment>
                             <gword>kakolo</gword>
-                            <gloss> fall</gloss>
+                            <gloss>fall</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -1624,7 +1629,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>rano</gword>
@@ -1632,8 +1637,8 @@
                             <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1643,7 +1648,7 @@
                         </segment>
                         <segment>
                             <gword>kakolo</gword>
-                            <gloss> fall</gloss>
+                            <gloss>fall</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -1659,7 +1664,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>rano</gword>
@@ -1669,7 +1674,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -1684,8 +1689,8 @@
                     <utterance_translation>They are making the sago grub's nest.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1711,7 +1716,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>watè</gword>
@@ -1723,11 +1728,11 @@
                 <unit uid="0057" start_time="137940" end_time="140320">
                     <utterance_id>tondano_water_0057</utterance_id>
                     <utterance>naa, mèmang kasa</utterance>
-                    <utterance_translation>It's truly very, </utterance_translation>
+                    <utterance_translation>It's truly very,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1749,7 +1754,7 @@
                 </unit>
                 <unit uid="0058" start_time="140320" end_time="144420">
                     <utterance_id>tondano_water_0058</utterance_id>
-                    <utterance>susa  makèwè' nakel saa witumou ndano</utterance>
+                    <utterance>susa makèwè' nakel saa witumou ndano</utterance>
                     <utterance_translation>difficult (for them) to chop the sugar palm tree in half if (it) is in the water.</utterance_translation>
                     <annotations>
                         <segment>
@@ -1770,7 +1775,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -1778,8 +1783,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1805,7 +1810,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>rano</gword>
@@ -1817,7 +1822,7 @@
                 <unit uid="0059" start_time="144740" end_time="145900">
                     <utterance_id>tondano_water_0059</utterance_id>
                     <utterance>na</utterance>
-                    <utterance_translation>ah</utterance_translation>
+                    <utterance_translation>Ah.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>naa</gword>
@@ -1832,8 +1837,8 @@
                     <utterance_translation>That (guy)</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1867,7 +1872,7 @@
                 </unit>
                 <unit uid="0062" start_time="150650" end_time="152220">
                     <utterance_id>tondano_water_0062</utterance_id>
-                    <utterance>patampaan nèwatè </utterance>
+                    <utterance>patampaan nèwatè</utterance>
                     <utterance_translation>a sago grub place.</utterance_translation>
                     <annotations>
                         <segment>
@@ -1878,10 +1883,10 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
-                            <gword>watè </gword>
+                            <gword>watè</gword>
                             <gloss>sago.grub</gloss>
                             <graid>rn_np:poss</graid>
                         </segment>
@@ -1890,11 +1895,11 @@
                 <unit uid="0063" start_time="152220" end_time="153040">
                     <utterance_id>tondano_water_0063</utterance_id>
                     <utterance>aa</utterance>
-                    <utterance_translation>Ah</utterance_translation>
+                    <utterance_translation>Ah.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1907,7 +1912,7 @@
                 <unit uid="0064" start_time="153040" end_time="157040">
                     <utterance_id>tondano_water_0064</utterance_id>
                     <utterance>mèmang pedis kasa mekekaluar aa, sapa nakel</utterance>
-                    <utterance_translation>(it's) truly very difficult (for the sago grubs to) to come out (of) the sugar palm tree.</utterance_translation>
+                    <utterance_translation>(it's) truly very difficult [for the sago grubs] to come out (of) the sugar palm tree.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>mèmang</gword>
@@ -1947,7 +1952,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>akel</gword>
@@ -1959,11 +1964,11 @@
                 <unit uid="0065" start_time="157040" end_time="158110">
                     <utterance_id>tondano_water_0065</utterance_id>
                     <utterance>sa</utterance>
-                    <utterance_translation>if</utterance_translation>
+                    <utterance_translation>If</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1975,7 +1980,7 @@
                 </unit>
                 <unit uid="0066" start_time="158110" end_time="161930">
                     <utterance_id>tondano_water_0066</utterance_id>
-                    <utterance>minakolo'mou  waki dano, naa, ti'in watè</utterance>
+                    <utterance>minakolo'mou waki dano, naa, ti'in watè</utterance>
                     <utterance_translation>(it ) had already fallen in the water. Ah, this is the sago grub.</utterance_translation>
                     <annotations>
                         <segment>
@@ -1985,7 +1990,7 @@
                         </segment>
                         <segment>
                             <gword>m&lt;in&gt;a-kakolo</gword>
-                            <gloss>EV.STAT.PST- fall</gloss>
+                            <gloss>EV.STAT.PST-fall</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -2004,8 +2009,8 @@
                             <graid>np:g</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2027,8 +2032,8 @@
                 </unit>
                 <unit uid="0067" start_time="162080" end_time="165560">
                     <utterance_id>tondano_water_0067</utterance_id>
-                    <utterance>oh tuang kasela kasa </utterance>
-                    <utterance_translation>Oh god (it's) too big.</utterance_translation>
+                    <utterance>oh tuang kasela kasa</utterance>
+                    <utterance_translation>Oh god, (it's) too big.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>o</gword>
@@ -2055,7 +2060,7 @@
                 <unit uid="0068" start_time="165840" end_time="169510">
                     <utterance_id>tondano_water_0068</utterance_id>
                     <utterance>nnh, na, nèi</utterance>
-                    <utterance_translation>...</utterance_translation>
+                    <utterance_translation>Hmm, ah.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>nn</gword>
@@ -2076,12 +2081,12 @@
                 </unit>
                 <unit uid="0069" start_time="169510" end_time="171940">
                     <utterance_id>tondano_water_0069</utterance_id>
-                    <utterance>paèdonèamou  na, ee watè</utterance>
-                    <utterance_translation>They take the, eh sago grubs.</utterance_translation>
+                    <utterance>paèdonèamou na, ee watè</utterance>
+                    <utterance_translation>They take the, eh, sago grubs.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2118,12 +2123,12 @@
                 </unit>
                 <unit uid="0070" start_time="171940" end_time="175650">
                     <utterance_id>tondano_water_0070</utterance_id>
-                    <utterance>aa, ti'in  watè  kasela kasa watè</utterance>
-                    <utterance_translation>Ah this sago grub, it's too big the sago grub.</utterance_translation>
+                    <utterance>aa, ti'in watè kasela kasa watè</utterance>
+                    <utterance_translation>Ah this sago grub, it's too big, the sago grub.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2166,7 +2171,7 @@
                 <unit uid="0071" start_time="175650" end_time="177570">
                     <utterance_id>tondano_water_0071</utterance_id>
                     <utterance>wewèan</utterance>
-                    <utterance_translation>There are</utterance_translation>
+                    <utterance_translation>There are,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>wewèan</gword>
@@ -2178,11 +2183,11 @@
                 <unit uid="0072" start_time="177570" end_time="181290">
                     <utterance_id>tondano_water_0072</utterance_id>
                     <utterance>na, toro watè pasiwon satè</utterance>
-                    <utterance_translation>(They) can make sago grubs into satay.</utterance_translation>
+                    <utterance_translation>(they) can make sago grubs into satay.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2219,12 +2224,12 @@
                 </unit>
                 <unit uid="0073" start_time="181470" end_time="185620">
                     <utterance_id>tondano_water_0073</utterance_id>
-                    <utterance> watè toro enpasiwon satè</utterance>
+                    <utterance>watè toro enpasiwon satè</utterance>
                     <utterance_translation>(They) can make sago grubs into satay.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2240,7 +2245,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>pa-siwo-en</gword>
@@ -2265,8 +2270,8 @@
                     <utterance_translation>But satey are tastier, (if) (he) would remove the head of the sago grub.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2275,7 +2280,7 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword> lèbè</gword>
+                            <gword>lèbè</gword>
                             <gloss>more</gloss>
                             <graid>other</graid>
                         </segment>
@@ -2285,19 +2290,19 @@
                             <graid>other:pred</graid>
                         </segment>
                         <segment>
-                            <gword> satè</gword>
+                            <gword>satè</gword>
                             <gloss>satay</gloss>
                             <graid>np:s</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>kokong</gword>
@@ -2307,7 +2312,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>watè</gword>
@@ -2337,8 +2342,8 @@
                     <utterance_translation>(They) would spice it (the sago grub). As for satey ingredients, there is chilli.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2367,8 +2372,8 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2395,12 +2400,12 @@
                 </unit>
                 <unit uid="0076" start_time="196010" end_time="198650">
                     <utterance_id>tondano_water_0076</utterance_id>
-                    <utterance>aa, o,  tunun, tunun itu embaa'</utterance>
+                    <utterance>aa, o, tunun, tunun itu embaa'</utterance>
                     <utterance_translation>Ah, and (they) will grill (it). (They) grill (it) over the hot coals,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2429,8 +2434,8 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2495,7 +2500,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>waa'</gword>
@@ -2544,11 +2549,11 @@
                 <unit uid="0080" start_time="205230" end_time="208418">
                     <utterance_id>tondano_water_0080</utterance_id>
                     <utterance>saa tampurung kapa nuka aa..</utterance>
-                    <utterance_translation>When coconut shell (in Manado Malay) or coconut shell (in Tondano), ah,</utterance_translation>
+                    <utterance_translation>When coconut shell [in Manado Malay] or coconut shell [in Tondano], ah,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2569,7 +2574,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
@@ -2586,7 +2591,7 @@
                 <unit uid="0081" start_time="208470" end_time="210160">
                     <utterance_id>tondano_water_0081</utterance_id>
                     <utterance>masuatou nuka</utterance>
-                    <utterance_translation> are the same, coconut shell.</utterance_translation>
+                    <utterance_translation>are the same, coconut shell.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ma-suat</gword>
@@ -2601,7 +2606,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uka</gword>
@@ -2613,11 +2618,11 @@
                 <unit uid="0082" start_time="210347" end_time="213982">
                     <utterance_id>tondano_water_0082</utterance_id>
                     <utterance>ee, tunun itu mbaa kasa, aa</utterance>
-                    <utterance_translation>Erh, (they) will grill (it) on many coals. </utterance_translation>
+                    <utterance_translation>Erh, (they) will grill (it) on many coals.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2648,7 +2653,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>waa'</gword>
@@ -2668,8 +2673,8 @@
                     <utterance_translation>When</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2704,11 +2709,11 @@
                 <unit uid="0085" start_time="217180" end_time="220520">
                     <utterance_id>tondano_water_0085</utterance_id>
                     <utterance>kimerèa, kimerèmèamou toro ngkaanən</utterance>
-                    <utterance_translation> (that) it becomes red (i.e. cooked), then (they) can eat it.</utterance_translation>
+                    <utterance_translation>(that) it becomes red [i.e. cooked], then (they) can eat it.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#cc:p_u</gword>
-                            <gloss>#cc:p_u</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc:p_u</graid>
                         </segment>
                         <segment>
@@ -2723,7 +2728,7 @@
                         </segment>
                         <segment>
                             <gword>k&lt;im&gt;erèmèa</gword>
-                            <gloss>&lt;AV.PST&gt; redden</gloss>
+                            <gloss>&lt;AV.PST&gt;redden</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -2732,8 +2737,8 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2744,7 +2749,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.p_u=</graid>
+                            <graid>=pro:p_u</graid>
                         </segment>
                         <segment>
                             <gword>kaan-en</gword>
@@ -2761,11 +2766,11 @@
                 <unit uid="0086" start_time="220520" end_time="222890">
                     <utterance_id>tondano_water_0086</utterance_id>
                     <utterance>lutu'mou ni'itu</utterance>
-                    <utterance_translation>That (sago grub) is cooked.</utterance_translation>
+                    <utterance_translation>That [sago grub] is cooked.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2788,11 +2793,11 @@
                 <unit uid="0087" start_time="222890" end_time="225710">
                     <utterance_id>tondano_water_0087</utterance_id>
                     <utterance>mm, sedap kasa wèlow</utterance>
-                    <utterance_translation>Hmm, (it's) very tasty, wow</utterance_translation>
+                    <utterance_translation>Hmm, (it's) very tasty, wow.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2825,7 +2830,7 @@
                 <unit uid="0088" start_time="225710" end_time="227100">
                     <utterance_id>tondano_water_0088</utterance_id>
                     <utterance>oo, tuang</utterance>
-                    <utterance_translation>oh God.</utterance_translation>
+                    <utterance_translation>Oh goodness.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>oo</gword>
@@ -2842,11 +2847,11 @@
                 <unit uid="0089" start_time="227100" end_time="231410">
                     <utterance_id>tondano_water_0089</utterance_id>
                     <utterance>ta'an, sa paloo'la tanu ti'in, oh tuang iwatè</utterance>
-                    <utterance_translation>But when (they) see (it) like this, oh god the sago grubs (are disgusting).</utterance_translation>
+                    <utterance_translation>But when (they) see (it) like this, oh god, the sago grubs [are disgusting].</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2870,8 +2875,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>ZERO </gword>
-                            <gloss>ZERO </gloss>
+                            <gword>ZERO</gword>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
@@ -2914,7 +2919,7 @@
                 <unit uid="0090" start_time="231410" end_time="233340">
                     <utterance_id>tondano_water_0090</utterance_id>
                     <utterance>o wèlow, o tuang</utterance>
-                    <utterance_translation>Oh wow, oh God</utterance_translation>
+                    <utterance_translation>Oh wow, oh god.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>o</gword>
@@ -2940,17 +2945,17 @@
                 </unit>
                 <unit uid="0091" start_time="233340" end_time="237710">
                     <utterance_id>tondano_water_0091</utterance_id>
-                    <utterance>tanumoukan, tanumoukan leloi  ma mengèlangèlang o tuang</utterance>
-                    <utterance_translation>Definitiely like this, just like this the snake (grub) is going along, oh God.</utterance_translation>
+                    <utterance>tanumoukan, tanumoukan leloi ma mengèlangèlang o tuang</utterance>
+                    <utterance_translation>Definitiely like this, just like this the snake (grub) is going along, oh god.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>tanu</gword>
-                            <gloss> like</gloss>
+                            <gloss>like</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -2974,7 +2979,7 @@
                             <graid>np:s</graid>
                         </segment>
                         <segment>
-                            <gword>ma-</gword>
+                            <gword>ma--</gword>
                             <gloss>HES</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -3001,8 +3006,8 @@
                     <utterance_translation>But when it</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -3057,11 +3062,11 @@
                 <unit uid="0094" start_time="242080" end_time="246030">
                     <utterance_id>tondano_water_0094</utterance_id>
                     <utterance>mamuali kopo'kopo', ee sapa rè'èn sia?</utterance>
-                    <utterance_translation>(It) becomes a butterfly, uhm what is it then?</utterance_translation>
+                    <utterance_translation>(It) becomes a butterfly, uhm, what is it then?</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3080,8 +3085,8 @@
                             <graid>np:other</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3112,8 +3117,8 @@
                     <utterance_translation>erh, (it's) the flying beetle.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3144,8 +3149,8 @@
                     <utterance_translation>Then (it) stings. (It) is stinging.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3164,8 +3169,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3191,8 +3196,8 @@
                     <utterance_translation>Oh (they) can also make the sago grubs (into), what, a race?</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3201,7 +3206,7 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>watè </gword>
+                            <gword>watè</gword>
                             <gloss>sago.grub</gloss>
                             <graid>np:p_u</graid>
                         </segment>
@@ -3228,7 +3233,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>sapa</gword>
@@ -3238,7 +3243,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>balap</gword>
@@ -3253,19 +3258,19 @@
                     <utterance_translation>They are having a race, the sago grubs.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
-                            <gword>ma-</gword>
+                            <gword>ma--</gword>
                             <gloss>HES</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro:a_a=</graid>
+                            <graid>=pro:a_a</graid>
                         </segment>
                         <segment>
                             <gword>ma-siwo</gword>
@@ -3275,7 +3280,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>balap</gword>
@@ -3285,7 +3290,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>watè</gword>
@@ -3297,11 +3302,11 @@
                 <unit uid="0099" start_time="260440" end_time="263090">
                     <utterance_id>tondano_water_0099</utterance_id>
                     <utterance>taan nitu papa'yangenatè</utterance>
-                    <utterance_translation>But that's just its (sagu grubs) game.</utterance_translation>
+                    <utterance_translation>But that's just its [sago grubs] game.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3334,11 +3339,11 @@
                 <unit uid="0100" start_time="263090" end_time="266820">
                     <utterance_id>tondano_water_0100</utterance_id>
                     <utterance>tanu, mm</utterance>
-                    <utterance_translation>Thus, </utterance_translation>
+                    <utterance_translation>Thus,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3356,7 +3361,7 @@
                 <unit uid="0101" start_time="266820" end_time="269860">
                     <utterance_id>tondano_water_0101</utterance_id>
                     <utterance>papa'ayangenèatè</utterance>
-                    <utterance_translation>(It's) just their game,</utterance_translation>
+                    <utterance_translation>(it's) just their game,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ZERO</gword>
@@ -3383,11 +3388,11 @@
                 <unit uid="0102" start_time="269860" end_time="272450">
                     <utterance_id>tondano_water_0102</utterance_id>
                     <utterance>aa, ti'ini, o tuange èi</utterance>
-                    <utterance_translation>Ah that oh God.</utterance_translation>
+                    <utterance_translation>Ah, that, oh god.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -3420,11 +3425,11 @@
                 <unit uid="0103" start_time="272450" end_time="275760">
                     <utterance_id>tondano_water_0103</utterance_id>
                     <utterance>watè sèmeleloo'an</utterance>
-                    <utterance_translation>The sago grubs, they will see (meet) each other (on the banana palm leaf).</utterance_translation>
+                    <utterance_translation>The sago grubs, they will see [meet] each other [on the banana palm leaf].</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3435,7 +3440,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro:s=</graid>
+                            <graid>=pro:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-Ce-loo'-an</gword>
@@ -3450,14 +3455,14 @@
                     <utterance_translation>They are quick</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:s=</graid>
+                            <graid>=pro:s</graid>
                         </segment>
                         <segment>
                             <gword>rior</gword>
@@ -3489,8 +3494,8 @@
                     <utterance_translation>Oh dear that one went down.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3526,19 +3531,19 @@
                     <utterance_translation>If it gets bigger, the sago grub.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
-                            <gword>sa </gword>
+                            <gword>sa</gword>
                             <gloss>if</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:s=</graid>
+                            <graid>=pro:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-sela</gword>
@@ -3564,12 +3569,12 @@
                 </unit>
                 <unit uid="0108" start_time="287620" end_time="289270">
                     <utterance_id>tondano_water_0108</utterance_id>
-                    <utterance>woo pira minggu </utterance>
+                    <utterance>woo pira minggu</utterance>
                     <utterance_translation>In a few weeks</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3619,7 +3624,7 @@
                 <unit uid="0110" start_time="291060" end_time="292850">
                     <utterance_id>tondano_water_0110</utterance_id>
                     <utterance>ee tantamengkan</utterance>
-                    <utterance_translation>erh the flying hornd beetle?</utterance_translation>
+                    <utterance_translation>erh, the flying horned beetle?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ee</gword>
@@ -3635,12 +3640,12 @@
                 </unit>
                 <unit uid="0111" start_time="292850" end_time="295200">
                     <utterance_id>tondano_water_0111</utterance_id>
-                    <utterance>wewèan,  ee  sapana</utterance>
-                    <utterance_translation>There's a what's its (name)</utterance_translation>
+                    <utterance>wewèan, ee sapana</utterance>
+                    <utterance_translation>There's a what's its (name),</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3673,7 +3678,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>sayap</gword>
@@ -3689,12 +3694,12 @@
                 </unit>
                 <unit uid="0113" start_time="297140" end_time="299430">
                     <utterance_id>tondano_water_0113</utterance_id>
-                    <utterance>soalnya  sèa ma</utterance>
+                    <utterance>soalnya sèa ma</utterance>
                     <utterance_translation>Because they</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -3717,7 +3722,7 @@
                 <unit uid="0114" start_time="299430" end_time="302700">
                     <utterance_id>tondano_water_0114</utterance_id>
                     <utterance>matèwèl sèa matèwèl</utterance>
-                    <utterance_translation> fly (away). They fly (away).</utterance_translation>
+                    <utterance_translation>fly (away). They fly (away).</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ma-tèwèl</gword>
@@ -3725,8 +3730,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>

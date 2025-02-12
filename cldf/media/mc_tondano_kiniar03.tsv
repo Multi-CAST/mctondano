@@ -1,13 +1,13 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
-tondano	kiniar03	0001	##	##	##	##				
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tondano	kiniar03	0001	#	#	##	##				
 tondano	kiniar03	0001	patuari	nuclear.family	nc	nc				
 tondano	kiniar03	0001	waya	all	rn	rn				
 tondano	kiniar03	0001	niaku	1SG	pro.1:a_a	pro	1	a_a		
 tondano	kiniar03	0001	ma-Ce-susui	AV.DYN-IRR-speak	v:pred	v		pred		
-tondano	kiniar03	0001	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0001	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0002	ee	HES	nc	nc				
 tondano	kiniar03	0002	r<in>ekam-en	<PST>record-PV	np:p_a	np		p_a		
-tondano	kiniar03	0002	ni=	AN.SG.GEN=	rn=	rn=				
+tondano	kiniar03	0002	ni=	AN.SG.GEN=	=rn	=rn				
 tondano	kiniar03	0002	patuari	nuclear.family	rn_np:poss	rn_np		poss		
 tondano	kiniar03	0002	=ku	=1SG.GEN	=pro.1:poss	=pro	1	poss		
 tondano	kiniar03	0002	Tim	PN	np.h:appos	np	h	appos		
@@ -15,34 +15,34 @@ tondano	kiniar03	0003	waki	PREP3	adp	adp
 tondano	kiniar03	0003	Lolah	PN	np:l	np		l		
 tondano	kiniar03	0003	Tombulu	PN	rn_np	rn_np				
 tondano	kiniar03	0003	Tomohon	PN	rn_np	rn_np				
-tondano	kiniar03	0004	##	##	##	##				
+tondano	kiniar03	0004	#	#	##	##				
 tondano	kiniar03	0004	ngaa	HES	nc	nc				
 tondano	kiniar03	0004	sè=	HES	nc	nc				
-tondano	kiniar03	0005	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	kiniar03	0005	sè=	3PL.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	kiniar03	0005	s<im>iwo	<AV.PST>do	v:pred	v		pred		
 tondano	kiniar03	0005	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0005	pèrèt 	HES	nc	nc				
-tondano	kiniar03	0006	pèrèt 	bat	ln_np	ln_np				
+tondano	kiniar03	0005	pèrèt	HES	nc	nc				
+tondano	kiniar03	0006	pèrèt	bat	ln_np	ln_np				
 tondano	kiniar03	0006	iti'i	DEM2	ln	ln				
 tondano	kiniar03	0007	wo	and	ln	ln				
 tondano	kiniar03	0007	sè=	HES	nc	nc				
-tondano	kiniar03	0007	sè=	AN.PL=	ln=	ln=				
+tondano	kiniar03	0007	sè=	AN.PL=	=ln	=ln				
 tondano	kiniar03	0007	kawok	rat	np:p_a	np		p_a		
 tondano	kiniar03	0008	ngaa	HES	nc	nc				
 tondano	kiniar03	0008	èy	PART	nc	nc				
-tondano	kiniar03	0009	#ac	#ac	#ac	#ac				
+tondano	kiniar03	0009	#	#	#ac	#ac				
 tondano	kiniar03	0009	pilapila	wing	np:dt_p_u	np		dt_p_u		
-tondano	kiniar03	0009	nè=	AN.PL.GEN=	rn=	rn=				
+tondano	kiniar03	0009	nè=	AN.PL.GEN=	=rn	=rn				
 tondano	kiniar03	0009	pèrèt	bat	rn_np:poss	rn_np		poss		
 tondano	kiniar03	0009	iti'i	DEM2	rn	rn				
 tondano	kiniar03	0009	ka'a	because	other	other				
 tondano	kiniar03	0010	peN-sera'-an	DYN-meat-LV	v:pred	v		pred		
 tondano	kiniar03	0010	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0010	kangkasi	also	other	other				
-tondano	kiniar03	0010	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0010	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0010	pilapila	wing	np:p_u	np		p_u		
 tondano	kiniar03	0010	=na	=3SG.GEN	=pro:poss	=pro		poss		
-tondano	kiniar03	0010	#nc	#nc	#nc	#nc				
+tondano	kiniar03	0010	#	#	#nc	#nc				
 tondano	kiniar03	0010	ta'an	however	nc	nc				
 tondano	kiniar03	0010	musti	AUX.must	nc	nc				
 tondano	kiniar03	0011	pali'pik	wingtips	nc	nc				
@@ -55,123 +55,123 @@ tondano	kiniar03	0012	pèrèt	bat	nc	nc
 tondano	kiniar03	0012	N=	INAN=	nc	nc				
 tondano	kiniar03	0012	pali'pik	wingtips	nc	nc				
 tondano	kiniar03	0012	=na	=3SG.GEN	nc	nc				
-tondano	kiniar03	0013	##	##	##	##				
+tondano	kiniar03	0013	#	#	##	##				
 tondano	kiniar03	0013	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0013	peN-sera'an	DYN-meat-LV	v:pred	v		pred		
 tondano	kiniar03	0013	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0013	kangkasi	also	other	other				
-tondano	kiniar03	0013	##	##	##	##				
+tondano	kiniar03	0013	#	#	##	##				
 tondano	kiniar03	0013	ta'an	however	other	other				
 tondano	kiniar03	0013	musti	AUX.must	aux	aux				
 tondano	kiniar03	0013	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0013	siruw-an	burn.hair-LV	v:pred	v		pred		
 tondano	kiniar03	0013	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0013	=la	=DIR.PROX	=rv	=rv				
-tondano	kiniar03	0014	##	##	##	##				
+tondano	kiniar03	0014	#	#	##	##				
 tondano	kiniar03	0014	ee	PART	nc	nc				
 tondano	kiniar03	0014	pa-pa-ato-en	CAUS-DYN-look-PV	v:pred	v		pred		
 tondano	kiniar03	0014	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0014	=mi	=DIR.DIST	=rv	=rv				
-tondano	kiniar03	0014	si=	AN.SG=	ln=	ln=				
+tondano	kiniar03	0014	si=	AN.SG=	=ln	=ln				
 tondano	kiniar03	0014	kawok	HES	nc	nc				
 tondano	kiniar03	0014	kawok	rat	np:p_u	np		p_u		
 tondano	kiniar03	0014	puti'	white	rn	rn				
 tondano	kiniar03	0014	ipus	tail	rn_np	rn_np				
-tondano	kiniar03	0015	##	##	##	##				
+tondano	kiniar03	0015	#	#	##	##				
 tondano	kiniar03	0015	wewèan	EXIST	other:predex	other		predex		
 tondano	kiniar03	0015	=mow	=CMP	=other	=other				
-tondano	kiniar03	0015	sè=	AN.PL=	ln=	ln=				
+tondano	kiniar03	0015	sè=	AN.PL=	=ln	=ln				
 tondano	kiniar03	0015	anu	NON.SPEC	nc	nc				
 tondano	kiniar03	0015	sè=	HES	nc	nc				
-tondano	kiniar03	0016	sè=	AN.PL=	ln=	ln=				
+tondano	kiniar03	0016	sè=	AN.PL=	=ln	=ln				
 tondano	kiniar03	0016	kawok	rat	ln_np	ln_np				
 tondano	kiniar03	0016	wo	and	ln	ln				
-tondano	kiniar03	0016	sè=	AN.PL=	ln=	ln=				
+tondano	kiniar03	0016	sè=	AN.PL=	=ln	=ln				
 tondano	kiniar03	0016	pèrèt	bat	np:s	np		s		
-tondano	kiniar03	0017	##	##	##	##				
+tondano	kiniar03	0017	#	#	##	##				
 tondano	kiniar03	0017	sè=	AN.SG=	nc	nc				
 tondano	kiniar03	0017	kawok	HES	nc	nc				
 tondano	kiniar03	0017	ku'a	PART	nc	nc				
-tondano	kiniar03	0017	si=	3SG=	pro:dt	pro		dt		
+tondano	kiniar03	0017	si=	3SG=	=pro:dt	=pro		dt		
 tondano	kiniar03	0017	rèy'	EXIST.NEG	other:predex	other		predex		
 tondano	kiniar03	0017	=la	=DIR.PROX	=other	=other				
 tondano	kiniar03	0017	pali'pik	wingtip	np:s	np		s		
-tondano	kiniar03	0017	##	##	##	##				
+tondano	kiniar03	0017	#	#	##	##				
 tondano	kiniar03	0017	rèy'	EXIST.NEG	other:predex	other		predex		
 tondano	kiniar03	0017	=la	=DIR.PROX	=other	=other				
 tondano	kiniar03	0017	Ce-tèwèl	NR-fly	np:s	np		s		
-tondano	kiniar03	0017	##	##	##	##				
+tondano	kiniar03	0017	#	#	##	##				
 tondano	kiniar03	0017	ta'an	however	other	other				
 tondano	kiniar03	0017	si=	AN.SG=	nc	nc				
 tondano	kiniar03	0017	pèrèt	bat	nc	nc				
-tondano	kiniar03	0017	si=	3SG=	pro:dt_s=	pro		dt_s=		
+tondano	kiniar03	0017	si=	3SG=	=pro:dt_s	=pro		dt_s		
 tondano	kiniar03	0017	wewèan	EXIST	other:predex	other		predex		
 tondano	kiniar03	0017	Ce-tèwèl	NR-fly	np:s	np		s		
 tondano	kiniar03	0017	ee	HES	nc	nc				
 tondano	kiniar03	0018	paa	HES	nc	nc				
-tondano	kiniar03	0019	##	##	##	##				
+tondano	kiniar03	0019	#	#	##	##				
 tondano	kiniar03	0019	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0019	pa-ketor-en	DYN-slice-PV	v:pred	v		pred		
 tondano	kiniar03	0019	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0019	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0019	pa	HES	nc	nc				
-tondano	kiniar03	0020	##	##	##	##				
+tondano	kiniar03	0020	#	#	##	##				
 tondano	kiniar03	0020	pa-row'-en	DYN-far-PV	v:pred	v		pred		
 tondano	kiniar03	0020	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	kiniar03	0020	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0020	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0020	waya	RDP	ln	ln				
 tondano	kiniar03	0021	waya	all	ln	ln				
 tondano	kiniar03	0021	riberek	entrail	np:p_u	np		p_u		
-tondano	kiniar03	0021	##	##	##neg	##neg				
+tondano	kiniar03	0021	#	#	##neg	##neg				
 tondano	kiniar03	0021	waya	all	ln	ln				
 tondano	kiniar03	0021	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0021	rèy'	HES	nc	nc				
-tondano	kiniar03	0022	rèy' 	not	other	other				
+tondano	kiniar03	0022	rèy'	not	other	other				
 tondano	kiniar03	0022	peN-kaan-en	DYN-rice-PV	v:pred	v		pred		
 tondano	kiniar03	0022	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	kiniar03	0022	##	##	##	##				
+tondano	kiniar03	0022	#	#	##	##				
 tondano	kiniar03	0022	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0022	i-pa-row'	CV-DYN-far	v:pred	v		pred		
 tondano	kiniar03	0022	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0023	eee	HES	nc	nc				
-tondano	kiniar03	0024	##	##	##	##				
+tondano	kiniar03	0024	#	#	##	##				
 tondano	kiniar03	0024	i-pa-row'	CV-DYN-far	v:pred	v		pred		
 tondano	kiniar03	0024	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	kiniar03	0024	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0024	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0024	waya	HES	ln	ln				
 tondano	kiniar03	0025	waya	all	ln	ln				
-tondano	kiniar03	0025	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0025	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0025	anu	NON.SPEC	np:p_u	np		p_u		
-tondano	kiniar03	0026	##	##	##	##				
+tondano	kiniar03	0026	#	#	##	##				
 tondano	kiniar03	0026	hmm	HES	nc	nc				
-tondano	kiniar03	0026	tine'èi 	intestine	np:dt_p_u	np		dt_p_u		
-tondano	kiniar03	0026	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0026	tine'èi	intestine	np:dt_p_u	np		dt_p_u		
+tondano	kiniar03	0026	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0026	i-pa-row'	CV-DYN-far	v:pred	v		pred		
 tondano	kiniar03	0026	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0026	=mi	=DIR.DIST	=rv	=rv				
 tondano	kiniar03	0026	eee	HES	nc	nc				
-tondano	kiniar03	0027	##	##	##	##				
+tondano	kiniar03	0027	#	#	##	##				
 tondano	kiniar03	0027	ee	HES	nc	nc				
 tondano	kiniar03	0027	mèmang	truly	other	other				
-tondano	kiniar03	0027	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	kiniar03	0027	sè=	3PL.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	kiniar03	0027	siga'	AUX.capable	aux	aux				
 tondano	kiniar03	0027	=mow	=CMP	=lv	=lv				
 tondano	kiniar03	0027	ma-siwo	AV.DYN-do	v:pred	v		pred		
-tondano	kiniar03	0027	pèrèt 	bat	np:p_a	np		p_a		
+tondano	kiniar03	0027	pèrèt	bat	np:p_a	np		p_a		
 tondano	kiniar03	0027	sèa	3PL	pro.h:dt_a_a	pro	h	dt_a_a		
-tondano	kiniar03	0028	#nc	#nc	#nc	#nc				
+tondano	kiniar03	0028	#	#	#nc	#nc				
 tondano	kiniar03	0028	tow	like	nc	nc				
-tondano	kiniar03	0028	lodaken	?	nc	nc				
+tondano	kiniar03	0028	lodaken	NC	nc	nc				
 tondano	kiniar03	0028	èy	PART	nc	nc				
-tondano	kiniar03	0028	 mèmang	truly	nc	nc				
-tondano	kiniar03	0028	 èy	PART	nc	nc				
+tondano	kiniar03	0028	mèmang	truly	nc	nc				
+tondano	kiniar03	0028	èy	PART	nc	nc				
 tondano	kiniar03	0028	wona	perhaps	nc	nc				
 tondano	kiniar03	0028	èy	PART	nc	nc				
-tondano	kiniar03	0029	##	##	##	##				
+tondano	kiniar03	0029	#	#	##	##				
 tondano	kiniar03	0029	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0029	pa-saput-en	DYN-cover	v:pred	v		pred		
 tondano	kiniar03	0029	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
-tondano	kiniar03	0030	##	##	##	##				
+tondano	kiniar03	0030	#	#	##	##				
 tondano	kiniar03	0030	pa-siruw-an	DYN-burn.hair	v:pred	v		pred		
 tondano	kiniar03	0030	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0030	ano	NON.SPEC	nc	nc				
@@ -185,58 +185,58 @@ tondano	kiniar03	0033	witu	PREP2	nc	nc
 tondano	kiniar03	0033	Ce-ketot-an	NR-urine-LV	nc	nc				
 tondano	kiniar03	0033	nè=	AN.PL.GEN=	nc	nc				
 tondano	kiniar03	0033	ano	NON.SPEC	nc	nc				
-tondano	kiniar03	0033	 nè=	AN.PL.GEN=	nc	nc				
+tondano	kiniar03	0033	nè=	AN.PL.GEN=	nc	nc				
 tondano	kiniar03	0033	pèrèt	bat	nc	nc				
-tondano	kiniar03	0034	##	##	##	##				
+tondano	kiniar03	0034	#	#	##	##				
 tondano	kiniar03	0034	pa-ketot-an	DYN-urine-LV	v:pred	v		pred		
 tondano	kiniar03	0034	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0034	=mi	=DIR.DIST	=rv	=rv				
-tondano	kiniar03	0034	pèrèt 	bat	np:p_u	np		p_u		
+tondano	kiniar03	0034	pèrèt	bat	np:p_u	np		p_u		
 tondano	kiniar03	0034	ku'a	PART	nc	nc				
-tondano	kiniar03	0035	#ac	#ac	#ac	#ac				
+tondano	kiniar03	0035	#	#	#ac	#ac				
 tondano	kiniar03	0035	sia	HES	nc	nc				
-tondano	kiniar03	0035	sa	if 	other	other				
+tondano	kiniar03	0035	sa	if	other	other				
 tondano	kiniar03	0035	sia	3SG	pro:s	pro		s		
 tondano	kiniar03	0035	ma-ketot	EV.STAT-urine	v:pred	v		pred		
 tondano	kiniar03	0035	mana	PREP2	adp	adp				
-tondano	kiniar03	0035	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0035	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0035	kokong	head	np:g	np		g		
 tondano	kiniar03	0035	=na	=3SG.GEN	=pro:poss	=pro		poss		
-tondano	kiniar03	0035	##	##	##	##				
-tondano	kiniar03	0035	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0035	#	#	##	##				
+tondano	kiniar03	0035	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0035	pa-ketot-an	DYN-urine-LV	v:pred	v		pred		
 tondano	kiniar03	0035	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0035	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0036	#ac	#ac	#ac	#ac				
+tondano	kiniar03	0036	#	#	#ac	#ac				
 tondano	kiniar03	0036	ni'tu	DEM2	other	other				
 tondano	kiniar03	0036	=mow	=CMP	=other	=other				
-tondano	kiniar03	0036	 sè=	AN.PL	nc	nc				
-tondano	kiniar03	0036	pèrèt 	bat	nc	nc				
+tondano	kiniar03	0036	sè=	AN.PL=	nc	nc				
+tondano	kiniar03	0036	pèrèt	bat	nc	nc				
 tondano	kiniar03	0036	ini	DEM1	nc	nc				
 tondano	kiniar03	0036	sa	if	other	other				
-tondano	kiniar03	0036	ko=	2SG.NOM=	pro.2:s=	pro	2	s=		
+tondano	kiniar03	0036	ko=	2SG.NOM=	=pro.2:s	=pro	2	s		
 tondano	kiniar03	0036	gh<um>orem	<AV>enter	v:pred	v		pred		
 tondano	kiniar03	0036	witu	PREP2	adp	adp				
 tondano	kiniar03	0037	ee	HES	nc	nc				
 tondano	kiniar03	0037	ruraar	cave	np:l	np		l		
-tondano	kiniar03	0037	##	##	##	##				
+tondano	kiniar03	0037	#	#	##	##				
 tondano	kiniar03	0037	ZERO	ZERO	0.2:a_a	0	2	a_a		
 tondano	kiniar03	0037	ma-wou	EV.STAT-small	v:pred	v		pred		
 tondano	kiniar03	0037	ketot	urine	np:p_a	np		p_a		
-tondano	kiniar03	0037	##	##	##	##				
+tondano	kiniar03	0037	#	#	##	##				
 tondano	kiniar03	0037	tampa	place	np:pred	np		pred		
-tondano	kiniar03	0037	nè=	AN.PL.GEN=	rn=	rn=				
-tondano	kiniar03	0037	pèrèt 	bat	rn_np:poss	rn_np		poss		
+tondano	kiniar03	0037	nè=	AN.PL.GEN=	=rn	=rn				
+tondano	kiniar03	0037	pèrèt	bat	rn_np:poss	rn_np		poss		
 tondano	kiniar03	0037	iti'i	DEM2	pro:s	pro		s		
-tondano	kiniar03	0038	##	##	##	##				
-tondano	kiniar03	0038	sè=	3PL.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0038	#	#	##	##				
+tondano	kiniar03	0038	sè=	3PL.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0038	pa-ketor-en	DYN-slice-PV	v:pred	v		pred		
 tondano	kiniar03	0038	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0038	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0039	o	PART	nc	nc				
 tondano	kiniar03	0039	kala	PART	nc	nc				
 tondano	kiniar03	0039	si=	HES	nc	nc				
-tondano	kiniar03	0040	#nc	#nc	#nc	#nc				
+tondano	kiniar03	0040	#	#	#nc	#nc				
 tondano	kiniar03	0040	si=	AN.SG=	nc	nc				
 tondano	kiniar03	0040	wewènè	woman	nc	nc				
 tondano	kiniar03	0040	iti'i	DEM2	nc	nc				
@@ -244,11 +244,11 @@ tondano	kiniar03	0040	mèmang	truly	nc	nc
 tondano	kiniar03	0040	kasa	very	nc	nc				
 tondano	kiniar03	0040	siga'	AUX.capable	nc	nc				
 tondano	kiniar03	0040	ee	ee	nc	nc				
-tondano	kiniar03	0041	##	##	##	##				
+tondano	kiniar03	0041	#	#	##	##				
 tondano	kiniar03	0041	ee	HES	nc	nc				
 tondano	kiniar03	0041	pa-iwu-an	DYN-slice-LV	v:pred	v		pred		
 tondano	kiniar03	0041	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
-tondano	kiniar03	0041	si=	AN.SG=	ln=	ln=				
+tondano	kiniar03	0041	si=	AN.SG=	=ln	=ln				
 tondano	kiniar03	0041	pèrèt	bat	np:p_u	np		p_u		
 tondano	kiniar03	0042	o	PART	nc	nc				
 tondano	kiniar03	0042	rèy'	not	nc	nc				
@@ -256,77 +256,77 @@ tondano	kiniar03	0043	aa	HES	nc	nc
 tondano	kiniar03	0043	ss	HES	nc	nc				
 tondano	kiniar03	0043	oo	HES	nc	nc				
 tondano	kiniar03	0044	paa	HES	nc	nc				
-tondano	kiniar03	0045	##	##	##	##				
+tondano	kiniar03	0045	#	#	##	##				
 tondano	kiniar03	0045	pa-rintek-en	DYN-small-PV	v:pred	v		pred		
 tondano	kiniar03	0045	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0045	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0045	si=	AN.SG=	ln=	ln=				
+tondano	kiniar03	0045	si=	AN.SG=	=ln	=ln				
 tondano	kiniar03	0045	pèrèt	bat	np:p_u	np		p_u		
 tondano	kiniar03	0046	pe	HES	nc	nc				
 tondano	kiniar03	0047	èy	PART	nc	nc				
 tondano	kiniar03	0047	loo'	HES	nc	nc				
 tondano	kiniar03	0047	aa	HES	nc	nc				
 tondano	kiniar03	0047	ma	HES	nc	nc				
-tondano	kiniar03	0048	#ac	#ac	#ac	#ac				
+tondano	kiniar03	0048	#	#	#ac	#ac				
 tondano	kiniar03	0048	ka'a	because	other	other				
-tondano	kiniar03	0048	lèi'èkè	?	nc	nc				
+tondano	kiniar03	0048	lèi'èkè	NC	nc	nc				
 tondano	kiniar03	0048	wona'	perhaps	other	other				
-tondano	kiniar03	0048	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0048	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0048	pa	HES	nc	nc				
 tondano	kiniar03	0048	pa-repu'-an	DYN-break-PV	v:pred	v		pred		
 tondano	kiniar03	0048	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0048	=itè	=LIM	=rv	=rv				
-tondano	kiniar03	0049	##	##	##	##				
+tondano	kiniar03	0049	#	#	##	##				
 tondano	kiniar03	0049	wèè-en	give-PV	v:pred	v		pred		
 tondano	kiniar03	0049	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0049	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0049	itu	DEM2	pro:p_u	pro		p_u		
-tondano	kiniar03	0050	##	##	##	##				
+tondano	kiniar03	0050	#	#	##	##				
 tondano	kiniar03	0050	aaa	HES	nc	nc				
 tondano	kiniar03	0050	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0050	pa	HES	nc	nc				
 tondano	kiniar03	0050	pa-Ce-rebus-an	DYN-IRR-boil-LV	v:pred	v		pred		
 tondano	kiniar03	0050	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0050	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0051	##	##	##	##				
+tondano	kiniar03	0051	#	#	##	##				
 tondano	kiniar03	0051	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0051	pa-Ce-luga'-en	DYN-IRR-boil-PV	v:pred	v		pred		
 tondano	kiniar03	0051	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	kiniar03	0052	##	##	##	##				
+tondano	kiniar03	0052	#	#	##	##				
 tondano	kiniar03	0052	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0052	pa-Ce-luga'-en	DYN-IRR-boil-PV	v:pred	v		pred		
 tondano	kiniar03	0052	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0052	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0052	##	##	##	##				
+tondano	kiniar03	0052	#	#	##	##				
 tondano	kiniar03	0052	wo	and	other	other				
 tondano	kiniar03	0053	eee	HES	nc	nc				
 tondano	kiniar03	0053	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0053	nèy	HES	nc	nc				
 tondano	kiniar03	0053	nèy	CV.PST	lv	lv				
 tondano	kiniar03	0053	=mow	=CMP	=other	=other				
-tondano	kiniar03	0053	 wèè	give	v:pred	v		pred		
+tondano	kiniar03	0053	wèè	give	v:pred	v		pred		
 tondano	kiniar03	0053	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0053	=la	=DIR.PROX	=rv	=rv				
 tondano	kiniar03	0053	witu	PREP2	adp	adp				
-tondano	kiniar03	0053	N=	INAN=	nc=	nc=				
+tondano	kiniar03	0053	N=	INAN=	nc	nc				
 tondano	kiniar03	0053	anu	NON.SPEC	nc	nc				
 tondano	kiniar03	0053	tow	like	other	other				
 tondano	kiniar03	0053	=mow	=CMP	=other	=other				
 tondano	kiniar03	0053	tow	like	other	other				
-tondano	kiniar03	0053	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0053	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0053	panci	pan	np:p_u	np		p_u		
-tondano	kiniar03	0054	##	##	##	##				
+tondano	kiniar03	0054	#	#	##	##				
 tondano	kiniar03	0054	aa	HES	nc	nc				
 tondano	kiniar03	0054	s<in>adia-en	<PST>prepare-PV	v:pred	v		pred		
 tondano	kiniar03	0054	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0054	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0054	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0054	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0054	waya	all	ln	ln				
 tondano	kiniar03	0054	rampa	RDP	ln_np	ln_np				
 tondano	kiniar03	0054	rampa	ingredient	ln_np	ln_np				
 tondano	kiniar03	0054	lelè'os	spring.onion	ln_np	ln_np				
 tondano	kiniar03	0054	wo	and	ln	ln				
-tondano	kiniar03	0054	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0054	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0054	anu	NON.SPEC	ln_np	ln_np				
 tondano	kiniar03	0055	lansuna	onion	ln_np	ln_np				
 tondano	kiniar03	0056	lansuna	onion	ln_np	ln_np				
@@ -339,55 +339,55 @@ tondano	kiniar03	0057	lia'	ginger	ln_np	ln_np
 tondano	kiniar03	0058	wo	and	ln	ln				
 tondano	kiniar03	0058	saribata	lemongrass	ln_np	ln_np				
 tondano	kiniar03	0058	wo	and	ln	ln				
-tondano	kiniar03	0058	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0058	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0058	anu	NON.SPEC	ln_np	ln_np				
 tondano	kiniar03	0059	podang	pandanus.leaf	ln_np	ln_np				
 tondano	kiniar03	0060	rano	water	ln_np	ln_np				
 tondano	kiniar03	0060	marisa	chilli	ln_np	ln_np				
 tondano	kiniar03	0061	marisa	chilli	np:p_u	np		p_u		
 tondano	kiniar03	0061	wo	and	nc	nc				
-tondano	kiniar03	0062	##	##	##	##				
+tondano	kiniar03	0062	#	#	##	##				
 tondano	kiniar03	0062	lia'	ginger	np:dt_p_u	np		dt_p_u		
-tondano	kiniar03	0062	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0062	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0062	i-pa-mèan	CV-DYN-hit	v:pred	v		pred		
 tondano	kiniar03	0062	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0062	=itè	=LIM	=rv	=rv				
 tondano	kiniar03	0063	èy	HES	nc	nc				
 tondano	kiniar03	0063	lansuna	onion	nc	nc				
 tondano	kiniar03	0063	mèa'	red	nc	nc				
-tondano	kiniar03	0064	##	##	##	##				
+tondano	kiniar03	0064	#	#	##	##				
 tondano	kiniar03	0064	ee	HES	nc	nc				
 tondano	kiniar03	0064	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0064	pa-Ce-to'om-en	DYN-IRR-grind-PV	v:pred	v		pred		
 tondano	kiniar03	0064	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0064	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0064	ngè	HES	nc	nc				
-tondano	kiniar03	0065	##	##	##	##				
+tondano	kiniar03	0065	#	#	##	##				
 tondano	kiniar03	0065	o	HES	nc	nc				
 tondano	kiniar03	0065	empa	HES	nc	nc				
 tondano	kiniar03	0065	o	HES	nc	nc				
 tondano	kiniar03	0065	pa-to'om-en	DYN-grind-PV	v:pred	v		pred		
 tondano	kiniar03	0065	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0065	witu	PREP2	adp	adp				
-tondano	kiniar03	0065	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0065	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0065	Ce-to'om-an	NR-grind-LV	np:l	np		l		
 tondano	kiniar03	0066	marisa	chilli	ln_np	ln_np				
 tondano	kiniar03	0066	lansuna	onion	np:p_u	np		p_u		
-tondano	kiniar03	0067	##	##	##	##				
+tondano	kiniar03	0067	#	#	##	##				
 tondano	kiniar03	0067	s<in>ewok-an	<PST>mix-LV	v:pred	v		pred		
 tondano	kiniar03	0067	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0067	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0067	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0067	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0067	ano	NON.SPEC	nc	nc				
 tondano	kiniar03	0068	rampa	RDP	ln_np	ln_np				
 tondano	kiniar03	0068	rampa	ingredient	np:p_u	np		p_u		
-tondano	kiniar03	0069	##	##	##	##				
+tondano	kiniar03	0069	#	#	##	##				
 tondano	kiniar03	0069	sedap	tasty	np:p_u	np		p_u		
 tondano	kiniar03	0069	=mowkan	=definitely	=rn	=rn				
 tondano	kiniar03	0069	ZERO	ZERO	0.1:a_a	0	1	a_a		
 tondano	kiniar03	0069	ma-loo'	AV.DYN-see	v:pred	v		pred		
 tondano	kiniar03	0069	=la	=DIR.PROX	=rv	=rv				
-tondano	kiniar03	0070	#nc	#nc	#nc	#nc				
+tondano	kiniar03	0070	#	#	#nc	#nc				
 tondano	kiniar03	0070	mèmang	truly	nc	nc				
 tondano	kiniar03	0070	pa-Ce-rampa	DYN-IRR-spice	nc	nc				
 tondano	kiniar03	0070	si=	HES	nc	nc				
@@ -396,205 +396,205 @@ tondano	kiniar03	0070	ni=	HES	nc	nc
 tondano	kiniar03	0070	ni=	AN.SG.GEN=	nc	nc				
 tondano	kiniar03	0070	pèrèt	bat	nc	nc				
 tondano	kiniar03	0070	iti'i	DEM2	nc	nc				
-tondano	kiniar03	0070	#ac	#ac	#ac.neg	#ac.neg				
+tondano	kiniar03	0070	#	#	#ac.neg	#ac.neg				
 tondano	kiniar03	0070	sa	if	other	other				
 tondano	kiniar03	0070	sia	3SG	pro:s	pro		s		
 tondano	kiniar03	0070	rèy'	not	other	other				
-tondano	kiniar03	0070	 tena'an	exact	other:pred	other		pred		
-tondano	kiniar03	0070	##	##	##neg	##neg				
+tondano	kiniar03	0070	tena'an	exact	other:pred	other		pred		
+tondano	kiniar03	0070	#	#	##neg	##neg				
 tondano	kiniar03	0070	ZERO	ZERO	0:s	0		s		
-tondano	kiniar03	0070	N=	INAN=	other=	other=				
+tondano	kiniar03	0070	N=	INAN=	=other	=other				
 tondano	kiniar03	0070	rèy'	not	other	other				
 tondano	kiniar03	0070	sedap	tasty	other:pred	other		pred		
-tondano	kiniar03	0071	##	##	##	##				
+tondano	kiniar03	0071	#	#	##	##				
 tondano	kiniar03	0071	ta'an	however	other	other				
 tondano	kiniar03	0071	sa	if	other	other				
 tondano	kiniar03	0071	itu	DEM2	pro:s	pro		s		
 tondano	kiniar03	0071	tena'an	exact	other:pred	other		pred		
 tondano	kiniar03	0071	=pè'	=INCMP	=other	=other				
-tondano	kiniar03	0071	##	##	##	##				
+tondano	kiniar03	0071	#	#	##	##				
 tondano	kiniar03	0071	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0071	loo'-en	see-PV	v:pred	v		pred		
 tondano	kiniar03	0071	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0072	eee	HES	nc	nc				
-tondano	kiniar03	0073	##	##	##	##				
+tondano	kiniar03	0073	#	#	##	##				
 tondano	kiniar03	0073	i-pa-ki'kis	CV-DYN-grate	v:pred	v		pred		
 tondano	kiniar03	0073	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0073	po'po'	coconut	np:p_u	np		p_u		
-tondano	kiniar03	0073	#ac	#ac	#ac	#ac				
+tondano	kiniar03	0073	#	#	#ac	#ac				
 tondano	kiniar03	0073	ka'a	because	other	other				
-tondano	kiniar03	0073	si=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0073	si=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0073	musti	AUX.must	aux	aux				
 tondano	kiniar03	0073	ano	NON.SPEC	nc	nc				
 tondano	kiniar03	0073	wèè-en	give-PV	v:pred	v		pred		
-tondano	kiniar03	0073	=nèa 	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+tondano	kiniar03	0073	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0073	ano	NON.SPEC	nc	nc				
-tondano	kiniar03	0074	##	##	##	##				
+tondano	kiniar03	0074	#	#	##	##				
 tondano	kiniar03	0074	wèè-en	give-PV	v:pred	v		pred		
 tondano	kiniar03	0074	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0074	santang	coconut.milk	ln_np	ln_np				
 tondano	kiniar03	0075	po'po'	coconut	np:p_u	np		p_u		
-tondano	kiniar03	0075	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	kiniar03	0075	#	#	#rc_rn	#rc_rn				
 tondano	kiniar03	0075	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0075	k<in>i'kis-en	<PST>grate-PV	v:pred	v		pred		
 tondano	kiniar03	0075	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	kiniar03	0076	##	##	##	##				
+tondano	kiniar03	0076	#	#	##	##				
 tondano	kiniar03	0076	pa-wèè-en	DYN-give-PV	v:pred	v		pred		
 tondano	kiniar03	0076	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0076	rano	water	np:p_u	np		p_u		
-tondano	kiniar03	0076	#ac	#ac	#ac	#ac				
+tondano	kiniar03	0076	#	#	#ac	#ac				
 tondano	kiniar03	0076	ka'a	other	nc	nc				
 tondano	kiniar03	0076	pa-Ce-pu'us-en	DYN-IRR-knead-PV	v:pred	v		pred		
 tondano	kiniar03	0076	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0076	santang	coconut.milk	ln_np	ln_np				
-tondano	kiniar03	0077	si=	AN.SG=	ln=	ln=				
+tondano	kiniar03	0077	si=	AN.SG=	=ln	=ln				
 tondano	kiniar03	0077	pèrèt	bat	np:p_u	np		p_u		
-tondano	kiniar03	0077	#ac	#ac	#ac	#ac				
+tondano	kiniar03	0077	#	#	#ac	#ac				
 tondano	kiniar03	0077	sa	if	other	other				
 tondano	kiniar03	0077	sia	3SG	pro:dt_s	pro		dt_s		
 tondano	kiniar03	0077	wewèan	EXIST	other:predex	other		predex		
 tondano	kiniar03	0077	santang	coconut.milk	np:s	np		s		
-tondano	kiniar03	0078	##	##	##	##				
+tondano	kiniar03	0078	#	#	##	##				
 tondano	kiniar03	0078	kokong	head	np:p_u	np		p_u		
 tondano	kiniar03	0078	=na	=3SG.GEN	=pro:poss	=pro		poss		
 tondano	kiniar03	0078	santang	coconut.milk	rn	rn				
 tondano	kiniar03	0078	mèmang	truly	other	other				
 tondano	kiniar03	0079	pa-tapis-en	DYN-filter-PV	v:pred	v		pred		
 tondano	kiniar03	0079	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
-tondano	kiniar03	0080	##	##	##	##				
+tondano	kiniar03	0080	#	#	##	##				
 tondano	kiniar03	0080	ZERO	ZERO	0.h:s	0	h	s		
 tondano	kiniar03	0080	ma-èwè	EV.STAT-saliva	v:pred	v		pred		
 tondano	kiniar03	0080	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0080	##	##	##	##				
+tondano	kiniar03	0080	#	#	##	##				
 tondano	kiniar03	0080	ZERO	ZERO	0.h:a_a	0	h	a_a		
 tondano	kiniar03	0080	ma-loo'	AV.DYN-see	v:pred	v		pred		
 tondano	kiniar03	0080	=la	=DIR.PROX	=rv	=rv				
 tondano	kiniar03	0080	ZERO	ZERO	0:p_a	0		p_a		
 tondano	kiniar03	0080	ya	AFF	nc	nc				
 tondano	kiniar03	0080	ee	HES	nc	nc				
-tondano	kiniar03	0081	##	##	##	##				
+tondano	kiniar03	0081	#	#	##	##				
 tondano	kiniar03	0081	aa	HES	nc	nc				
 tondano	kiniar03	0081	pa-toa'-en	DYN-spill-PV	v:pred	v		pred		
 tondano	kiniar03	0081	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0081	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0081	=la	=DIR.PROX	=rv	=rv				
-tondano	kiniar03	0081	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0081	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0081	santang	coconut.milk	np:p_u	np		p_u		
-tondano	kiniar03	0081	##	##	##	##				
+tondano	kiniar03	0081	#	#	##	##				
 tondano	kiniar03	0081	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0081	i-pa-wèè	CV-DYN-give	v:pred	v		pred		
 tondano	kiniar03	0081	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0081	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0081	witu	PREP2	adp	adp				
-tondano	kiniar03	0082	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0082	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0082	cèrèt	water.container	np:g	np		g		
-tondano	kiniar03	0083	##	##	##	##				
+tondano	kiniar03	0083	#	#	##	##				
 tondano	kiniar03	0083	pa-pu'us-an	DYN-knead-LV	v:pred	v		pred		
 tondano	kiniar03	0083	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
-tondano	kiniar03	0083	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0083	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0083	santang	coconut.milk	np:p_u	np		p_u		
 tondano	kiniar03	0083	witu	PREP2	nc	nc				
 tondano	kiniar03	0083	N=	INAN=	nc	nc				
 tondano	kiniar03	0084	witu	PREP2	adp	adp				
 tondano	kiniar03	0084	loyang	plastic.container	np:g	np		g		
 tondano	kiniar03	0084	oki'	small	rn	rn				
-tondano	kiniar03	0085	##	##	##	##				
+tondano	kiniar03	0085	#	#	##	##				
 tondano	kiniar03	0085	pa-tapis-en	DYN-filter-PV	v:pred	v		pred		
 tondano	kiniar03	0085	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0085	santang	coconut.milk	np:p_u	np		p_u		
-tondano	kiniar03	0086	#ac	#ac	#ac	#ac				
+tondano	kiniar03	0086	#	#	#ac	#ac				
 tondano	kiniar03	0086	pèrèt	bat	np:dt_s	np		dt_s		
 tondano	kiniar03	0086	sa	if	other	other				
 tondano	kiniar03	0086	sia	3SG	pro:s	pro		s		
 tondano	kiniar03	0086	em	HES	nc	nc				
 tondano	kiniar03	0086	mèmang	truly	other	other				
 tondano	kiniar03	0086	ee	HES	nc	nc				
-tondano	kiniar03	0086	 tena'an	exact	other:pred	other		pred		
+tondano	kiniar03	0086	tena'an	exact	other:pred	other		pred		
 tondano	kiniar03	0086	ee	HES	nc	nc				
-tondano	kiniar03	0086	##	##	##	##				
+tondano	kiniar03	0086	#	#	##	##				
 tondano	kiniar03	0086	rampa	RDP	ln_np	ln_np				
 tondano	kiniar03	0086	rampa	ingredient	np:s	np		s		
 tondano	kiniar03	0086	mèmang	truly	other	other				
 tondano	kiniar03	0087	sedap	tasty	other:pred	other		pred		
-tondano	kiniar03	0087	##	##	##	##				
+tondano	kiniar03	0087	#	#	##	##				
 tondano	kiniar03	0087	sia	3SG	pro.h:a_a	pro	h	a_a		
 tondano	kiniar03	0087	meke	HES	nc	nc				
 tondano	kiniar03	0088	ma-Ce-kaan	AV.DYN-IRR-rice	v:pred	v		pred		
 tondano	kiniar03	0088	ZERO	ZERO	0:p_a	0		p_a		
-tondano	kiniar03	0089	##	##	##	##				
+tondano	kiniar03	0089	#	#	##	##				
 tondano	kiniar03	0089	si=	HES	nc	nc				
-tondano	kiniar03	0090	si=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0090	si=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0090	l<in>uga-an	<PST>boil-LV	v:pred	v		pred		
 tondano	kiniar03	0090	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0090	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0090	=la	=DIR.PROX	=rv	=rv				
-tondano	kiniar03	0090	si=	AN.SG=	ln=	ln=				
+tondano	kiniar03	0090	si=	AN.SG=	=ln	=ln				
 tondano	kiniar03	0090	pèrèt	bat	np:dt_p_u	np		dt_p_u		
-tondano	kiniar03	0091	##	##	##	##				
+tondano	kiniar03	0091	#	#	##	##				
 tondano	kiniar03	0091	eno	HES	nc	nc				
 tondano	kiniar03	0091	wana'	HES	nc	nc				
 tondano	kiniar03	0091	nèy	CV.PST	lv	lv				
 tondano	kiniar03	0091	=mow	=CMP	=other	=other				
 tondano	kiniar03	0091	ti'is	drain	v:pred	v		pred		
 tondano	kiniar03	0091	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	kiniar03	0091	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0091	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0091	rano	water	np:p_u	np		p_u		
-tondano	kiniar03	0092	##	##	##	##				
+tondano	kiniar03	0092	#	#	##	##				
 tondano	kiniar03	0092	rano	water	np:other	np		other		
 tondano	kiniar03	0092	ka-tarè	very-new	other	other				
 tondano	kiniar03	0092	l<in>uga-en	<PST>boil-PV	v:pred	v		pred		
 tondano	kiniar03	0092	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0092	nisia	3SG	pro:p_u	pro		p_u		
-tondano	kiniar03	0092	##	##	##	##				
+tondano	kiniar03	0092	#	#	##	##				
 tondano	kiniar03	0092	ka'a	because	other	other				
-tondano	kiniar03	0092	si=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0092	si=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0092	pa-Ce-rampa-en	DYN-IRR-ingredient-PV	v:pred	v		pred		
 tondano	kiniar03	0092	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0092	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0093	##	##	##	##				
+tondano	kiniar03	0093	#	#	##	##				
 tondano	kiniar03	0093	ee	HES	nc	nc				
 tondano	kiniar03	0093	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0093	pa-wèè-en	DYN-give-PV	v:pred	v		pred		
 tondano	kiniar03	0093	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0093	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0093	##	##	##	##				
+tondano	kiniar03	0093	#	#	##	##				
 tondano	kiniar03	0093	pa-wèè-en	DYN-give-PV	v:pred	v		pred		
 tondano	kiniar03	0093	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0093	lana	HES	nc	nc				
 tondano	kiniar03	0093	lana	oil	np:p_u	np		p_u		
 tondano	kiniar03	0093	weru	new	rn	rn				
-tondano	kiniar03	0094	##	##	##	##				
+tondano	kiniar03	0094	#	#	##	##				
 tondano	kiniar03	0094	pa-tumis-en	DYN-strifry-PV	v:pred	v		pred		
 tondano	kiniar03	0094	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0094	lana	oil	np:p_u	np		p_u		
 tondano	kiniar03	0094	weru	new	rn	rn				
-tondano	kiniar03	0095	##	##	##	##				
+tondano	kiniar03	0095	#	#	##	##				
 tondano	kiniar03	0095	pakè-en	use-PV	v:pred	v		pred		
 tondano	kiniar03	0095	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0095	lana	oil	np:p_u	np		p_u		
 tondano	kiniar03	0095	weru	new	rn	rn				
-tondano	kiniar03	0095	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	kiniar03	0095	#	#	#rc_rn	#rc_rn				
 tondano	kiniar03	0095	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0095	i-pa-tumis	CV-DYN-stirfry	v:pred	v		pred		
 tondano	kiniar03	0095	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0096	nng	HES	nc	nc				
-tondano	kiniar03	0097	##	##	##	##				
+tondano	kiniar03	0097	#	#	##	##				
 tondano	kiniar03	0097	lansuna	onion	np:s	np		s		
-tondano	kiniar03	0097	=pè' 	=INCMP	=other	=other				
+tondano	kiniar03	0097	=pè'	=INCMP	=other	=other				
 tondano	kiniar03	0097	Ce-rior	NR-fast	np:pred	np		pred		
 tondano	kiniar03	0097	lelè'os	spring.onion	np:dt_s	np		dt_s		
-tondano	kiniar03	0098	##	##	##	##				
+tondano	kiniar03	0098	#	#	##	##				
 tondano	kiniar03	0098	pa-tumis-en	DYN-stirfry-PV	v:pred	v		pred		
 tondano	kiniar03	0098	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0098	waya	HES	nc	nc				
-tondano	kiniar03	0098	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0098	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0098	waya	all	ln	ln				
 tondano	kiniar03	0098	rampa	RDP	ln_np	ln_np				
 tondano	kiniar03	0098	rampa	ingredient	np:p_u	np		p_u		
-tondano	kiniar03	0099	##	##	##	##				
-tondano	kiniar03	0099	wewèan 	EXIST	other:predex	other		predex		
+tondano	kiniar03	0099	#	#	##	##				
+tondano	kiniar03	0099	wewèan	EXIST	other:predex	other		predex		
 tondano	kiniar03	0099	podang	pandanus.leaf	np:s	np		s		
-tondano	kiniar03	0100	##	##	##	##				
+tondano	kiniar03	0100	#	#	##	##				
 tondano	kiniar03	0100	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0100	pa	HES	nc	nc				
 tondano	kiniar03	0100	pa-sedap-an	DYN-tasty-LV	v:pred	v		pred		
@@ -603,148 +603,148 @@ tondano	kiniar03	0100	ku'a	PART	nc	nc
 tondano	kiniar03	0101	o	PART	nc	nc				
 tondano	kiniar03	0101	wèta	PART	nc	nc				
 tondano	kiniar03	0101	ee	HES	nc	nc				
-tondano	kiniar03	0102	##	##	##	##				
+tondano	kiniar03	0102	#	#	##	##				
 tondano	kiniar03	0102	w<in>èè-an	<PST>give-LV	v:pred	v		pred		
 tondano	kiniar03	0102	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0102	podang	pandanus.leaf	np:p_u	np		p_u		
-tondano	kiniar03	0103	##	##	##	##				
+tondano	kiniar03	0103	#	#	##	##				
 tondano	kiniar03	0103	rampa	RDP	ln_np	ln_np				
 tondano	kiniar03	0103	rampa	ingredient	np:dt_p_u	np		dt_p_u		
 tondano	kiniar03	0103	jago	RDP	rn	rn				
 tondano	kiniar03	0103	jago	expert	rn	rn				
-tondano	kiniar03	0103	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0103	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0103	pa-wèè-en	DYN-give-PV	v:pred	v		pred		
 tondano	kiniar03	0103	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0103	=la	=DIR.PROX	=rv	=rv				
 tondano	kiniar03	0104	lia	ginger	nc	nc				
 tondano	kiniar03	0105	nc	HES	nc	nc				
 tondano	kiniar03	0105	nc	AFF	nc	nc				
-tondano	kiniar03	0106	##	##	##	##				
+tondano	kiniar03	0106	#	#	##	##				
 tondano	kiniar03	0106	ka-tumis-an	POT-stirfry-LV	v:pred	v		pred		
 tondano	kiniar03	0106	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0106	=la	=DIR.PROX	=rv	=rv				
 tondano	kiniar03	0106	itu	DEM2	pro:p_u	pro		p_u		
-tondano	kiniar03	0107	##	##	##	##				
+tondano	kiniar03	0107	#	#	##	##				
 tondano	kiniar03	0107	ZERO	ZERO	0.h:a_a	0	h	a_a		
-tondano	kiniar03	0107	<um>wèè 	<AV>give	v:pred	v		pred		
+tondano	kiniar03	0107	<um>wèè	<AV>give	v:pred	v		pred		
 tondano	kiniar03	0107	rampa	RDP	ln_np	ln_np				
 tondano	kiniar03	0107	rampa	ingredient	np:p_a	np		p_a		
-tondano	kiniar03	0108	##	##	##	##				
+tondano	kiniar03	0108	#	#	##	##				
 tondano	kiniar03	0108	i-wèè	CV-give	v:pred	v		pred		
 tondano	kiniar03	0108	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0108	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0108	=la	=DIR.PROX	=rv	=rv				
 tondano	kiniar03	0108	si=	AN.SG=	nc	nc				
 tondano	kiniar03	0108	anu	NON.SPEC	nc	nc				
-tondano	kiniar03	0109	si=	AN.SG=	ln=	ln=				
+tondano	kiniar03	0109	si=	AN.SG=	=ln	=ln				
 tondano	kiniar03	0109	pèrèt	bat	np:p_u	np		p_u		
-tondano	kiniar03	0109	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	kiniar03	0109	#	#	#rc_rn	#rc_rn				
 tondano	kiniar03	0109	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0109	l<in>uga-en	<PST>boil-PV	v:pred	v		pred		
 tondano	kiniar03	0109	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
-tondano	kiniar03	0110	##	##	##	##				
+tondano	kiniar03	0110	#	#	##	##				
 tondano	kiniar03	0110	pèrèt	bat	np:dt_p_u	np		dt_p_u		
 tondano	kiniar03	0110	iti'i	DEM2	rn	rn				
-tondano	kiniar03	0110	si=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	kiniar03	0110	si=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	kiniar03	0110	l<in>uga-en	<PST>boil-PV	v:pred	v		pred		
 tondano	kiniar03	0110	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0110	=la	=DIR.PROX	=rv	=rv				
 tondano	kiniar03	0110	ku'a	PART	nc	nc				
-tondano	kiniar03	0110	##	##	##	##				
-tondano	kiniar03	0110	si=	3SG.NOM=	pro:s=	pro		s=		
+tondano	kiniar03	0110	#	#	##	##				
+tondano	kiniar03	0110	si=	3SG.NOM=	=pro:s	=pro		s		
 tondano	kiniar03	0110	lutu'	ripe	other:pred	other		pred		
 tondano	kiniar03	0110	=mow	=CMP	=other	=other				
 tondano	kiniar03	0110	sia	3SG	pro:dt_s	pro		dt_s		
-tondano	kiniar03	0111	##	##	##	##				
+tondano	kiniar03	0111	#	#	##	##				
 tondano	kiniar03	0111	sia	3SG	pro:dt_s	pro		dt_s		
-tondano	kiniar03	0111	si=	3SG.NOM=	pro:s=	pro		s=		
+tondano	kiniar03	0111	si=	3SG.NOM=	=pro:s	=pro		s		
 tondano	kiniar03	0111	rampa	ingredient	other:pred	other		pred		
 tondano	kiniar03	0111	=mowkan	=definitely	=other	=other				
-tondano	kiniar03	0111	##	##	##	##				
+tondano	kiniar03	0111	#	#	##	##				
 tondano	kiniar03	0111	sia	3SG	pro:p_u	pro		p_u		
 tondano	kiniar03	0111	i-wèè	CV-give	v:pred	v		pred		
 tondano	kiniar03	0111	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0111	=la	=DIR.PROX	=rv	=rv				
-tondano	kiniar03	0112	##	##	##	##				
+tondano	kiniar03	0112	#	#	##	##				
 tondano	kiniar03	0112	wèè-en	give-PV	v:pred	v		pred		
 tondano	kiniar03	0112	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0112	=la	=DIR.PROX	=rv	=rv				
 tondano	kiniar03	0112	santang	coconut.milk	np:p_u	np		p_u		
-tondano	kiniar03	0113	##	##	##	##				
+tondano	kiniar03	0113	#	#	##	##				
 tondano	kiniar03	0113	pa	HES	nc	nc				
 tondano	kiniar03	0113	sa	HES	nc	nc				
 tondano	kiniar03	0113	pa-sempo'-en	DYN-dissolve-PV	v:pred	v		pred		
 tondano	kiniar03	0113	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	kiniar03	0113	=la	=DIR.PROX	=rv	=rv				
 tondano	kiniar03	0114	daong	leaf	np:p_u	np		p_u		
-tondano	kiniar03	0115	##	##	##	##				
+tondano	kiniar03	0115	#	#	##	##				
 tondano	kiniar03	0115	ZERO	ZERO	0.h:a_a	0	h	a_a		
 tondano	kiniar03	0115	ma-wèè	AV.DYN-give	v:pred	v		pred		
 tondano	kiniar03	0115	=la	=DIR.PROX	=rv	=rv				
 tondano	kiniar03	0115	santang	coconut.milk	np:p_a	np		p_a		
-tondano	kiniar03	0116	##	##	##	##				
+tondano	kiniar03	0116	#	#	##	##				
 tondano	kiniar03	0116	sedap	tasty	other:pred	other		pred		
 tondano	kiniar03	0116	=mowkan	=definitely	=other	=other				
 tondano	kiniar03	0116	ini	DEM1	pro:s	pro		s		
 tondano	kiniar03	0117	oo	PART	nc	nc				
 tondano	kiniar03	0117	wasè	PART	nc	nc				
-tondano	kiniar03	0118	##	##	##	##				
+tondano	kiniar03	0118	#	#	##	##				
 tondano	kiniar03	0118	aa	HES	nc	nc				
 tondano	kiniar03	0118	ZERO	ZERO	0:p_u	0		p_u		
-tondano	kiniar03	0118	 nèy	CV.PST	lv	lv				
+tondano	kiniar03	0118	nèy	CV.PST	lv	lv				
 tondano	kiniar03	0118	=mow	=CMP	=lv	=lv				
 tondano	kiniar03	0118	pa-akir	DYN-large.spoon	v:pred	v		pred		
 tondano	kiniar03	0118	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0118	=mow	=CMP	=rv	=rv				
-tondano	kiniar03	0119	##	##	##	##				
+tondano	kiniar03	0119	#	#	##	##				
 tondano	kiniar03	0119	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0119	i-pa-akir	CV-DYN-large.spoon	v:pred	v		pred		
 tondano	kiniar03	0119	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0119	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0119	=mi	=DIR.DIST	=rv	=rv				
-tondano	kiniar03	0120	##	##	##	##				
+tondano	kiniar03	0120	#	#	##	##				
 tondano	kiniar03	0120	ZERO	ZERO	0:p_u	0		p_u		
 tondano	kiniar03	0120	i-pa-wèè	CV-DYN-give	v:pred	v		pred		
 tondano	kiniar03	0120	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	kiniar03	0120	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0120	witu	PREP2	adp	adp				
-tondano	kiniar03	0120	N=	INAN=	ln=	ln=				
+tondano	kiniar03	0120	N=	INAN=	=ln	=ln				
 tondano	kiniar03	0120	piring	plate	np:g	np		g		
-tondano	kiniar03	0121	##	##	##	##				
+tondano	kiniar03	0121	#	#	##	##				
 tondano	kiniar03	0121	ee	HES	nc	nc				
-tondano	kiniar03	0121	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	kiniar03	0121	sè=	3PL.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	kiniar03	0121	k<um>aan	<AV>rice	v:pred	v		pred		
 tondano	kiniar03	0121	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0121	ZERO	ZERO	0:p_a	0		p_a		
-tondano	kiniar03	0122	##	##	##	##				
+tondano	kiniar03	0122	#	#	##	##				
 tondano	kiniar03	0122	Tim	PN	np.h:dt_a_a	np	h	dt_a_a		
 tondano	kiniar03	0122	wona'	perhaps	other	other				
-tondano	kiniar03	0122	si=	3SG.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	kiniar03	0122	si=	3SG.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	kiniar03	0122	k<um>aan	<AV>rice	v:pred	v		pred		
 tondano	kiniar03	0122	iti'i	DEM2	pro:p_a	pro		p_a		
-tondano	kiniar03	0123	##	##	##	##				
+tondano	kiniar03	0123	#	#	##	##				
 tondano	kiniar03	0123	Tim	PN	np.h:a_a	np	h	a_a		
 tondano	kiniar03	0123	ma-kaan	AV.DYN-rice	v:pred	v		pred		
 tondano	kiniar03	0123	=mow	=CMP	=rv	=rv				
 tondano	kiniar03	0123	ZERO	ZERO	0:p_a	0		p_a		
-tondano	kiniar03	0124	##	##	##	##				
+tondano	kiniar03	0124	#	#	##	##				
 tondano	kiniar03	0124	o	PART	nc	nc				
 tondano	kiniar03	0124	kala	PART	nc	nc				
 tondano	kiniar03	0124	ye'i	now	other	other				
-tondano	kiniar03	0124	si=	AN.SG=	ln=	ln=				
+tondano	kiniar03	0124	si=	AN.SG=	=ln	=ln				
 tondano	kiniar03	0124	tow	person	np.h:dt	np	h	dt		
-tondano	kiniar03	0124	Lolah	PN	rn_p	rn_p				
-tondano	kiniar03	0124	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	kiniar03	0124	Lolah	PN	rn_np	rn_np				
+tondano	kiniar03	0124	si=	3SG.NOM=	=pro.h:s	=pro	h	s		
 tondano	kiniar03	0124	wewèan	EXIST	other:predex	other		predex		
-tondano	kiniar03	0124	##	##	##	##				
+tondano	kiniar03	0124	#	#	##	##				
 tondano	kiniar03	0124	o	PART	nc	nc				
 tondano	kiniar03	0124	mama	PART	nc	nc				
 tondano	kiniar03	0124	o	PART	nc	nc				
 tondano	kiniar03	0124	tuang	PART	nc	nc				
-tondano	kiniar03	0124	sè=	3PL.NOM=	pro.h:s=	pro	h	s=		
+tondano	kiniar03	0124	sè=	3PL.NOM=	=pro.h:s	=pro	h	s		
 tondano	kiniar03	0124	tepes	kiss	v:pred	v		pred		
 tondano	kiniar03	0124	=mowkan	=definitely	=rv	=rv				
-tondano	kiniar03	0125	##	##	##	##				
+tondano	kiniar03	0125	#	#	##	##				
 tondano	kiniar03	0125	he	HES	nc	nc				
 tondano	kiniar03	0125	aa	HES	nc	nc				
 tondano	kiniar03	0125	tepes-en	kiss-PV	v:pred	v		pred		
@@ -754,26 +754,26 @@ tondano	kiniar03	0125	toto'	breast	nc	nc
 tondano	kiniar03	0125	ni=	AN.SG.GEN=	nc	nc				
 tondano	kiniar03	0125	pèrèt	bat	nc	nc				
 tondano	kiniar03	0126	toto'	breast	np:p_u	np		p_u		
-tondano	kiniar03	0126	ni=	AN.SG.GEN=	rn=	rn=				
+tondano	kiniar03	0126	ni=	AN.SG.GEN=	=rn	=rn				
 tondano	kiniar03	0126	pèrèt	bat	rn_np:poss	rn_np		poss		
 tondano	kiniar03	0127	Tim	PN	nc	nc				
 tondano	kiniar03	0127	hehehe	hehehe	nc	nc				
 tondano	kiniar03	0127	kala	PART	nc	nc				
-tondano	kiniar03	0128	##	##	##	##				
+tondano	kiniar03	0128	#	#	##	##				
 tondano	kiniar03	0128	toto'	breast	np:p_u	np		p_u		
-tondano	kiniar03	0128	ni=	AN.SG.GEN=	rn=	rn=				
-tondano	kiniar03	0128	pèrèt 	bat	rn_np:poss	rn_np		poss		
+tondano	kiniar03	0128	ni=	AN.SG.GEN=	=rn	=rn				
+tondano	kiniar03	0128	pèrèt	bat	rn_np:poss	rn_np		poss		
 tondano	kiniar03	0128	k<in>aan-en	<PST>rice-PV	v:pred	v		pred		
-tondano	kiniar03	0128	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	kiniar03	0128	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	kiniar03	0128	Tim	PN	np.h:a_u	np	h	a_u		
-tondano	kiniar03	0128	hehehe		nc	nc				
-tondano	kiniar03	0129	##	##	##	##				
+tondano	kiniar03	0128	hehehe	NC	nc	nc				
+tondano	kiniar03	0129	#	#	##	##				
 tondano	kiniar03	0129	t<in>epes-an	<PST>kiss-LV	v:pred	v		pred		
-tondano	kiniar03	0129	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	kiniar03	0129	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	kiniar03	0129	Tim	PN	np.h:a_u	np	h	a_u		
 tondano	kiniar03	0129	toto'	breast	np:p_u	np		p_u		
-tondano	kiniar03	0129	ni=	AN.SG.GEN=	rn=	rn=				
+tondano	kiniar03	0129	ni=	AN.SG.GEN=	=rn	=rn				
 tondano	kiniar03	0129	pèrèt	bat	rn_np:poss	rn_np		poss		
-tondano	kiniar03	0129	hehehe		nc	nc				
+tondano	kiniar03	0129	hehehe	NC	nc	nc				
 tondano	kiniar03	0130	hehehe	hehehe	nc	nc				
 tondano	kiniar03	0131	hehehe	hehehe	nc	nc				

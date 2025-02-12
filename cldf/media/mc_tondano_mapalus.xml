@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1606">
+<multicast version="1905">
     <corpus c_name="tondano">
-        <text t_name="mapalus" annotators="Tim Brickell " speaker="TN04">
-            <file f_name="mc_tondano_mapalus" audio="mc_tondano_mapalus.wav" updated="2016-06-21">
+        <text t_name="mapalus" annotators="Timothy Brickell " speaker="TN04">
+            <file f_name="mc_tondano_mapalus" audio="mc_tondano_mapalus.wav" updated="2019-05-07">
                 <unit uid="0001" start_time="5360" end_time="7620">
                     <utterance_id>tondano_mapalus_0001</utterance_id>
                     <utterance>waktu kumasi kureraapè</utterance>
                     <utterance_translation>When I was still, I was still a young girl.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -31,7 +31,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>reraa</gword>
@@ -51,14 +51,14 @@
                     <utterance_translation>I join in the collective working.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:a_a=</graid>
+                            <graid>=pro.1:a_a</graid>
                         </segment>
                         <segment>
                             <gword>ma-ki'it</gword>
@@ -78,14 +78,14 @@
                     <utterance_translation>We would go to cultivate (crops).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>&lt;um&gt;èa</gword>
@@ -102,7 +102,7 @@
                 <unit uid="0004" start_time="14590" end_time="16140">
                     <utterance_id>tondano_mapalus_0004</utterance_id>
                     <utterance>wo sapa</utterance>
-                    <utterance_translation>and what else</utterance_translation>
+                    <utterance_translation>And what else?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>wo</gword>
@@ -119,11 +119,11 @@
                 <unit uid="0005" start_time="16330" end_time="18670">
                     <utterance_id>tondano_mapalus_0005</utterance_id>
                     <utterance>ta'an sa marèngoumi sa hari sabtu</utterance>
-                    <utterance_translation>But if (we) would return home on Saturday</utterance_translation>
+                    <utterance_translation>But if (we) would return home on Saturday,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -176,11 +176,11 @@
                 <unit uid="0006" start_time="18730" end_time="21670">
                     <utterance_id>tondano_mapalus_0006</utterance_id>
                     <utterance>ee mèa wia empesta mèa lumangsa waki kolèt</utterance>
-                    <utterance_translation>(We) would go to a party. (We) would go to dance at Kolet.</utterance_translation>
+                    <utterance_translation>(we) would go to a party. (We) would go to dance at Kolet.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -206,7 +206,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pesta</gword>
@@ -214,8 +214,8 @@
                             <graid>np:g</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -247,8 +247,8 @@
                 </unit>
                 <unit uid="0007" start_time="24580" end_time="27420">
                     <utterance_id>tondano_mapalus_0007</utterance_id>
-                    <utterance>serta itu èi kasiang o sèa mèi,  se</utterance>
-                    <utterance_translation>Following this oh dear, and they came, the</utterance_translation>
+                    <utterance>serta itu èi kasiang o sèa mèi, se</utterance>
+                    <utterance_translation>Following this, oh dear, and they came, the</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>serta</gword>
@@ -271,8 +271,8 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -317,7 +317,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>brawijaya</gword>
@@ -332,12 +332,12 @@
                     <utterance_translation>That is the Permesta rebellion.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
-                            <gword>perangou </gword>
+                            <gword>perangou</gword>
                             <gloss>war</gloss>
                             <graid>ln</graid>
                         </segment>
@@ -361,7 +361,7 @@
                 <unit uid="0011" start_time="32694" end_time="33468">
                     <utterance_id>tondano_mapalus_0011</utterance_id>
                     <utterance>ya</utterance>
-                    <utterance_translation>Yes</utterance_translation>
+                    <utterance_translation>Yes.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ya</gword>
@@ -373,17 +373,17 @@
                 <unit uid="0012" start_time="34180" end_time="37570">
                     <utterance_id>tondano_mapalus_0012</utterance_id>
                     <utterance>sèminèamou wia ntalun baya sèka'ampitèi tuama</utterance>
-                    <utterance_translation>They went into the forest, all of our male friends (to escape the TNI).</utterance_translation>
+                    <utterance_translation>They went into the forest, all of our male friends [to escape the TNI].</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>&lt;im&gt;èa</gword>
@@ -403,7 +403,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>talun</gword>
@@ -418,7 +418,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>ka'ampit</gword>
@@ -443,8 +443,8 @@
                     <utterance_translation>(They) fled into the forest.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -470,7 +470,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>talun</gword>
@@ -482,11 +482,11 @@
                 <unit uid="0014" start_time="40570" end_time="42990">
                     <utterance_id>tondano_mapalus_0014</utterance_id>
                     <utterance>jadi, kèirèimou mete'u sumiwo sapa</utterance>
-                    <utterance_translation>So we no longer know (that) (we) would do what'sit.</utterance_translation>
+                    <utterance_translation>So we no longer know (that) (we) would do whatsit.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -497,7 +497,7 @@
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:a_a=</graid>
+                            <graid>=pro.1:a_a</graid>
                         </segment>
                         <segment>
                             <gword>rèy'</gword>
@@ -515,8 +515,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#cc:p_a</gword>
-                            <gloss>#cc:p_a</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc:p_a</graid>
                         </segment>
                         <segment>
@@ -539,11 +539,11 @@
                 <unit uid="0015" start_time="43240" end_time="44770">
                     <utterance_id>tondano_mapalus_0015</utterance_id>
                     <utterance>winèèan jam malam</utterance>
-                    <utterance_translation>(They) gave the night time hours (to us).</utterance_translation>
+                    <utterance_translation>(They) gave the nighttime hours (to us).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -571,11 +571,11 @@
                 <unit uid="0016" start_time="45770" end_time="49780">
                     <utterance_id>tondano_mapalus_0016</utterance_id>
                     <utterance>rèi toro makaesa jamou enem rèimou toro mekekaluar embalè</utterance>
-                    <utterance_translation>(We) could not go alone. After six o'clock (we) could no longer leave (from) the house. </utterance_translation>
+                    <utterance_translation>(We) could not go alone. After six o'clock (we) could no longer leave (from) the house.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -599,8 +599,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -646,7 +646,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>walè</gword>
@@ -661,8 +661,8 @@
                     <utterance_translation>(We) would go to the fields.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -671,7 +671,7 @@
                             <graid>0.1:s</graid>
                         </segment>
                         <segment>
-                            <gword>&lt;um&gt;èa </gword>
+                            <gword>&lt;um&gt;èa</gword>
                             <gloss>&lt;AV&gt;go</gloss>
                             <graid>v:pred</graid>
                         </segment>
@@ -690,17 +690,17 @@
                 <unit uid="0018" start_time="51910" end_time="54960">
                     <utterance_id>tondano_mapalus_0018</utterance_id>
                     <utterance>komusti wewèan kartu penduduk sa rèila korèi</utterance>
-                    <utterance_translation>You have to have an identity card. If (you) don't have it, you can't (go out). </utterance_translation>
+                    <utterance_translation>You have to have an identity card. If (you) don't have it, you can't (go out).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG=</gloss>
-                            <graid>pro.2.dt=</graid>
+                            <graid>=pro.2:dt</graid>
                         </segment>
                         <segment>
                             <gword>musti</gword>
@@ -723,12 +723,12 @@
                             <graid>rn_np.h</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
-                            <gword>sa </gword>
+                            <gword>sa</gword>
                             <gloss>if</gloss>
                             <graid>other</graid>
                         </segment>
@@ -748,8 +748,8 @@
                             <graid>0:s</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -767,12 +767,12 @@
                 <unit uid="0019" start_time="54999" end_time="56716">
                     <utterance_id>tondano_mapalus_0019</utterance_id>
                     <utterance>kotaanganèanou, taanganèa</utterance>
-                    <utterance_translation>They would hold you up (i.e. not let you leave). They would hold (you) up.</utterance_translation>
+                    <utterance_translation>They would hold you up [i.e. not let you leave]. They would hold (you) up.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:p_u=</graid>
+                            <graid>=pro.2:p_u</graid>
                         </segment>
                         <segment>
                             <gword>taang-an</gword>
@@ -790,8 +790,8 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -814,11 +814,11 @@
                 <unit uid="0020" start_time="56890" end_time="59710">
                     <utterance_id>tondano_mapalus_0020</utterance_id>
                     <utterance>baya emparampatan wewèan pos nèbrawijaya</utterance>
-                    <utterance_translation>All of the neighbourhood quaters had Brawijaya checkpoints.</utterance_translation>
+                    <utterance_translation>All of the neighbourhood quarters had Brawijaya checkpoints.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -829,7 +829,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>perempatan</gword>
@@ -849,7 +849,7 @@
                         <segment>
                             <gword>nè=</gword>
                             <gloss>AN.PL.GEN=</gloss>
-                            <graid>rn=</graid>
+                            <graid>=rn</graid>
                         </segment>
                         <segment>
                             <gword>Brawijaya</gword>
@@ -861,11 +861,11 @@
                 <unit uid="0021" start_time="60968" end_time="62968">
                     <utterance_id>tondano_mapalus_0021</utterance_id>
                     <utterance>ya pengalaman nitu, ya</utterance>
-                    <utterance_translation>Yes, that is the experience yes.</utterance_translation>
+                    <utterance_translation>Yes, that is the experience, yes.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -896,8 +896,8 @@
                     <utterance_translation>The Brawijaya regiment follows (us).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -913,7 +913,7 @@
                         <segment>
                             <gword>ni=</gword>
                             <gloss>AN.SG.GEN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Brawijaya</gword>
@@ -928,8 +928,8 @@
                     <utterance_translation>The new Lieutenant (followed me), but he had a wife.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -950,10 +950,10 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG=</gloss>
-                            <graid>pro.h:dt=</graid>
+                            <graid>=pro.h:dt</graid>
                         </segment>
                         <segment>
-                            <gword>wewèan </gword>
+                            <gword>wewèan</gword>
                             <gloss>EXIST</gloss>
                             <graid>other:predex</graid>
                         </segment>
@@ -966,12 +966,12 @@
                 </unit>
                 <unit uid="0024" start_time="68929" end_time="70080">
                     <utterance_id>tondano_mapalus_0024</utterance_id>
-                    <utterance>he he </utterance>
-                    <utterance_translation>...</utterance_translation>
+                    <utterance>he he</utterance>
+                    <utterance_translation>Hah...</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>he he</gword>
-                            <gloss>he he</gloss>
+                            <gloss>he.he</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -979,11 +979,11 @@
                 <unit uid="0025" start_time="72590" end_time="73980">
                     <utterance_id>tondano_mapalus_0025</utterance_id>
                     <utterance>adoèla kuso'o</utterance>
-                    <utterance_translation>Oh dear me I don't want (to be courted by him).</utterance_translation>
+                    <utterance_translation>Oh dear me, I don't want (to be courted by him).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -998,7 +998,7 @@
                         </segment>
                         <segment>
                             <gword>ku=</gword>
-                            <gloss>1SG.</gloss>
+                            <gloss>1SG.NOM=</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -1014,8 +1014,8 @@
                     <utterance_translation>Although sometimes a fisherman would take me out. I didn't want (him) to take me out (either).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1026,7 +1026,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>èdo-en</gword>
@@ -1044,14 +1044,14 @@
                             <graid>np.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>so'o</gword>
@@ -1077,12 +1077,12 @@
                 </unit>
                 <unit uid="0027" start_time="80360" end_time="82100">
                     <utterance_id>tondano_mapalus_0027</utterance_id>
-                    <utterance>ya keadaan memaksa </utterance>
-                    <utterance_translation>Yes (he) forced this situation (on me).</utterance_translation>
+                    <utterance>ya keadaan memaksa</utterance>
+                    <utterance_translation>Yes, (he) forced this situation (on me).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1110,11 +1110,11 @@
                 <unit uid="0028" start_time="82900" end_time="85720">
                     <utterance_id>tondano_mapalus_0028</utterance_id>
                     <utterance>daripada kusinusuyanèamou.</utterance>
-                    <utterance_translation>Rather than they having spoken to me (i.e. rather than asking me, they forced me to go out with them).</utterance_translation>
+                    <utterance_translation>Rather than them having spoken to me [i.e. rather than asking me, they forced me to go out with them].</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1125,7 +1125,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>s&lt;in&gt;usui-an</gword>
@@ -1150,8 +1150,8 @@
                     <utterance_translation>(We) would go to play bridge then, with what's their name.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1192,7 +1192,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>anu</gword>
@@ -1204,11 +1204,11 @@
                 <unit uid="0030" start_time="89760" end_time="91200">
                     <utterance_id>tondano_mapalus_0030</utterance_id>
                     <utterance>ee sisapa?</utterance>
-                    <utterance_translation>Erh who was it?</utterance_translation>
+                    <utterance_translation>Erh, who was it?</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1219,7 +1219,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>sapa</gword>
@@ -1231,11 +1231,11 @@
                 <unit uid="0031" start_time="92450" end_time="93910">
                     <utterance_id>tondano_mapalus_0031</utterance_id>
                     <utterance>sèloi mana</utterance>
-                    <utterance_translation>The__? in</utterance_translation>
+                    <utterance_translation>The (unclear)? in</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -1245,7 +1245,7 @@
                         </segment>
                         <segment>
                             <gword>loi</gword>
-                            <gloss>?</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -1279,20 +1279,20 @@
                 </unit>
                 <unit uid="0033" start_time="96720" end_time="99450">
                     <utterance_id>tondano_mapalus_0033</utterance_id>
-                    <utterance>Unintelligible - second person talking in the background</utterance>
-                    <utterance_translation>...</utterance_translation>
+                    <utterance>[unintelligible; second person talking in the background]</utterance>
+                    <utterance_translation>[UNINTELLIGIBLE]</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>NA</gword>
-                            <gloss>NA</gloss>
-                            <graid>NA</graid>
+                            <gword>NC</gword>
+                            <gloss>NC</gloss>
+                            <graid>nc</graid>
                         </segment>
                     </annotations>
                 </unit>
                 <unit uid="0034" start_time="99680" end_time="100760">
                     <utterance_id>tondano_mapalus_0034</utterance_id>
                     <utterance>dèi' ya</utterance>
-                    <utterance_translation>no, yes</utterance_translation>
+                    <utterance_translation>No, yes.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>rèy'</gword>
@@ -1312,8 +1312,8 @@
                     <utterance_translation>He</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1342,7 +1342,7 @@
                     <annotations>
                         <segment>
                             <gword>keruk</gword>
-                            <gloss>?</gloss>
+                            <gloss>NC</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -1359,13 +1359,13 @@
                 </unit>
                 <unit uid="0038" start_time="106863" end_time="109089">
                     <utterance_id>tondano_mapalus_0038</utterance_id>
-                    <utterance>Unintelligible - second person talking in the background</utterance>
-                    <utterance_translation>...</utterance_translation>
+                    <utterance>[unintelligible; second person talking in the background]</utterance>
+                    <utterance_translation>[UNINTELLIGIBLE]</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>NA</gword>
-                            <gloss>NA</gloss>
-                            <graid>NA</graid>
+                            <gword>NC</gword>
+                            <gloss>NC</gloss>
+                            <graid>nc</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1375,8 +1375,8 @@
                     <utterance_translation>And as for me, I have forgotten his name.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1419,11 +1419,11 @@
                 <unit uid="0040" start_time="114918" end_time="117254">
                     <utterance_id>tondano_mapalus_0040</utterance_id>
                     <utterance>pengiingiiten nibrawijaya</utterance>
-                    <utterance_translation>The Brawijaya regiment is following (me)</utterance_translation>
+                    <utterance_translation>The Brawijaya regiment is following (me).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1439,7 +1439,7 @@
                         <segment>
                             <gword>ni=</gword>
                             <gloss>AN.SG.GEN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Brawijaya</gword>
@@ -1451,11 +1451,11 @@
                 <unit uid="0041" start_time="117300" end_time="120350">
                     <utterance_id>tondano_mapalus_0041</utterance_id>
                     <utterance>mèa ma'ayang badminton sa kuano, siwo</utterance>
-                    <utterance_translation>(I) went to play badminton if (they) whats'it, would make me.</utterance_translation>
+                    <utterance_translation>(I) went to play badminton if (they) whatsit, would make me.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1479,8 +1479,8 @@
                             <graid>np:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1491,7 +1491,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>anu</gword>
@@ -1516,14 +1516,14 @@
                     <utterance_translation>He would go.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>&lt;um&gt;èa</gword>
@@ -1540,7 +1540,7 @@
                 <unit uid="0043" start_time="122250" end_time="123093">
                     <utterance_id>tondano_mapalus_0043</utterance_id>
                     <utterance>èpè</utterance>
-                    <utterance_translation/>
+                    <utterance_translation>Err...</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>sè=</gword>
@@ -1560,14 +1560,14 @@
                     <utterance_translation>As soon as he entered (my neighbourhood), he would see them (everyone).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>tèa</gword>
@@ -1585,14 +1585,14 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>other=</graid>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
                             <gword>waya</gword>
@@ -1602,7 +1602,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:p_u=</graid>
+                            <graid>=pro.h:p_u</graid>
                         </segment>
                         <segment>
                             <gword>loo'-en</gword>
@@ -1624,11 +1624,11 @@
                 <unit uid="0045" start_time="125272" end_time="126642">
                     <utterance_id>tondano_mapalus_0045</utterance_id>
                     <utterance>ada situ tapè nona</utterance>
-                    <utterance_translation> My young sister was there (Manado Malay code mixing).</utterance_translation>
+                    <utterance_translation>My young sister was there [Manado Malay code mixing].</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1656,11 +1656,11 @@
                 <unit uid="0046" start_time="126751" end_time="127523">
                     <utterance_id>tondano_mapalus_0046</utterance_id>
                     <utterance>he he</utterance>
-                    <utterance_translation>...</utterance_translation>
+                    <utterance_translation>Hah...</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>he he</gword>
-                            <gloss>he he</gloss>
+                            <gloss>he.he</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -1671,8 +1671,8 @@
                     <utterance_translation>Sometimes I want to hide.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1683,7 +1683,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-Ce-kirong</gword>
@@ -1698,14 +1698,14 @@
                     <utterance_translation>I want to hide.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-Ce-kirong</gword>
@@ -1717,7 +1717,7 @@
                 <unit uid="0049" start_time="132548" end_time="133416">
                     <utterance_id>tondano_mapalus_0049</utterance_id>
                     <utterance>so'o kaa si</utterance>
-                    <utterance_translation>(I) don't want (him) because he </utterance_translation>
+                    <utterance_translation>(I) don't want (him) because he</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>so'o</gword>
@@ -1725,8 +1725,8 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -1749,7 +1749,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>1SG=</gloss>
-                            <graid>pro.h:dt=</graid>
+                            <graid>=pro.h:dt</graid>
                         </segment>
                         <segment>
                             <gword>wewèan</gword>
@@ -1766,11 +1766,11 @@
                 <unit uid="0051" start_time="134720" end_time="135840">
                     <utterance_id>tondano_mapalus_0051</utterance_id>
                     <utterance>kuramou sia?</utterance>
-                    <utterance_translation>How about him (how could he court me when he already has a wife)?</utterance_translation>
+                    <utterance_translation>How about him [how could he court me when he already has a wife]?</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1796,8 +1796,8 @@
                     <utterance_translation>So dear me, (they) force this situation (on me) during that time.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1840,7 +1840,7 @@
                 <unit uid="0053" start_time="140590" end_time="141010">
                     <utterance_id>tondano_mapalus_0053</utterance_id>
                     <utterance>ya</utterance>
-                    <utterance_translation>Yes</utterance_translation>
+                    <utterance_translation>Yes.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ya</gword>
@@ -1855,8 +1855,8 @@
                     <utterance_translation>In a similar way I didn't want him. I hide (from him).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1872,7 +1872,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:a_a=</graid>
+                            <graid>=pro.1:a_a</graid>
                         </segment>
                         <segment>
                             <gword>so'o</gword>
@@ -1885,8 +1885,8 @@
                             <graid>pro.h:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1907,13 +1907,13 @@
                     <utterance_translation>In several weeks (I) went with my younger friend (to) the Taler people.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>m&lt;in&gt;a-wo'opira</gword>
-                            <gloss>EV.STAT.PST - several</gloss>
+                            <gloss>EV.STAT.PST-several</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -1927,7 +1927,7 @@
                             <graid>0.1:s</graid>
                         </segment>
                         <segment>
-                            <gword>&lt;im&gt;èa </gword>
+                            <gword>&lt;im&gt;èa</gword>
                             <gloss>&lt;AV.PST&gt;go</gloss>
                             <graid>v:pred</graid>
                         </segment>
@@ -1937,7 +1937,7 @@
                             <graid>ln</graid>
                         </segment>
                         <segment>
-                            <gword> kèkè</gword>
+                            <gword>kèkè</gword>
                             <gloss>maiden</gloss>
                             <graid>np.h:obl</graid>
                         </segment>
@@ -1949,7 +1949,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Taler</gword>
@@ -1964,8 +1964,8 @@
                     <utterance_translation>(We) went to hide in Kendis.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1974,7 +1974,7 @@
                             <graid>0.1:s</graid>
                         </segment>
                         <segment>
-                            <gword>&lt;im&gt;èa </gword>
+                            <gword>&lt;im&gt;èa</gword>
                             <gloss>&lt;AV.PST&gt;go</gloss>
                             <graid>lv</graid>
                         </segment>
@@ -2001,8 +2001,8 @@
                     <utterance_translation>When it was already five o'clock I would go to Kendis.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2028,7 +2028,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>&lt;um&gt;èa</gword>
@@ -2050,11 +2050,11 @@
                 <unit uid="0058" start_time="153600" end_time="155440">
                     <utterance_id>tondano_mapalus_0058</utterance_id>
                     <utterance>mèa waki sètantaku esa</utterance>
-                    <utterance_translation>(I) would go to my first aunts place.</utterance_translation>
+                    <utterance_translation>(I) would go to my first aunt's place.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2075,7 +2075,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tanta</gword>
@@ -2097,11 +2097,11 @@
                 <unit uid="0059" start_time="155510" end_time="159240">
                     <utterance_id>tondano_mapalus_0059</utterance_id>
                     <utterance>mèa matekel witula kuso'o matouanou sibrawijaya</utterance>
-                    <utterance_translation>(I) would go to stay there. I didn't want the Brawijaya regiment and I to meet.</utterance_translation>
+                    <utterance_translation>(I) would go to stay there. I didn't want the Brawijaya regiment and me to meet.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2130,14 +2130,14 @@
                             <graid>=other</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>so'o</gword>
@@ -2152,7 +2152,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Brawijaya</gword>
@@ -2167,8 +2167,8 @@
                     <utterance_translation>Because I had heard (that) there was someone who had spoken about me (to the Brawijaya regiment).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2192,8 +2192,8 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword>#cc:p_u</gword>
-                            <gloss>#cc:p_u</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc:p_u</graid>
                         </segment>
                         <segment>
@@ -2207,14 +2207,14 @@
                             <graid>=other</graid>
                         </segment>
                         <segment>
-                            <gword>#rc:s</gword>
-                            <gloss>#rc:s</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#rc:s</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.REL=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>s&lt;im&gt;usui</gword>
@@ -2236,11 +2236,11 @@
                 <unit uid="0061" start_time="165490" end_time="167460">
                     <utterance_id>tondano_mapalus_0061</utterance_id>
                     <utterance>sa kukè loo'na wia elalan</utterance>
-                    <utterance_translation>If he saw me, us on the road.</utterance_translation>
+                    <utterance_translation>If he saw me, us on the road,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -2256,7 +2256,7 @@
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>loo'-en</gword>
@@ -2276,7 +2276,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>lalan</gword>
@@ -2288,17 +2288,17 @@
                 <unit uid="0062" start_time="168827" end_time="171053">
                     <utterance_id>tondano_mapalus_0062</utterance_id>
                     <utterance>kualinamou o noto alina aki bitung</utterance>
-                    <utterance_translation>He would take me with a car, He would take (me) to Bitung.</utterance_translation>
+                    <utterance_translation>he would take me with a car, he would take (me) to Bitung.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>ali-en</gword>
@@ -2318,7 +2318,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>oto</gword>
@@ -2326,8 +2326,8 @@
                             <graid>np:obl</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2363,8 +2363,8 @@
                     <utterance_translation>And I hide!</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2375,7 +2375,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>makirong</gword>
@@ -2387,11 +2387,11 @@
                 <unit uid="0064" start_time="173380" end_time="176040">
                     <utterance_id>tondano_mapalus_0064</utterance_id>
                     <utterance>susur kasiang sorèmou mèamou kumirong</utterance>
-                    <utterance_translation>Dear me every afternoon I would go to hide.</utterance_translation>
+                    <utterance_translation>Dear me, every afternoon I would go to hide.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2438,12 +2438,12 @@
                 </unit>
                 <unit uid="0065" start_time="177550" end_time="180370">
                     <utterance_id>tondano_mapalus_0065</utterance_id>
-                    <utterance>èna  pengancangancamen mamaku o ipapaku</utterance>
+                    <utterance>èna pengancangancamen mamaku o ipapaku</utterance>
                     <utterance_translation>(He) is threatening my mother and my father.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2479,7 +2479,7 @@
                         <segment>
                             <gword>si=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>papa</gword>
@@ -2499,8 +2499,8 @@
                     <utterance_translation>(About) where I supposedly am.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2509,9 +2509,9 @@
                             <graid>other:pred</graid>
                         </segment>
                         <segment>
-                            <gword>=kè </gword>
-                            <gloss>EPIS</gloss>
-                            <graid>other</graid>
+                            <gword>=kè</gword>
+                            <gloss>=EPIS</gloss>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
                             <gword>aku</gword>
@@ -2523,11 +2523,11 @@
                 <unit uid="0067" start_time="182050" end_time="185000">
                     <utterance_id>tondano_mapalus_0067</utterance_id>
                     <utterance>laingkali lila' nipapaku minèa waki wènang</utterance>
-                    <utterance_translation>Sometimes my father would say (to him) "(she's) gone to Manado".</utterance_translation>
+                    <utterance_translation>Sometimes my father would say (to him), "(She's) gone to Manado".</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2548,7 +2548,7 @@
                         <segment>
                             <gword>ni=</gword>
                             <gloss>AN.SG.GEN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>papa</gword>
@@ -2561,8 +2561,8 @@
                             <graid>=pro.1:poss</graid>
                         </segment>
                         <segment>
-                            <gword># ds</gword>
-                            <gloss># ds</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ds</graid>
                         </segment>
                         <segment>
@@ -2571,7 +2571,7 @@
                             <graid>0.h:s</graid>
                         </segment>
                         <segment>
-                            <gword>&lt;im&gt;èa </gword>
+                            <gword>&lt;im&gt;èa</gword>
                             <gloss>&lt;AV.PST&gt;go</gloss>
                             <graid>v:pred</graid>
                         </segment>
@@ -2590,11 +2590,11 @@
                 <unit uid="0068" start_time="186490" end_time="190470">
                     <utterance_id>tondano_mapalus_0068</utterance_id>
                     <utterance>laingkali ila'nala èi sikimaluar rèi kete'uan wisa nya</utterance>
-                    <utterance_translation>Sometimes he would say (to them) "She's gone out, (they) don't know where (she is).</utterance_translation>
+                    <utterance_translation>Sometimes he would say (to them), "She's gone out, (they) don't know where (she is)."</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2623,14 +2623,14 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword># ds</gword>
-                            <gloss># ds</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ds</graid>
                         </segment>
                         <segment>
                             <gword>si=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>k&lt;im&gt;aluar</gword>
@@ -2638,9 +2638,9 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>## </gword>
-                            <gloss>## </gloss>
-                            <graid>## </graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -2648,7 +2648,7 @@
                             <graid>0.h:p_u</graid>
                         </segment>
                         <segment>
-                            <gword> rèy'</gword>
+                            <gword>rèy'</gword>
                             <gloss>don't</gloss>
                             <graid>neg</graid>
                         </segment>
@@ -2680,8 +2680,8 @@
                     <utterance_translation>Athough (they) knew (that) as for me, I was in Kendis.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2700,14 +2700,14 @@
                             <graid>=pro.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>#cc:p_u</gword>
-                            <gloss>#cc:p_u</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc:p_u</graid>
                         </segment>
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>waki</gword>
@@ -2727,8 +2727,8 @@
                     <utterance_translation>So,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2741,7 +2741,7 @@
                 <unit uid="0071" start_time="195240" end_time="197410">
                     <utterance_id>tondano_mapalus_0071</utterance_id>
                     <utterance>pengalaman kèimepepalus</utterance>
-                    <utterance_translation>(this) experience, we want to work together (to avoid the TNI).</utterance_translation>
+                    <utterance_translation>(this) experience, we want to work together [to avoid the TNI].</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>pengalaman</gword>
@@ -2749,9 +2749,9 @@
                             <graid>np:other</graid>
                         </segment>
                         <segment>
-                            <gword> kèy=</gword>
+                            <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-Ce-palus</gword>
@@ -2763,7 +2763,7 @@
                 <unit uid="0072" start_time="198250" end_time="199540">
                     <utterance_id>tondano_mapalus_0072</utterance_id>
                     <utterance>ya</utterance>
-                    <utterance_translation>yes</utterance_translation>
+                    <utterance_translation>Yes.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ya</gword>
@@ -2774,12 +2774,12 @@
                 </unit>
                 <unit uid="0073" start_time="200636" end_time="204240">
                     <utterance_id>tondano_mapalus_0073</utterance_id>
-                    <utterance>masuweng, kèimepepalus kèitiga pulu tuju  niaku kumasuweng</utterance>
+                    <utterance>masuweng, kèimepepalus kèitiga pulu tuju niaku kumasuweng</utterance>
                     <utterance_translation>(We) do community work. We will do collective work. There are 37 of us, as for me, I do community work.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2793,14 +2793,14 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-Ce-palus</gword>
@@ -2808,14 +2808,14 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>tiga</gword>
@@ -2833,8 +2833,8 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2845,7 +2845,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-suweng</gword>
@@ -2856,12 +2856,12 @@
                 </unit>
                 <unit uid="0074" start_time="205786" end_time="207952">
                     <utterance_id>tondano_mapalus_0074</utterance_id>
-                    <utterance>rèi maliur kèiwaki    </utterance>
-                    <utterance_translation>(I) won't forget (that) we were in </utterance_translation>
+                    <utterance>rèi maliur kèiwaki</utterance>
+                    <utterance_translation>(I) won't forget (that) we were in</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2880,14 +2880,14 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#cc:p_a</gword>
-                            <gloss>#cc:p_a</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc:p_a</graid>
                         </segment>
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>waki</gword>
@@ -2898,7 +2898,7 @@
                 </unit>
                 <unit uid="0075" start_time="208032" end_time="209518">
                     <utterance_id>tondano_mapalus_0075</utterance_id>
-                    <utterance>karokoaan waki </utterance>
+                    <utterance>karokoaan waki</utterance>
                     <utterance_translation>Karokoaan. (We) were at (the place of),</utterance_translation>
                     <annotations>
                         <segment>
@@ -2907,8 +2907,8 @@
                             <graid>np:pred_l</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2925,7 +2925,7 @@
                 </unit>
                 <unit uid="0076" start_time="209637" end_time="210518">
                     <utterance_id>tondano_mapalus_0076</utterance_id>
-                    <utterance> tou règèsan</utterance>
+                    <utterance>tou règèsan</utterance>
                     <utterance_translation>the Regesan people.</utterance_translation>
                     <annotations>
                         <segment>
@@ -2946,14 +2946,14 @@
                     <utterance_translation>Who would take our photo?</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>èdo-an</gword>
@@ -2968,7 +2968,7 @@
                         <segment>
                             <gword>ni=</gword>
                             <gloss>AN.SG.GEN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>sapa</gword>
@@ -2983,8 +2983,8 @@
                     <utterance_translation>There were truly those who were here at Petersong (church).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2993,13 +2993,13 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword>wewèan </gword>
+                            <gword>wewèan</gword>
                             <gloss>EXIST</gloss>
                             <graid>other:predex</graid>
                         </segment>
                         <segment>
-                            <gword>#rc:s</gword>
-                            <gloss>#rc:s</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#rc:s</graid>
                         </segment>
                         <segment>
@@ -3025,8 +3025,8 @@
                     <utterance_translation>(They) took us. (They) took photos but (they) are already lost.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3035,9 +3035,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword> kèy=</gword>
+                            <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>&lt;in&gt;ali-an</gword>
@@ -3050,8 +3050,8 @@
                             <graid>0.h:a_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3080,8 +3080,8 @@
                             <graid>np:p_u</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3113,12 +3113,12 @@
                 </unit>
                 <unit uid="0080" start_time="226090" end_time="227350">
                     <utterance_id>tondano_mapalus_0080</utterance_id>
-                    <utterance>pengalaman dulu </utterance>
+                    <utterance>pengalaman dulu</utterance>
                     <utterance_translation>(It) is the experience of earlier times.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3141,11 +3141,11 @@
                 <unit uid="0081" start_time="228600" end_time="234600">
                     <utterance_id>tondano_mapalus_0081</utterance_id>
                     <utterance>ta'an pertama kali kua sebelum permèsta kèimèmang minèa metanding ma melansa wia enkolèt</utterance>
-                    <utterance_translation>But in the first times before the Permesta rebellion we truly went to =COMPete. (We) dance at Kolet.</utterance_translation>
+                    <utterance_translation>But in the first times before the Permesta rebellion we truly went to compete. (We) dance at Kolet.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3179,9 +3179,9 @@
                             <graid>np:other</graid>
                         </segment>
                         <segment>
-                            <gword> kèy=</gword>
+                            <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>mèmang</gword>
@@ -3204,8 +3204,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3214,7 +3214,7 @@
                             <graid>0.1:s</graid>
                         </segment>
                         <segment>
-                            <gword>ma-</gword>
+                            <gword>ma--</gword>
                             <gloss>HES</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -3231,7 +3231,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>kolèt</gword>
@@ -3246,8 +3246,8 @@
                     <utterance_translation>So, yes,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3290,7 +3290,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pergaulan</gword>
@@ -3308,8 +3308,8 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3322,7 +3322,7 @@
                 <unit uid="0084" start_time="245070" end_time="247560">
                     <utterance_id>tondano_mapalus_0084</utterance_id>
                     <utterance>ta'an makèidè' engkaa minamuali</utterance>
-                    <utterance_translation>But (we) could be afraid because (we) were already together (the men and the women).</utterance_translation>
+                    <utterance_translation>But (we) could be afraid because (we) were already together [the men and the women].</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ta'an</gword>
@@ -3340,14 +3340,14 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>other=</graid>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
                             <gword>ka'a</gword>
@@ -3369,11 +3369,11 @@
                 <unit uid="0085" start_time="248070" end_time="251020">
                     <utterance_id>tondano_mapalus_0085</utterance_id>
                     <utterance>ya ya komatingkatingkasoukan ya</utterance>
-                    <utterance_translation>Yes yes you just run away, yes.</utterance_translation>
+                    <utterance_translation>Yes yes, you just run away, yes.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3389,7 +3389,7 @@
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:s=</graid>
+                            <graid>=pro.2:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-tingkas-tingkas</gword>
@@ -3411,11 +3411,11 @@
                 <unit uid="0086" start_time="251220" end_time="252820">
                     <utterance_id>tondano_mapalus_0086</utterance_id>
                     <utterance>ta'an ya so bagitu</utterance>
-                    <utterance_translation>But yes (it) is already thus (Manado Malay code mixing),</utterance_translation>
+                    <utterance_translation>But yes (it) is already thus [Manado Malay code mixing],</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3448,7 +3448,7 @@
                 <unit uid="0087" start_time="253390" end_time="254740">
                     <utterance_id>tondano_mapalus_0087</utterance_id>
                     <utterance>keadaan perang</utterance>
-                    <utterance_translation>the war situation</utterance_translation>
+                    <utterance_translation>the war situation.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>ka-ada-an</gword>
@@ -3468,8 +3468,8 @@
                     <utterance_translation>The experience when,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3492,10 +3492,10 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
-                            <gword>Brawijaya </gword>
+                            <gword>Brawijaya</gword>
                             <gloss>PN</gloss>
                             <graid>np:pred</graid>
                         </segment>
@@ -3512,8 +3512,8 @@
                     <utterance_translation>So,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3536,7 +3536,7 @@
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>&lt;im&gt;èa</gword>
@@ -3554,8 +3554,8 @@
                             <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3576,7 +3576,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>kartu</gword>
@@ -3596,8 +3596,8 @@
                     <utterance_translation>(I) search for the identity card, it's no longer here.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3626,8 +3626,8 @@
                             <graid>=rn_pro.1:poss</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
@@ -3638,7 +3638,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>other=</graid>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
                             <gword>rèy'</gword>
@@ -3663,8 +3663,8 @@
                     <utterance_translation>The army contained us at Sakenare.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3695,7 +3695,7 @@
                         <segment>
                             <gword>ni=</gword>
                             <gloss>AN.SG.GEN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tentara</gword>
@@ -3717,11 +3717,11 @@
                 <unit uid="0094" start_time="273180" end_time="276600">
                     <utterance_id>tondano_mapalus_0094</utterance_id>
                     <utterance>ta'an kakurula o èlo sa kupontarenèa waki ro'ong</utterance>
-                    <utterance_translation>But sometimes oh dear me, if they would waylay me in the countryside.</utterance_translation>
+                    <utterance_translation>But sometimes, oh dear me, if they would waylay me in the countryside.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3752,7 +3752,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>pontar-en</gword>
@@ -3779,11 +3779,11 @@
                 <unit uid="0095" start_time="277280" end_time="280510">
                     <utterance_id>tondano_mapalus_0095</utterance_id>
                     <utterance>kurèi'mou,kumengumurmou empenjara rèè</utterance>
-                    <utterance_translation>I no longer I age (in) jail then (they would put me in jail).</utterance_translation>
+                    <utterance_translation>I no longer, I age (in) jail then [they would put me in jail].</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3804,7 +3804,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>meN-umur</gword>
@@ -3819,7 +3819,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>penjara</gword>
@@ -3836,11 +3836,11 @@
                 <unit uid="0096" start_time="280829" end_time="282144">
                     <utterance_id>tondano_mapalus_0096</utterance_id>
                     <utterance>ya ku</utterance>
-                    <utterance_translation>Yes I.</utterance_translation>
+                    <utterance_translation>Yes, me.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -3858,17 +3858,17 @@
                 <unit uid="0097" start_time="283360" end_time="285960">
                     <utterance_id>tondano_mapalus_0097</utterance_id>
                     <utterance>kuwèèna kela engkartu penduduk</utterance>
-                    <utterance_translation>Oh dear then he would give me an identity card.</utterance_translation>
+                    <utterance_translation>Oh dear, then he would give me an identity card.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>wèè-en</gword>
@@ -3893,7 +3893,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>kartu</gword>
@@ -3909,18 +3909,18 @@
                 </unit>
                 <unit uid="0098" start_time="286520" end_time="288640">
                     <utterance_id>tondano_mapalus_0098</utterance_id>
-                    <utterance>kèimarèngi  o kela</utterance>
-                    <utterance_translation>We would return home, oh gosh.</utterance_translation>
+                    <utterance>kèimarèngi o kela</utterance>
+                    <utterance_translation>We would return home, oh goodness.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>&lt;um&gt;warèng</gword>
@@ -3950,8 +3950,8 @@
                     <utterance_translation>From that point on I don't want to go to the fields.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3960,7 +3960,7 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword>=mèè </gword>
+                            <gword>=mèè</gword>
                             <gloss>=DIR.MED</gloss>
                             <graid>=other</graid>
                         </segment>
@@ -3972,7 +3972,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>so'o</gword>
@@ -4004,11 +4004,11 @@
                 <unit uid="0100" start_time="292989" end_time="295304">
                     <utterance_id>tondano_mapalus_0100</utterance_id>
                     <utterance>taan pengalaman tèmpo anu</utterance>
-                    <utterance_translation>But the experience of that time, what'sit,</utterance_translation>
+                    <utterance_translation>But the experience of that time, whatsit,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4022,7 +4022,7 @@
                             <graid>np:s</graid>
                         </segment>
                         <segment>
-                            <gword>tèmpo </gword>
+                            <gword>tèmpo</gword>
                             <gloss>time</gloss>
                             <graid>rn_np</graid>
                         </segment>
@@ -4051,8 +4051,8 @@
                     <utterance_translation>Hey, there are 37 of us.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4063,7 +4063,7 @@
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>tiga</gword>
@@ -4088,8 +4088,8 @@
                     <utterance_translation>I do community work for them.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4100,7 +4100,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-suweng</gword>
@@ -4113,7 +4113,7 @@
                             <graid>adp</graid>
                         </segment>
                         <segment>
-                            <gword> nisèa</gword>
+                            <gword>nisèa</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:obl</graid>
                         </segment>
@@ -4121,12 +4121,12 @@
                 </unit>
                 <unit uid="0104" start_time="302974" end_time="304961">
                     <utterance_id>tondano_mapalus_0104</utterance_id>
-                    <utterance>ta'an wèta kulinèbèan jam </utterance>
+                    <utterance>ta'an wèta kulinèbèan jam</utterance>
                     <utterance_translation>But they added me (my work) hours.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4142,7 +4142,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>l&lt;in&gt;èbè-an</gword>
@@ -4167,8 +4167,8 @@
                     <utterance_translation>But they added me (my work) hours because I do community work.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4179,7 +4179,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:p_u=</graid>
+                            <graid>=pro.1:p_u</graid>
                         </segment>
                         <segment>
                             <gword>l&lt;in&gt;èbè-an</gword>
@@ -4197,8 +4197,8 @@
                             <graid>np:other</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -4209,7 +4209,7 @@
                         <segment>
                             <gword>ku=</gword>
                             <gloss>1SG.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-suweng</gword>
@@ -4224,8 +4224,8 @@
                     <utterance_translation>That is the total experience.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4241,7 +4241,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pengalaman</gword>
@@ -4261,8 +4261,8 @@
                     <utterance_translation>(We) help the elders.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4278,7 +4278,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.PL=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>tu'a</gword>
@@ -4293,8 +4293,8 @@
                     <utterance_translation>Then (we) all work together.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4308,7 +4308,7 @@
                             <graid>0.1:s</graid>
                         </segment>
                         <segment>
-                            <gword>ma-palus </gword>
+                            <gword>ma-palus</gword>
                             <gloss>AV.DYN-work.together</gloss>
                             <graid>v:pred</graid>
                         </segment>
@@ -4318,7 +4318,7 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>ma-</gword>
+                            <gword>ma--</gword>
                             <gloss>HES</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -4330,8 +4330,8 @@
                     <utterance_translation>We work in the fields. So,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4352,7 +4352,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uma</gword>
@@ -4360,8 +4360,8 @@
                             <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4401,11 +4401,11 @@
                 <unit uid="0111" start_time="322640" end_time="325080">
                     <utterance_id>tondano_mapalus_0111</utterance_id>
                     <utterance>ya kiok idè sa komawingkung</utterance>
-                    <utterance_translation>Yes , unfortunately, if you hoe the ground, </utterance_translation>
+                    <utterance_translation>Yes , unfortunately, if you hoe the ground,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -4420,7 +4420,7 @@
                         </segment>
                         <segment>
                             <gword>idè</gword>
-                            <gloss>?</gloss>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -4431,7 +4431,7 @@
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:s=</graid>
+                            <graid>=pro.2:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-wingkung</gword>
@@ -4446,14 +4446,14 @@
                     <utterance_translation>You would see a ripe pineapple.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:a_a=</graid>
+                            <graid>=pro.2:a_a</graid>
                         </segment>
                         <segment>
                             <gword>l&lt;um&gt;oo'</gword>
@@ -4468,7 +4468,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>wusa</gword>
@@ -4489,8 +4489,8 @@
                 </unit>
                 <unit uid="0113" start_time="327297" end_time="332220">
                     <utterance_id>tondano_mapalus_0113</utterance_id>
-                    <utterance>lutu tatèa batumbang bangkengoula enguntengena mewingkung kaanenou kua haha  </utterance>
-                    <utterance_translation>We just brought it down (from the tree). (They) split  it with a sharp object. (They) dig the ground (with it), (then) (we) would eat (the pinapple), right ha ha.</utterance_translation>
+                    <utterance>lutu tatèa batumbang bangkengoula enguntengena mewingkung kaanenou kua haha</utterance>
+                    <utterance_translation>We just brought it down (from the tree). (They) split it with a sharp object. (They) dig the ground (with it), (then) (we) would eat (the pinapple), right, ha ha.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>lutu'</gword>
@@ -4498,14 +4498,14 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ta=</gword>
                             <gloss>1PL.IN.NOM=</gloss>
-                            <graid>pro.1:a_a=</graid>
+                            <graid>=pro.1:a_a</graid>
                         </segment>
                         <segment>
                             <gword>tarè</gword>
@@ -4523,8 +4523,8 @@
                             <graid>0:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4560,7 +4560,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>gunteng</gword>
@@ -4573,8 +4573,8 @@
                             <graid>=pro:poss</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4593,8 +4593,8 @@
                             <graid>0:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4624,7 +4624,7 @@
                         </segment>
                         <segment>
                             <gword>ha ha</gword>
-                            <gloss>ha ha</gloss>
+                            <gloss>ha.ha</gloss>
                             <graid>nc</graid>
                         </segment>
                     </annotations>
@@ -4632,7 +4632,7 @@
                 <unit uid="0114" start_time="332488" end_time="333701">
                     <utterance_id>tondano_mapalus_0114</utterance_id>
                     <utterance>e he</utterance>
-                    <utterance_translation>...</utterance_translation>
+                    <utterance_translation>Heh.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>e</gword>
@@ -4649,11 +4649,11 @@
                 <unit uid="0115" start_time="333810" end_time="335610">
                     <utterance_id>tondano_mapalus_0115</utterance_id>
                     <utterance>ya komareèomou ya</utterance>
-                    <utterance_translation>Yes you are thirsty yes.</utterance_translation>
+                    <utterance_translation>Yes, you are thirsty, yes.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4664,7 +4664,7 @@
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:s=</graid>
+                            <graid>=pro.2:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-rèo</gword>
@@ -4689,8 +4689,8 @@
                     <utterance_translation>Hey sometimes you are hoeing the ground (and) you would see a pineapple.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4706,7 +4706,7 @@
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:s=</graid>
+                            <graid>=pro.1:s</graid>
                         </segment>
                         <segment>
                             <gword>meN-wingkung-wingkung</gword>
@@ -4714,14 +4714,14 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:a_a=</graid>
+                            <graid>=pro.2:a_a</graid>
                         </segment>
                         <segment>
                             <gword>l&lt;um&gt;oo'</gword>
@@ -4736,7 +4736,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>wusa</gword>
@@ -4751,8 +4751,8 @@
                     <utterance_translation>It's definitely yellow (ripe). (You) pick (it) up. (You) drop (it) on a rock. (You) crush all (of it).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4771,8 +4771,8 @@
                             <graid>=other</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4801,8 +4801,8 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4833,7 +4833,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>batu</gword>
@@ -4841,8 +4841,8 @@
                             <graid>np:g</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4875,11 +4875,11 @@
                 <unit uid="0118" start_time="345790" end_time="348420">
                     <utterance_id>tondano_mapalus_0118</utterance_id>
                     <utterance>itu mineparuamou engkosenou</utterance>
-                    <utterance_translation>That (pineapple) was in half. (then) it's gone (eaten).</utterance_translation>
+                    <utterance_translation>That (pineapple) was in half. (Then) it's gone (eaten).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4898,14 +4898,14 @@
                             <graid>=rv</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>N=</gword>
                             <gloss>3SG.NOM=</gloss>
-                            <graid>pro:s=</graid>
+                            <graid>=pro:s</graid>
                         </segment>
                         <segment>
                             <gword>kosong</gword>
@@ -4925,8 +4925,8 @@
                     <utterance_translation>Yes this is the experience, if (you) are in the field, yes.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4937,7 +4937,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pengalaman</gword>
@@ -4950,12 +4950,12 @@
                             <graid>pro:s</graid>
                         </segment>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
-                            <gword>sa </gword>
+                            <gword>sa</gword>
                             <gloss>if</gloss>
                             <graid>other</graid>
                         </segment>
@@ -4972,7 +4972,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uma</gword>
@@ -4989,17 +4989,17 @@
                 <unit uid="0120" start_time="352848" end_time="354316">
                     <utterance_id>tondano_mapalus_0120</utterance_id>
                     <utterance>koma'ana maèdo paai'</utterance>
-                    <utterance_translation>You stop to take a knife (to cut the pineapple).</utterance_translation>
+                    <utterance_translation>You stop to take a knife [to cut the pineapple].</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:a_a=</graid>
+                            <graid>=pro.2:a_a</graid>
                         </segment>
                         <segment>
                             <gword>ma-ana'</gword>
@@ -5007,7 +5007,7 @@
                             <graid>lv</graid>
                         </segment>
                         <segment>
-                            <gword>ma-èdo </gword>
+                            <gword>ma-èdo</gword>
                             <gloss>AV.DYN-take</gloss>
                             <graid>v:pred</graid>
                         </segment>
@@ -5024,8 +5024,8 @@
                     <utterance_translation>And (you) stop in the ditch. (You) wash that (pineapple).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5059,8 +5059,8 @@
                             <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5086,8 +5086,8 @@
                     <utterance_translation>You have not crushed that (pineapple).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
@@ -5133,8 +5133,8 @@
                     <utterance_translation>Then (you) would eat (it).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5170,8 +5170,8 @@
                     <utterance_translation>(Better) than you being thirsty.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5182,7 +5182,7 @@
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:s=</graid>
+                            <graid>=pro.2:s</graid>
                         </segment>
                         <segment>
                             <gword>ma-rèo'</gword>
@@ -5202,8 +5202,8 @@
                     <utterance_translation>So yes,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5220,12 +5220,12 @@
                 </unit>
                 <unit uid="0126" start_time="367952" end_time="369829">
                     <utterance_id>tondano_mapalus_0126</utterance_id>
-                    <utterance>itu kouman pengalaman ta'an ya </utterance>
+                    <utterance>itu kouman pengalaman ta'an ya</utterance>
                     <utterance_translation>that on the other hand is the experience (of Permesta). But yes,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5244,8 +5244,8 @@
                             <graid>np:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5263,12 +5263,12 @@
                 <unit uid="0127" start_time="369829" end_time="372089">
                     <utterance_id>tondano_mapalus_0127</utterance_id>
                     <utterance>kèiminepa'ayang numa kua tolaan nianu</utterance>
-                    <utterance_translation>we had worked the fields then, the what'sit</utterance_translation>
+                    <utterance_translation>we had worked the fields then, the whatsit</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>kèy=</gword>
                             <gloss>1PL.EX.NOM=</gloss>
-                            <graid>pro.1:a_a=</graid>
+                            <graid>=pro.1:a_a</graid>
                         </segment>
                         <segment>
                             <gword>m&lt;in&gt;a-pa'ayang</gword>
@@ -5278,7 +5278,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uma</gword>
@@ -5291,8 +5291,8 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword> tola-an</gword>
-                            <gloss>?</gloss>
+                            <gword>tola-an</gword>
+                            <gloss>NC</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -5315,7 +5315,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uma</gword>
@@ -5330,8 +5330,8 @@
                     <utterance_translation>(You) would go to hoe the ground. And/then (you) grow (crops).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5357,7 +5357,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uma</gword>
@@ -5365,8 +5365,8 @@
                             <graid>np:l</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5397,8 +5397,8 @@
                     <utterance_translation>Like this in the wet rice fields I would do community work.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5434,8 +5434,8 @@
                     <utterance_translation>So yes,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5463,7 +5463,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>pengalaman</gword>
@@ -5478,7 +5478,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>uma</gword>
@@ -5489,12 +5489,12 @@
                 </unit>
                 <unit uid="0133" start_time="388880" end_time="390940">
                     <utterance_id>tondano_mapalus_0133</utterance_id>
-                    <utterance>sa marèngomi ndèi'mou </utterance>
+                    <utterance>sa marèngomi ndèi'mou</utterance>
                     <utterance_translation>When (you) would return home (then) it's done.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -5525,7 +5525,7 @@
                         <segment>
                             <gword>N=</gword>
                             <gloss>INAN=</gloss>
-                            <graid>other=</graid>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
                             <gword>rèy'</gword>
@@ -5545,8 +5545,8 @@
                     <utterance_translation>(You) eat (some food) (and) (you) hide.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5575,8 +5575,8 @@
                             <graid>0:p_a</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5599,11 +5599,11 @@
                 <unit uid="0135" start_time="395470" end_time="398790">
                     <utterance_id>tondano_mapalus_0135</utterance_id>
                     <utterance>sa korèi kumirong èi mèi sèbrawijaya</utterance>
-                    <utterance_translation>If you don't hide, hey the Brawijaya regiment will come.</utterance_translation>
+                    <utterance_translation>If you don't hide, hey, the Brawijaya regiment will come.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac.neg</graid>
                         </segment>
                         <segment>
@@ -5614,7 +5614,7 @@
                         <segment>
                             <gword>ko=</gword>
                             <gloss>2SG.NOM=</gloss>
-                            <graid>pro.2:s=</graid>
+                            <graid>=pro.2:s</graid>
                         </segment>
                         <segment>
                             <gword>rèy'</gword>
@@ -5627,8 +5627,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5644,7 +5644,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>AN.SG=</gloss>
-                            <graid>ln=</graid>
+                            <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>Brawijaya</gword>
@@ -5659,8 +5659,8 @@
                     <utterance_translation>The experience (of) the time when,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>##</gword>
-                            <gloss>##</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5669,7 +5669,7 @@
                             <graid>np:s</graid>
                         </segment>
                         <segment>
-                            <gword> tèmpo</gword>
+                            <gword>tèmpo</gword>
                             <gloss>time</gloss>
                             <graid>np:pred</graid>
                         </segment>
@@ -5681,8 +5681,8 @@
                     <utterance_translation>the Brawijaya regiment stayed here.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#rc_rn</gword>
-                            <gloss>#rc_rn</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#rc_rn</graid>
                         </segment>
                         <segment>
@@ -5693,7 +5693,7 @@
                         <segment>
                             <gword>sè=</gword>
                             <gloss>3PL.NOM=</gloss>
-                            <graid>pro.h:s=</graid>
+                            <graid>=pro.h:s</graid>
                         </segment>
                         <segment>
                             <gword>&lt;im&gt;ana'</gword>

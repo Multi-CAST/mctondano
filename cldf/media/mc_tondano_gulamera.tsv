@@ -1,93 +1,93 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
-tondano	gulamera	0001	##	##	##	##				
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tondano	gulamera	0001	#	#	##	##				
 tondano	gulamera	0001	ka-tarè-tarè	very-RDP-new	other	other				
-tondano	gulamera	0001	si=	3SG.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	gulamera	0001	si=	3SG.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	gulamera	0001	<um>èdo	<AV>take	v:pred	v		pred		
 tondano	gulamera	0001	tabelang	hard.bamboo	np:p_a	np		p_a		
-tondano	gulamera	0002	##	##	##	##				
+tondano	gulamera	0002	#	#	##	##				
 tondano	gulamera	0002	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
 tondano	gulamera	0002	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	gulamera	0002	N=	INAN=	ln=	ln=				
+tondano	gulamera	0002	N=	INAN=	=ln	=ln				
 tondano	gulamera	0002	tangga	ladder	np:p_u	np		p_u		
-tondano	gulamera	0003	##	##	##	##				
+tondano	gulamera	0003	#	#	##	##				
 tondano	gulamera	0003	pa-siwo-en	DYN-do-PV	v:pred	v		pred		
 tondano	gulamera	0003	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0003	=la	=DIR.PROX	=rv	=rv				
-tondano	gulamera	0003	N=	INAN=	ln=	ln=				
+tondano	gulamera	0003	N=	INAN=	=ln	=ln				
 tondano	gulamera	0003	tangga	ladder	np:p_u	np		p_u		
-tondano	gulamera	0003	##	##	##	##				
+tondano	gulamera	0003	#	#	##	##				
 tondano	gulamera	0003	tu	then	other	other				
 tondano	gulamera	0003	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0003	i-rèdèi	CV-stand.up	v:pred	v		pred		
 tondano	gulamera	0003	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0003	=mèè	=DIR.MED	=rv	=rv				
 tondano	gulamera	0003	witu	PREP2	adp	adp				
-tondano	gulamera	0004	N=	INAN=	ln=	ln=				
+tondano	gulamera	0004	N=	INAN=	=ln	=ln				
 tondano	gulamera	0005	tabelang	hard.bamboo	np:l	np		l		
 tondano	gulamera	0005	esa	one	rn	rn				
-tondano	gulamera	0006	##	##	##	##				
+tondano	gulamera	0006	#	#	##	##				
 tondano	gulamera	0006	tu	then	other	other				
 tondano	gulamera	0006	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0006	i-wa'akes	CV-tie.with.string	v:pred	v		pred		
 tondano	gulamera	0006	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0006	=la	=DIR.PROX	=rv	=rv				
-tondano	gulamera	0007	##	##	##	##				
-tondano	gulamera	0007	si=	3SG.NOM=	pro.h:p_u=	pro	h	p_u=		
+tondano	gulamera	0007	#	#	##	##				
+tondano	gulamera	0007	si=	3SG.NOM=	=pro.h:p_u	=pro	h	p_u		
 tondano	gulamera	0007	pa-turu'-en	DYN-indicate-PV	v:pred	v		pred		
 tondano	gulamera	0007	=pè'	=INCMP	=rv	=rv				
-tondano	gulamera	0007	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	gulamera	0007	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	gulamera	0007	tuama	man	np.h:a_u	np	h	a_u		
 tondano	gulamera	0007	esa	one	rn	rn				
-tondano	gulamera	0008	#ac	#ac	#ac	#ac				
+tondano	gulamera	0008	#	#	#ac	#ac				
 tondano	gulamera	0008	ka'a	because	other	other				
-tondano	gulamera	0008	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	gulamera	0008	si=	3SG.NOM=	=pro.h:s	=pro	h	s		
 tondano	gulamera	0008	ma-Ce-longkot	AV.DYN-IRR-climb.up	v:pred	v		pred		
 tondano	gulamera	0008	witu	PREP2	adp	adp				
-tondano	gulamera	0008	N=	INAN=	ln=	ln=				
+tondano	gulamera	0008	N=	INAN=	=ln	=ln				
 tondano	gulamera	0008	tabelang	hard.bamboo	np:g	np		g		
-tondano	gulamera	0009	i-ka-ayo	CV.POT-arrive (until)	adp	adp				
+tondano	gulamera	0009	i-ka-ayo	CV.POT-arrive(until)	adp	adp				
 tondano	gulamera	0009	=mèè	=DIR.DIST	=lv	=lv				
 tondano	gulamera	0009	witu	PREP2	lv	lv				
-tondano	gulamera	0010	N=	INAN=	ln=	ln=				
+tondano	gulamera	0010	N=	INAN=	=ln	=ln				
 tondano	gulamera	0010	towana	roof	np:g	np		g		
-tondano	gulamera	0010	##	##	##	##				
-tondano	gulamera	0010	N=	INAN=	ln=	ln=				
+tondano	gulamera	0010	#	#	##	##				
+tondano	gulamera	0010	N=	INAN=	=ln	=ln				
 tondano	gulamera	0010	wewèan	EXIST	other:predex	other		predex		
-tondano	gulamera	0011	N=	INAN=	ln=	ln=				
+tondano	gulamera	0011	N=	INAN=	=ln	=ln				
 tondano	gulamera	0011	pa-èdo-an	NR-take-LV	np:s	np		s		
 tondano	gulamera	0012	ee	HES	nc	nc				
 tondano	gulamera	0012	timpa'	palm.sugar.sap	rn_np	rn_np				
-tondano	gulamera	0013	##	##	##	##				
+tondano	gulamera	0013	#	#	##	##				
 tondano	gulamera	0013	i-ka-ayo	CV.POT-arrive	other	other				
 tondano	gulamera	0013	=mèè	=DIR.DIST	=other	=other				
 tondano	gulamera	0013	waki	PREP3	adp	adp				
 tondano	gulamera	0013	ujung	tip	np:pred_l	np		pred_l		
 tondano	gulamera	0013	sia	3SG.	pro.h:s	pro	h	s		
-tondano	gulamera	0014	##	##	##	##				
+tondano	gulamera	0014	#	#	##	##				
 tondano	gulamera	0014	wo	and	other	other				
 tondano	gulamera	0014	tu	then	other	other				
-tondano	gulamera	0015	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
-tondano	gulamera	0015	<im> ana'	AV.PST-stay	v:pred	v		pred		
+tondano	gulamera	0015	si=	3SG.NOM=	=pro.h:s	=pro	h	s		
+tondano	gulamera	0015	<im>ana'	AV.PST-stay	v:pred	v		pred		
 tondano	gulamera	0015	=pè'	=INCMP	=rv	=rv				
 tondano	gulamera	0015	=la	=DIR.PROX	=rv	=rv				
-tondano	gulamera	0016	##	##	##	##				
-tondano	gulamera	0016	si=	3SG.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	gulamera	0016	#	#	##	##				
+tondano	gulamera	0016	si=	3SG.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	gulamera	0016	ma-èdo	AV.DYN-take	v:pred	v		pred		
 tondano	gulamera	0016	=pè'	=INCMP	=rv	=rv				
 tondano	gulamera	0016	ZERO	ZERO	0:p_a	0		p_a		
 tondano	gulamera	0016	ee	HES	nc	nc				
 tondano	gulamera	0016	keter-an	power	rv	rv				
-tondano	gulamera	0017	#ac	#ac	#ac	#ac				
+tondano	gulamera	0017	#	#	#ac	#ac				
 tondano	gulamera	0017	ka'a	because	other	other				
-tondano	gulamera	0017	si=	3SG.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	gulamera	0017	si=	3SG.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	gulamera	0017	me-Ce-wè'wèl	AV.DYN-IRR-tap	v:pred	v		pred		
 tondano	gulamera	0017	ZERO	ZERO	0:p_a	0		p_a		
-tondano	gulamera	0018	##	##	##	##				
+tondano	gulamera	0018	#	#	##	##				
 tondano	gulamera	0018	aa	HES	nc	nc				
 tondano	gulamera	0018	ZERO	ZERO	0.h:a_a	0	h	a_a		
 tondano	gulamera	0018	<im>èdo	<AV.PST>take	v:pred	v		pred		
 tondano	gulamera	0018	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0018	N=	INAN=	ln=	ln=				
+tondano	gulamera	0018	N=	INAN=	=ln	=ln				
 tondano	gulamera	0018	tabelang	hard.bamboo	np:p_a	np		p_a		
 tondano	gulamera	0019	#	#	#	#				
 tondano	gulamera	0019	o	PART	nc	nc				
@@ -96,39 +96,39 @@ tondano	gulamera	0019	nèy	CV.PST	lv	lv
 tondano	gulamera	0019	pa-wa'akes-en	DYN-tie.with.string-PV	v:pred	v		pred		
 tondano	gulamera	0019	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0019	=pè'	=INCMP	=rv	=rv				
-tondano	gulamera	0020	##	##	##	##				
+tondano	gulamera	0020	#	#	##	##				
 tondano	gulamera	0020	a	PART	nc	nc				
 tondano	gulamera	0020	niana	DEM1	pro:p_u	pro		p_u		
 tondano	gulamera	0020	=mow	=CMP	=other	=other				
 tondano	gulamera	0020	i-paka-wa'akes	CV.COMP-tie.with.string	v:pred	v		pred		
 tondano	gulamera	0020	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	gulamera	0021	##	##	##	##				
+tondano	gulamera	0021	#	#	##	##				
 tondano	gulamera	0021	kela	PART	nc	nc				
 tondano	gulamera	0021	entè'	strong	other	other				
 tondano	gulamera	0021	kowman	meanwhile	lv	lv				
 tondano	gulamera	0021	ZERO	ZERO	0:p_u	0		p_u		
-tondano	gulamera	0021	kapa-we'akes	MANN-tie with string	v:pred	v		pred		
+tondano	gulamera	0021	kapa-we'akes	MANN-tie.with.string	v:pred	v		pred		
 tondano	gulamera	0021	tuama	man	np.h:a_u	np	h	a_u		
 tondano	gulamera	0021	iti'i	DEM2	rn	rn				
-tondano	gulamera	0022	##	##	##	##				
-tondano	gulamera	0022	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	gulamera	0022	#	#	##	##				
+tondano	gulamera	0022	si=	3SG.NOM=	=pro.h:s	=pro	h	s		
 tondano	gulamera	0022	witu	PREP2	adp	adp				
-tondano	gulamera	0022	=mow	=CMP	other	other				
+tondano	gulamera	0022	=mow	=CMP	=other	=other				
 tondano	gulamera	0022	ujung	tip	ln	ln				
-tondano	gulamera	0022	N=	INAN=	ln=	ln=				
+tondano	gulamera	0022	N=	INAN=	=ln	=ln				
 tondano	gulamera	0022	akel	sugar.palm.tree	np:pred_l	np		pred_l		
 tondano	gulamera	0022	ya	AFF	nc	nc				
-tondano	gulamera	0023	##	##	##	##				
+tondano	gulamera	0023	#	#	##	##				
 tondano	gulamera	0023	a	PART	nc	nc				
 tondano	gulamera	0023	nèy	CV.PST	lv	lv				
 tondano	gulamera	0023	pa-tumpa-en	CV-DYN-descend-PV	v:pred	v		pred		
 tondano	gulamera	0023	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0023	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0023	N=	INAN=	ln=	ln=				
+tondano	gulamera	0023	N=	INAN=	=ln	=ln				
 tondano	gulamera	0023	tabelang	hard.bamboo	np:p_u	np		p_u		
 tondano	gulamera	0023	esa	one	rn	rn				
-tondano	gulamera	0024	##	##	##	##				
-tondano	gulamera	0024	N=	INAN=	ln=	ln=				
+tondano	gulamera	0024	#	#	##	##				
+tondano	gulamera	0024	N=	INAN=	=ln	=ln				
 tondano	gulamera	0024	tabalang	hard.bamboo	np:dt	np		dt		
 tondano	gulamera	0024	esa	one	rn	rn				
 tondano	gulamera	0024	it'i	DEM2	rn	rn				
@@ -138,74 +138,74 @@ tondano	gulamera	0024	ee	HES	nc	nc
 tondano	gulamera	0025	s<in>iwo-en	<PST>do-PV	v:pred	v		pred		
 tondano	gulamera	0025	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0025	potung	bamboo.tube	np:p_u	np		p_u		
-tondano	gulamera	0026	##	##	##	##				
+tondano	gulamera	0026	#	#	##	##				
 tondano	gulamera	0026	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0026	t<in>inboi-an	<PST>grasp-LV	v:pred	v		pred		
-tondano	gulamera	0026	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	gulamera	0026	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	gulamera	0026	tuama	man	np.h:a_u	np	h	a_u		
 tondano	gulamera	0026	esa	one	rn	rn				
-tondano	gulamera	0027	##	##	##	##				
-tondano	gulamera	0027	si=	3SG=	pro.h:s=	pro	h	s=		
+tondano	gulamera	0027	#	#	##	##				
+tondano	gulamera	0027	si=	3SG=	=pro.h:s	=pro	h	s		
 tondano	gulamera	0027	wia	PREP1	adp	adp				
 tondano	gulamera	0027	rarem	inside	np:pred_l	np		pred_l		
-tondano	gulamera	0027	si=	AN.SG=	ln=	ln=				
+tondano	gulamera	0027	si=	AN.SG=	=ln	=ln				
 tondano	gulamera	0027	esa	one	np.h:dt_s	np	h	dt_s		
-tondano	gulamera	0027	##	##	##	##				
-tondano	gulamera	0027	si=	AN.SG=	ln=	ln=				
+tondano	gulamera	0027	#	#	##	##				
+tondano	gulamera	0027	si=	AN.SG=	=ln	=ln				
 tondano	gulamera	0027	esa	one	np.h:dt_s	np	h	dt_s		
-tondano	gulamera	0027	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	gulamera	0027	si=	3SG.NOM=	=pro.h:s	=pro	h	s		
 tondano	gulamera	0027	wia	PREP1	adp	adp				
-tondano	gulamera	0027	N=	INAN=	ln=	ln=				
+tondano	gulamera	0027	N=	INAN=	=ln	=ln				
 tondano	gulamera	0027	atas	above	np:pred_l	np		pred_l		
 tondano	gulamera	0028	rèy'	not	other	other				
 tondano	gulamera	0028	=mow	=CMP	=other	=other				
-tondano	gulamera	0029	##	##	##	##				
-tondano	gulamera	0029	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	gulamera	0029	#	#	##	##				
+tondano	gulamera	0029	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	gulamera	0029	pa-ali-en	DYN-bring-PV	v:pred	v		pred		
 tondano	gulamera	0029	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0029	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	gulamera	0029	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	gulamera	0029	tuama	man	np.h:a_u	np	h	a_u		
 tondano	gulamera	0029	esa	one	rn	rn				
-tondano	gulamera	0029	##	##	##	##				
-tondano	gulamera	0029	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	gulamera	0029	#	#	##	##				
+tondano	gulamera	0029	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	gulamera	0029	w<in>a'akes-an	<PST>tie.with.string-LV	v:pred	v		pred		
-tondano	gulamera	0029	nè=	AN.PL.GEN=	ln=	ln=				
+tondano	gulamera	0029	nè=	AN.PL.GEN=	=ln	=ln				
 tondano	gulamera	0029	i'ti'i	DEM2	pro.h:a_u	pro	h	a_u		
-tondano	gulamera	0030	##	##	##	##				
+tondano	gulamera	0030	#	#	##	##				
 tondano	gulamera	0030	niana	DEM1	pro:p_u	pro		p_u		
 tondano	gulamera	0030	=mow	=CMP	=other	=other				
 tondano	gulamera	0030	i-tumpa	CV-descend	v:pred	v		pred		
 tondano	gulamera	0030	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0030	=mi	=DIR.DIST	=rv	=rv				
-tondano	gulamera	0031	##	##	##	##				
+tondano	gulamera	0031	#	#	##	##				
 tondano	gulamera	0031	wo	and	other	other				
-tondano	gulamera	0031	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	gulamera	0031	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	gulamera	0031	s<in>iwo-en	<PST>do-PV	v:pred	v		pred		
 tondano	gulamera	0031	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0031	rè'èn	PART	other	other				
 tondano	gulamera	0031	ee	HES	nc	nc				
 tondano	gulamera	0031	anu	NON.SPEC	np:dt_p_u	np		dt_p_u		
-tondano	gulamera	0032	##	##	##	##				
+tondano	gulamera	0032	#	#	##	##				
 tondano	gulamera	0032	keter-an	power-DEG	other	other				
-tondano	gulamera	0032	si=	AN.SG=	ln=	ln=				
+tondano	gulamera	0032	si=	AN.SG=	=ln	=ln				
 tondano	gulamera	0032	anu	NON.SPEC	pro.h:a_a	pro	h	a_a		
 tondano	gulamera	0032	r<im>edèi'	<AV.PST>stand	v:pred	v		pred		
 tondano	gulamera	0032	ZERO	ZERO	0:p_a	0		p_a		
 tondano	gulamera	0032	witu	there	other	other				
-tondano	gulamera	0032	N=	INAN=	ln=	ln=				
+tondano	gulamera	0032	N=	INAN=	=ln	=ln				
 tondano	gulamera	0032	tabelang	hard.bamboo	np:l	np		l		
 tondano	gulamera	0032	waki	PREP3	adp	adp				
 tondano	gulamera	0033	towana	roof	np:l	np		l		
-tondano	gulamera	0033	N=	INAN=	ln=	ln=				
+tondano	gulamera	0033	N=	INAN=	=ln	=ln				
 tondano	gulamera	0033	akel	sugar.palm.tree	rn_np	rn_np				
-tondano	gulamera	0034	##	##	##neg	##neg				
+tondano	gulamera	0034	#	#	##neg	##neg				
 tondano	gulamera	0034	rèy'	not	other	other				
 tondano	gulamera	0034	=mow	=CMP	=other	=other				
-tondano	gulamera	0034	si=	3SG.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	gulamera	0034	si=	3SG.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	gulamera	0034	<um>wè'wèl	<AV>tap	v:pred	v		pred		
 tondano	gulamera	0034	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0034	ZERO	ZERO	0:p_a	0		p_a		
-tondano	gulamera	0035	##	##	##	##				
+tondano	gulamera	0035	#	#	##	##				
 tondano	gulamera	0035	ta'an	however	other	other				
 tondano	gulamera	0035	<in>iris-en	<PST>slice-PV	v:pred	v		pred		
 tondano	gulamera	0035	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
@@ -213,50 +213,50 @@ tondano	gulamera	0035	=pè'	=INCMP	=rv	=rv
 tondano	gulamera	0035	=la	=DIR.PROX	=rv	=rv				
 tondano	gulamera	0035	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0035	rior	fast	other	other				
-tondano	gulamera	0036	##	##	##	##				
+tondano	gulamera	0036	#	#	##	##				
 tondano	gulamera	0036	sia	3SG	pro.h:a_a	pro	h	a_a		
 tondano	gulamera	0036	<um>wè'wèl	<AV>tap	v:pred	v		pred		
 tondano	gulamera	0036	ZERO	ZERO	0:p_a	0		p_a		
-tondano	gulamera	0037	##	##	##	##				
-tondano	gulamera	0037	<um> patè	PART	nc	nc				
-tondano	gulamera	0037	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	gulamera	0037	#	#	##	##				
+tondano	gulamera	0037	<um>patè	PART	nc	nc				
+tondano	gulamera	0037	si=	3SG.NOM=	=pro.h:s	=pro	h	s		
 tondano	gulamera	0037	ka-urè	very-long	other:pred	other		pred		
-tondano	gulamera	0038	##	##	##	##				
-tondano	gulamera	0038	meN- kura--kura	AV.DYN-RDP-how	v:pred	v		pred		
-tondano	gulamera	0038	si=	AN.SG=	ln=	ln=				
+tondano	gulamera	0038	#	#	##	##				
+tondano	gulamera	0038	meN-kura-kura	AV.DYN-RDP-how	v:pred	v		pred		
+tondano	gulamera	0038	si=	AN.SG=	=ln	=ln				
 tondano	gulamera	0038	tuama	tuama	np.h:s	np	h	s		
 tondano	gulamera	0038	iti'i	DEM1	rn	rn				
-tondano	gulamera	0039	o	PART	o	o				
+tondano	gulamera	0039	o	PART	nc	nc				
 tondano	gulamera	0039	si=	HES	nc	nc				
 tondano	gulamera	0039	ma	HES	nc	nc				
-tondano	gulamera	0040	##	##	##	##				
+tondano	gulamera	0040	#	#	##	##				
 tondano	gulamera	0040	pa-row'-en	DYN-far-PV	v:pred	v		pred		
 tondano	gulamera	0040	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0040	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0040	N=	INAN=	ln=	ln=				
+tondano	gulamera	0040	N=	INAN=	=ln	=ln				
 tondano	gulamera	0040	waya	all	ln	ln				
 tondano	gulamera	0040	unjung	tip	np:p_u	np		p_u		
 tondano	gulamera	0040	=na	=3SG.GEN	=pro:poss	=pro		poss		
-tondano	gulamera	0040	#ac	#ac	#ac.neg	#ac.neg				
+tondano	gulamera	0040	#	#	#ac.neg	#ac.neg				
 tondano	gulamera	0040	ka'a	because	other	other				
 tondano	gulamera	0040	N=	HES	nc	nc				
 tondano	gulamera	0040	pewe	HES	nc	nc				
-tondano	gulamera	0041	N=	INAN=	other=	other=				
+tondano	gulamera	0041	N=	INAN=	=other	=other				
 tondano	gulamera	0041	rèy'	NEG	other	other				
 tondano	gulamera	0041	=pè'	=INCMP	=other	=other				
 tondano	gulamera	0041	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0041	w<in>è'wèl-en	<PST>tap	v:pred	v		pred		
 tondano	gulamera	0041	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	gulamera	0041	##	##	##	##				
-tondano	gulamera	0041	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	gulamera	0041	#	#	##	##				
+tondano	gulamera	0041	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	gulamera	0041	paarou'namou	DYN-far-PV	v:pred	v		pred		
 tondano	gulamera	0041	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0041	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0041	N=	INAN=	ln=	ln=				
+tondano	gulamera	0041	N=	INAN=	=ln	=ln				
 tondano	gulamera	0041	enujung	tip	np:dt_p_u	np		dt_p_u		
 tondano	gulamera	0042	e	PART	nc	nc				
 tondano	gulamera	0042	esh	PART	nc	nc				
-tondano	gulamera	0043	##	##	##neg	##neg				
+tondano	gulamera	0043	#	#	##neg	##neg				
 tondano	gulamera	0043	N=	INAN=	nc	nc				
 tondano	gulamera	0043	rèy'	not	nc	nc				
 tondano	gulamera	0044	ZERO	ZERO	0:s	0		s		
@@ -264,51 +264,51 @@ tondano	gulamera	0044	rèy'	not	other	other
 tondano	gulamera	0044	=pè'	=INCMP	=other	=other				
 tondano	gulamera	0044	sapa	RDP	other	other				
 tondano	gulamera	0044	sapa	sapa	other:pred	other		pred		
-tondano	gulamera	0045	##	##	##	##				
+tondano	gulamera	0045	#	#	##	##				
 tondano	gulamera	0045	ZERO	ZERO	0.h:a_a	0	h	a_a		
 tondano	gulamera	0045	<im>èdo	<AV.PST>take	v:pred	v		pred		
 tondano	gulamera	0045	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0045	=itè	=LIM	=rv	=rv				
-tondano	gulamera	0045	N=	INAN=	ln=	ln=				
+tondano	gulamera	0045	N=	INAN=	=ln	=ln				
 tondano	gulamera	0045	pepatil	machete	np:p_a	np		p_a		
 tondano	gulamera	0045	=na	=3SG.GEN	=pro.h:poss	=pro	h	poss		
-tondano	gulamera	0045	##	##	##	##				
+tondano	gulamera	0045	#	#	##	##				
 tondano	gulamera	0045	ZERO	ZERO	0.h:a_a	0	h	a_a		
 tondano	gulamera	0045	ma-row'	DYN.AV-far	v:pred	v		pred		
 tondano	gulamera	0045	=la	=DIR.PROX	=rv	=rv				
-tondano	gulamera	0045	N=	INAN=	ln=	ln=				
+tondano	gulamera	0045	N=	INAN=	=ln	=ln				
 tondano	gulamera	0045	waya	all	ln	ln				
-tondano	gulamera	0045	N=	INAN=	ln=	ln=				
+tondano	gulamera	0045	N=	INAN=	=ln	=ln				
 tondano	gulamera	0045	ujung	tip	np:p_a	np		p_a		
 tondano	gulamera	0045	=na	=3SG.GEN	=pro:poss	=pro		poss		
-tondano	gulamera	0046	##	##	##	##				
+tondano	gulamera	0046	#	#	##	##				
 tondano	gulamera	0046	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0046	pa-Ce-wè'wèl-en	DYN-IRR-tap-PV	v:pred	v		pred		
 tondano	gulamera	0046	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0046	èy	PART	nc	nc				
-tondano	gulamera	0046	##	##	##	##				
-tondano	gulamera	0046	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
-tondano	gulamera	0046	pa-wa'akes-en	DYN - tie.with.string - PV	v:pred	v		pred		
+tondano	gulamera	0046	#	#	##	##				
+tondano	gulamera	0046	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
+tondano	gulamera	0046	pa-wa'akes-en	DYN-tie.with.string-PV	v:pred	v		pred		
 tondano	gulamera	0046	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0046	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0047	##	##	##	##				
-tondano	gulamera	0047	si=	3SG.NOM=	pro.h:p_u=	pro	h	p_u=		
+tondano	gulamera	0047	#	#	##	##				
+tondano	gulamera	0047	si=	3SG.NOM=	=pro.h:p_u	=pro	h	p_u		
 tondano	gulamera	0047	witu	there	other	other				
 tondano	gulamera	0047	tarè	new	lv	lv				
-tondano	gulamera	0047	i-ka-ana' 	CV.POT-stay	v:pred	v		pred		
+tondano	gulamera	0047	i-ka-ana'	CV.POT-stay	v:pred	v		pred		
 tondano	gulamera	0047	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0047	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0047	=mi	=DIR.DIST	=rv	=rv				
 tondano	gulamera	0047	witu	PREP2	adp	adp				
-tondano	gulamera	0047	tabelang	hard.bamboo 	np:g	np		g		
-tondano	gulamera	0048	##	##	##	##				
+tondano	gulamera	0047	tabelang	hard.bamboo	np:g	np		g		
+tondano	gulamera	0048	#	#	##	##				
 tondano	gulamera	0048	yala	HES	nc	nc				
-tondano	gulamera	0048	si=	3SG.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	gulamera	0048	si=	3SG.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	gulamera	0048	<im>pakè	<AV.PST>use	v:pred	v		pred		
 tondano	gulamera	0048	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0048	kudah	RDP	ln_np	ln_np				
 tondano	gulamera	0048	kudah	strut	np:p_a	np		p_a		
-tondano	gulamera	0049	##	##	##	##				
+tondano	gulamera	0049	#	#	##	##				
 tondano	gulamera	0049	pa-awes-an	DYN-add-LV	v:pred	v		pred		
 tondano	gulamera	0049	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0049	=pè'	=INCMP	=rv	=rv				
@@ -316,7 +316,7 @@ tondano	gulamera	0049	kasi	more	rv	rv
 tondano	gulamera	0049	tabelang	hard.bamboo	np:p_u	np		p_u		
 tondano	gulamera	0049	esa	one	rn	rn				
 tondano	gulamera	0049	pasil	PART	nc	nc				
-tondano	gulamera	0050	#nc	#nc	#nc	#nc				
+tondano	gulamera	0050	#	#	#nc	#nc				
 tondano	gulamera	0050	N=	INAN=	nc	nc				
 tondano	gulamera	0050	potung	bamboo.tube	nc	nc				
 tondano	gulamera	0050	N=	INAN=	nc	nc				
@@ -324,61 +324,61 @@ tondano	gulamera	0050	dèi'	NEG	nc	nc
 tondano	gulamera	0050	ka'a	because	nc	nc				
 tondano	gulamera	0050	witu	there	nc	nc				
 tondano	gulamera	0050	aaaiiii	HES	nc	nc				
-tondano	gulamera	0051	##	##	##	##				
+tondano	gulamera	0051	#	#	##	##				
 tondano	gulamera	0051	a	HES	nc	nc				
 tondano	gulamera	0051	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0051	nèy	CV.PST	lv	lv				
 tondano	gulamera	0051	pa-tumpa-en	DYN-descend-PV	v:pred	v		pred		
 tondano	gulamera	0051	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0051	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0052	##	##	##	##				
+tondano	gulamera	0052	#	#	##	##				
 tondano	gulamera	0052	a	PART	nc	nc				
 tondano	gulamera	0052	niana	DEM2	pro:p_u	pro		p_u		
 tondano	gulamera	0052	=mow	=CMP	=rn	=rn				
 tondano	gulamera	0052	i-wèè	CV-give	v:pred	v		pred		
 tondano	gulamera	0052	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0052	witu	PREP2	adp	adp				
-tondano	gulamera	0052	N=	INAN=	ln=	ln=				
+tondano	gulamera	0052	N=	INAN=	=ln	=ln				
 tondano	gulamera	0052	ujung	tip	np:l	np		l		
 tondano	gulamera	0052	=na	=3SG.GEN	=pro:poss	=pro		poss		
-tondano	gulamera	0052	N=	INAN=	ln=	ln=				
+tondano	gulamera	0052	N=	INAN=	=ln	=ln				
 tondano	gulamera	0052	rèy'	not	other	other				
 tondano	gulamera	0052	=mow	=CMP	=other	=other				
-tondano	gulamera	0053	##	##	##	##				
+tondano	gulamera	0053	#	#	##	##				
 tondano	gulamera	0053	klaar	finish	other	other				
 tondano	gulamera	0053	=mow	=CMP	=other	=other				
-tondano	gulamera	0053	si=	AN.SG=	ln=	ln=				
+tondano	gulamera	0053	si=	AN.SG=	=ln	=ln				
 tondano	gulamera	0053	anu	NON.SPEC	np.h:a_a	np	h	a_a		
 tondano	gulamera	0053	<um>wa'akes	<AV>tie.with.string	v:pred	v		pred		
 tondano	gulamera	0053	=la	=DIR.PROX	=rv	=rv				
 tondano	gulamera	0053	ni'itu	DEM2	pro:p_a	pro		p_a		
-tondano	gulamera	0054	##	##	##	##				
+tondano	gulamera	0054	#	#	##	##				
 tondano	gulamera	0054	tantu	definitely	other	other				
 tondano	gulamera	0054	=mow	=CMP	=other	=other				
 tondano	gulamera	0054	itu	DEM2	other	other				
 tondano	gulamera	0054	ma-kaluar	EV.STAT-go.out	v:pred	v		pred		
 tondano	gulamera	0054	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0054	=mi	=DIR.DIST	=rv	=rv				
-tondano	gulamera	0054	N=	INAN=	ln=	ln=				
+tondano	gulamera	0054	N=	INAN=	=ln	=ln				
 tondano	gulamera	0054	timpa'	palm.sugar.sap	np:s	np		s		
-tondano	gulamera	0055	##	##	##	##				
-tondano	gulamera	0055	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	gulamera	0055	#	#	##	##				
+tondano	gulamera	0055	si=	3SG.NOM=	=pro.h:s	=pro	h	s		
 tondano	gulamera	0055	<im>èa	<AV.PST>go	v:pred	v		pred		
 tondano	gulamera	0055	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0055	waki	PREP3	adp	adp				
 tondano	gulamera	0055	sabua	hut	np:g	np		g		
-tondano	gulamera	0056	##	##	##	##				
-tondano	gulamera	0056	<in>ali-en	<PST>bring - PV	v:pred	v		pred		
+tondano	gulamera	0056	#	#	##	##				
+tondano	gulamera	0056	<in>ali-en	<PST>bring-PV	v:pred	v		pred		
 tondano	gulamera	0056	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0056	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	gulamera	0056	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	gulamera	0056	esa	one	np.h:a_u	np	h	a_u		
-tondano	gulamera	0056	N=	INAN=	ln=	ln=				
+tondano	gulamera	0056	N=	INAN=	=ln	=ln				
 tondano	gulamera	0056	potung	bamboo.tube	np:p_u	np		p_u		
 tondano	gulamera	0056	esa	one	rn	rn				
-tondano	gulamera	0056	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	gulamera	0056	#	#	#rc_rn	#rc_rn				
 tondano	gulamera	0056	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0056	tantu	definite	other	other				
-tondano	gulamera	0056	N=	INAN=	ln=	ln=				
+tondano	gulamera	0056	N=	INAN=	=ln	=ln				
 tondano	gulamera	0056	wuta	full	other:pred	other		pred		
 tondano	gulamera	0056	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0057	#	#	#	#				
@@ -391,156 +391,156 @@ tondano	gulamera	0057	ZERO	ZERO	0.h:a_u	0	h	a_u
 tondano	gulamera	0057	=la	=DIR.PROX	=rv	=rv				
 tondano	gulamera	0057	witu	PREP2	adp	adp				
 tondano	gulamera	0057	rumping	wok	np:g	np		g		
-tondano	gulamera	0058	##	##	##	##				
+tondano	gulamera	0058	#	#	##	##				
 tondano	gulamera	0058	pa-tow-an	DYN-person-LV	v:pred	v		pred		
 tondano	gulamera	0058	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0058	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0058	api'	fire	np:p_u	np		p_u		
-tondano	gulamera	0059	##	##	##	##				
+tondano	gulamera	0059	#	#	##	##				
 tondano	gulamera	0059	i-paka-tow	CV-COMP-person	v:pred	v		pred		
 tondano	gulamera	0059	=la	=DIR.PROX	=rv	=rv				
 tondano	gulamera	0059	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0059	api	fire	np:p_u	np		p_u		
 tondano	gulamera	0059	itu	DEM2	rn	rn				
-tondano	gulamera	0059	N=	INAN=	ln=	ln=				
+tondano	gulamera	0059	N=	INAN=	=ln	=ln				
 tondano	gulamera	0059	rèy'	not	neg	neg				
 tondano	gulamera	0059	=mow	=CMP	=other	=other				
-tondano	gulamera	0060	##	##	##	##				
-tondano	gulamera	0060	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	gulamera	0060	#	#	##	##				
+tondano	gulamera	0060	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	gulamera	0060	kayo-en	stir-PV	v:pred	v		pred		
 tondano	gulamera	0060	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0060	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0061	##	##	##	##				
+tondano	gulamera	0061	#	#	##	##				
 tondano	gulamera	0061	a	HES	nc	nc				
 tondano	gulamera	0061	ye'i	now	other	other				
 tondano	gulamera	0061	ni'tu	DEM2	pro:p_u	pro		p_u		
 tondano	gulamera	0061	i-wèè	CV-give	v:pred	v		pred		
 tondano	gulamera	0061	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	gulamera	0062	##	##	##	##				
+tondano	gulamera	0062	#	#	##	##				
 tondano	gulamera	0062	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0062	ma-karo'ko'	EV.STAT-froth	v:pred	v		pred		
 tondano	gulamera	0062	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0062	o	PART	nc	nc				
-tondano	gulamera	0063	##	##	##neg	##neg				
+tondano	gulamera	0063	#	#	##neg	##neg				
 tondano	gulamera	0063	dèi'	not	other	other				
 tondano	gulamera	0063	=mow	=CMP	=other	=other				
 tondano	gulamera	0063	ma-muali	EV.STAT-be	v:pred	v		pred		
 tondano	gulamera	0063	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0063	gula	sugar	np:s	np		s		
 tondano	gulamera	0063	itu	DEM2	rn	rn				
-tondano	gulamera	0064	##	##	##	##				
+tondano	gulamera	0064	#	#	##	##				
 tondano	gulamera	0064	ma-karo'ko'	EV.STAT-froth	v:pred	v		pred		
 tondano	gulamera	0064	luar	outside	rv	rv				
 tondano	gulamera	0064	biasa	normal	rv	rv				
 tondano	gulamera	0064	ye'i	DEM1	pro:s	pro		s		
 tondano	gulamera	0065	oo	PART	nc	nc				
-tondano	gulamera	0066	##	##	##	##				
+tondano	gulamera	0066	#	#	##	##				
 tondano	gulamera	0066	mèmang	truly	other	other				
 tondano	gulamera	0066	=mow	=CMP	=other	=other				
 tondano	gulamera	0066	kowman	definitely	other	other				
 tondano	gulamera	0066	luar	outside	np:pred	np		pred		
 tondano	gulamera	0066	biasa	ordinary	rn	rn				
-tondano	gulamera	0066	N=	INAN=	ln=	ln=				
+tondano	gulamera	0066	N=	INAN=	=ln	=ln				
 tondano	gulamera	0066	gula	palm.sugar.sap	np:s	np		s		
 tondano	gulamera	0066	ye'i	DEM1	rn	rn				
-tondano	gulamera	0067	##	##	##	##				
+tondano	gulamera	0067	#	#	##	##				
 tondano	gulamera	0067	ZERO	ZERO	0:s	0		s		
-tondano	gulamera	0067	N=	INAN=	ln=	ln=				
+tondano	gulamera	0067	N=	INAN=	=ln	=ln				
 tondano	gulamera	0067	emis	sweet	other:pred	other		pred		
 tondano	gulamera	0067	kasa	very	other	other				
-tondano	gulamera	0068	#ac	#ac	#ac	#ac				
+tondano	gulamera	0068	#	#	#ac	#ac				
 tondano	gulamera	0068	ka'a	because	other	other				
-tondano	gulamera	0068	N=	INAN=	ln=	ln=				
+tondano	gulamera	0068	N=	INAN=	=ln	=ln				
 tondano	gulamera	0068	timpa'	palm.sugar.sap	np:s	np		s		
-tondano	gulamera	0068	tantu	like thus	rn	rn				
+tondano	gulamera	0068	tantu	like.thus	rn	rn				
 tondano	gulamera	0068	itu	DEM2	rn	rn				
 tondano	gulamera	0068	timpa'	palm.sugar.sap	np:pred	np		pred		
 tondano	gulamera	0068	emis	sweet	rn	rn				
 tondano	gulamera	0069	oo	PART	nc	nc				
-tondano	gulamera	0069	<um> patè	PART	nc	nc				
-tondano	gulamera	0070	##	##	##	##				
+tondano	gulamera	0069	<um>patè	PART	nc	nc				
+tondano	gulamera	0070	#	#	##	##				
 tondano	gulamera	0070	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0070	karo'ko'-en	froth-PV	v:pred	v		pred		
 tondano	gulamera	0070	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0070	luar	outside	rv	rv				
 tondano	gulamera	0070	biasa	ordinary	rv	rv				
-tondano	gulamera	0071	##	##	##	##				
-tondano	gulamera	0071	si=	AN.SG=	ln=	ln=				
+tondano	gulamera	0071	#	#	##	##				
+tondano	gulamera	0071	si=	AN.SG=	=ln	=ln				
 tondano	gulamera	0071	esa	one	np.h:dt_s	np	h	dt_s		
-tondano	gulamera	0071	si=	3SG.NOM=	pro.h:s=	pro	h	s=		
+tondano	gulamera	0071	si=	3SG.NOM=	=pro.h:s	=pro	h	s		
 tondano	gulamera	0071	ma-lumu	AV.DYN-add.wood.	v:pred	v		pred		
 tondano	gulamera	0071	=mi	=DIR.DIST	=rv	=rv				
-tondano	gulamera	0072	##	##	##	##				
+tondano	gulamera	0072	#	#	##	##				
 tondano	gulamera	0072	o	PART	nc	nc				
 tondano	gulamera	0072	kala	PART	nc	nc				
-tondano	gulamera	0072	w<in>èè-an 	<PST>give-LV	v:pred	v		pred		
+tondano	gulamera	0072	w<in>èè-an	<PST>give-LV	v:pred	v		pred		
 tondano	gulamera	0072	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0072	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0072	panci	pan	np:p_u	np		p_u		
-tondano	gulamera	0073	##	##	##neg	##neg				
+tondano	gulamera	0073	#	#	##neg	##neg				
 tondano	gulamera	0073	ya	AFF	nc	nc				
 tondano	gulamera	0073	ensu	HES	nc	nc				
 tondano	gulamera	0073	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0073	rèy'	don't	other	other				
 tondano	gulamera	0073	toro	AUX.can	aux	aux				
 tondano	gulamera	0073	s<um>ewu	<AV>foam	v:pred	v		pred		
-tondano	gulamera	0074	##	##	##	##				
+tondano	gulamera	0074	#	#	##	##				
 tondano	gulamera	0074	jadi	thus	other	other				
 tondano	gulamera	0074	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0074	ma-karo'ko'	EV.STAT-froth	v:pred	v		pred		
-tondano	gulamera	0074	#ac	#ac	#ac	#ac				
+tondano	gulamera	0074	#	#	#ac	#ac				
 tondano	gulamera	0074	sa	if	other	other				
 tondano	gulamera	0074	itu	DEM2	pro:s	pro		s		
 tondano	gulamera	0074	s<um>ewu	<AV>foam	v:pred	v		pred		
-tondano	gulamera	0074	##	##	##	##				
-tondano	gulamera	0074	wèè -en	give - PV	v:pred	v		pred		
+tondano	gulamera	0074	#	#	##	##				
+tondano	gulamera	0074	wèè-en	give-PV	v:pred	v		pred		
 tondano	gulamera	0074	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0074	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0074	=la	=DIR.DIST	=rv	=rv				
 tondano	gulamera	0074	panci	pan	np:p_u	np		p_u		
 tondano	gulamera	0074	witu	PREP2	adp	adp				
-tondano	gulamera	0074	N=	INAN=	ln=	ln=				
+tondano	gulamera	0074	N=	INAN=	=ln	=ln				
 tondano	gulamera	0074	uner	middle	np:l	np		l		
-tondano	gulamera	0075	##	##	##	##				
+tondano	gulamera	0075	#	#	##	##				
 tondano	gulamera	0075	adu	PART	nc	nc				
 tondano	gulamera	0075	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0075	ma-karo'ko'	STAT.EV-froth	v:pred	v		pred		
 tondano	gulamera	0075	luar	outside	rv	rv				
 tondano	gulamera	0075	biasa	ordinary	rv	rv				
-tondano	gulamera	0075	##	##	##	##				
-tondano	gulamera	0075	N=	INAN=	ln=	ln=				
+tondano	gulamera	0075	#	#	##	##				
+tondano	gulamera	0075	N=	INAN=	=ln	=ln				
 tondano	gulamera	0075	emis	sweet	other:pred	other		pred		
 tondano	gulamera	0075	kasa	very	rv	rv				
-tondano	gulamera	0075	N=	INAN=	ln=	ln=				
+tondano	gulamera	0075	N=	INAN=	=ln	=ln				
 tondano	gulamera	0075	gula	sugar	np:s	np		s		
 tondano	gulamera	0075	ini	DEM1	rn	rn				
-tondano	gulamera	0076	##	##	##	##				
+tondano	gulamera	0076	#	#	##	##				
 tondano	gulamera	0076	tuang	PART	nc	nc				
 tondano	gulamera	0076	paka	HES	nc	nc				
 tondano	gulamera	0076	ZERO	ZERO	0:p_u	0		p_u		
-tondano	gulamera	0076	pa-karo'ko'-an 	DYN-froth-LV	v:pred	v		pred		
+tondano	gulamera	0076	pa-karo'ko'-an	DYN-froth-LV	v:pred	v		pred		
 tondano	gulamera	0076	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0076	luar	outside	rv	rv				
 tondano	gulamera	0076	biasa	ordinary	rv	rv				
-tondano	gulamera	0077	##	##	##	##				
+tondano	gulamera	0077	#	#	##	##				
 tondano	gulamera	0077	èy	PART	nc	nc				
 tondano	gulamera	0077	pa-row'-en	DYN-far-PV	v:pred	v		pred		
 tondano	gulamera	0077	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0077	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0077	N=	INAN=	ln=	ln=				
+tondano	gulamera	0077	N=	INAN=	=ln	=ln				
 tondano	gulamera	0077	panci	pan	np:p_u	np		p_u		
-tondano	gulamera	0078	#ac	#ac	#ac	#ac				
+tondano	gulamera	0078	#	#	#ac	#ac				
 tondano	gulamera	0078	ka'a	because	other	other				
-tondano	gulamera	0078	N=	3SG.NOM=	pro:s=	pro		s=		
+tondano	gulamera	0078	N=	3SG.NOM=	=pro:s	=pro		s		
 tondano	gulamera	0078	tawi	close	lv	lv				
 tondano	gulamera	0078	=mow	=CMP	=other	=other				
 tondano	gulamera	0078	ma-lutu'	EV.STAT-ripe	v:pred	v		pred		
-tondano	gulamera	0079	##	##	##	##				
+tondano	gulamera	0079	#	#	##	##				
 tondano	gulamera	0079	ZERO	ZERO	0:s	0		s		
-tondano	gulamera	0079	ma- muali	EV.STAT-become	v:pred	v		pred		
+tondano	gulamera	0079	ma-muali	EV.STAT-become	v:pred	v		pred		
 tondano	gulamera	0079	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0079	gula	sugar	np:other	np		other		
-tondano	gulamera	0080	#nc	#nc	#nc	#nc				
+tondano	gulamera	0080	#	#	#nc	#nc				
 tondano	gulamera	0080	wo	and	nc	nc				
 tondano	gulamera	0080	=mowkan	=definitely	nc	nc				
 tondano	gulamera	0080	wona'	maybe	nc	nc				
@@ -548,265 +548,265 @@ tondano	gulamera	0080	stenga	half	nc	nc
 tondano	gulamera	0080	jam	hour	nc	nc				
 tondano	gulamera	0080	dèi'	NEG	nc	nc				
 tondano	gulamera	0080	=mow	=CMP	nc	nc				
-tondano	gulamera	0081	##	##	##	##				
+tondano	gulamera	0081	#	#	##	##				
 tondano	gulamera	0081	ZERO	ZERO	0:s	0		s		
-tondano	gulamera	0081	ma-muali	EV.STAT - be	v:pred	v		pred		
+tondano	gulamera	0081	ma-muali	EV.STAT-be	v:pred	v		pred		
 tondano	gulamera	0081	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0081	gula	sugar	np:other	np		other		
-tondano	gulamera	0082	##	##	##	##				
-tondano	gulamera	0082	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	gulamera	0082	#	#	##	##				
+tondano	gulamera	0082	sè=	3PL.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	gulamera	0082	ma-sadia	AV.DYN-prepare	v:pred	v		pred		
 tondano	gulamera	0082	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0082	uka	(half) coconut.shell	np:p_a	np		p_a		
-tondano	gulamera	0083	#ac	#ac	#ac	#ac				
+tondano	gulamera	0082	uka	(half)coconut.shell	np:p_a	np		p_a		
+tondano	gulamera	0083	#	#	#ac	#ac				
 tondano	gulamera	0083	ka'a	because	other	other				
-tondano	gulamera	0083	N=	INAN=	ln=	ln=				
+tondano	gulamera	0083	N=	INAN=	=ln	=ln				
 tondano	gulamera	0083	ye'i	now	other	other				
-tondano	gulamera	0084	<in> reta' -en	PST-free-PV	v:pred	v		pred		
+tondano	gulamera	0084	<in>reta'-en	PST-free-PV	v:pred	v		pred		
 tondano	gulamera	0084	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0084	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0084	wia	PREP1	adp	adp				
-tondano	gulamera	0084	N=	INAN=	ln=	ln=				
+tondano	gulamera	0084	N=	INAN=	=ln	=ln				
 tondano	gulamera	0084	tana'	earth/land	np:l	np		l		
-tondano	gulamera	0084	N=	INAN=	ln=	ln=				
-tondano	gulamera	0084	uka	(half) coconut.shell	np:p_u	np		p_u		
-tondano	gulamera	0084	#ac	#ac	#ac	#ac				
+tondano	gulamera	0084	N=	INAN=	=ln	=ln				
+tondano	gulamera	0084	uka	(half)coconut.shell	np:p_u	np		p_u		
+tondano	gulamera	0084	#	#	#ac	#ac				
 tondano	gulamera	0084	ka'a	because	other	other				
-tondano	gulamera	0084	N=	3SG.NOM=	pro:dt=	pro		dt=		
+tondano	gulamera	0084	N=	3SG.NOM=	=pro:dt	=pro		dt		
 tondano	gulamera	0084	wewèan	EXIST	other:predex	other		predex		
 tondano	gulamera	0084	=mow	=CMP	=other	=other				
-tondano	gulamera	0085	N=	INAN=	ln=	ln=				
+tondano	gulamera	0085	N=	INAN=	=ln	=ln				
 tondano	gulamera	0085	gula	sugar	np:s	np		s		
-tondano	gulamera	0085	#rc_rn	#rc_rn	#rc_rn	#rc_rn				
+tondano	gulamera	0085	#	#	#rc_rn	#rc_rn				
 tondano	gulamera	0085	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0085	s<in>iwo-en	<PST>do-PV	v:pred	v		pred		
 tondano	gulamera	0085	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0085	=la	=DIR.PROX	=rv	=rv				
-tondano	gulamera	0085	N=	INAN=	ln=	ln=				
+tondano	gulamera	0085	N=	INAN=	=ln	=ln				
 tondano	gulamera	0085	tadi	earlier	other	other				
-tondano	gulamera	0086	#ac	#ac	#ac	#ac				
+tondano	gulamera	0086	#	#	#ac	#ac				
 tondano	gulamera	0086	ta'an	however	other	other				
 tondano	gulamera	0086	ka'a	because	other	other				
-tondano	gulamera	0086	N=	3SG.NOM=	pro:s=	pro		s=		
+tondano	gulamera	0086	N=	3SG.NOM=	=pro:s	=pro		s		
 tondano	gulamera	0086	pasu'	hot	other:pred	other		pred		
 tondano	gulamera	0086	=pè'	=INCMP	=rv	=rv				
-tondano	gulamera	0086	##	##	##	##				
+tondano	gulamera	0086	#	#	##	##				
 tondano	gulamera	0086	ZERO	ZERO	0:p_u	0		p_u		
-tondano	gulamera	0086	pa-pa-ghe'gher-an	CAUS -DYN-cold-LV	v:pred	v		pred		
+tondano	gulamera	0086	pa-pa-ghe'gher-an	CAUS-DYN-cold-LV	v:pred	v		pred		
 tondano	gulamera	0086	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0086	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0086	è	HES	nc	nc				
 tondano	gulamera	0086	ola	HES	nc	nc				
-tondano	gulamera	0087	##	##	##	##				
+tondano	gulamera	0087	#	#	##	##				
 tondano	gulamera	0087	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0087	ma-karo'oko'	EV.STAT-froth	v:pred	v		pred		
 tondano	gulamera	0087	=pè'	=INCMP	=rv	=rv				
-tondano	gulamera	0088	##	##	##	##				
-tondano	gulamera	0088	w<in>unu'-en 	<PST>extinguish-PV	v:pred	v		pred		
+tondano	gulamera	0088	#	#	##	##				
+tondano	gulamera	0088	w<in>unu'-en	<PST>extinguish-PV	v:pred	v		pred		
 tondano	gulamera	0088	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0088	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0088	N=	INAN=	ln=	ln=				
+tondano	gulamera	0088	N=	INAN=	=ln	=ln				
 tondano	gulamera	0088	api'	fire	np:p_u	np		p_u		
 tondano	gulamera	0089	rèy'	not	other	other				
 tondano	gulamera	0089	=mow	=CMP	=other	=other				
-tondano	gulamera	0090	##	##	##	##				
+tondano	gulamera	0090	#	#	##	##				
 tondano	gulamera	0090	ZERO	ZERO	0:p_u	0		p_u		
-tondano	gulamera	0090	pa- sodo- an	DYN-ladle-LV	v:pred	v		pred		
+tondano	gulamera	0090	pa-sodo-an	DYN-ladle-LV	v:pred	v		pred		
 tondano	gulamera	0090	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0090	=mi	=DIR.DIST	=rv	=rv				
-tondano	gulamera	0090	##	##	##	##				
+tondano	gulamera	0090	#	#	##	##				
 tondano	gulamera	0090	tu	then	other	other				
 tondano	gulamera	0090	ZERO	ZERO	0:p_u	0		p_u		
-tondano	gulamera	0090	i-pa-wèè	CV-DYN -give	v:pred	v		pred		
+tondano	gulamera	0090	i-pa-wèè	CV-DYN-give	v:pred	v		pred		
 tondano	gulamera	0090	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0090	=la	=DIR.PROX	=rv	=rv				
 tondano	gulamera	0090	witu	PREP2	adp	adp				
-tondano	gulamera	0090	N=	INAN=	ln=	ln=				
-tondano	gulamera	0090	rano	water	np.g	np	g			
-tondano	gulamera	0090	#ac	#ac	#ac.neg	#ac.neg				
+tondano	gulamera	0090	N=	INAN=	=ln	=ln				
+tondano	gulamera	0090	rano	water	np:g	np		g		
+tondano	gulamera	0090	#	#	#ac.neg	#ac.neg				
 tondano	gulamera	0090	sa	if	other	other				
 tondano	gulamera	0090	itu	DEM2	pro:s	pro		s		
 tondano	gulamera	0090	rèy'	not	other	other				
 tondano	gulamera	0090	=mow	=CMP	=other	=other				
 tondano	gulamera	0090	ma-kerut	EV.STAT-crust	v:pred	v		pred		
-tondano	gulamera	0091	##	##	##	##				
+tondano	gulamera	0091	#	#	##	##				
 tondano	gulamera	0091	tow	like	other	other				
-tondano	gulamera	0091	N=	INAN=	ln=	ln=				
+tondano	gulamera	0091	N=	INAN=	=ln	=ln				
 tondano	gulamera	0091	gula	palm.sugar	np:pred	np		pred		
 tondano	gulamera	0091	=mow	=CMP	=rn	=rn				
 tondano	gulamera	0091	itu	DEM2	pro:s	pro		s		
 tondano	gulamera	0092	a	HES	nc	nc				
 tondano	gulamera	0092	rèy'	not	other	other				
 tondano	gulamera	0092	=mow	=CMP	=other	=other				
-tondano	gulamera	0093	##	##	##	##				
+tondano	gulamera	0093	#	#	##	##				
 tondano	gulamera	0093	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0093	m<in>a-muali	EV.PST.STAT-be	v:pred	v		pred		
 tondano	gulamera	0093	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0093	gula	sugar	np:other	np		other		
-tondano	gulamera	0094	##	##	##	##				
+tondano	gulamera	0094	#	#	##	##				
 tondano	gulamera	0094	nèy	CV.PST	lv	lv				
-tondano	gulamera	0094	wèè	give 	v:pred	v		pred		
+tondano	gulamera	0094	wèè	give	v:pred	v		pred		
 tondano	gulamera	0094	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0094	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0094	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0094	witu	PREP2	adp	adp				
-tondano	gulamera	0094	N=	INAN=	ln=	ln=				
-tondano	gulamera	0094	uka	(half) coconut.shell	np.g	np	g			
-tondano	gulamera	0095	##	##	##	##				
-tondano	gulamera	0095	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	gulamera	0094	N=	INAN=	=ln	=ln				
+tondano	gulamera	0094	uka	(half)coconut.shell	np:g	np		g		
+tondano	gulamera	0095	#	#	##	##				
+tondano	gulamera	0095	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	gulamera	0095	i-paki-pè'an	REQ.CV-try	v:pred	v		pred		
 tondano	gulamera	0095	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0095	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0095	si=	AN.SG=	ln=	ln=				
+tondano	gulamera	0095	si=	AN.SG=	=ln	=ln				
 tondano	gulamera	0095	tuama	man	np.h:obl	np	h	obl		
-tondano	gulamera	0096	##	##	##	##				
+tondano	gulamera	0096	#	#	##	##				
 tondano	gulamera	0096	èy	PART	nc	nc				
 tondano	gulamera	0096	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0096	pa-kaan-en	DYN-rice-PV	v:pred	v		pred		
 tondano	gulamera	0096	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0096	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	gulamera	0096	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	gulamera	0096	tuama	man	np.h:a_u	np	h	a_u		
-tondano	gulamera	0096	niairum	?	nc	nc				
-tondano	gulamera	0097	##	##	##	##				
+tondano	gulamera	0096	niairum	NC	nc	nc				
+tondano	gulamera	0097	#	#	##	##				
 tondano	gulamera	0097	èy	PART	nc	nc				
 tondano	gulamera	0097	ZERO	ZERO	0:p_u	0		p_u		
-tondano	gulamera	0097	i-sesep	CV - slurp	v:pred	v		pred		
+tondano	gulamera	0097	i-sesep	CV-slurp	v:pred	v		pred		
 tondano	gulamera	0097	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0097	=mowkan	=definitely	=rv	=rv				
 tondano	gulamera	0098	a	HES	nc	nc				
 tondano	gulamera	0098	rèy'	not	neg	neg				
 tondano	gulamera	0098	=mow	=CMP	=other	=other				
-tondano	gulamera	0099	##	##	##	##				
-tondano	gulamera	0099	sè=	3PL.NOM=	pro.h:a_a=	pro	h	a_a=		
+tondano	gulamera	0099	#	#	##	##				
+tondano	gulamera	0099	sè=	3PL.NOM=	=pro.h:a_a	=pro	h	a_a		
 tondano	gulamera	0099	ma-wèè	AV.DYN-give	v:pred	v		pred		
 tondano	gulamera	0099	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0099	ZERO	ZERO	0:p_a	0		p_a		
 tondano	gulamera	0099	wia	PREP1	adp	adp				
-tondano	gulamera	0100	N=	INAN=	ln=	ln=				
+tondano	gulamera	0100	N=	INAN=	=ln	=ln				
 tondano	gulamera	0100	tampa	place	np:g	np		g		
-tondano	gulamera	0100	##	##	##	##				
+tondano	gulamera	0100	#	#	##	##				
 tondano	gulamera	0100	ZERO	ZERO	0:p_u	0		p_u		
-tondano	gulamera	0100	i-pa-wèè'	CV-DYN give	v:pred	v		pred		
+tondano	gulamera	0100	i-pa-wèè'	CV-DYN-give	v:pred	v		pred		
 tondano	gulamera	0100	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0100	wia	PREP1	adp	adp				
 tondano	gulamera	0100	lulut	bamboo	np:g	np		g		
-tondano	gulamera	0100	N=	INAN=	ln=	ln=				
+tondano	gulamera	0100	N=	INAN=	=ln	=ln				
 tondano	gulamera	0100	walina	other	rn	rn				
-tondano	gulamera	0101	##	##	##	##				
+tondano	gulamera	0101	#	#	##	##				
 tondano	gulamera	0101	ZERO	ZERO	0:p_u	0		p_u		
-tondano	gulamera	0101	i-pa-pumpun	CV-DYN put inside	v:pred	v		pred		
+tondano	gulamera	0101	i-pa-pumpun	CV-DYN-put.inside	v:pred	v		pred		
 tondano	gulamera	0101	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0101	wia	PREP1	adp	adp				
 tondano	gulamera	0101	lulut	bamboo	np:g	np		g		
 tondano	gulamera	0101	oki'	small	rn	rn				
 tondano	gulamera	0101	ye'i	DEM1	rn	rn				
-tondano	gulamera	0102	##	##	##	##				
+tondano	gulamera	0102	#	#	##	##				
 tondano	gulamera	0102	wo	and	other	other				
 tondano	gulamera	0102	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0102	pa-Ce-kura-en	DYN.IRR-how-PV	v:pred	v		pred		
-tondano	gulamera	0102	ni=	AN.SG.GEN=	ln=	ln=				
+tondano	gulamera	0102	ni=	AN.SG.GEN=	=ln	=ln				
 tondano	gulamera	0102	tuama	man	np.h:a_u	np	h	a_u		
 tondano	gulamera	0102	iti'i	DEM1	rn	rn				
 tondano	gulamera	0102	kowman	meanwhile	other	other				
-tondano	gulamera	0102	##	##	##	##				
+tondano	gulamera	0102	#	#	##	##				
 tondano	gulamera	0102	èy	PART	nc	nc				
-tondano	gulamera	0102	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
-tondano	gulamera	0102	i-pumpun - en	CV -put.inside	v:pred	v		pred		
+tondano	gulamera	0102	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
+tondano	gulamera	0102	i-pumpun-en	CV-put.inside	v:pred	v		pred		
 tondano	gulamera	0102	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0102	witu	PREP2	adp	adp				
 tondano	gulamera	0102	lulut	bamboo	np:g	np		g		
-tondano	gulamera	0103	##	##	##	##				
+tondano	gulamera	0103	#	#	##	##				
 tondano	gulamera	0103	sangawoka	opposite	other	other				
 tondano	gulamera	0103	kowman	meanwhile	other	other				
-tondano	gulamera	0103	N=	3SG=	pro:dt_p_u=	pro		dt_p_u=		
-tondano	gulamera	0103	pa- kayo' -en	DYN-stir-PV	v:pred	v		pred		
+tondano	gulamera	0103	N=	3SG=	=pro:dt_p_u	=pro		dt_p_u		
+tondano	gulamera	0103	pa-kayo'-en	DYN-stir-PV	v:pred	v		pred		
 tondano	gulamera	0103	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0103	api	fire	np:p_u	np		p_u		
-tondano	gulamera	0103	#ac	#ac	#ac	#ac				
+tondano	gulamera	0103	#	#	#ac	#ac				
 tondano	gulamera	0103	ka'a	because	other	other				
 tondano	gulamera	0103	ZERO	ZERO	0:p_u	0		p_u		
-tondano	gulamera	0103	papaghegheran	CAUS -DYN-cold-LV	v:pred	v		pred		
+tondano	gulamera	0103	papaghegheran	CAUS-DYN-cold-LV	v:pred	v		pred		
 tondano	gulamera	0103	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0103	e	HES	nc	nc				
-tondano	gulamera	0104	#ac	#ac	#ac	#ac				
+tondano	gulamera	0104	#	#	#ac	#ac				
 tondano	gulamera	0104	sa	if	other	other				
 tondano	gulamera	0104	itu	DEM2	pro:s	pro		s		
 tondano	gulamera	0104	ghergher	cold	other:pred	other		pred		
 tondano	gulamera	0104	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0104	N=	INAN=	ln=	ln=				
+tondano	gulamera	0104	N=	INAN=	=ln	=ln				
 tondano	gulamera	0104	rèy'	not	other	other				
 tondano	gulamera	0104	=mow	=CMP	=other	=other				
-tondano	gulamera	0104	##	##	##	##				
+tondano	gulamera	0104	#	#	##	##				
 tondano	gulamera	0104	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0104	<in>wèè-an	<PST>give-LV	v:pred	v		pred		
 tondano	gulamera	0104	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0104	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0104	wia	PREP1	adp	adp				
-tondano	gulamera	0104	N=	INAN=	ln=	ln=				
-tondano	gulamera	0104	uka	(half) coconut.shell	np:g	np		g		
-tondano	gulamera	0105	##	##	##	##				
-tondano	gulamera	0105	ka-laker- an	POT-many-LV	v:pred	v		pred		
+tondano	gulamera	0104	N=	INAN=	=ln	=ln				
+tondano	gulamera	0104	uka	(half)coconut.shell	np:g	np		g		
+tondano	gulamera	0105	#	#	##	##				
+tondano	gulamera	0105	ka-laker-an	POT-many-LV	v:pred	v		pred		
 tondano	gulamera	0105	ZERO	ZERO	0.h:a_u	0	h	a_u		
-tondano	gulamera	0105	N=	INAN=	ln=	ln=				
-tondano	gulamera	0105	uka	(half) coconut.shell	np:p_u	np		p_u		
+tondano	gulamera	0105	N=	INAN=	=ln	=ln				
+tondano	gulamera	0105	uka	(half)coconut.shell	np:p_u	np		p_u		
 tondano	gulamera	0105	<um>patè	PART	nc	nc				
-tondano	gulamera	0105	##	##	##	##				
-tondano	gulamera	0105	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
+tondano	gulamera	0105	#	#	##	##				
+tondano	gulamera	0105	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
 tondano	gulamera	0105	wèè-an	give-LV	v:pred	v		pred		
 tondano	gulamera	0105	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0105	=itè	=LIM	=rv	=rv				
-tondano	gulamera	0106	#nc	#nc	#nc	#nc				
+tondano	gulamera	0106	#	#	#nc	#nc				
 tondano	gulamera	0106	o	PART	nc	nc				
 tondano	gulamera	0106	pasil	PART	nc	nc				
 tondano	gulamera	0107	N=	INAN=	nc	nc				
 tondano	gulamera	0107	rumping	wok	nc	nc				
 tondano	gulamera	0107	N=	INAN=	nc	nc				
 tondano	gulamera	0107	ka-sela	very-big	nc	nc				
-tondano	gulamera	0108	##	##	##	##				
-tondano	gulamera	0108	si=	AN.SG=	ln=	ln=				
+tondano	gulamera	0108	#	#	##	##				
+tondano	gulamera	0108	si=	AN.SG=	=ln	=ln				
 tondano	gulamera	0108	esa	one	np:p_u	np		p_u		
 tondano	gulamera	0108	i-pa-wèè	CV-DYN-give	v:pred	v		pred		
 tondano	gulamera	0108	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0108	wia	PREP1	adp	adp				
-tondano	gulamera	0109	N=	INAN=	ln=	ln=				
+tondano	gulamera	0109	N=	INAN=	=ln	=ln				
 tondano	gulamera	0109	rames	small.bamboo	np:g	np		g		
-tondano	gulamera	0109	##	##	##	##				
+tondano	gulamera	0109	#	#	##	##				
 tondano	gulamera	0109	wo	and	other	other				
 tondano	gulamera	0109	pe	HES	nc	nc				
 tondano	gulamera	0110	siwo-en	do-PV	v:pred	v		pred		
 tondano	gulamera	0110	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0110	gula	sugar	np:p_u	np		p_u		
-tondano	gulamera	0110	##	##	##	##				
+tondano	gulamera	0110	#	#	##	##				
 tondano	gulamera	0110	sapa	what	other:pred	other		pred		
 tondano	gulamera	0110	itu	DEM2	pro:s	pro		s		
-tondano	gulamera	0110	##	##	##	##				
-tondano	gulamera	0110	N=	3SG.NOM=	pro:p_u=	pro		p_u=		
-tondano	gulamera	0110	pa-wèè-en	DYN -give-PV	v:pred	v		pred		
+tondano	gulamera	0110	#	#	##	##				
+tondano	gulamera	0110	N=	3SG.NOM=	=pro:p_u	=pro		p_u		
+tondano	gulamera	0110	pa-wèè-en	DYN-give-PV	v:pred	v		pred		
 tondano	gulamera	0110	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0110	=pè'	=INCMP	=rv	=rv				
 tondano	gulamera	0110	witu	PREP2	adp	adp				
-tondano	gulamera	0110	N=	INAN=	ln=	ln=				
+tondano	gulamera	0110	N=	INAN=	=ln	=ln				
 tondano	gulamera	0110	rames	small.bamboo	np:g	np		g		
 tondano	gulamera	0110	rintek	small	rn	rn				
 tondano	gulamera	0110	iti'i	DEM1	rn	rn				
-tondano	gulamera	0111	##	##	##	##				
+tondano	gulamera	0111	#	#	##	##				
 tondano	gulamera	0111	ola	PART	nc	nc				
-tondano	gulamera	0111	si=	AN.SG=	ln=	ln=				
+tondano	gulamera	0111	si=	AN.SG=	=ln	=ln				
 tondano	gulamera	0111	esa	one	np:p_u	np		p_u		
 tondano	gulamera	0111	i-pa-wèè	CV-DYN-give	v:pred	v		pred		
 tondano	gulamera	0111	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0111	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0111	wia	PREP1	adp	adp				
-tondano	gulamera	0111	N=	INAN=	ln=	ln=				
-tondano	gulamera	0111	uka	(half) coconut.shell	np:g	np		g		
-tondano	gulamera	0112	##	##	##	##				
-tondano	gulamera	0112	tuana	thus -	other	other				
-tondano	gulamera	0112	N=	INAN=	ln=	ln=				
+tondano	gulamera	0111	N=	INAN=	=ln	=ln				
+tondano	gulamera	0111	uka	(half)coconut.shell	np:g	np		g		
+tondano	gulamera	0112	#	#	##	##				
+tondano	gulamera	0112	tuana	thus	other	other				
+tondano	gulamera	0112	N=	INAN=	=ln	=ln				
 tondano	gulamera	0112	ka-laker	very-many	other:pred	other		pred		
 tondano	gulamera	0112	itu	DEM2	pro:s	pro		s		
 tondano	gulamera	0112	satu	one	ln	ln				
 tondano	gulamera	0112	rumping	wok	np:other	np		other		
-tondano	gulamera	0113	##	##	##	##				
+tondano	gulamera	0113	#	#	##	##				
 tondano	gulamera	0113	wo'o	maybe	other	other				
 tondano	gulamera	0113	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0113	ma-muali	EV.STAT-become	nc	nc				
@@ -816,12 +816,12 @@ tondano	gulamera	0114	lima	five	ln	ln
 tondano	gulamera	0114	puluh	ten	ln	ln				
 tondano	gulamera	0114	batu	stone	np:other	np		other		
 tondano	gulamera	0114	rè'èn	PART	nc	nc				
-tondano	gulamera	0115	#nc	#nc	#nc	#nc				
+tondano	gulamera	0115	#	#	#nc	#nc				
 tondano	gulamera	0115	sanga	one	nc	nc				
 tondano	gulamera	0115	rumping	wok	nc	nc				
 tondano	gulamera	0115	N=	INAN=	nc	nc				
 tondano	gulamera	0115	sela	big	nc	nc				
-tondano	gulamera	0116	##	##	##neg	##neg				
+tondano	gulamera	0116	#	#	##neg	##neg				
 tondano	gulamera	0116	rèy'	not	other	other				
 tondano	gulamera	0116	=kan	=also	=other	=other				
 tondano	gulamera	0116	=itè'	=LIM	=other	=other				
@@ -831,57 +831,57 @@ tondano	gulamera	0116	batu	stone	np:p_u	np		p_u
 tondano	gulamera	0116	pa-lo'o-en	DYN-see-PV	v:pred	v		pred		
 tondano	gulamera	0116	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
 tondano	gulamera	0116	èy	PART	nc	nc				
-tondano	gulamera	0117	##	##	##	##				
+tondano	gulamera	0117	#	#	##	##				
 tondano	gulamera	0117	m	HES	nc	nc				
 tondano	gulamera	0117	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0117	cuma	only	lv	lv				
 tondano	gulamera	0117	i-sodo	CV-ladle	v:pred	v		pred		
 tondano	gulamera	0117	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0117	=mi	=DIR.DIST	=rv	=rv				
-tondano	gulamera	0118	##	##	##	##				
+tondano	gulamera	0118	#	#	##	##				
 tondano	gulamera	0118	ZERO	ZERO	0.h:a_a	0	h	a_a		
 tondano	gulamera	0118	s<im>odo	<AV.PST>ladle	v:pred	v		pred		
 tondano	gulamera	0118	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0118	ZERO	ZERO	0:p_a	0		p_a		
 tondano	gulamera	0118	kasi	more	rv	rv				
-tondano	gulamera	0118	##	##	##	##				
+tondano	gulamera	0118	#	#	##	##				
 tondano	gulamera	0118	o	PART	nc	nc				
 tondano	gulamera	0118	rèy'	not	other	other				
 tondano	gulamera	0118	=mow	=CMP	=other	=other				
 tondano	gulamera	0118	=la	=DIR.PROX	=other	=other				
 tondano	gulamera	0118	kowman	meanwhile	other	other				
 tondano	gulamera	0118	ZERO	ZERO	0:s	0		s		
-tondano	gulamera	0118	N=	INAN=	ln=	ln=				
+tondano	gulamera	0118	N=	INAN=	=ln	=ln				
 tondano	gulamera	0118	oki'	small	other:pred	other		pred		
 tondano	gulamera	0118	=mowkan	definitely	=other	=other				
-tondano	gulamera	0119	##	##	##	##				
+tondano	gulamera	0119	#	#	##	##				
 tondano	gulamera	0119	paka-sodo-en	COMP-ladle-PV	v:pred	v		pred		
 tondano	gulamera	0119	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0119	=mi	=DIR.DIST	=rv	=rv				
 tondano	gulamera	0119	itu	DEM2	pro:p_u	pro		p_u		
-tondano	gulamera	0119	N=	INAN=	other=	other=				
+tondano	gulamera	0119	N=	INAN=	=other	=other				
 tondano	gulamera	0119	rèi'	not	other	other				
 tondano	gulamera	0119	=mow	=CMP	=other	=other				
-tondano	gulamera	0120	##	##	##	##				
-tondano	gulamera	0120	i-pa-pa-ghegher	CV-CAUS -DYN-cold 	v:pred	v		pred		
+tondano	gulamera	0120	#	#	##	##				
+tondano	gulamera	0120	i-pa-pa-ghegher	CV-CAUS-DYN-cold	v:pred	v		pred		
 tondano	gulamera	0120	=la	=DIR.PROX	=rv	=rv				
 tondano	gulamera	0120	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0120	ni'itu	DEM2	pro:p_u	pro		p_u		
-tondano	gulamera	0120	##	##	##	##				
+tondano	gulamera	0120	#	#	##	##				
 tondano	gulamera	0120	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0120	ma-muali	EV.STAT-become	v:pred	v		pred		
 tondano	gulamera	0120	=mow	=CMP	=rv	=rv				
 tondano	gulamera	0120	gula	sugar	np:other	np		other		
 tondano	gulamera	0120	mèa'	red	rn	rn				
-tondano	gulamera	0121	##	##	##	##				
-tondano	gulamera	0121	N=	INAN=	ln=	ln=				
+tondano	gulamera	0121	#	#	##	##				
+tondano	gulamera	0121	N=	INAN=	=ln	=ln				
 tondano	gulamera	0121	rèy'	not	other	other				
 tondano	gulamera	0121	=mow	=CMP	=other	=other				
-tondano	gulamera	0121	i-pa-pasu'-en	CV-DYN- hot	v:pred	v		pred		
+tondano	gulamera	0121	i-pa-pasu'-en	CV-DYN-hot	v:pred	v		pred		
 tondano	gulamera	0121	=nèa	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 tondano	gulamera	0121	=mi	=DIR.DIST	=rv	=rv				
 tondano	gulamera	0121	itu	DEM2	pro:p_u	pro		p_u		
-tondano	gulamera	0121	##	##	##	##				
+tondano	gulamera	0121	#	#	##	##				
 tondano	gulamera	0121	ZERO	ZERO	0:s	0		s		
 tondano	gulamera	0121	ma<in>a-muali	EV.PST.STAT-become	v:pred	v		pred		
 tondano	gulamera	0121	=mow	=CMP	=rv	=rv				
@@ -894,33 +894,34 @@ tondano	gulamera	0123	=mow	=CMP	=other	=other
 tondano	gulamera	0123	=la	=DIR.PROX	=other	=other				
 tondano	gulamera	0123	rèy'	not	other	other				
 tondano	gulamera	0123	empa	HES	nc	nc				
-tondano	gulamera	0124	##	##	##	##				
+tondano	gulamera	0124	#	#	##	##				
 tondano	gulamera	0124	wo	and	other	other				
-tondano	gulamera	0124	N=	INAN=	ln=	ln=				
+tondano	gulamera	0124	N=	INAN=	=ln	=ln				
 tondano	gulamera	0124	oki'	small	np:s	np		s		
 tondano	gulamera	0124	=mowkan	=definitely	=rn	=rn				
 tondano	gulamera	0124	witu	PREP2	adp	adp				
 tondano	gulamera	0124	rumping	wok	np:pred_l	np		pred_l		
-tondano	gulamera	0124	##	##	##	##				
-tondano	gulamera	0124	N=	3SG.NOM=	pro:s=	pro		s=		
+tondano	gulamera	0124	#	#	##	##				
+tondano	gulamera	0124	N=	3SG.NOM=	=pro:s	=pro		s		
 tondano	gulamera	0124	k<im>erut	<AV.PST>stick	v:pred	v		pred		
 tondano	gulamera	0124	=mow	=CMP	=rv	=rv				
-tondano	gulamera	0125	##	##	##	##				
+tondano	gulamera	0125	#	#	##	##				
 tondano	gulamera	0125	wewèan	EXIST	other:predex	other		predex		
 tondano	gulamera	0125	=pè'	=INCMP	=rv	=rv				
-tondano	gulamera	0125	#rc:s	#rc:s	#rc:s	#rc		s		
+tondano	gulamera	0125	#	#	#rc:s	#rc		s		
 tondano	gulamera	0125	ZERO	ZERO	0:p_u	0		p_u		
 tondano	gulamera	0125	i-pa-row'	CV-DYN-far	v:pred	v		pred		
 tondano	gulamera	0125	ZERO	ZERO	0.h:a_u	0	h	a_u		
 tondano	gulamera	0125	=mi	=DIR.DIST	=rv	=rv				
 tondano	gulamera	0125	witu	PREP2	adp	adp				
-tondano	gulamera	0125	N=	INAN=	ln=	ln=				
-tondano	gulamera	0125	uka	(half) coconut.shell	np:g	np		g		
-tondano	gulamera	0126	##	##	##neg	##neg				
+tondano	gulamera	0125	N=	INAN=	=ln	=ln				
+tondano	gulamera	0125	uka	(half)coconut.shell	np:g	np		g		
+tondano	gulamera	0126	#	#	#nc	#nc				
 tondano	gulamera	0126	sanga	one	nc	nc				
+tondano	gulamera	0127	#	#	##neg	##neg				
 tondano	gulamera	0127	rumping	wok	np:s	np		s		
-tondano	gulamera	0127	N=	INAN=	ln=	ln=				
-tondano	gulamera	0127	sela	 big	rn	rn				
+tondano	gulamera	0127	N=	INAN=	=ln	=ln				
+tondano	gulamera	0127	sela	big	rn	rn				
 tondano	gulamera	0127	iti'i	DEM1	rn	rn				
 tondano	gulamera	0127	rèy'	not	other	other				
 tondano	gulamera	0127	=kan	=also	=other	=other				
@@ -934,37 +935,37 @@ tondano	gulamera	0127	to	PART	nc	nc
 tondano	gulamera	0128	e	PART	nc	nc				
 tondano	gulamera	0128	ku'a	PART	nc	nc				
 tondano	gulamera	0128	se	HES	nc	nc				
-tondano	gulamera	0129	#nc	#nc	#nc	#nc				
+tondano	gulamera	0129	#	#	#nc	#nc				
 tondano	gulamera	0129	a	HES	nc	nc				
 tondano	gulamera	0129	sekarang	now	nc	nc				
 tondano	gulamera	0129	so	already	nc	nc				
 tondano	gulamera	0129	jadi	become	nc	nc				
 tondano	gulamera	0130	sudah	sudah	nc	nc				
-tondano	gulamera	0131	##	##	##	##				
+tondano	gulamera	0131	#	#	##	##				
 tondano	gulamera	0131	gula	sugar	np:s	np		s		
 tondano	gulamera	0131	merah	red	rn	rn				
 tondano	gulamera	0132	sudah	already	other	other				
 tondano	gulamera	0132	selesai	completed	v:pred	v		pred		
-tondano	gulamera	0133	##	##	##	##				
+tondano	gulamera	0133	#	#	##	##				
 tondano	gulamera	0133	dia	3.SG	pro.h:s	pro	h	s		
 tondano	gulamera	0133	sudah	already	lv	lv				
 tondano	gulamera	0133	lepas	free	v:pred	v		pred		
 tondano	gulamera	0133	dari	PREP	adp	adp				
 tondano	gulamera	0133	tempat	place	np:l	np		l		
-tondano	gulamera	0133	##	##	##	##				
+tondano	gulamera	0133	#	#	##	##				
 tondano	gulamera	0133	ZERO	ZERO	0.1:a_a	0	1	a_a		
 tondano	gulamera	0133	lihat	see	v:pred	v		pred		
 tondano	gulamera	0133	itu	DEM2	pro:p_a	pro		p_a		
-tondano	gulamera	0134	#nc	#nc	#nc	#nc				
+tondano	gulamera	0134	#	#	#nc	#nc				
 tondano	gulamera	0134	dèpè	3SG.GEN	nc	nc				
 tondano	gulamera	0134	tempat	place	nc	nc				
 tondano	gulamera	0134	itu	DEM2	nc	nc				
-tondano	gulamera	0135	tempurung	(half) coconut.shell	nc	nc				
-tondano	gulamera	0136	##	##	##	##				
+tondano	gulamera	0135	tempurung	(half)coconut.shell	nc	nc				
+tondano	gulamera	0136	#	#	##	##				
 tondano	gulamera	0136	dia	3.SG	pro.h:s	pro	h	s		
 tondano	gulamera	0136	kasih	more	rv	rv				
 tondano	gulamera	0136	balik	return	v:pred	v		pred		
-tondano	gulamera	0136	##	##	##	##				
+tondano	gulamera	0136	#	#	##	##				
 tondano	gulamera	0136	sudah	already	lv	lv				
 tondano	gulamera	0136	jadi	become	v:pred	v		pred		
 tondano	gulamera	0136	gula	sugar	np:s	np		s		

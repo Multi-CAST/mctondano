@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Brickell, Timothy. 2016. Multi-CAST Tondano. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1606. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tondano) (date accessed)
+  > Brickell, Timothy. 2019. Multi-CAST Tondano. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tondano) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -109,34 +109,34 @@ information on all annotated categories, including those not listed here.
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
 | **⟨0.1⟩** | 36 | 38 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 80 |
 | **⟨0.2⟩** | 4 | 10 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 15 |
-| **⟨0.h⟩** | 13 | 283 | 0 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 305 |
+| **⟨0.h⟩** | 13 | 284 | 0 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 306 |
 | **⟨0.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨0⟩** | 71 | 0 | 0 | 201 | 0 | 0 | 0 | 1 | 0 | 0 | 273 |
-| **⟨pro.1⟩** | 52 | 31 | 0 | 13 | 0 | 1 | 0 | 0 | 58 | 0 | 155 |
-| **⟨pro.2⟩** | 8 | 7 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 17 |
+| **⟨0⟩** | 70 | 0 | 0 | 201 | 0 | 0 | 0 | 1 | 0 | 0 | 272 |
+| **⟨pro.1⟩** | 52 | 31 | 0 | 13 | 0 | 1 | 0 | 0 | 60 | 0 | 157 |
+| **⟨pro.2⟩** | 10 | 8 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 20 |
 | **⟨pro.h⟩** | 83 | 215 | 0 | 12 | 2 | 0 | 0 | 0 | 19 | 0 | 331 |
 | **⟨pro.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨pro⟩** | 62 | 3 | 0 | 76 | 0 | 1 | 0 | 0 | 37 | 3 | 182 |
+| **⟨pro⟩** | 62 | 3 | 0 | 77 | 0 | 1 | 0 | 0 | 37 | 3 | 183 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.h⟩** | 26 | 32 | 0 | 14 | 13 | 2 | 0 | 9 | 8 | 1 | 105 |
 | **⟨np.d⟩** | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **⟨np⟩** | 93 | 5 | 0 | 271 | 18 | 49 | 130 | 65 | 18 | 69 | 718 |
+| **⟨np⟩** | 93 | 5 | 0 | 271 | 21 | 51 | 130 | 65 | 18 | 69 | 723 |
 | **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 109 | 0 | 0 | 109 |
-| | 448 | 625 | 0 | 605 | 33 | 53 | 130 | 184 | 140 | 73 | 2291 |
+| | 449 | 627 | 0 | 606 | 36 | 55 | 130 | 184 | 142 | 73 | 2302 |
 
 
 **Clause boundaries**
 
 | GRAID | count |
 |:-----------|--------:|
-| **⟨##⟩** | 914 |
+| **⟨##⟩** | 913 |
 | **⟨#⟩** | 172 |
-| **totals** | 1086 |
+| **totals** | 1085 |
 
 
 
